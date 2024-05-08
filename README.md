@@ -4,11 +4,11 @@
 This repo includes the code used in the Rio Grande do Sul 2024 Flood impact detection project.
 
 ## Goal
-This repo has the following objectives:
-a. to access Sentinel 2 data.
-b. to delinete the maximum flood area (MFA) from the 2024 flood events.
-c. to import buildings and roads from OSM in the MFA.
-d. to output the quantification of buildings and the list of roads per municipality in the MFA.
+This repo has the following objectives: <br>
+a. to access Sentinel 2 data.<br>
+b. to delinete the maximum flood area (MFA) from the 2024 flood events.<br>
+c. to import buildings and roads from OSM in the MFA.<br>
+d. to output the quantification of buildings and the list of roads per municipality in the MFA.<br>
 
 ## Usage
 Feel free to reuse the code if needed. Data licenses will follow the original providers' ones.
