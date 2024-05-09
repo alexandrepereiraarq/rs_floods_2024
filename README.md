@@ -1,4 +1,4 @@
-# TRANSCEND Project survey data cleaning for Jakarta
+# Rio Grande do Sul 2024 Flood Impact Detection Project
 
 ## Description
 This repo includes the code used in the Rio Grande do Sul 2024 Flood impact detection project.
