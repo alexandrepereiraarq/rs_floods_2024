@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected" id="TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658001</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.3883058,-29.6201519 -53.3870935,-29.6205481 -53.3865897,-29.6207103 -53.3864737,-29.6207455 -53.3848118,-29.6212905 -53.3847096,-29.6213238 -53.3841176,-29.6215291 -53.3835176,-29.6217109 -53.3834753512699,-29.6217246604707</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">451617801</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4246165,-29.6136998 -53.4248668,-29.6144497 -53.4251851,-29.6149496 -53.4254533,-29.6154253 -53.4257967,-29.6162928 -53.425904,-29.616983 -53.4260542,-29.6173747 -53.4263715,-29.6179381 -53.4265056,-29.6185023 -53.4266692,-29.6187798 -53.4274739,-29.6202395 -53.4284677,-29.622043 -53.4294708,-29.6238734</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">273503255</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.394686,-29.6181282 -53.3945766,-29.6180594 -53.3943433,-29.6180408 -53.3933213,-29.618064 -53.393029,-29.6180197 -53.3902743,-29.617038 -53.3896869,-29.6169167 -53.3894737,-29.6170543 -53.3893581,-29.6171649 -53.3887562,-29.6178028 -53.3883422,-29.6183045 -53.3880883,-29.6186236 -53.386482,-29.6206734 -53.3864777,-29.620704 -53.3864737,-29.6207455</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">684483116</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.3933213,-29.618064 -53.3936057,-29.6182482 -53.3936942,-29.6184184</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238557</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.400953,-29.6091703 -53.4008459,-29.6093791 -53.400765,-29.6095521 -53.4006572,-29.6098075 -53.4005515,-29.6100717 -53.4004529,-29.6103306 -53.4004001,-29.6104596 -53.4003737,-29.6105232 -53.4003485,-29.6105921 -53.4002812,-29.6108016 -53.4002487,-29.6109094 -53.4002222,-29.6110189 -53.4001989,-29.611125 -53.4001806,-29.6112319 -53.400148,-29.6114493 -53.4001419,-29.6116304 -53.400143,-29.611816 -53.4001551,-29.6120006 -53.4001717,-29.6121873 -53.4002801,-29.6129346 -53.4003299,-29.6133004 -53.4003797,-29.6136733 -53.4004061,-29.6138615 -53.4004275,-29.6140471 -53.4004326,-29.6142335 -53.4004305,-29.6143245 -53.4004216,-29.6144201 -53.4003942,-29.6145137 -53.4003546,-29.6146109 -53.4003078,-29.6147055 -53.4002489,-29.6148027 -53.4001198,-29.6149873 -53.3999826,-29.6151738 -53.3998748,-29.6153196 -53.3997783,-29.6154441 -53.399637,-29.6156262 -53.3995404,-29.6157331 -53.3994307,-29.6158479 -53.3992344,-29.6160204 -53.3988477,-29.6163522 -53.3984576,-29.616687 -53.3980742,-29.6170072 -53.3978666,-29.6171643 -53.3977578,-29.61724 -53.3976339,-29.6173172 -53.3974732,-29.6173914 -53.3973008,-29.6174642 -53.3969341,-29.6175777 -53.3961858,-29.6177538 -53.3954308,-29.6179357 -53.394686,-29.6181282 -53.3939994,-29.6183199 -53.3936942,-29.6184184 -53.3932745,-29.6185397 -53.3918615,-29.6189909 -53.3906762,-29.6193824 -53.3894892,-29.6197651 -53.3883058,-29.6201519</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658000</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4119039,-29.5970035 -53.4109982,-29.5975173 -53.4107655,-29.5976483 -53.4104524,-29.5978318 -53.4103,-29.597922 -53.4101527,-29.5980137 -53.4096572,-29.5983907 -53.4093692,-29.5986207 -53.4087119,-29.5991721 -53.408469,-29.599378 -53.408223,-29.599583 -53.4076958,-29.6000168 -53.4075024,-29.6001831 -53.4072442,-29.6004093 -53.4070145,-29.600602 -53.4067849,-29.6008078 -53.4065639,-29.6010378 -53.4063664,-29.6012707 -53.4061923,-29.6014977 -53.4060232,-29.6017335 -53.4058742,-29.6019606 -53.4057386,-29.6021921 -53.4054509,-29.6026853 -53.4053297,-29.6028953 -53.4051834,-29.6031304 -53.4048703,-29.6035943 -53.4042056,-29.6045204 -53.4040501,-29.6047467 -53.4038845,-29.6049746 -53.4035573,-29.605443 -53.4028933,-29.6063647 -53.4022388,-29.607289 -53.401744,-29.6079953 -53.4015775,-29.608222 -53.4013448,-29.6085509 -53.4012326,-29.608711 -53.4011187,-29.6088842 -53.4010233,-29.6090429 -53.400953,-29.6091703</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">375971024</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4720829,-29.5877045 -53.4718718,-29.5877751 -53.4716577,-29.5878595 -53.4712461,-29.5880317 -53.4701413,-29.5885128 -53.4690463,-29.5890537 -53.4686845,-29.5892597 -53.4684631,-29.5894123 -53.4682646,-29.5895705 -53.4681957,-29.5896428 -53.4681413,-29.5897151 -53.4680507,-29.589857 -53.4678759,-29.5901696 -53.4676096,-29.5906919 -53.4674817,-29.5909607 -53.4671988,-29.5915038 -53.4670759,-29.5917475 -53.4669237,-29.5920492 -53.4663662,-29.5931469 -53.465885,-29.5941109 -53.4655781,-29.5947292 -53.4655009,-29.5948739 -53.4652354,-29.5953805 -53.4649166,-29.5958541 -53.4648682,-29.595926 -53.4646184,-29.5962605 -53.4644078,-29.5965426 -53.4641435,-29.5968816 -53.4638734,-29.597213 -53.4635733,-29.5975599 -53.4632617,-29.5979068 -53.4632383,-29.597933 -53.4625793,-29.598669 -53.4622081,-29.5989596 -53.4618455,-29.5992276 -53.4614664,-29.5994841 -53.461096,-29.599723 -53.4610097,-29.5997809 -53.460705,-29.5999753 -53.4603857,-29.6001745 -53.4599607,-29.6004226 -53.459798,-29.600507 -53.4595319,-29.6006451 -53.4591059,-29.600855 -53.4589165,-29.600951 -53.4580716,-29.6013791 -53.4569962,-29.601895 -53.4567851,-29.6019872 -53.4565581,-29.6020712 -53.4562811,-29.6021404 -53.4560134,-29.6021911 -53.4557646,-29.6022061 -53.4555641,-29.6021972 -53.4552611,-29.6021755 -53.4549822,-29.6021255 -53.4547253,-29.602065 -53.4541056,-29.6018267 -53.4539647,-29.601787 -53.4537435,-29.6017369 -53.4535745,-29.6017124 -53.4533975,-29.6017031 -53.4531936,-29.6017054 -53.4530112,-29.6017206 -53.4528503,-29.6017707 -53.452637,-29.60185 -53.4524667,-29.6019316 -53.4522495,-29.6020459 -53.4517828,-29.6023199 -53.4514046,-29.6025473 -53.4506267,-29.6029741 -53.4503666,-29.6031164 -53.4502164,-29.6032166 -53.4501048,-29.6033213 -53.4499888,-29.6034275 -53.4498642,-29.6035588 -53.4497034,-29.603772 -53.4495458,-29.6040049 -53.4493067,-29.6043879 -53.4490709,-29.6047928 -53.4487668,-29.6053268 -53.4483143,-29.606101 -53.4480094,-29.6066158 -53.4477987,-29.6069644 -53.4476799,-29.6071552 -53.4475548,-29.607346 -53.4473128,-29.6076923 -53.4470362,-29.6080592 -53.4468614,-29.6083204 -53.4466757,-29.6085733 -53.4465156,-29.6087882 -53.4462956,-29.6091416</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua José Felice</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">457426361</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4419098,-29.6128315 -53.4435669,-29.6120058</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">451617800</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.442692,-29.6106177 -53.4395313,-29.6121362 -53.4381262,-29.6128173 -53.4376686,-29.6130417 -53.4374317,-29.6131557 -53.4371996,-29.6132616 -53.4371124,-29.6132954 -53.4370051,-29.6133304 -53.4367396,-29.6134132 -53.4366006,-29.61342 -53.4365228,-29.6134275 -53.4364532,-29.6134175 -53.4363734,-29.6133826 -53.4362834,-29.6133265 -53.4361725,-29.6132171 -53.4360736,-29.6130777 -53.435967,-29.612913 -53.4359197,-29.6128237 -53.4358967,-29.6127378 -53.4358934,-29.612591 -53.4359124,-29.6124072 -53.4359528,-29.6121369 -53.4359891,-29.6119089 -53.4359908,-29.6117073 -53.4360006,-29.6108512 -53.4360736,-29.6103767 -53.4361038,-29.60971 -53.436101,-29.6096704 -53.4360861,-29.6096308 -53.4360722,-29.6096053 -53.4360441,-29.6095798 -53.4360059,-29.6095615 -53.4359535,-29.6095464 -53.4358528,-29.6095077 -53.4357959,-29.6094692 -53.435747,-29.6094236 -53.4355319,-29.6092422 -53.4353939,-29.6091391 -53.4352881,-29.6090686 -53.4351057,-29.6089948 -53.434968,-29.6089517 -53.4348196,-29.6089334 -53.4347141,-29.6089396 -53.4345943,-29.6089675 -53.4336913,-29.6093577 -53.4328103,-29.6097708 -53.428776,-29.6116887 -53.4246165,-29.6136998</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida São João</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">198329897</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4425071,-29.6103306 -53.442692,-29.6106177 -53.4430112,-29.6111106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184019608</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4394343,-29.6050018 -53.4393845,-29.605238 -53.4393808,-29.6053012 -53.4393892,-29.6053644 -53.4394833,-29.605541 -53.4398381,-29.6061415 -53.4402201,-29.6068042 -53.440609,-29.6074345 -53.441008,-29.6080631 -53.4413696,-29.6086352 -53.4417474,-29.609218 -53.4424106,-29.6102019 -53.4425071,-29.6103306</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49354908</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4443448,-29.6104772 -53.4440161,-29.6099478 -53.4438438,-29.6096784 -53.4437549,-29.6095455 -53.4436638,-29.6094144 -53.4435716,-29.6092895 -53.4434838,-29.6091802 -53.4433688,-29.609042 -53.4432853,-29.6089487 -53.4431394,-29.6087863 -53.4430609,-29.6087031 -53.4429846,-29.6086239 -53.4426841,-29.6083165 -53.4423734,-29.6080002 -53.4417557,-29.6073746 -53.4411303,-29.6067308 -53.44052,-29.6060967 -53.4399564,-29.6055273 -53.4394343,-29.6050018 -53.4389535,-29.6045149 -53.4384716,-29.6040291 -53.4379323,-29.6034802 -53.4374032,-29.6029416 -53.4368028,-29.6023261 -53.4361986,-29.6017137 -53.4359083,-29.6014174 -53.435608,-29.6011142 -53.4350171,-29.6005149 -53.4344746,-29.599966 -53.4339818,-29.5994394 -53.4335148,-29.5988978 -53.4330869,-29.5983787 -53.4326775,-29.5978895 -53.4321874,-29.5973003 -53.4319886,-29.5970739 -53.4318779,-29.5969585 -53.4317627,-29.5968431 -53.4315454,-29.5966305 -53.4309369,-29.5960798</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Ponte sobre o Rio Soturno</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238838</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4309369,-29.5960798 -53.4307386,-29.5959049</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">320570991</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.447430502651,-29.5859064569309 -53.4476531,-29.5859844 -53.4488141,-29.5864011 -53.4500628,-29.5868245 -53.4510204,-29.5871404</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806270</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4097606,-29.6008868 -53.4094924,-29.6007609 -53.4089667,-29.6005463 -53.4078938,-29.6001172 -53.4076958,-29.6000168</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238452</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4285763,-29.5941349 -53.4285171,-29.5941137 -53.4284681,-29.5940779 -53.4284339,-29.5940308</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978740</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288281,-29.5939999 -53.4288088,-29.5940444 -53.4287769,-29.594083 -53.4287345,-29.594113 -53.4286846,-29.5941324 -53.4286306,-29.5941399 -53.4285763,-29.5941349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978737</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288247,-29.5939062 -53.4288335,-29.5939529 -53.4288281,-29.5939999</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978743</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4284339,-29.5940308 -53.4284211,-29.593996 -53.4284166,-29.5939596 -53.4284206,-29.5939232 -53.4284329,-29.5938883 -53.4284531,-29.5938562 -53.4284802,-29.5938283 -53.4285132,-29.5938056</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256504168</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4285838,-29.5937809 -53.428622,-29.5937773 -53.4286604,-29.5937799 -53.4286975,-29.5937886 -53.4287321,-29.593803 -53.4287632,-29.5938227 -53.4287895,-29.5938471 -53.4288102,-29.5938752 -53.4288247,-29.5939062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199526175</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4284339,-29.5940308 -53.4283637,-29.5939624 -53.4283073,-29.5939049 -53.4282423,-29.5938483 -53.4281757,-29.5937998 -53.4281091,-29.59376 -53.4279758,-29.5936904 -53.4278252,-29.5936141</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Ponte sobre o Rio Soturno</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658007</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4307386,-29.5959049 -53.4305457,-29.5957328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238690</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4305457,-29.5957328 -53.4298466,-29.595059 -53.4294283,-29.5946686 -53.4291504,-29.5944302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238339</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4291504,-29.5944302 -53.429052,-29.5943657 -53.4289252,-29.5942884 -53.4288695,-29.5942574 -53.4288101,-29.5942264 -53.42873,-29.5941919 -53.4286691,-29.5941642 -53.4285763,-29.5941349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257329846</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288281,-29.5939999 -53.4288659,-29.5940539 -53.4289003,-29.5941138 -53.4289886,-29.5942414 -53.429079,-29.5943498 -53.4291022,-29.5943781 -53.4291504,-29.5944302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_São_João_do_Polêsine_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199498364</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4289643,-29.5934499 -53.4289226,-29.5935406 -53.4288762,-29.5936313 -53.428846,-29.5937245 -53.4288313,-29.5938097 -53.4288247,-29.5939062</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

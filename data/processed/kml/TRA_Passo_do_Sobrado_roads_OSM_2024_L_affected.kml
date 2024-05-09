@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected" id="TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">198178411</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.3184361,-29.6841493 -52.3169603,-29.6847625 -52.3165153,-29.6849711 -52.3161357,-29.6851784 -52.3158532,-29.6853564 -52.3155537,-29.6855761 -52.3154136,-29.6856789 -52.3153682,-29.6857122 -52.3128342,-29.6876805 -52.3117085,-29.6885498 -52.3103028,-29.6896348 -52.3099325,-29.6898834 -52.309668,-29.690033 -52.3093435,-29.6902077 -52.3090189,-29.6903545 -52.3085923,-29.6905178 -52.2978409,-29.6940924 -52.2942674,-29.6952805 -52.2889699,-29.6970417 -52.2877991,-29.6974345 -52.2874063,-29.6975845 -52.2869706,-29.6977917 -52.2841552,-29.69931 -52.2817781,-29.7006037 -52.2811786,-29.7009601 -52.2808919,-29.7012181</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">421566746</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2808919,-29.7012181 -52.2807484,-29.7009983</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">421566748</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2807484,-29.7009983 -52.2809426,-29.7009345 -52.2811786,-29.7009601</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">421566751</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2807484,-29.7009983 -52.2797155,-29.700311 -52.2790355,-29.699836 -52.2784283,-29.6993581</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">421566745</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2784283,-29.6993581 -52.2782654,-29.6992142</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">159747066</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2808919,-29.7012181 -52.2807525,-29.7013612 -52.2805982,-29.7015557 -52.2799384,-29.7025634 -52.2793566,-29.7034534 -52.2792059,-29.7036496 -52.2789596,-29.7038868 -52.2787381,-29.7040498 -52.2785155,-29.7041709 -52.2783143,-29.7042641 -52.2767709,-29.704807 -52.2763338,-29.7049631 -52.2759613,-29.7051288 -52.275558,-29.7053596 -52.27407,-29.7064681 -52.2737807,-29.7067386 -52.2736224,-29.7069204 -52.273488,-29.7071227 -52.2733542,-29.7073863 -52.2732764,-29.7076286 -52.2732278,-29.7079405 -52.2725792,-29.7171753 -52.2725352,-29.7178514 -52.2722622,-29.7220479 -52.2722324,-29.7228024 -52.2722304,-29.7235507 -52.2722424,-29.7243758 -52.2722686,-29.7303025 -52.2722793,-29.731863 -52.2722646,-29.7322019 -52.2722139,-29.7325295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">50730630</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">117</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2499758,-29.7544506 -52.2496081,-29.7542266 -52.2468343,-29.7522526 -52.2456915,-29.7514691 -52.2433605,-29.7498299 -52.2412224,-29.748354 -52.2411201,-29.7482692 -52.2410439,-29.7481721 -52.2404701,-29.7474134 -52.2402534,-29.7470889 -52.2400129,-29.7466237 -52.2398962,-29.7463364 -52.2396724,-29.7459581 -52.2390177,-29.7449121 -52.2387248,-29.7445028 -52.2383677,-29.7439984 -52.2382343,-29.7438619 -52.2372201,-29.7429813 -52.2360177,-29.7419745 -52.2337796,-29.740054 -52.2331963,-29.7396012 -52.2323034,-29.73889 -52.2314558,-29.7381789 -52.2313653,-29.7381541 -52.2312558,-29.7381499 -52.2241939,-29.7252631 -52.2241463,-29.7252259 -52.2241082,-29.7252073 -52.2240511,-29.725199 -52.2239868,-29.7252135 -52.2224511,-29.7260509 -52.218213,-29.7283687 -52.2167511,-29.7291771 -52.2166821,-29.7291978 -52.2166225,-29.7291936 -52.2165916,-29.7291709 -52.2165606,-29.7291316 -52.2113654,-29.7197279 -52.2109845,-29.7190311 -52.2100797,-29.7173355 -52.208294,-29.7141862 -52.206294,-29.7105425 -52.205775,-29.7095871 -52.204272,-29.7067888 -52.2040012,-29.7062845 -52.2038273,-29.7059785 -52.2038107,-29.7059247 -52.2038107,-29.7058916 -52.203825,-29.7058502 -52.2038607,-29.705813 -52.2039607,-29.7057779 -52.2093427,-29.7043294 -52.2093797,-29.7042914 -52.2094066,-29.7042446 -52.2094225,-29.7042065 -52.2076278,-29.6997316 -52.2072102,-29.6986377 -52.2065772,-29.6970934 -52.2063184,-29.696412 -52.2058297,-29.6951249 -52.2006039,-29.6819675 -52.2003177,-29.6812216 -52.2001325,-29.6807477 -52.1999708,-29.6801948 -52.1998193,-29.679519 -52.1997149,-29.6788286 -52.1996779,-29.6784512 -52.1996678,-29.6781411 -52.1996678,-29.6779539 -52.1996813,-29.6777813 -52.2000733,-29.6751694</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">50730630</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">122</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2499758,-29.7544506 -52.2496081,-29.7542266 -52.2468343,-29.7522526 -52.2456915,-29.7514691 -52.2433605,-29.7498299 -52.2412224,-29.748354 -52.2411201,-29.7482692 -52.2410439,-29.7481721 -52.2404701,-29.7474134 -52.2402534,-29.7470889 -52.2400129,-29.7466237 -52.2398962,-29.7463364 -52.2396724,-29.7459581 -52.2390177,-29.7449121 -52.2387248,-29.7445028 -52.2383677,-29.7439984 -52.2382343,-29.7438619 -52.2372201,-29.7429813 -52.2360177,-29.7419745 -52.2337796,-29.740054 -52.2331963,-29.7396012 -52.2323034,-29.73889 -52.2314558,-29.7381789 -52.2313653,-29.7381541 -52.2312558,-29.7381499 -52.2241939,-29.7252631 -52.2241463,-29.7252259 -52.2241082,-29.7252073 -52.2240511,-29.725199 -52.2239868,-29.7252135 -52.2224511,-29.7260509 -52.218213,-29.7283687 -52.2167511,-29.7291771 -52.2166821,-29.7291978 -52.2166225,-29.7291936 -52.2165916,-29.7291709 -52.2165606,-29.7291316 -52.2113654,-29.7197279 -52.2109845,-29.7190311 -52.2100797,-29.7173355 -52.208294,-29.7141862 -52.206294,-29.7105425 -52.205775,-29.7095871 -52.204272,-29.7067888 -52.2040012,-29.7062845 -52.2038273,-29.7059785 -52.2038107,-29.7059247 -52.2038107,-29.7058916 -52.203825,-29.7058502 -52.2038607,-29.705813 -52.2039607,-29.7057779 -52.2093427,-29.7043294 -52.2093797,-29.7042914 -52.2094066,-29.7042446 -52.2094225,-29.7042065 -52.2076278,-29.6997316 -52.2072102,-29.6986377 -52.2065772,-29.6970934 -52.2063184,-29.696412 -52.2058297,-29.6951249 -52.2006039,-29.6819675 -52.2003177,-29.6812216 -52.2001325,-29.6807477 -52.1999708,-29.6801948 -52.1998193,-29.679519 -52.1997149,-29.6788286 -52.1996779,-29.6784512 -52.1996678,-29.6781411 -52.1996678,-29.6779539 -52.1996813,-29.6777813 -52.2000733,-29.6751694</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Corredor dos Rosa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">323272191</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">117</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2094225,-29.7042065 -52.2244617,-29.7001729 -52.2246065,-29.7001495 -52.2247715,-29.7001524 -52.2249398,-29.700167 -52.2250813,-29.700205 -52.2252328,-29.7002577 -52.2255089,-29.7003103 -52.2279231,-29.7006876 -52.2280578,-29.7007373 -52.2294855,-29.701568 -52.2295495,-29.7016265 -52.2295764,-29.7016967 -52.2298828,-29.7034749 -52.2299333,-29.7036241 -52.230004,-29.703744 -52.2307819,-29.7048086 -52.2308391,-29.70487 -52.2308997,-29.7049051 -52.2309671,-29.7049256 -52.2310479,-29.7049343 -52.2311691,-29.7049197 -52.2321355,-29.7046887 -52.2332197,-29.7044693 -52.2333948,-29.7044547 -52.2335564,-29.7044664 -52.2345666,-29.7046302 -52.2347012,-29.7046828 -52.2348696,-29.7047589 -52.2349672,-29.7048437 -52.2366239,-29.7065049 -52.2367182,-29.7065897 -52.2368663,-29.7066774 -52.2375566,-29.7070752 -52.2377923,-29.7072507 -52.2380179,-29.7074788 -52.2387183,-29.7082713 -52.2388024,-29.7083386 -52.2389371,-29.7083913 -52.2392974,-29.7084702 -52.2403345,-29.7088884 -52.2406881,-29.7090083 -52.2408497,-29.7090464 -52.2410382,-29.7090727 -52.2419272,-29.7091253 -52.2420686,-29.7091429 -52.2422033,-29.7091897 -52.2442438,-29.7100407 -52.2527459,-29.7136641 -52.252793,-29.7137138 -52.2528031,-29.7137665 -52.2527728,-29.7138308 -52.252197,-29.7148427 -52.2521685,-29.7149538 -52.2521567,-29.7150343 -52.2521583,-29.7151162 -52.2521685,-29.7152068 -52.252192,-29.7152916 -52.2522476,-29.7153691 -52.2529547,-29.7158926 -52.2530708,-29.7159481 -52.2531618,-29.7159701 -52.2532712,-29.7159803 -52.2556131,-29.716068 -52.2559195,-29.716109 -52.2582933,-29.7161046 -52.258625,-29.7160724 -52.260253,-29.7158677 -52.2608254,-29.7158136 -52.2611099,-29.7158005 -52.2613406,-29.7158063 -52.2615628,-29.7158355 -52.2678544,-29.7166441 -52.2679941,-29.7166588 -52.268473,-29.7166565 -52.2686849,-29.7166751 -52.2725792,-29.7171753</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Linha Hansel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">159747062</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">118</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2782654,-29.6992142 -52.2749036,-29.6962197 -52.2744723,-29.6959746 -52.2712129,-29.694393 -52.2705692,-29.6938711 -52.2701186,-29.6934051 -52.2698825,-29.6929018 -52.2697752,-29.6922121 -52.2697302,-29.6910909 -52.2696229,-29.6905876 -52.2689598,-29.6885399 -52.268638,-29.6881298 -52.2676702,-29.6868035 -52.2673273,-29.6865966 -52.2668978,-29.6863375 -52.2656747,-29.685685 -52.2570438,-29.6773108 -52.2567462,-29.677022 -52.2566367,-29.6769158 -52.2557634,-29.6760684 -52.2543043,-29.6746888 -52.2536584,-29.6736419 -52.2535082,-29.6731978</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">840359830</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">122</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2001101,-29.674152 -52.2000001,-29.6736082 -52.1988226,-29.6692415 -52.1987722,-29.6690349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Passo_do_Sobrado_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">840359831</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">122</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.2000733,-29.6751694 -52.200108,-29.6749156 -52.2001319,-29.6746549 -52.2001371,-29.6744058 -52.2001101,-29.674152</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

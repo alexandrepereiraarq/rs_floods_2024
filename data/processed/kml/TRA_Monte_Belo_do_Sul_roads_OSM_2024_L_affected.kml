@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Monte_Belo_do_Sul_roads_OSM_2024_L_affected" id="TRA_Monte_Belo_do_Sul_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Monte_Belo_do_Sul_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Monte_Belo_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701669364</SimpleData>
+		<SimpleData name="source">Bing;GPS</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">145</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.6802975361521,-29.0886256593643 -51.6803741,-29.0888534</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Monte_Belo_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">41265566</SimpleData>
+		<SimpleData name="source">Bing;GPS</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">145</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.6803741,-29.0888534 -51.6805512,-29.08943 -51.6806142,-29.0896867 -51.6807322,-29.0901449 -51.6808596,-29.0905504 -51.6810179,-29.0910262 -51.681156,-29.0913883 -51.6812861,-29.0917141 -51.681435,-29.0920223 -51.6816455,-29.0923798 -51.6819124,-29.0927759 -51.6823778,-29.0933911 -51.6828686,-29.0940415 -51.6833206,-29.0945888 -51.6838717,-29.0951771 -51.6845488,-29.0959181 -51.6853217,-29.0967363 -51.6857407,-29.0971458 -51.6860383,-29.09743 -51.6862247,-29.097575 -51.6864198,-29.0976994 -51.6865788,-29.0977864</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

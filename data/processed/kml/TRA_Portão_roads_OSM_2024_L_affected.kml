@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Portão_roads_OSM_2024_L_affected" id="TRA_Portão_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Portão_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<name>Estrada Carioca</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">585758561</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2169578,-29.7963009 -51.2145678,-29.8013617 -51.2142416,-29.802531 -51.2144664743988,-29.8033697359845</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">614872855</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2540538,-29.785895 -51.2535903,-29.7859769 -51.2532127,-29.7861482 -51.2529552,-29.7863717 -51.2527492,-29.7865058 -51.2524917,-29.7865207 -51.2521655,-29.786476 -51.2516935,-29.7863196 -51.2503974,-29.7859248 -51.2501571,-29.7857609 -51.2491529,-29.784785 -51.2489726,-29.7847105 -51.2487838,-29.7847329 -51.2484662,-29.7847552 -51.2478826,-29.7846211 -51.2474534,-29.7846584 -51.2464149,-29.7847925 -51.2426813,-29.7849787 -51.2393939,-29.7852245 -51.2390249,-29.7851724 -51.2389133,-29.7850383 -51.2387416,-29.784636 -51.2383811,-29.7845318 -51.2373683,-29.7843455 -51.236716,-29.7842263 -51.2352569,-29.7842934 -51.232991,-29.7851426 -51.2311542,-29.7858279 -51.2304847,-29.7860514 -51.2292402,-29.7862227 -51.2288282,-29.7863419 -51.2286479,-29.7865952 -51.2285278,-29.7870943 -51.2284591,-29.7874071 -51.2276866,-29.7889863 -51.2276609,-29.7892396 -51.2277639,-29.7894481 -51.2289483,-29.7916157 -51.2287767,-29.7919137 -51.224571,-29.7944983 -51.2218501,-29.7961296 -51.2215326,-29.7961668 -51.2211549,-29.7960923 -51.2198846,-29.7961072 -51.2192323,-29.796137 -51.2178933,-29.7965094 -51.2176359,-29.7965318 -51.2173097,-29.7964498 -51.2169578,-29.7963009 -51.2166917,-29.7962338 -51.2160051,-29.7962785 -51.2149124,-29.7961327 -51.2141511,-29.7960327 -51.2127349,-29.7957869 -51.2117822,-29.7955486 -51.2099798,-29.7951166 -51.2089498,-29.7951613 -51.2056024,-29.7953177 -51.2036197,-29.7954592 -51.2021812,-29.7955012 -51.1982185,-29.795523 -51.1969797,-29.7958367 -51.19647,-29.7961742 -51.1958465,-29.7965897 -51.1955087,-29.7967999 -51.1947963,-29.7970457 -51.194125,-29.7972532 -51.192127,-29.7979693 -51.1919956,-29.7980684 -51.1918151,-29.7982539 -51.1917236,-29.7983566 -51.1915308,-29.7985518 -51.1913116,-29.7987141 -51.1909768,-29.7988035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada do Socorro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">35767340</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2056024,-29.7953177 -51.205313,-29.794243 -51.2061176,-29.7934193 -51.2081132,-29.7911332 -51.2101266,-29.7890032 -51.2103663,-29.7887496 -51.2107096,-29.7883027 -51.2106131,-29.7870587 -51.2105594,-29.7863659 -51.2116108,-29.7847178 -51.2121151,-29.7843267 -51.2129734,-29.7837028 -51.2131772,-29.7834607 -51.213306,-29.7827065 -51.2136386,-29.7820454 -51.2135953,-29.7811642 -51.2136815,-29.7804158 -51.2138711,-29.7796579 -51.2144969,-29.7782647 -51.2145935,-29.7779272 -51.2149153,-29.7768027 -51.2160097,-29.7746888 -51.216868,-29.7736551 -51.2173937,-29.7730684 -51.2181018,-29.7725189 -51.2186382,-29.7718857 -51.219122,-29.7710376 -51.2195277,-29.7702047 -51.2196135,-29.7699812 -51.219768,-29.7698024 -51.2199568,-29.7696758 -51.2202916,-29.7695193 -51.2210462,-29.7690154 -51.2211842,-29.7689233 -51.2225403,-29.7678951 -51.2248749,-29.7659058 -51.2251238,-29.7657568 -51.2251894,-29.7657347 -51.226274,-29.7653396 -51.2266602,-29.7652725 -51.2273726,-29.765131 -51.2281537,-29.7648851 -51.2287717,-29.764818 -51.2292695,-29.7647957 -51.2299046,-29.7647882 -51.2302651,-29.7646988 -51.2321362,-29.7639612 -51.2325053,-29.7638569 -51.2336898,-29.7637302 -51.2341103,-29.7636408 -51.2346253,-29.763611 -51.2351145,-29.7636706 -51.2353463,-29.7637079 -51.2356038,-29.7636855 -51.2377839,-29.7624487 -51.2380929,-29.76224 -51.2383847,-29.7619867 -51.2389083,-29.7614726 -51.2394747,-29.761033 -51.2396664,-29.7609389 -51.2406077,-29.7606604 -51.2407879,-29.7605785 -51.2410197,-29.7603997 -51.2413201,-29.7600271 -51.2418437,-29.7591702 -51.2420497,-29.7589392 -51.2423157,-29.7587232 -51.2426076,-29.7585369 -51.2426761,-29.7585093 -51.243071,-29.7583506 -51.2433028,-29.7582463 -51.2435946,-29.7580451 -51.2453072,-29.7566846 -51.2454142,-29.7565996 -51.2456116,-29.7564282 -51.2457575,-29.7562046 -51.2458863,-29.755914 -51.2463584,-29.7538798 -51.2464356,-29.7537382 -51.2465815,-29.7535892 -51.2470963,-29.7533105 -51.2480406,-29.7527993 -51.2482724,-29.7526503 -51.2484269,-29.7524565 -51.24865,-29.7519796 -51.2488131,-29.751689 -51.2490191,-29.7514431 -51.249989,-29.7505787 -51.2509675,-29.7495578 -51.2512078,-29.7493939 -51.2514395,-29.7492672 -51.2518258,-29.7491778 -51.2526326,-29.7490585 -51.2530102,-29.7489617 -51.2534394,-29.7487903 -51.253817,-29.7485667 -51.2542205,-29.7482165 -51.2547183,-29.7477023 -51.2550616,-29.7472626 -51.2559113,-29.746264 -51.2562552,-29.7457703 -51.2566838,-29.7447662 -51.2568726,-29.7445277 -51.2571988,-29.7441625 -51.2577532,-29.7435131 -51.2581743,-29.7429903 -51.2582754,-29.7428621 -51.2583473,-29.7427865 -51.2601599,-29.7405407 -51.2604003,-29.7403096 -51.2634902,-29.7380142 -51.2636275,-29.7378726 -51.2637219,-29.7376565 -51.2638077,-29.7358753 -51.2637992,-29.7352194 -51.2634473,-29.7322159 -51.2634301,-29.7318879 -51.263576,-29.7308445 -51.263576,-29.7305836 -51.2635099,-29.7299639 -51.2634473,-29.7293762 -51.2634473,-29.7291228 -51.2636189,-29.7282582 -51.2635932,-29.7280197 -51.2631409,-29.7265292 -51.2631438,-29.7261917 -51.2632836,-29.725871 -51.2634818,-29.7252685</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Parque Zoológico</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">217409560</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1838686788781,-29.7977346145747 -51.1839831,-29.7978198 -51.1848109,-29.7985081 -51.1850582,-29.7986623 -51.1853366,-29.7987998 -51.1858776,-29.7990271 -51.1864088,-29.7991928 -51.1868004,-29.7993149 -51.1872298,-29.7994176 -51.1876751,-29.7994677 -51.1880444,-29.7994588 -51.1883882,-29.799408</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Soledade</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">310268828</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1875142,-29.7974939 -51.1875381,-29.7977271 -51.1875598,-29.798006 -51.1876309,-29.7984343 -51.1876617,-29.7986356 -51.1876751,-29.7994677</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Canto do Rio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302507256</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1883882,-29.799408 -51.1883543,-29.7992712 -51.1880325,-29.7979729 -51.1879153,-29.7974389 -51.1878743,-29.7972523 -51.187837,-29.7969523 -51.1877953,-29.7966175</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920696951</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1889237,-29.8006629 -51.188575,-29.8003231 -51.1885509,-29.8002463 -51.188516,-29.7997296 -51.1883882,-29.799408</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Parque Zoológico</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">905462335</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1883882,-29.799408 -51.1899117,-29.798989</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Portão_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">972827315</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">99</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1898732,-29.7978442 -51.1891651,-29.7985472 -51.1883543,-29.7992712</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

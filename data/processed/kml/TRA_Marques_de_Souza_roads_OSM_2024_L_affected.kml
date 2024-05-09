@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Marques_de_Souza_roads_OSM_2024_L_affected" id="TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Marques_de_Souza_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<name>VRS-811</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">512958565</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.030455424415,-29.3826238566102 -52.0306314,-29.3824203 -52.0311142,-29.382037 -52.0316587,-29.3816631 -52.0320235,-29.3814878 -52.0324365,-29.3814317 -52.0328496,-29.3813616 -52.0331527,-29.3811676 -52.0333807,-29.3808895 -52.0335577,-29.3805248 -52.033555,-29.3800854 -52.0335899,-29.3795923 -52.033783,-29.3792581 -52.0340593,-29.3790337 -52.0344723,-29.3787859 -52.0348452,-29.37862 -52.0351241,-29.3784283 -52.0353306,-29.378211 -52.0355881,-29.3778884 -52.0359731,-29.3774865 -52.0361593,-29.377292 -52.0363925,-29.3770897 -52.0365351,-29.3769579 -52.0366446,-29.3768503 -52.0367361,-29.3767244 -52.0367865,-29.376607 -52.0368135,-29.376504 -52.0368458,-29.3763406 -52.0368464,-29.3762503 -52.0369117,-29.3761526 -52.0370039,-29.3760823 -52.0375755,-29.3757865 -52.0379306,-29.3756343 -52.0382552,-29.3754471 -52.0383003,-29.3754157 -52.0385879,-29.3752154 -52.0386475,-29.3751662 -52.0388413,-29.3750063 -52.0390182,-29.3748789 -52.0391489,-29.3748237 -52.0393935,-29.3748158 -52.0396351,-29.3747959 -52.0397417,-29.3747554 -52.0398934,-29.3746958 -52.0403908,-29.3742716 -52.0406001,-29.3740947 -52.0408572,-29.3739198 -52.0410948,-29.3737669 -52.0413218,-29.3735728 -52.0414024,-29.3734135 -52.0413978,-29.3729881 -52.0414686,-29.3728448 -52.0416075,-29.3727467 -52.0417431,-29.3727142</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235422</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.043156,-29.3722568 -52.0431016,-29.3748528 -52.0431981,-29.3752268 -52.0434342,-29.3753623 -52.0438901,-29.3754932 -52.0443461,-29.3756194 -52.044668,-29.3756849 -52.04536,-29.375741 -52.0456443,-29.3758906 -52.0458642,-29.3760495 -52.0462076,-29.3762552 -52.046685,-29.3763721 -52.0472979,-29.3767378 -52.0476506,-29.3769611 -52.047729,-29.3770376 -52.0478504,-29.3772819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235428</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0550884,-29.3742451 -52.0550749,-29.3738395 -52.0551554,-29.3734188 -52.0556168,-29.3728625 -52.0557401,-29.372582 -52.0560191,-29.3721753 -52.0563839,-29.3718668 -52.0567916,-29.3717312 -52.0572422,-29.3716517 -52.0577464,-29.3715489 -52.0581863,-29.3715442 -52.0587013,-29.3715582 -52.0590768,-29.3714788 -52.0593718,-29.3711562 -52.0594094,-29.3708477 -52.0593075,-29.3704877 -52.0591304,-29.3699127 -52.0590071,-29.3694405 -52.0590875,-29.3689683 -52.0593327,-29.3684572 -52.0597056,-29.3679827 -52.0601857,-29.3674801 -52.0604619,-29.3671809 -52.0608053,-29.3668186 -52.061213,-29.3664469 -52.0617601,-29.366129 -52.0622107,-29.3657901 -52.0626602,-29.3654761 -52.0630465,-29.3652984 -52.0634338,-29.3651215 -52.0637101,-29.3648737 -52.0640588,-29.3642239 -52.0642653,-29.3636079 -52.0643646,-29.3632409 -52.0644276,-29.3630539 -52.0645483,-29.362729 -52.0648554,-29.3618851 -52.0650163,-29.3612855 -52.0652352,-29.3605624 -52.0654938,-29.3598595 -52.0657325,-29.359171 -52.0657969,-29.3588917 -52.0659164,-29.3584117 -52.0660651,-29.3577392 -52.0663188,-29.356995 -52.06669,-29.355876 -52.0668617,-29.3554037 -52.066977,-29.3549783 -52.0672184,-29.3541554 -52.0675403,-29.3531688 -52.0678166,-29.3523295 -52.0680124,-29.3517684 -52.0682055,-29.3510811 -52.068427,-29.3499347 -52.0686346,-29.3490377 -52.0687795,-29.3485608 -52.0693857,-29.3476256 -52.069929,-29.3470263 -52.0707498,-29.3465072 -52.0718334,-29.3459134 -52.0723404,-29.3456609 -52.0725845,-29.3455145</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 25 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679273</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0982865,-29.3332857 -52.0979492,-29.3330184 -52.094235,-29.3300723 -52.0933048,-29.3292839 -52.0932122,-29.3291967</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Osório</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514868341</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0930853,-29.3295298 -52.0929932,-29.32968 -52.0926637,-29.3302463 -52.0923896,-29.3307428 -52.092272,-29.3310618 -52.0922596,-29.3312359 -52.0922822,-29.3313959 -52.0925653,-29.3321242 -52.0926515,-29.3324501 -52.0926401,-29.3326707 -52.092562,-29.3328458 -52.0924322,-29.332968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234372</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0730472,-29.3450275 -52.0727863,-29.3454625 -52.0726951,-29.3456004 -52.0725936,-29.3457342 -52.0724873,-29.3459031 -52.0719982,-29.3469687 -52.0717931,-29.3475345 -52.0715935,-29.3484698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">679353647</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0714313,-29.3484426 -52.0716736,-29.3475063 -52.0719246,-29.3467383 -52.0723458,-29.3458593 -52.0724554,-29.3456737 -52.0725845,-29.3455145 -52.0729561,-29.3449316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49016422</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0417431,-29.3727142 -52.0418903,-29.3726973 -52.0420325,-29.3726857 -52.042159,-29.3726599 -52.0423442,-29.3725926 -52.042577,-29.3724987 -52.0427889,-29.3724098 -52.0429567,-29.3723354 -52.043156,-29.3722568 -52.0433521,-29.3721738 -52.0435184,-29.3720849 -52.043662,-29.3719883 -52.0438027,-29.3718886 -52.0439181,-29.3717811 -52.0441031,-29.3716081 -52.0442852,-29.3714369 -52.0445108,-29.3711944 -52.0447362,-29.3709466 -52.0451304,-29.3705422 -52.0452592,-29.3704222 -52.0454738,-29.3702313 -52.0456722,-29.3700724 -52.0459826,-29.3698413 -52.0462516,-29.369654 -52.0463729,-29.3695552 -52.0464903,-29.3694413 -52.0465627,-29.3693197 -52.0466003,-29.3691958 -52.0466126,-29.3690583 -52.0466137,-29.3688569 -52.0466298,-29.3684198 -52.0466474,-29.3678755 -52.04667,-29.3677232 -52.0467156,-29.3675806 -52.0467842,-29.3674478 -52.0468578,-29.3673492 -52.046957,-29.3672534 -52.047086,-29.3671731 -52.0478893,-29.3668096 -52.048054,-29.3667204 -52.0481951,-29.3666273 -52.0483169,-29.3665241 -52.048392,-29.3664399 -52.0484483,-29.3663487 -52.0484768,-29.3662346 -52.0485154,-29.3659327 -52.0485668,-29.3655617 -52.0486822,-29.3648677 -52.0487085,-29.3647428 -52.0487568,-29.3646306 -52.0488158,-29.3645465 -52.0489016,-29.364467 -52.0489911,-29.3644123 -52.0491062,-29.3643657 -52.049304,-29.3643034 -52.0494971,-29.364259 -52.0496574,-29.3642013 -52.0498458,-29.3641047 -52.0500147,-29.3639925 -52.050122,-29.3638873 -52.0501912,-29.3637878 -52.0502454,-29.3636231 -52.0502749,-29.3634852 -52.0503242,-29.3633285 -52.0503916,-29.3632152 -52.0505673,-29.3630037 -52.0506941,-29.3628426 -52.050857,-29.3625291 -52.0509776,-29.3622299 -52.0510146,-29.3620952 -52.0510313,-29.3619634 -52.051042,-29.3613182 -52.051042,-29.3606286 -52.0510572,-29.3605041 -52.0510823,-29.3603995 -52.0511305,-29.360299 -52.0512073,-29.3602246 -52.0518444,-29.3597187 -52.0522624,-29.3593335 -52.0524165,-29.359163 -52.0525414,-29.3589548 -52.052654,-29.3586743 -52.0527721,-29.3582956 -52.0528271,-29.3579894 -52.0528472,-29.3576784 -52.0528579,-29.3573558 -52.0527774,-29.3563693 -52.0527904,-29.3561178 -52.0528284,-29.3559765 -52.0528954,-29.3558643 -52.0530248,-29.3557496 -52.053228,-29.3556586 -52.0536947,-29.3555674 -52.0538691,-29.3555393 -52.0539966,-29.3554945 -52.0541158,-29.3553967 -52.0541879,-29.3552779 -52.0541909,-29.3551536 -52.054148,-29.354838 -52.0541069,-29.3547157 -52.0540488,-29.3546206 -52.0539227,-29.3544149 -52.0538679,-29.354307 -52.0538422,-29.3541928 -52.0538664,-29.3540852 -52.0539308,-29.35398 -52.0540217,-29.3538717 -52.0542929,-29.3535335 -52.0543519,-29.3534353 -52.0543867,-29.3533278 -52.0543963,-29.3532138 -52.0543385,-29.3529981 -52.0542955,-29.3527643 -52.0543036,-29.3526194 -52.0543268,-29.3525015 -52.0543599,-29.3523716 -52.0545984,-29.3517267 -52.0550519,-29.3510016 -52.0553652,-29.3504224 -52.055937,-29.3493862 -52.0560256,-29.3492668 -52.0561516,-29.349192 -52.0563136,-29.3491818 -52.0572352,-29.349337 -52.0575552,-29.3493509 -52.0578092,-29.3493229 -52.0583111,-29.3491777 -52.058565,-29.3491282 -52.0587561,-29.3491429 -52.0589304,-29.3491967 -52.0590872,-29.3492901 -52.0592217,-29.3494181 -52.05944,-29.3496222 -52.0596009,-29.3497531 -52.0597404,-29.3498396 -52.0598612,-29.3498817 -52.0600033,-29.3498981 -52.0601669,-29.3498724 -52.0603305,-29.3498233 -52.0604754,-29.3497437 -52.0606309,-29.3496199 -52.0607838,-29.3494632 -52.0608643,-29.3493113 -52.0609233,-29.3491756 -52.0609528,-29.3490704 -52.0609501,-29.3489091 -52.0608589,-29.3485888 -52.0607007,-29.3481633 -52.0606497,-29.3479926 -52.060647,-29.3478407 -52.0606792,-29.3477098 -52.0607329,-29.3475952 -52.060867,-29.3473848 -52.060985,-29.3471861 -52.0610762,-29.3470084 -52.0611727,-29.346812 -52.0612612,-29.3466062 -52.0613283,-29.3464169 -52.0613658,-29.3462719 -52.0613793,-29.3460872 -52.0613498,-29.3457037 -52.0613524,-29.3455284 -52.0613766,-29.3453881 -52.0615697,-29.3443921 -52.0616019,-29.3440811 -52.0615965,-29.3437632 -52.0615536,-29.3434639 -52.0615161,-29.3432184 -52.0614249,-29.3426268 -52.0613927,-29.3424024 -52.0613069,-29.342192 -52.061162,-29.3420049 -52.0607811,-29.341729 -52.0606792,-29.3416449 -52.0606202,-29.3415677 -52.0605692,-29.3414719 -52.0605022,-29.3412568 -52.0604673,-29.3411211 -52.060403,-29.3410065 -52.0603171,-29.3409271 -52.0602232,-29.3408686 -52.0599711,-29.3406628 -52.0599255,-29.3405646 -52.0599014,-29.3404781 -52.0598986,-29.3403776 -52.059896,-29.3402864 -52.0599228,-29.3401882 -52.0599819,-29.3400503 -52.0600918,-29.3399053 -52.0606765,-29.3393208 -52.0607945,-29.3391805 -52.0608965,-29.3390121 -52.060985,-29.3388484 -52.061044,-29.3386941 -52.0610654,-29.3385352 -52.061052,-29.3383878 -52.0610037,-29.3382452 -52.0608482,-29.3378757 -52.0605424,-29.3372678 -52.0601642,-29.3365149 -52.0599202,-29.3359888 -52.0596063,-29.3352218 -52.0593032,-29.3343216 -52.0591289,-29.3337581 -52.0591047,-29.3335921 -52.0591021,-29.3333769 -52.0592093,-29.3326544 -52.0593488,-29.331083 -52.0593891,-29.330931 -52.0595071,-29.3307767 -52.0603976,-29.3300308 -52.0607369,-29.329666 -52.0609246,-29.3293585 -52.060997,-29.3290557 -52.0610265,-29.3287446</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234371</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0725845,-29.3455145 -52.0727863,-29.3454625</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957096566</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0727863,-29.3454625 -52.0732668,-29.3453998 -52.073822,-29.3454957 -52.0740929,-29.3455144 -52.0742539,-29.3454676 -52.0743933,-29.3453811 -52.0746964,-29.3449252 -52.0750558,-29.344177</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234370</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0733761,-29.3446238 -52.0730472,-29.3450275</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">679353648</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0729561,-29.3449316 -52.0732909,-29.344509</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">704357443</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0763688,-29.3416028 -52.0762239,-29.3415256 -52.076122,-29.3415046 -52.0739307,-29.3414379 -52.0729651,-29.3414707 -52.0728698,-29.3414637 -52.0727491,-29.3414438 -52.07221,-29.3412719 -52.0720813,-29.3412228 -52.0718211,-29.3411948 -52.0711769,-29.3411786 -52.0700696,-29.3411632 -52.0699167,-29.3411866 -52.0694608,-29.3412836 -52.0693548,-29.3413082 -52.0692502,-29.3413187 -52.0686869,-29.3412919 -52.0680875,-29.3412719 -52.0678622,-29.3412427 -52.0677683,-29.3412146 -52.0677039,-29.3411796 -52.0675617,-29.3409972 -52.0673794,-29.3406886 -52.0673203,-29.340553 -52.0672855,-29.3401485 -52.0672587,-29.3400526 -52.0672426,-29.3400152 -52.067197,-29.3399941 -52.0665023,-29.3399895</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234369</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1018584,-29.3279999 -52.1018382,-29.3282025 -52.1017669,-29.3289937 -52.1017032,-29.3294493 -52.1016185,-29.3298167 -52.1014587,-29.3303186 -52.1013302,-29.3306747 -52.1011566,-29.3310216 -52.100877,-29.3314436 -52.1005397,-29.3318171 -52.1002238,-29.3321603 -52.099848,-29.3324789 -52.0994437,-29.3327817 -52.0990509,-29.3330426 -52.0987639,-29.3331875 -52.0984045,-29.3333723 -52.0974308,-29.3337932 -52.094687,-29.3350193 -52.0938903,-29.3353481 -52.0934451,-29.3354709 -52.0930427,-29.3355305 -52.0926391,-29.3355539 -52.0921938,-29.3355211 -52.0916185,-29.3354253 -52.0908621,-29.335278 -52.0904611,-29.3352359 -52.0901969,-29.3352218 -52.0898241,-29.3352522 -52.0893529,-29.3353652 -52.0888111,-29.3355345 -52.0875725,-29.3359676 -52.0845389,-29.3370348 -52.0839505,-29.3372089 -52.0832841,-29.3373473 -52.0818834,-29.3375649 -52.0812752,-29.3376853 -52.0809417,-29.3377718 -52.0807247,-29.3378323 -52.080242,-29.3380494 -52.0798576,-29.3383019 -52.0795469,-29.3385045 -52.0792339,-29.3388194 -52.0788737,-29.3392374 -52.0783439,-29.3400792 -52.0780846,-29.3404757 -52.0779237,-29.3407142 -52.0777686,-29.340916 -52.0774589,-29.3412572 -52.0768316,-29.3417821 -52.0766447,-29.3419386 -52.0763075,-29.3421994 -52.0761888,-29.3422782 -52.074751,-29.3432321 -52.0738278,-29.344118 -52.0733761,-29.3446238</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">384260631</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0732909,-29.344509 -52.0737268,-29.3440215 -52.0740326,-29.3436965 -52.0746776,-29.3431623 -52.0762038,-29.3421078 -52.0765713,-29.3418693 -52.0767567,-29.3417141 -52.0773974,-29.3411562 -52.0776784,-29.3408323 -52.077832,-29.340664 -52.0779983,-29.3404021 -52.0782718,-29.3400128 -52.078768,-29.3391945 -52.0791496,-29.3387601 -52.0794728,-29.338435 -52.0797926,-29.3382265 -52.0801842,-29.3379692 -52.0806831,-29.3377448 -52.0809098,-29.3376817 -52.0812477,-29.337594 -52.0818619,-29.3374724 -52.0832621,-29.3372549 -52.0839205,-29.3371182 -52.0845012,-29.3369463 -52.0875321,-29.3358801 -52.0887727,-29.3354463 -52.0893265,-29.3352733 -52.0898268,-29.3351611 -52.0902479,-29.33514 -52.0906502,-29.3351564 -52.0916721,-29.3353317 -52.0922354,-29.335437 -52.0926994,-29.3354674 -52.0930937,-29.3354229 -52.0935202,-29.3353575 -52.0939466,-29.3352289 -52.0944616,-29.3349997 -52.0975515,-29.3336108 -52.0982865,-29.3332857 -52.0987076,-29.3331127 -52.099067,-29.3328952 -52.0993955,-29.3326837 -52.0997831,-29.3324042 -52.1001439,-29.3321014 -52.1004577,-29.3317612 -52.1007849,-29.331394 -52.1010599,-29.330979 -52.1012302,-29.3306387 -52.1013469,-29.3302833 -52.101489,-29.3297806 -52.1015695,-29.3294766 -52.1016473,-29.3290112 -52.1017197,-29.3282068 -52.1017224,-29.32798</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Willy Goellner</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">227943825</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0916057,-29.3284042 -52.0915809,-29.3284523 -52.0916091,-29.3285061 -52.0929932,-29.32968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514878088</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0694462,-29.3266202 -52.0685448,-29.3268821 -52.0678662,-29.3271569 -52.0677254,-29.3272025 -52.0675242,-29.3272235 -52.0635564,-29.3271676</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida 10 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514811501</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0657192,-29.3238233 -52.0659513,-29.324153 -52.0672897,-29.3255106 -52.0674761,-29.3256603 -52.069212,-29.3265318 -52.0694462,-29.3266202 -52.0696272,-29.3266424 -52.072862,-29.3269417 -52.0731087,-29.3269464 -52.0732911,-29.3269417 -52.0769067,-29.3262822 -52.0771052,-29.3262635 -52.0776256,-29.3262682 -52.0779474,-29.3262682 -52.0792295,-29.3261232 -52.0798035,-29.3260531 -52.0804687,-29.3259315 -52.0806565,-29.3259081 -52.080885,-29.3259331 -52.0810835,-29.3259799 -52.0814289,-29.3261045 -52.084374,-29.3272878 -52.0846047,-29.3273486 -52.0848622,-29.3273813 -52.0850982,-29.3273626 -52.0855931,-29.3272468 -52.0866632,-29.3268412 -52.0871085,-29.3266178 -52.0874975,-29.3263138 -52.089088,-29.3248757 -52.0891845,-29.3247541 -52.0892414,-29.3246422 -52.0893272,-29.3242887</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">853001768</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0914661,-29.3236556 -52.0912854,-29.3237279 -52.0912617,-29.3237555 -52.0912644,-29.3238198 -52.0914066,-29.3243729 -52.091534,-29.3249493 -52.0916118,-29.3251914 -52.0917566,-29.3255141 -52.0918505,-29.3256298 -52.092234,-29.3259268 -52.092921,-29.3264078</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1268886733</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0965679,-29.3291054 -52.0962624,-29.3294606</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">956540309</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0932908,-29.3290451 -52.0934477,-29.3291726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinoldo Stacke</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679261</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0978406,-29.3293694 -52.0964315,-29.3283446</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Arnaldo Fluck</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514868342</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.094037,-29.3287008 -52.0934812,-29.3285036</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Arno Becker</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884232</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0968586,-29.3280087 -52.0980934,-29.3288414 -52.0981188,-29.3289072</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Forqueta</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679264</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0974413,-29.3297199 -52.0965679,-29.3291054 -52.0959853,-29.3286955 -52.0950245,-29.3279326 -52.0942148,-29.3273442 -52.0936147,-29.3268946</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 24 de Maio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">227943820</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0947986,-29.3281095 -52.0936202,-29.3281585</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Jaeger</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679262</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0992328,-29.3261411 -52.0977186,-29.3273321 -52.0968586,-29.3280087 -52.0964315,-29.3283446 -52.0959853,-29.3286955 -52.094235,-29.3300723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Getúlio Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514898056</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.097368,-29.3261244 -52.0967432,-29.3266076 -52.0950245,-29.3279326 -52.0947986,-29.3281095 -52.094037,-29.3287008 -52.0934477,-29.3291726 -52.0933048,-29.3292839 -52.0930853,-29.3295298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Capitão João Guilherme Wayss</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">294843600</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0925659,-29.3276806 -52.09367,-29.3279782</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 10 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884218</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0936147,-29.3268946 -52.0925659,-29.3276806 -52.0916057,-29.3284042</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Osório</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679254</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0974114,-29.3248698 -52.0959774,-29.3259878 -52.0942148,-29.3273442 -52.0938221,-29.3276655 -52.0937684,-29.3277262 -52.0937362,-29.3277929 -52.09367,-29.3279782 -52.0936202,-29.3281585 -52.0934812,-29.3285036 -52.0932908,-29.3290451 -52.0932122,-29.3291967 -52.0930853,-29.3295298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884230</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0917286,-29.3234667 -52.0915747,-29.3235888 -52.0915399,-29.3236126 -52.0914661,-29.3236556</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514878089</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.063272,-29.3271622 -52.0628759,-29.3271849 -52.0627365,-29.3272153 -52.0623156,-29.3273693 -52.0622427,-29.327419 -52.0620668,-29.327612 -52.0616911,-29.3278808 -52.0609018,-29.3282986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 20 de Março</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">947061753</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0610265,-29.3287446 -52.0609856,-29.3284944 -52.0609018,-29.3282986 -52.0603144,-29.3277134 -52.0599329,-29.3272779 -52.0596908,-29.3268985 -52.0595889,-29.326626 -52.0594829,-29.3261537 -52.0594253,-29.3259502 -52.0590404,-29.3249096 -52.0590109,-29.3247728 -52.0590028,-29.3246547 -52.0590425,-29.3238089 -52.05909,-29.3233755 -52.0592375,-29.3230657 -52.0594588,-29.3228751 -52.0598,-29.3226773 -52.0605585,-29.3223594 -52.0606913,-29.3222483 -52.0607758,-29.3221057 -52.0608173,-29.3219467 -52.0611006,-29.3198082 -52.0612359,-29.3191571 -52.0612586,-29.3190585 -52.0614035,-29.3186349 -52.0618096,-29.3179809 -52.06196,-29.3176869 -52.0620466,-29.3173761 -52.0620592,-29.3171985 -52.0620398,-29.3169635 -52.0618285,-29.3162942 -52.0614959,-29.3156276 -52.0610024,-29.3148594 -52.0605551,-29.3142969</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Picada Felipe Essig</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679270</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0894807,-29.3237282 -52.0899879,-29.3226973 -52.090038,-29.322561 -52.0900555,-29.3224241 -52.0900393,-29.3218407 -52.0899597,-29.3210989 -52.0898885,-29.3199109 -52.0898141,-29.3190192 -52.0897168,-29.3179383 -52.0896457,-29.317308 -52.0895518,-29.3169478 -52.0893976,-29.316521 -52.0892702,-29.3162661 -52.0891361,-29.3160428 -52.088766,-29.3154932 -52.0882604,-29.3146664 -52.087917,-29.313966 -52.0879023,-29.313911 -52.0878956,-29.3138397 -52.0879076,-29.3131404 -52.0878983,-29.3128972 -52.0878191,-29.312634 -52.0875898,-29.3122002</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Picada Felipe Essig</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">729417428</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0899562,-29.298316 -52.0898402,-29.2984156 -52.089804,-29.2984671 -52.0896792,-29.2988308 -52.0896162,-29.2989337 -52.089517,-29.2990343 -52.0891817,-29.2992495 -52.0885715,-29.2995629 -52.0878111,-29.299874 -52.0876341,-29.2999828 -52.0875268,-29.3001758 -52.0874745,-29.3004237 -52.0874691,-29.3006178 -52.0875938,-29.3012061 -52.0875898,-29.3014283 -52.0875308,-29.3016108 -52.0871244,-29.3023172 -52.0869689,-29.3025359 -52.0863037,-29.3032481 -52.086246,-29.3033837 -52.0862205,-29.3035323 -52.0862407,-29.3037077</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">853001769</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0831507,-29.2964032 -52.0832942,-29.2965022 -52.0839071,-29.2969197 -52.0843497,-29.2971513 -52.0844503,-29.2971759 -52.0845549,-29.2971595 -52.084807,-29.2970671 -52.0848674,-29.2970566 -52.085259,-29.2970355 -52.0855795,-29.2969946 -52.0856693,-29.2969642 -52.085727,-29.2969232 -52.0857954,-29.2968823 -52.0859161,-29.2968706 -52.0860274,-29.2968905 -52.0868173,-29.2972297 -52.0869085,-29.2972601 -52.0871633,-29.2973373 -52.0879143,-29.2976776 -52.0887888,-29.298055 -52.0892716,-29.2982353 -52.0896097,-29.2983839 -52.089804,-29.2984671</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 10 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884220</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0971376,-29.3237871 -52.09706,-29.3240442 -52.0969837,-29.3242292 -52.0968881,-29.3243899 -52.0963708,-29.3248062 -52.0954419,-29.3255403 -52.0953826,-29.3255421</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 10 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">227943823</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0953826,-29.3255421 -52.0953875,-29.325496 -52.096799,-29.3243477 -52.0969023,-29.3241781 -52.0969769,-29.3239828 -52.0970316,-29.3237672</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 4 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884228</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0953875,-29.325496 -52.0947606,-29.3250244 -52.0941869,-29.3245625 -52.093658,-29.3241269 -52.0930945,-29.3236773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 28 de Dezembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884227</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0939845,-29.3237935 -52.093658,-29.3241269 -52.0932617,-29.3245315</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1056611356</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0984824,-29.3239718 -52.0984125,-29.3235462</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 1º de Janeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514884229</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0934089,-29.3233707 -52.0930945,-29.3236773 -52.0927946,-29.3239697</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Benjamin Dorr</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679257</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1017467,-29.3243448 -52.1001308,-29.3241388 -52.0984824,-29.3239718 -52.0971376,-29.3237871 -52.0970316,-29.3237672 -52.0964225,-29.3236491 -52.0951297,-29.3233825 -52.094339,-29.3231129 -52.0937504,-29.3228828 -52.0936169,-29.3228306 -52.0933165,-29.3227558 -52.0931341,-29.3227417 -52.0929571,-29.3227558 -52.0928015,-29.3228025 -52.0921927,-29.3233054 -52.0921176,-29.3233603 -52.0920143,-29.3234047 -52.0917286,-29.3234667 -52.0914611,-29.3235297</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1056611355</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1021418,-29.3230729 -52.101894,-29.3230692 -52.1005315,-29.3228797 -52.1004134,-29.3228797 -52.1002981,-29.3228797 -52.1001801,-29.3229008 -52.1000674,-29.3229335 -52.0999575,-29.3229733 -52.0995659,-29.3231229 -52.0992145,-29.3233217 -52.0991126,-29.3233802 -52.0990133,-29.3234246 -52.0989034,-29.323462 -52.0984125,-29.3235462 -52.0977634,-29.323586 -52.0972753,-29.3235532 -52.0969856,-29.3235275 -52.0965993,-29.3234714 -52.0961487,-29.3234012 -52.095395,-29.3232258 -52.0946252,-29.3230201 -52.0945179,-29.322999 -52.0944616,-29.323006 -52.0944053,-29.3230294 -52.094339,-29.3231129</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 1º de Janeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1268885869</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0937504,-29.3228828 -52.0936225,-29.3231284 -52.0934089,-29.3233707</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957391761</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1004644,-29.3047918 -52.1005677,-29.3049193 -52.1006776,-29.3049626 -52.1008788,-29.3049555 -52.1012141,-29.3049263 -52.1016486,-29.304945 -52.1019423,-29.3050152 -52.1021569,-29.3051286 -52.1024358,-29.3053181 -52.1025498,-29.3054339 -52.1026885,-29.305647</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">490550967</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1473853,-29.2621467 -52.1464954,-29.2632084 -52.1443083,-29.2659692 -52.1440851,-29.266248 -52.1437678,-29.2666558 -52.1433779,-29.2671607 -52.14307,-29.267647 -52.1427649,-29.2681974 -52.142442,-29.2689799 -52.1416283,-29.2715813 -52.1413559,-29.2723868 -52.1411736,-29.2727161 -52.1405125,-29.2737302 -52.1397772,-29.2752992 -52.1394436,-29.2758348 -52.1390015,-29.2763035 -52.1383945,-29.2768047 -52.1374144,-29.2773663 -52.1345893,-29.2785495 -52.1339773,-29.2788319 -52.1335617,-29.2790657 -52.1328008,-29.2796884 -52.1318521,-29.2805763 -52.1316043,-29.2807943 -52.1312575,-29.2810942 -52.1305754,-29.2815437 -52.130119,-29.2817833 -52.1290705,-29.2823336 -52.1274488,-29.2832278 -52.1269794,-29.283477 -52.1264984,-29.283842 -52.1254684,-29.2847478 -52.1239149,-29.2862451 -52.1226618,-29.287368 -52.1217091,-29.2880342 -52.1205561,-29.2887077 -52.1193541,-29.2893279 -52.1188188,-29.2896564 -52.1184283,-29.2899911 -52.1182193,-29.2901804 -52.117947,-29.290536 -52.1177292,-29.2909036 -52.1175206,-29.2915558 -52.1172229,-29.2925364 -52.1171057,-29.293099 -52.1169761,-29.293674 -52.1168275,-29.2941549 -52.1166502,-29.2945969 -52.1164826,-29.2949361 -52.1161945,-29.2953783 -52.1160091,-29.2956636 -52.1156645,-29.2960507 -52.1153775,-29.2963455 -52.1147848,-29.2968179 -52.1139774,-29.2973208 -52.1132548,-29.2978251 -52.1124485,-29.2983817 -52.111904,-29.2988203 -52.1114883,-29.2992319 -52.1109666,-29.2998401 -52.1105581,-29.3002398 -52.1102598,-29.3004598 -52.1099535,-29.3006383 -52.1094482,-29.300853 -52.108908,-29.3009979 -52.1081074,-29.3011395 -52.1071887,-29.3013266 -52.1065138,-29.3015617 -52.1061667,-29.3017246 -52.1059723,-29.3018353 -52.1055794,-29.3021265 -52.1052884,-29.3023604 -52.1049799,-29.3027136 -52.1045427,-29.3032609 -52.1035033,-29.3045193 -52.1026885,-29.305647 -52.1025096,-29.3058818 -52.1023366,-29.3061624 -52.1021497,-29.3065939 -52.1020362,-29.3069425 -52.1019343,-29.3074021 -52.1019061,-29.3076418 -52.1018927,-29.3081189 -52.1019283,-29.3085052 -52.1020478,-29.3090123 -52.1022685,-29.3096065 -52.1024171,-29.3099327 -52.1028076,-29.3107783 -52.1043821,-29.3139309 -52.1044743,-29.3141635 -52.1045691,-29.3144687 -52.1046473,-29.3147413 -52.1046983,-29.31514 -52.1047224,-29.3155166 -52.1047211,-29.3159971 -52.1046889,-29.3164555 -52.1046024,-29.3168639 -52.1045501,-29.3170507 -52.1044609,-29.3173887 -52.1042302,-29.3180119 -52.103003,-29.321038</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">294843610</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1184283,-29.2899911 -52.1181428,-29.2899781 -52.1177727,-29.2899816 -52.117542,-29.2900471 -52.1172591,-29.2901769 -52.1171398,-29.2902961 -52.1169493,-29.2906448 -52.1168768,-29.2907442 -52.1163833,-29.291267 -52.1162626,-29.2914705 -52.1160051,-29.2921162 -52.1156591,-29.2926215 -52.1155545,-29.2927291 -52.1148303,-29.2933794 -52.114086,-29.2942437 -52.1137427,-29.2947946 -52.1136072,-29.2951782 -52.1135187,-29.2956449 -52.1134825,-29.2957443 -52.1132679,-29.2960847 -52.1130119,-29.2963699 -52.1128321,-29.2965139 -52.1124136,-29.2967525 -52.1122273,-29.2968985 -52.1119952,-29.2971244 -52.111668,-29.2975337 -52.1099407,-29.3000342 -52.1098039,-29.3001629 -52.1096457,-29.3002778 -52.1090166,-29.3005816 -52.1088745,-29.3006249 -52.1083541,-29.3006915 -52.1082321,-29.3006927 -52.1081127,-29.3006658 -52.1076313,-29.3004471 -52.1074891,-29.3004249 -52.1073376,-29.3004377 -52.1071954,-29.3004915 -52.1067931,-29.3007617 -52.1060153,-29.3011744 -52.1058866,-29.3012657 -52.1057108,-29.3014704 -52.1054707,-29.3018154 -52.1054184,-29.3018634 -52.1053366,-29.301902 -52.104599,-29.3021616 -52.1042785,-29.3023183 -52.1036683,-29.3027335 -52.1035744,-29.3028177 -52.1035302,-29.3029228 -52.1035114,-29.3033487 -52.1034779,-29.3034679 -52.1033478,-29.3036011 -52.1028395,-29.3038831 -52.1027161,-29.303924 -52.1021381,-29.304034 -52.1019664,-29.3040644 -52.101257,-29.3043252 -52.1006843,-29.3045708 -52.1005945,-29.3046351 -52.1004644,-29.3047918 -52.1003719,-29.3049813 -52.1003437,-29.3053508 -52.1003129,-29.3054327 -52.1002552,-29.3055099 -52.0997979,-29.3058841 -52.0997308,-29.3059543 -52.0996799,-29.3060478 -52.0995659,-29.3065378 -52.0995042,-29.3066817 -52.0994546,-29.3067811 -52.0993097,-29.3072781 -52.0992387,-29.3075353 -52.0991997,-29.3078464 -52.0992225,-29.3081178 -52.0994438,-29.308851 -52.0994921,-29.3091738 -52.0995136,-29.3095749 -52.0995256,-29.3104297 -52.0995632,-29.3105584 -52.0996664,-29.3107595 -52.099877,-29.3111092 -52.1000406,-29.3112986 -52.1002847,-29.3114845 -52.1004564,-29.3115674 -52.1009901,-29.311743 -52.1010599,-29.3117909 -52.1011283,-29.3118738 -52.1013267,-29.3125639 -52.1013978,-29.3127732 -52.1014971,-29.3129333 -52.1021394,-29.313697 -52.1025646,-29.3141601 -52.1026289,-29.3142162 -52.1027845,-29.3143226 -52.103321,-29.3146278 -52.1033974,-29.3146781 -52.1034618,-29.3147413 -52.1035986,-29.314988 -52.1037112,-29.3152359 -52.1037421,-29.3153716 -52.1037287,-29.3154908 -52.1035999,-29.3158101 -52.1035812,-29.3159456 -52.1036161,-29.316087 -52.1036912,-29.3161888 -52.1040559,-29.3165257 -52.104304,-29.3167882</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Picada Felipe Essig</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">729417426</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1157006,-29.2823995 -52.1150839,-29.2831301 -52.1150073,-29.2833144 -52.1148826,-29.2835331 -52.1146412,-29.2838045 -52.1142067,-29.2841589 -52.1138915,-29.2843624 -52.1131901,-29.2847098 -52.1128039,-29.2849531 -52.1125974,-29.2850502 -52.1123332,-29.2851438 -52.1113005,-29.2853766 -52.1106327,-29.2855848 -52.1096939,-29.2859684 -52.1093854,-29.2861579 -52.1091588,-29.286414 -52.108908,-29.2867685 -52.1086344,-29.2871832 -52.1081509,-29.2879183 -52.1077131,-29.288502 -52.1073402,-29.2889429 -52.1068548,-29.2893979 -52.1062969,-29.2898553 -52.1057054,-29.2903383 -52.1054332,-29.2905606 -52.1051286,-29.2907459 -52.1044703,-29.2910717 -52.1042611,-29.2911302 -52.1040425,-29.2911571 -52.103388,-29.2911419 -52.1032727,-29.291129 -52.1028301,-29.2910191 -52.1025659,-29.2909664 -52.1022534,-29.2909793 -52.1020603,-29.2910471 -52.1018658,-29.2911437</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Picada Felipe Essig</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">729417426</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1157006,-29.2823995 -52.1150839,-29.2831301 -52.1150073,-29.2833144 -52.1148826,-29.2835331 -52.1146412,-29.2838045 -52.1142067,-29.2841589 -52.1138915,-29.2843624 -52.1131901,-29.2847098 -52.1128039,-29.2849531 -52.1125974,-29.2850502 -52.1123332,-29.2851438 -52.1113005,-29.2853766 -52.1106327,-29.2855848 -52.1096939,-29.2859684 -52.1093854,-29.2861579 -52.1091588,-29.286414 -52.108908,-29.2867685 -52.1086344,-29.2871832 -52.1081509,-29.2879183 -52.1077131,-29.288502 -52.1073402,-29.2889429 -52.1068548,-29.2893979 -52.1062969,-29.2898553 -52.1057054,-29.2903383 -52.1054332,-29.2905606 -52.1051286,-29.2907459 -52.1044703,-29.2910717 -52.1042611,-29.2911302 -52.1040425,-29.2911571 -52.103388,-29.2911419 -52.1032727,-29.291129 -52.1028301,-29.2910191 -52.1025659,-29.2909664 -52.1022534,-29.2909793 -52.1020603,-29.2910471 -52.1018658,-29.2911437</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Três Saltos Baixo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1169522088</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1199172,-29.2763299 -52.1198691,-29.2763794 -52.1198348,-29.2764216 -52.119593,-29.2768983 -52.119519,-29.2772533 -52.1191352,-29.2775508 -52.1187976,-29.2778126 -52.1187298,-29.2783988 -52.1182982,-29.2795067 -52.117657,-29.2805393 -52.117003,-29.2813098 -52.1160314,-29.2820421 -52.1157006,-29.2823995</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Três Saltos Baixo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1169522089</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1200476,-29.2762793 -52.1199172,-29.2763299</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">714070823</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1191352,-29.2775508 -52.1184209,-29.276969 -52.1182253,-29.2761442 -52.1184698,-29.2754901 -52.1184698,-29.2750492 -52.1183883,-29.274907 -52.1174427,-29.2746653 -52.1173286,-29.2742671 -52.116595,-29.2733996 -52.1164646,-29.2731863 -52.1163831,-29.27239 -52.1158777,-29.2717927 -52.1152582,-29.2724184 -52.1145735,-29.2718638 -52.1142637,-29.2715652 -52.1138399,-29.2716505 -52.1137747,-29.2719491 -52.1135627,-29.2719633 -52.1131878,-29.2716789 -52.1125683,-29.2701715 -52.1123237,-29.2692471 -52.1115738,-29.2683938 -52.1106283,-29.2673699 -52.1111499,-29.2670286 -52.111639,-29.2665308 -52.1117368,-29.2659762 -52.1119325,-29.2649949 -52.1118999,-29.2646109 -52.1122748,-29.2638856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">922358134</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1310865,-29.280059 -52.1307928,-29.2798712 -52.1306238,-29.2796969 -52.1305313,-29.2796262 -52.1301712,-29.2795133 -52.129567,-29.2792957 -52.1293189,-29.2791436 -52.129272,-29.2790699 -52.1292586,-29.278936 -52.1292633,-29.2787746 -52.1292432,-29.2787225 -52.129213,-29.2786821 -52.128173,-29.2780423 -52.1254639,-29.276318 -52.1250891,-29.2759828</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">699152739</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1467637,-29.2623957 -52.1465421,-29.2624664 -52.14607,-29.2625888 -52.1457028,-29.2627328 -52.1452444,-29.2630323 -52.1444996,-29.2632609 -52.1443174,-29.2633443 -52.1435605,-29.2638253 -52.1434193,-29.2638845 -52.14285,-29.2640904 -52.1421248,-29.2644187 -52.1413388,-29.2647358 -52.1403406,-29.2649928 -52.1401591,-29.2650972 -52.1400384,-29.2651808 -52.1399675,-29.2652591 -52.1397118,-29.2658418 -52.1395061,-29.2664664 -52.1391834,-29.2673791 -52.1389595,-29.2683024 -52.1389461,-29.2685455 -52.1390318,-29.2693319 -52.1390765,-29.2706343 -52.1389227,-29.2719939</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">699152739</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">133</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1467637,-29.2623957 -52.1465421,-29.2624664 -52.14607,-29.2625888 -52.1457028,-29.2627328 -52.1452444,-29.2630323 -52.1444996,-29.2632609 -52.1443174,-29.2633443 -52.1435605,-29.2638253 -52.1434193,-29.2638845 -52.14285,-29.2640904 -52.1421248,-29.2644187 -52.1413388,-29.2647358 -52.1403406,-29.2649928 -52.1401591,-29.2650972 -52.1400384,-29.2651808 -52.1399675,-29.2652591 -52.1397118,-29.2658418 -52.1395061,-29.2664664 -52.1391834,-29.2673791 -52.1389595,-29.2683024 -52.1389461,-29.2685455 -52.1390318,-29.2693319 -52.1390765,-29.2706343 -52.1389227,-29.2719939</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Três Saltos Baixo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530914918</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1225717,-29.2754711 -52.1231858,-29.2753845 -52.1239138,-29.2753571 -52.1242539,-29.2753064 -52.1253746,-29.274891 -52.1262612,-29.2743638 -52.127088,-29.2738415 -52.1272823,-29.2737586 -52.1276818,-29.2736933 -52.1295728,-29.2737324 -52.1299545,-29.2736814 -52.1302832,-29.2735631 -52.1305726,-29.2735009 -52.131086,-29.2734688 -52.1316719,-29.2733326 -52.132262,-29.2731677 -52.1329312,-29.2730009 -52.1331404,-29.2729237 -52.1333399,-29.2728187 -52.1333992,-29.2727863 -52.1334603,-29.2727243 -52.1335904,-29.2723968 -52.1340148,-29.2714177 -52.1341295,-29.2712 -52.1342464,-29.2710371 -52.1344017,-29.2709139 -52.1350157,-29.2706332 -52.1351896,-29.2705097 -52.1353133,-29.2703596 -52.1354562,-29.2698074 -52.1356349,-29.2694311 -52.1356912,-29.2692004 -52.1356851,-29.2689084 -52.135712,-29.2688146 -52.1358347,-29.2685648 -52.1359433,-29.2682565 -52.1360812,-29.2680519 -52.136415,-29.2676301 -52.1365399,-29.2672409 -52.136921,-29.2663139 -52.1369313,-29.2661979 -52.1367788,-29.265781 -52.1368124,-29.2656418 -52.1369398,-29.2654616 -52.1376237,-29.2648918 -52.1377753,-29.264659 -52.1379282,-29.2642539 -52.1381132,-29.2628573 -52.1383119,-29.2621307 -52.1383508,-29.2619503 -52.1383975,-29.2615528 -52.1388169,-29.2601594 -52.1395482,-29.2592064 -52.1396414,-29.2590911 -52.1398124,-29.2589835 -52.1402599,-29.2587517 -52.1410766,-29.2579889 -52.1417625,-29.2575698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Três Saltos Baixo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530914918</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">133</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1225717,-29.2754711 -52.1231858,-29.2753845 -52.1239138,-29.2753571 -52.1242539,-29.2753064 -52.1253746,-29.274891 -52.1262612,-29.2743638 -52.127088,-29.2738415 -52.1272823,-29.2737586 -52.1276818,-29.2736933 -52.1295728,-29.2737324 -52.1299545,-29.2736814 -52.1302832,-29.2735631 -52.1305726,-29.2735009 -52.131086,-29.2734688 -52.1316719,-29.2733326 -52.132262,-29.2731677 -52.1329312,-29.2730009 -52.1331404,-29.2729237 -52.1333399,-29.2728187 -52.1333992,-29.2727863 -52.1334603,-29.2727243 -52.1335904,-29.2723968 -52.1340148,-29.2714177 -52.1341295,-29.2712 -52.1342464,-29.2710371 -52.1344017,-29.2709139 -52.1350157,-29.2706332 -52.1351896,-29.2705097 -52.1353133,-29.2703596 -52.1354562,-29.2698074 -52.1356349,-29.2694311 -52.1356912,-29.2692004 -52.1356851,-29.2689084 -52.135712,-29.2688146 -52.1358347,-29.2685648 -52.1359433,-29.2682565 -52.1360812,-29.2680519 -52.136415,-29.2676301 -52.1365399,-29.2672409 -52.136921,-29.2663139 -52.1369313,-29.2661979 -52.1367788,-29.265781 -52.1368124,-29.2656418 -52.1369398,-29.2654616 -52.1376237,-29.2648918 -52.1377753,-29.264659 -52.1379282,-29.2642539 -52.1381132,-29.2628573 -52.1383119,-29.2621307 -52.1383508,-29.2619503 -52.1383975,-29.2615528 -52.1388169,-29.2601594 -52.1395482,-29.2592064 -52.1396414,-29.2590911 -52.1398124,-29.2589835 -52.1402599,-29.2587517 -52.1410766,-29.2579889 -52.1417625,-29.2575698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Três Saltos Baixo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530914917</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">132</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1227375,-29.2348194 -52.1227336,-29.2349395 -52.1227992,-29.2350863 -52.1228373,-29.2352559 -52.1229388,-29.235976 -52.1229889,-29.2360593 -52.1233034,-29.2363405 -52.123339,-29.236387 -52.1233543,-29.2364317 -52.1233477,-29.2365696 -52.1231716,-29.2370231 -52.1224505,-29.2385566 -52.1221527,-29.2392386 -52.1220957,-29.2395051 -52.1219194,-29.2411762 -52.1218839,-29.2414155 -52.1217632,-29.2419363 -52.1217484,-29.2420977 -52.1217625,-29.2422873 -52.1219113,-29.2428209 -52.1220434,-29.2431808 -52.1221561,-29.2433007 -52.1223023,-29.2434095 -52.1228964,-29.2437664 -52.1230359,-29.2438168 -52.1236467,-29.24387 -52.1237413,-29.2439086 -52.1238036,-29.2439589 -52.1238332,-29.2440104 -52.1238452,-29.2440742 -52.1236353,-29.2447435 -52.1235441,-29.2449185 -52.1229621,-29.2455872 -52.1228622,-29.2456416 -52.1227321,-29.2456311 -52.1225521,-29.2455647 -52.1224478,-29.2455533 -52.122373,-29.2455723 -52.1223428,-29.2456311 -52.1223506,-29.2457057 -52.1229286,-29.2465778 -52.122952,-29.2466474 -52.1229393,-29.2467158 -52.1228716,-29.2467901 -52.1227697,-29.2468247 -52.1225953,-29.2467884 -52.1220924,-29.2466088 -52.1215828,-29.2463829 -52.1214366,-29.2463455 -52.121281,-29.2463273 -52.1210537,-29.2463455 -52.1205568,-29.2465034 -52.1203107,-29.2466263 -52.1201981,-29.2467287 -52.1185901,-29.2491505 -52.1183239,-29.249781 -52.1182858,-29.2507213 -52.1187169,-29.2517832 -52.1186789,-29.2523694 -52.1190392,-29.2530524 -52.1192217,-29.2536153 -52.1193911,-29.2540645 -52.1197756,-29.254599 -52.1200494,-29.2548151 -52.1203355,-29.2549615 -52.1208069,-29.2550779 -52.1209189,-29.2551487 -52.1210202,-29.2552675 -52.1212616,-29.2557817 -52.1214259,-29.2562503 -52.1217249,-29.2568734 -52.1219093,-29.2570846 -52.1222366,-29.2573197 -52.1229903,-29.2578673 -52.1231291,-29.25801 -52.1231586,-29.2580791 -52.1231472,-29.2581545 -52.1226463,-29.2586641 -52.1220401,-29.2593901 -52.1219844,-29.2595117 -52.121914,-29.2597686 -52.1218047,-29.2617821 -52.1218161,-29.2621928 -52.1217933,-29.2623232 -52.1214668,-29.2630269 -52.1210711,-29.2635292 -52.1210242,-29.2635941 -52.1209789,-29.2636611 -52.1206702,-29.2643513 -52.1205555,-29.2646415 -52.1204871,-29.2648661 -52.1203154,-29.2651685 -52.1200284,-29.2654838 -52.119893,-29.2659421 -52.1196388,-29.2664652 -52.1195084,-29.2669996 -52.1194824,-29.2675966 -52.1198473,-29.2692453 -52.1200168,-29.2696547 -52.1202832,-29.2705308 -52.1206316,-29.2711212 -52.1208666,-29.2716246 -52.1211322,-29.2720621 -52.1211635,-29.272155 -52.1212336,-29.2725737 -52.1213168,-29.2728133 -52.1214044,-29.2732016 -52.121446,-29.2733519 -52.1214966,-29.2734402 -52.1217813,-29.2738368 -52.1220495,-29.2741608 -52.1221589,-29.2743695 -52.1224346,-29.275104 -52.1225717,-29.2754711 -52.1217283,-29.2757699 -52.1208363,-29.2759739 -52.1200476,-29.2762793</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">923607476</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">133</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1534608,-29.2505252 -52.1537036,-29.2510833 -52.153725,-29.2511699 -52.1537089,-29.2512553 -52.1536177,-29.2514074 -52.1533093,-29.251659 -52.1532409,-29.251735 -52.1532214,-29.2518093 -52.1532791,-29.2520083 -52.1534702,-29.2524734 -52.1534984,-29.25276 -52.1533884,-29.253138 -52.1532382,-29.2535756 -52.1530478,-29.2538552 -52.1528319,-29.2541208 -52.152793,-29.2542215 -52.1528238,-29.254662 -52.1528332,-29.2548318</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Picada Felipe Essig</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">729417429</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1018658,-29.2911437 -52.1015427,-29.2913746 -52.101139,-29.2917092 -52.1004939,-29.292356 -52.1001184,-29.2926916 -52.0999481,-29.2928004 -52.097919,-29.2939373 -52.0948505,-29.2956402 -52.0937093,-29.2962999 -52.0931219,-29.2966332 -52.0925371,-29.2969373 -52.0911813,-29.2975899 -52.0905593,-29.2979396 -52.0902626,-29.2981092 -52.0899562,-29.298316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">714070829</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0937093,-29.2962999 -52.0937736,-29.2945689 -52.0938461,-29.2932881 -52.0939051,-29.2924261 -52.0940164,-29.2913302 -52.0940191,-29.2912238 -52.0939909,-29.2907267 -52.0939936,-29.2906623 -52.0940781,-29.2900284 -52.0941049,-29.2896143 -52.0941223,-29.2889839 -52.0941049,-29.2888587 -52.0940687,-29.2887102 -52.0938326,-29.288171 -52.0938072,-29.2880598 -52.0938098,-29.2880002 -52.0938273,-29.287868 -52.0941242,-29.2873191 -52.0944858,-29.2865849 -52.0944898,-29.2864597 -52.0944576,-29.2863615 -52.0943624,-29.2860995 -52.0943463,-29.2859743 -52.0944107,-29.2853894 -52.0944589,-29.2842759 -52.0945019,-29.2835074 -52.0945213,-29.2826284 -52.0943583,-29.2779786 -52.0941627,-29.2768694 -52.0937062,-29.276258 -52.0940649,-29.2757745 -52.0941953,-29.2748359 -52.0940486,-29.2728735 -52.0936899,-29.2727455 -52.0930215,-29.2730868 -52.0912119,-29.2709394 -52.0901849,-29.2692045 -52.0909348,-29.2673557 -52.089761,-29.2667868 -52.0899403,-29.2663602 -52.0907065,-29.2652793 -52.0903153,-29.2642838 -52.0902338,-29.2636011 -52.090837,-29.2630749 -52.0910163,-29.2626767 -52.0903316,-29.2621078 -52.0903642,-29.261226 -52.090625,-29.2604865 -52.091864,-29.2590073 -52.0922879,-29.2560063 -52.092076,-29.2552667 -52.0931519,-29.2541004 -52.0936084,-29.2532043 -52.0940975,-29.2522087 -52.094505,-29.2512841 -52.0942468,-29.2502212</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">472989127</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">133</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.163281,-29.2200266 -52.1631637,-29.220105 -52.1629491,-29.2201401 -52.1612703,-29.220223 -52.1608543,-29.2202946 -52.1592638,-29.2207066 -52.1549718,-29.2217919 -52.1539426,-29.2221387 -52.1533629,-29.2224576 -52.152687,-29.2229726 -52.1524805,-29.2231926 -52.1517992,-29.2249295 -52.1514505,-29.2262871 -52.1510428,-29.227825 -52.1508792,-29.2286957 -52.15056,-29.2304864 -52.1503086,-29.2315877 -52.1501832,-29.231872 -52.1498854,-29.2321576 -52.1495099,-29.2324186 -52.1493664,-29.2326082 -52.1493302,-29.2327708 -52.1494067,-29.2329476 -52.1497688,-29.2334086 -52.1502851,-29.2341752 -52.1504822,-29.2347533 -52.1506928,-29.2353338 -52.1509261,-29.2359997 -52.1515551,-29.2368539 -52.1518448,-29.2373478 -52.1519467,-29.2374789 -52.1524047,-29.2378563 -52.1526595,-29.2381161 -52.1528433,-29.2383969 -52.1529673,-29.2386357 -52.1531678,-29.2391219 -52.1534266,-29.2399024 -52.1540248,-29.2407415 -52.1541133,-29.2409065 -52.1543037,-29.2415103 -52.154607,-29.242203 -52.1549441,-29.2430901 -52.1550903,-29.2438413 -52.1552981,-29.2446359 -52.1554886,-29.2449764 -52.1557662,-29.2455486 -52.1559714,-29.2459359 -52.1560934,-29.2462589 -52.1560612,-29.246762 -52.1559969,-29.2476619 -52.155899,-29.2484833 -52.1558909,-29.2486337 -52.1559285,-29.2488098 -52.1561135,-29.2491433 -52.1562396,-29.2494639 -52.1562731,-29.2498173 -52.1562839,-29.2505884 -52.1563174,-29.2508657 -52.1566102,-29.2514104 -52.1566615,-29.2515723 -52.1566457,-29.2518075 -52.1565545,-29.2520746 -52.1562156,-29.2528626 -52.1561062,-29.2530198 -52.1559683,-29.253143 -52.1551954,-29.2535754 -52.1549162,-29.253806 -52.1544116,-29.2542511 -52.154071,-29.2544227 -52.1537116,-29.2545573 -52.1528332,-29.2548318 -52.1526816,-29.2548586 -52.152438,-29.2548705 -52.1509248,-29.254785 -52.1503863,-29.2548194 -52.1474203,-29.2554986 -52.1466807,-29.2557559 -52.1464576,-29.2557718 -52.1462372,-29.255757 -52.1459989,-29.2557203 -52.1457458,-29.2556329 -52.1452407,-29.2553706 -52.1449864,-29.2553213 -52.1447196,-29.2553081 -52.1443574,-29.2554032 -52.1439966,-29.2555359 -52.1417625,-29.2575698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Marques_de_Souza_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">397683959</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">133</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1663931,-29.2279912 -52.1659747,-29.2278484 -52.1655053,-29.2276377 -52.164773,-29.2271696 -52.1639282,-29.2266102 -52.1629304,-29.2260156 -52.1616992,-29.2254164 -52.1608892,-29.2251238 -52.1599889,-29.2248691 -52.1588534,-29.2245807 -52.1584792,-29.224528 -52.1579121,-29.2245689 -52.1575432,-29.2246427 -52.157173,-29.2247855 -52.156949,-29.2249318 -52.15665,-29.2251507 -52.1563365,-29.2255144 -52.1553504,-29.22677 -52.1548955,-29.2274286 -52.1546073,-29.2279552 -52.154419,-29.2286207 -52.1542959,-29.2292868 -52.1541421,-29.2313337 -52.1540967,-29.2334649 -52.1541352,-29.2341046 -52.1542105,-29.2344619 -52.1543994,-29.2350248 -52.155123,-29.2370724 -52.1553836,-29.2377125 -52.1556673,-29.2382116 -52.1559508,-29.2386256 -52.1565752,-29.2393312 -52.1572271,-29.2400022 -52.1580111,-29.2409284 -52.1584475,-29.2415258 -52.1589199,-29.2422978 -52.1593069,-29.2431269 -52.1597891,-29.2444582 -52.1603192,-29.2460442 -52.1605709,-29.2467131 -52.160823,-29.2474154 -52.1610926,-29.2480884 -52.162024,-29.2509133 -52.1621936,-29.2515851 -52.1622933,-29.252126 -52.162313,-29.2527292 -52.1622573,-29.2533764 -52.1621184,-29.2540175 -52.1619433,-29.2545081 -52.1617022,-29.2550098 -52.1612083,-29.2557574 -52.1604464,-29.2565662 -52.1595535,-29.2574084 -52.1590245,-29.2578619 -52.1584419,-29.2582107</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

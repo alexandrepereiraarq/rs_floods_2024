@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Muçum_roads_OSM_2024_L_affected" id="TRA_Muçum_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Muçum_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">205518861</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">136</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8772925413087,-29.1858592973749 -51.8781437,-29.1852345 -51.8802959,-29.1838304 -51.8805152,-29.1836296 -51.8806178,-29.1833761 -51.8806607,-29.1828516 -51.8807251,-29.1825143 -51.8808451,-29.1823838 -51.881004,-29.1822895 -51.8824384,-29.1821075 -51.8831733,-29.1820138 -51.8835327,-29.1819365 -51.883874,-29.1818212 -51.8852312,-29.1813341 -51.8864757,-29.180847 -51.8873126,-29.1803037 -51.8882353,-29.1794232 -51.8889893,-29.1786948 -51.8892438,-29.178449 -51.8902737,-29.177531 -51.8906402,-29.1771731 -51.890896,-29.1767441 -51.8909329,-29.1765058 -51.8908981,-29.1762435 -51.89066,-29.1757699 -51.8903294,-29.1753606 -51.8900344,-29.1750656 -51.8895006,-29.174562 -51.8889266,-29.1741592 -51.8883097,-29.1739203 -51.8874568,-29.1735878 -51.8851233,-29.1729414 -51.8842274,-29.1726744 -51.8835112,-29.1725175 -51.8826959,-29.1723723 -51.8823499,-29.1723161 -51.8819234,-29.1722903 -51.8808451,-29.1723348 -51.8802074,-29.1723692 -51.8800822,-29.1723465 -51.8799914,-29.1723101 -51.8799493,-29.1722259 -51.8798621,-29.1722008 -51.8797733,-29.1718699</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952534196</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8688262,-29.1735328 -51.8686384,-29.1734168 -51.8681717,-29.1733138 -51.8677264,-29.1731053 -51.8673724,-29.1730515 -51.8669459,-29.1730269 -51.8665315,-29.1730515 -51.8661523,-29.173074 -51.865916,-29.1731135 -51.8657872,-29.1731674 -51.8656963,-29.1732054 -51.8655995,-29.1733056 -51.865527,-29.1733969 -51.8654171,-29.1735011 -51.8653071,-29.1735726 -51.8651234,-29.173644 -51.8648535,-29.1737489 -51.8646446,-29.1738548 -51.8644568,-29.1739836 -51.8643388,-29.1741065 -51.8642288,-29.1743161 -51.8641229,-29.1745878 -51.8640793,-29.1746997 -51.8640558,-29.1747377 -51.8640505,-29.17475 -51.8640391,-29.1747558 -51.864031,-29.1747582 -51.864019,-29.1747582 -51.8639885,-29.1747494 -51.8639378,-29.1747081 -51.8638815,-29.1745503 -51.8637702,-29.1741733 -51.8637098,-29.1739122 -51.8635958,-29.1735726 -51.863569,-29.1730995 -51.863616,-29.1728477 -51.8639231,-29.1723442 -51.8643603,-29.1718032 -51.8648082,-29.1712973 -51.865409,-29.1709179 -51.8654868,-29.170843 -51.8655378,-29.1707493 -51.8656075,-29.1705971 -51.865747,-29.1702668 -51.8658874,-29.1699387</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">552482044</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8725666,-29.1680982 -51.8716198,-29.1679908 -51.8715775,-29.1679861 -51.8715561,-29.1679896 -51.87154,-29.1679943 -51.8715252,-29.168013 -51.8715145,-29.1680809 -51.8714743,-29.1684311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778341435</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8785743,-29.1682184 -51.8783822,-29.1682092 -51.8772243,-29.1681228 -51.8760915,-29.1680215 -51.8752028,-29.1679664 -51.8749528,-29.1679411 -51.8738119,-29.1678555 -51.8736387,-29.1678433 -51.8729545,-29.1677848 -51.8725842,-29.1677603 -51.870924,-29.1676407</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778341434</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8709302,-29.1675792 -51.8725926,-29.1676971 -51.8736446,-29.167781 -51.8749628,-29.1678775 -51.8752072,-29.1678976 -51.8760964,-29.1679639 -51.8772289,-29.1680634 -51.8783878,-29.1681423 -51.8784832,-29.1681448</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952601452</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.870924,-29.1676407 -51.8708094,-29.1676096</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778392596</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8708094,-29.1676096 -51.8709302,-29.1675792</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano Peixoto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256624786</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8676406,-29.1663258 -51.8686032,-29.1669577 -51.8695776,-29.1675912 -51.8708404,-29.1683784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">175994297</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">136</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8874165,-29.1684026 -51.8878457,-29.1685829 -51.8890768,-29.1690724 -51.8909812,-29.1697656 -51.8925744,-29.1703699 -51.8934971,-29.170843 -51.893937,-29.1711193 -51.8941623,-29.171288 -51.8959433,-29.17274 -51.8965991,-29.1733255 -51.8969466,-29.1737376 -51.8970913,-29.1740211 -51.89722,-29.1743044 -51.8973045,-29.1745106 -51.8973836,-29.1748829 -51.8974321,-29.175509 -51.8973494,-29.1761097 -51.8971422,-29.1776159 -51.8968956,-29.179715 -51.8967775,-29.1803239 -51.8965711,-29.1809599 -51.8962599,-29.1814845 -51.8958294,-29.182009 -51.8935321,-29.183873 -51.8930198,-29.1843882 -51.8925785,-29.1848848 -51.8920435,-29.1856153 -51.8919310390989,-29.1857625755001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">175994297</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8874165,-29.1684026 -51.8878457,-29.1685829 -51.8890768,-29.1690724 -51.8909812,-29.1697656 -51.8925744,-29.1703699 -51.8934971,-29.170843 -51.893937,-29.1711193 -51.8941623,-29.171288 -51.8959433,-29.17274 -51.8965991,-29.1733255 -51.8969466,-29.1737376 -51.8970913,-29.1740211 -51.89722,-29.1743044 -51.8973045,-29.1745106 -51.8973836,-29.1748829 -51.8974321,-29.175509 -51.8973494,-29.1761097 -51.8971422,-29.1776159 -51.8968956,-29.179715 -51.8967775,-29.1803239 -51.8965711,-29.1809599 -51.8962599,-29.1814845 -51.8958294,-29.182009 -51.8935321,-29.183873 -51.8930198,-29.1843882 -51.8925785,-29.1848848 -51.8920435,-29.1856153 -51.8919310390989,-29.1857625755001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945433906</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">136</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8935321,-29.183873 -51.8933013,-29.1838872 -51.893009,-29.1840605 -51.8927541,-29.1842713 -51.8921131,-29.1849269 -51.8915807,-29.1855674 -51.8914519,-29.1857301 -51.8914277677276,-29.1857659273654</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">384718072</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">136</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8698333,-29.1717657 -51.8700144,-29.1718524 -51.8704368,-29.1719859 -51.8707694,-29.1720643 -51.8711543,-29.1722119 -51.8713501,-29.1722646 -51.8716948,-29.1723067 -51.8720421,-29.1722833 -51.8723854,-29.1722903 -51.8729286,-29.1722775 -51.8731123,-29.1722845 -51.873221,-29.1723173 -51.8733537,-29.1724121 -51.8734986,-29.1725667 -51.8736166,-29.1726533 -51.8737668,-29.1726908 -51.8739277,-29.1726838 -51.8741208,-29.1726182 -51.8743703,-29.1725222 -51.8745956,-29.1724519 -51.8749014,-29.1723957 -51.8755263,-29.1723512 -51.8759984,-29.1723419 -51.8763739,-29.1724121 -51.8767977,-29.1725807 -51.8769425,-29.1726135 -51.8771598,-29.1726299 -51.8779016,-29.1727165 -51.8787076,-29.1728451 -51.8793703,-29.1729128 -51.8798353,-29.173082 -51.8801558,-29.1731007 -51.8804535,-29.1731007 -51.8807781,-29.1731124 -51.880998,-29.1730819 -51.8816417,-29.1731334 -51.8821326,-29.1731967 -51.8825376,-29.1732388 -51.8832564,-29.1734239 -51.8840182,-29.1735409 -51.8851554,-29.1738501 -51.8862659,-29.1740702 -51.8868493,-29.174199 -51.8870652,-29.1742775 -51.8875372,-29.1745058 -51.8887711,-29.1751756 -51.8891466,-29.1754145 -51.8895865,-29.1756206 -51.8901528,-29.1760517 -51.8904153,-29.1763723 -51.8905869,-29.1765761 -51.8906406,-29.1767775 -51.8906402,-29.1771731</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Luiz Segalle</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207544964</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.877045,-29.1698752 -51.8770168,-29.1702793</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua José Alberti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622876</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8782102,-29.169974 -51.877045,-29.1698752</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Rui Barbosa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622028</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8806383,-29.1695785 -51.8797235,-29.1695052 -51.8792872,-29.1694896 -51.8790916,-29.1694846</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Julio Zarpellon</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622874</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.879065,-29.1693794 -51.8789406,-29.1693702 -51.8782766,-29.1693135 -51.8771006,-29.1692386 -51.8759533,-29.1691436 -51.875082,-29.1690782</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor Biasoti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778341436</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8785743,-29.1682184 -51.8789406,-29.1693702 -51.8790692,-29.1700999</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Angelo Alberto Zilio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622867</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8783878,-29.1681423 -51.8783822,-29.1682092 -51.8783046,-29.1689654 -51.8782766,-29.1693135 -51.8782102,-29.169974</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Castelo Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622872</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8749637,-29.1701251 -51.8750315,-29.1694573 -51.875082,-29.1690782 -51.8752028,-29.1679664 -51.8752072,-29.1678976</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Castro Alves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622162</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.880769,-29.1687258 -51.8798291,-29.1686494 -51.8790326,-29.1686074</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Júlio Tombini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">490578193</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8934971,-29.170843 -51.8934689,-29.1707364 -51.8934327,-29.1706849 -51.8933134,-29.1705584 -51.8924323,-29.1701474 -51.8921506,-29.1700279 -51.8920219,-29.1699179 -51.8918744,-29.1697703 -51.8918234,-29.169672 -51.8916491,-29.1694565 -51.8912119,-29.1691426 -51.8904153,-29.1686813 -51.8897125,-29.1682105 -51.8892749,-29.1679612 -51.8888941,-29.1677083 -51.8886423,-29.1675219</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207436445</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8875614,-29.1698101 -51.8875694,-29.1697773 -51.887556,-29.169693 -51.8875104,-29.1696181 -51.8874407,-29.1695595 -51.8873709,-29.1695033 -51.8873602,-29.1694682 -51.8873602,-29.1694448 -51.8876928,-29.1688874 -51.8878189,-29.1686578 -51.8878457,-29.1685829</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207436444</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8885967,-29.1693113 -51.8877947,-29.16896 -51.8877304,-29.1689155 -51.8876928,-29.1688874</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">175994301</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8858208,-29.1677442 -51.8874165,-29.1684026</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Picoli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">490578195</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8901815,-29.1670139 -51.8898842,-29.1673416 -51.8892749,-29.1679612</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256627629</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8811442,-29.1669398 -51.8813171,-29.167019 -51.8824068,-29.1670794 -51.8832742,-29.167313</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430327</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8825342,-29.1664488 -51.8829084,-29.1666049 -51.8858208,-29.1677442</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430329</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8817181,-29.1665535 -51.8817638,-29.1664791 -51.8818027,-29.1664024 -51.8818194,-29.1663497 -51.8818234,-29.1662713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Signori</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">244103869</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.878708,-29.1670905 -51.8787098,-29.1671849 -51.8787246,-29.1673506 -51.878734,-29.1675596 -51.8787894,-29.1681951 -51.8788791,-29.1686208 -51.879065,-29.1693794 -51.8790916,-29.1694846 -51.8791622,-29.1697606 -51.8792779,-29.1701617</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778341433</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8789009,-29.1674048 -51.878888,-29.1676951 -51.8789422,-29.1682069 -51.8790326,-29.1686074 -51.8792872,-29.1694896</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622026</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8796976,-29.1699045 -51.8797235,-29.1695052 -51.8798291,-29.1686494 -51.8798665,-29.1682802 -51.8799057,-29.1677818 -51.8799917,-29.1668888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Silvio Sanson</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622869</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8758811,-29.1702125 -51.8759533,-29.1691436 -51.8760915,-29.1680215 -51.8760964,-29.1679639 -51.876225,-29.1666287 -51.8762317,-29.1665687</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622996</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8808219,-29.1683523 -51.8798665,-29.1682802 -51.8789422,-29.1682069 -51.8787894,-29.1681951</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Picolli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622025</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8806383,-29.1695785 -51.8806863,-29.1695315 -51.880769,-29.1687258 -51.8808219,-29.1683523 -51.8808645,-29.1678467 -51.8809629,-29.1669422</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Luiz Segalle</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622868</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.877045,-29.1698752 -51.8771006,-29.1692386 -51.8772243,-29.1681228 -51.8772289,-29.1680634 -51.8773679,-29.1667003 -51.877373,-29.1666536</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">956519573</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8787894,-29.1681951 -51.8785743,-29.1682184</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778392597</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8784832,-29.1681448 -51.8787894,-29.1681951</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor Biasoti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256623007</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8781311,-29.166773 -51.8782276,-29.1671083 -51.8782766,-29.1673048 -51.8783058,-29.1674342 -51.8783459,-29.1675944 -51.8784832,-29.1681448</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Signori</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696921639</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8788012,-29.1668883 -51.878708,-29.1670905</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Signori</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">244103863</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.878708,-29.1670905 -51.8786653,-29.1670013 -51.8786117,-29.1668821</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">956570051</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.878848,-29.1668265 -51.878566,-29.1668103</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Signori</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">244103851</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8786457,-29.1669023 -51.8786117,-29.1668821 -51.8785821,-29.1668495 -51.878566,-29.1668103 -51.8785636,-29.1667843 -51.8785672,-29.1667583 -51.8785768,-29.1667336 -51.8786024,-29.1667 -51.8786386,-29.166675 -51.8786759,-29.1666597 -51.8787235,-29.166659 -51.8787641,-29.1666673 -51.8788004,-29.1666852 -51.8788295,-29.1667112 -51.8788491,-29.1667433 -51.8788571,-29.1667739 -51.8788575,-29.1667972 -51.878848,-29.1668265 -51.878828,-29.1668646 -51.8788012,-29.1668883 -51.8787656,-29.1669062 -51.8787258,-29.1669148 -51.8786847,-29.1669135 -51.8786457,-29.1669023</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">956570050</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8785768,-29.1667336 -51.8788491,-29.1667433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430335</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.878566,-29.1668103 -51.8781311,-29.166773 -51.8779492,-29.1667525 -51.8773679,-29.1667003 -51.8764184,-29.166643 -51.876225,-29.1666287 -51.8760912,-29.1666143 -51.8750937,-29.1665243 -51.8737978,-29.1664211 -51.8733091,-29.1663743 -51.8727382,-29.166331 -51.8723891,-29.166307 -51.8710435,-29.1662151</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Julio de Castilhos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256624780</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.870837,-29.1685239 -51.8708404,-29.1683784 -51.870924,-29.1676407 -51.8709302,-29.1675792 -51.8710435,-29.1662151 -51.8710458,-29.1661406</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Silvio Corbetta</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256624779</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.872543,-29.168337 -51.8725666,-29.1680982 -51.8725842,-29.1677603 -51.8725926,-29.1676971 -51.8727382,-29.166331 -51.8727455,-29.1662712</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256624782</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8695776,-29.1675912 -51.8696315,-29.1675222 -51.8700013,-29.1670465</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Tiradentes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622998</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8736387,-29.1678433 -51.8736446,-29.167781 -51.8737978,-29.1664211 -51.8738062,-29.1663529</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1208736465</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8680587,-29.1657755 -51.8682869,-29.1659257 -51.8690395,-29.1664125 -51.8700013,-29.1670465 -51.8708094,-29.1676096</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665633</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8700013,-29.1670465 -51.870706,-29.1662056</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Silva Jardim</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256624787</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.869717,-29.1655673 -51.8690395,-29.1664125 -51.8686032,-29.1669577</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">316370380</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822704,-29.1663298 -51.8825342,-29.1664488</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665237</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822704,-29.1663298 -51.882227,-29.1663769 -51.8821876,-29.1664006 -51.882134,-29.1664224 -51.8820999,-29.1664286 -51.8820595,-29.1664339</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665236</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8820595,-29.1664339 -51.8820103,-29.1664295 -51.8819631,-29.1664164 -51.88192,-29.1663953 -51.8818827,-29.1663669 -51.8818527,-29.1663326 -51.8818234,-29.1662713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665233</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822987,-29.1661649 -51.8823059,-29.166224 -51.8822943,-29.1662826 -51.8822704,-29.1663298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665235</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8818234,-29.1662713 -51.8818177,-29.1662499 -51.8818157,-29.1661981</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">701665234</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8818651,-29.1660866 -51.8822704,-29.1663298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1205304699</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8818157,-29.1661981 -51.8818292,-29.1661444 -51.8818651,-29.1660866</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1205304700</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.882017,-29.1660057 -51.8820906,-29.166004 -51.8821614,-29.1660213 -51.8822232,-29.1660562 -51.8822704,-29.1661056 -51.8822987,-29.1661649</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">244103873</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8818651,-29.1660866 -51.8818977,-29.1660561 -51.8819489,-29.1660253 -51.882017,-29.1660057</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430325</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8816759,-29.1659233 -51.8818651,-29.1660866</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778341439</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8710458,-29.1661406 -51.872397,-29.1662471 -51.8727455,-29.1662712 -51.8732949,-29.1663101 -51.8738062,-29.1663529 -51.8750992,-29.1664594 -51.8760926,-29.1665556 -51.8762317,-29.1665687 -51.8764268,-29.1665832 -51.877373,-29.1666536 -51.877941,-29.1666972 -51.8782968,-29.1667202 -51.8785768,-29.1667336</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor Biasoti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256623006</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8779492,-29.1667525 -51.877941,-29.1666972 -51.8778868,-29.1664813 -51.8777418,-29.1659481 -51.8776366,-29.165627 -51.8774722,-29.1650237 -51.877382,-29.1647816</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Castelo Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256622997</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8749528,-29.1679411 -51.8749628,-29.1678775 -51.8750937,-29.1665243 -51.8750992,-29.1664594 -51.8752354,-29.1651845 -51.8752878,-29.1646366 -51.8753489,-29.1640676 -51.875425,-29.1634874</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Costa e Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256623001</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8771237,-29.1653403 -51.8765708,-29.1652909 -51.8759373,-29.1652344 -51.8752354,-29.1651845 -51.8742523,-29.1651259 -51.8732838,-29.1650415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Henrique Zilio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256623000</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8764184,-29.166643 -51.8764268,-29.1665832 -51.8764608,-29.1663821 -51.8765708,-29.1652909 -51.8766241,-29.1647278 -51.8766749,-29.1641809 -51.8767959,-29.1629094</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Signori</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256625963</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8787505,-29.1624159 -51.8786216,-29.1625028 -51.8781192,-29.163362 -51.8780335,-29.1637162 -51.8780252,-29.1641509 -51.8781288,-29.1645844 -51.8782413,-29.1650722 -51.8784686,-29.1660066 -51.8786386,-29.166675</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405892472</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7650832473121,-29.1865475467051 -51.7650218,-29.1861442</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209188631</SimpleData>
+		<SimpleData name="source">maxar</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7760522,-29.1863154 -51.7760166568518,-29.1864846207215</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294708</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7382788461342,-29.1866980385702 -51.7374201,-29.1860487 -51.7365301,-29.1852694 -51.7357147,-29.1845317 -51.7351067,-29.1841211</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1035916855</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">137</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8065102,-29.1805574 -51.8061346,-29.1809542 -51.8054724,-29.1816391 -51.8045899,-29.1825079 -51.8040293,-29.1831191 -51.8035479,-29.1836531 -51.8031952,-29.1840207 -51.803049,-29.1841735 -51.8030074,-29.1842192 -51.8029766,-29.1842584 -51.8029685,-29.184283</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pedro José Parenti Neto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968314</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.738584,-29.1693573 -51.7386131,-29.1706925 -51.7385959,-29.1707346</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Dom Giosué Bardim</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968336</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.739674,-29.1693565 -51.738584,-29.1693573 -51.7374302,-29.1693581 -51.7366513,-29.1693587 -51.735827,-29.1693423</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294707</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.8798621,-29.1722008 -51.8796505,-29.1721922 -51.8790293,-29.1722318 -51.8784392,-29.1722341 -51.8777981,-29.1721568 -51.8771169,-29.1720491 -51.8765938,-29.1720116 -51.8758589,-29.1719859 -51.8747512,-29.1719671 -51.8743891,-29.1719625 -51.8737185,-29.1719788 -51.8728817,-29.1719461 -51.872596,-29.1719425 -51.8724431,-29.1719238 -51.8723466,-29.1719226 -51.8722594,-29.1719215 -51.8721816,-29.1719238 -51.8720891,-29.1719109 -51.8719777,-29.1719086 -51.8712267,-29.17185 -51.8705066,-29.1718173 -51.8698333,-29.1717657 -51.8694457,-29.1716557 -51.8692043,-29.1715971 -51.8689589,-29.1715327 -51.8686518,-29.1714332 -51.8684654,-29.171377 -51.8682522,-29.171295 -51.8681073,-29.1712177 -51.8679987,-29.1711439 -51.8677573,-29.170963 -51.8675776,-29.1708465 -51.8673188,-29.1707001 -51.8669003,-29.1704999 -51.8664148,-29.1701931 -51.8663391,-29.1701495 -51.8662338,-29.1700888 -51.8660983,-29.1700174 -51.8659911,-29.1699682 -51.8658874,-29.1699387 -51.865802,-29.1699144 -51.8653487,-29.1697528 -51.8647324,-29.16953 -51.8646748,-29.1695092 -51.8640277,-29.1693183 -51.8638104,-29.1692199 -51.863675,-29.1690724 -51.8635207,-29.1688897 -51.8633397,-29.1686801 -51.8625042,-29.1677831 -51.8621857,-29.1674323 -51.8617773,-29.1670324 -51.8614192,-29.1667186 -51.8607366,-29.1662502 -51.8604443,-29.1659972 -51.8601251,-29.1657372 -51.8596677,-29.1654304 -51.85937,-29.1652009 -51.8591943,-29.1650428 -51.8587478,-29.1643987 -51.8584259,-29.1638858 -51.858096,-29.163494 -51.8576963,-29.1631175 -51.8572967,-29.162724 -51.8566355,-29.162115 -51.8561809,-29.1616513 -51.8556806,-29.1612238 -51.8553682,-29.1608947 -51.8550852,-29.1605961 -51.854699,-29.1601745 -51.854412,-29.1598325 -51.8541317,-29.1594168 -51.8536127,-29.158919 -51.8533847,-29.1585548 -51.8531433,-29.1582655 -51.8528911,-29.1579306 -51.8526417,-29.1575816 -51.8525666,-29.1574457 -51.8524727,-29.1572513 -51.8523842,-29.157003 -51.8523601,-29.1569187 -51.8523413,-29.1568273 -51.8523198,-29.1566376 -51.8523078,-29.1564994 -51.8522877,-29.1563155 -51.8521837,-29.1559718 -51.8519691,-29.1554846 -51.8519014,-29.1553306 -51.8518759,-29.1552252 -51.8518625,-29.1550928 -51.8518652,-29.1549113 -51.851888,-29.154591 -51.8518826,-29.1544194 -51.851831,-29.154157 -51.8517405,-29.1539181 -51.8516533,-29.1537904 -51.8515594,-29.1536757 -51.851487,-29.1535222 -51.8514307,-29.1534016 -51.8514039,-29.1532974 -51.851367,-29.1529829 -51.8513368,-29.1527053 -51.851306,-29.15244 -51.8512563,-29.1521203 -51.8511692,-29.1517232 -51.8510713,-29.1514539 -51.8506475,-29.1505005 -51.8505201,-29.1502826 -51.8503538,-29.1500624 -51.8500789,-29.1498387 -51.8498267,-29.1496607 -51.8495867,-29.1495412 -51.8494552,-29.1494967 -51.8491817,-29.149451 -51.8488263,-29.1493948 -51.848499,-29.1493269 -51.8482375,-29.1492824 -51.8480511,-29.1492554 -51.8478848,-29.1492496 -51.8476541,-29.1492753 -51.8474624,-29.1493222 -51.8473886,-29.1493714 -51.847292,-29.1494487 -51.8472129,-29.1495611 -51.8471633,-29.1496501 -51.8471177,-29.1497825 -51.8470909,-29.1498903 -51.8470654,-29.1501069 -51.8470372,-29.150299 -51.8469764,-29.1504849 -51.8467435,-29.1511341 -51.8466859,-29.1513098 -51.8466094,-29.151489 -51.8465169,-29.1516307 -51.8464069,-29.1517666 -51.8462795,-29.1519294 -51.8461213,-29.1520863 -51.845963,-29.1522807 -51.8458369,-29.1525126 -51.8457122,-29.1527516 -51.8455593,-29.153021 -51.8453957,-29.1532177 -51.8453059,-29.1532968 -51.8451467,-29.1534536 -51.845102,-29.1534976 -51.844634,-29.154095 -51.8442987,-29.1545096 -51.8436771,-29.1551766 -51.8433881,-29.1554793 -51.8431923,-29.1557253 -51.843093,-29.1558892 -51.8430153,-29.1560907 -51.8429871,-29.1562406 -51.8429536,-29.1563963 -51.8429167,-29.1565006 -51.8428355,-29.1566013 -51.8426974,-29.1567026 -51.842403,-29.1568543 -51.842047,-29.1570586 -51.8417224,-29.1572718 -51.84141,-29.1575008 -51.84119,-29.1576975 -51.8409768,-29.1578966 -51.8406972,-29.1581912 -51.8404183,-29.1586882 -51.8396574,-29.1599327 -51.8393493,-29.1603368 -51.8392159,-29.1605059 -51.8391489,-29.1606453 -51.839058,-29.1609077 -51.8389852,-29.1611571 -51.8388793,-29.1613632 -51.8386728,-29.1617134 -51.8381354,-29.1627447 -51.8372794,-29.1645896 -51.8371855,-29.1647535 -51.8368896,-29.1651 -51.8367617,-29.1653397 -51.8366262,-29.1655592 -51.8365223,-29.165839 -51.8364935,-29.1659328 -51.8362293,-29.1663485 -51.8359463,-29.1669651 -51.8355829,-29.1678428 -51.8354259,-29.1682907 -51.8352607,-29.1686837 -51.8347514,-29.1694682 -51.8344074,-29.1701111 -51.8341336,-29.1706187 -51.8339652,-29.170918 -51.8332547,-29.1722201 -51.8331917,-29.172336 -51.83313,-29.172555 -51.8330857,-29.1727353 -51.8330562,-29.1729508 -51.8330508,-29.1731686 -51.8330629,-29.1733343 -51.8330475,-29.1734168 -51.8330193,-29.1734859 -51.8329697,-29.1735573 -51.8328812,-29.1736329 -51.832786,-29.173699 -51.8325989,-29.1738126 -51.8323749,-29.1739742 -51.8321671,-29.1741932 -51.8320732,-29.1743267 -51.8319243,-29.1745328 -51.8318237,-29.1746803 -51.8316722,-29.1748712 -51.8313946,-29.1751464 -51.8311592,-29.1754473 -51.8310513,-29.1755878 -51.8309681,-29.1757482 -51.8308984,-29.1759262 -51.8308903,-29.1761253 -51.8309198,-29.176329 -51.8309239,-29.1764367 -51.8309051,-29.176548 -51.8308662,-29.1766253 -51.8308058,-29.1767072 -51.8306731,-29.1768483 -51.8304773,-29.1770825 -51.8302466,-29.1773243 -51.8300816,-29.1774367 -51.8299395,-29.1775398 -51.8296418,-29.1777681 -51.8293267,-29.1780482 -51.8291133,-29.1782875 -51.8290329,-29.1784407 -51.828742,-29.1793591 -51.8286407,-29.1795229 -51.8285201,-29.1796359 -51.8281573,-29.1798978 -51.8280075,-29.1800363 -51.8276637,-29.1805827 -51.8271907,-29.1810419 -51.8269527,-29.1812112 -51.826673,-29.181353 -51.8264649,-29.1814677 -51.8262358,-29.1816345 -51.8259449,-29.1819269 -51.8254924,-29.1822989 -51.825275,-29.1825092 -51.824893,-29.1828248 -51.8246109,-29.1830351 -51.8242715,-29.1831907 -51.8240556,-29.1833712 -51.8237824,-29.1836738 -51.8235385,-29.1841228 -51.8234651,-29.1842382 -51.8233652,-29.1842946 -51.8232868,-29.1843051 -51.8232124,-29.1842921 -51.8230008,-29.1841843 -51.822851,-29.1841407 -51.8225094,-29.184118 -51.8218055,-29.1839917 -51.8216669,-29.1839919 -51.8215053,-29.1840304 -51.8211703,-29.1841407 -51.8209326,-29.184186 -51.8194027,-29.1842493 -51.8188462,-29.1841664 -51.8183196,-29.1841299 -51.8146287,-29.1841262 -51.8144302,-29.1840689 -51.8141863,-29.1839483 -51.81396,-29.1838842 -51.8137417,-29.1838438 -51.8127902,-29.183803 -51.8125879,-29.1837559 -51.8123235,-29.1836482 -51.8120502,-29.1835405 -51.8118181,-29.1834917 -51.8114005,-29.1834808 -51.8099788,-29.1836046 -51.8098348,-29.1835918 -51.8096882,-29.1835386 -51.8095366,-29.183459 -51.8061346,-29.1809542 -51.8040587,-29.1793432 -51.8038527,-29.1792308 -51.8037058,-29.1791821 -51.8035501,-29.1791692 -51.8033629,-29.1791866 -51.8016344,-29.1795848 -51.8009623,-29.1796671 -51.8006119,-29.1797644 -51.8002564,-29.1799363 -51.7998391,-29.1802018 -51.7994836,-29.1804698 -51.7985089,-29.1814871 -51.797656,-29.182668 -51.7972565,-29.1829915 -51.7965916,-29.1837193 -51.794771,-29.1851681 -51.7944975,-29.1854797 -51.794286,-29.1856157 -51.7939834,-29.1858645 -51.7933957,-29.1862903 -51.7932400601495,-29.1863836822351</coordinates></LineString><LineString><coordinates>-51.7764839856934,-29.1864819111659 -51.7760522,-29.1863154 -51.776003,-29.1862954 -51.7754611,-29.1860745 -51.7752889,-29.1860004 -51.7732686,-29.1850781 -51.7731667,-29.1850391 -51.7730715,-29.184999 -51.7729578,-29.184959 -51.7727548,-29.1848947 -51.7725669,-29.1848535 -51.7722826,-29.1848003 -51.7719631,-29.1847509 -51.7715224,-29.1846939 -51.7714898,-29.1846928 -51.770997,-29.184655 -51.7706569,-29.1846374 -51.770062,-29.1846201 -51.7695853,-29.1846346 -51.7691672,-29.1847025 -51.7688894,-29.1847864 -51.7686351,-29.1848979 -51.7684272,-29.1850421 -51.7677568,-29.1857208 -51.7676939,-29.185767 -51.7675717,-29.1858288 -51.7670793,-29.1860093 -51.7666973,-29.1860538 -51.7650218,-29.1861442 -51.7645027,-29.1861713 -51.7641006,-29.1861945 -51.7630867,-29.186248 -51.7625397,-29.186322 -51.7620146,-29.1864038 -51.7614377,-29.1864876 -51.760756996984,-29.1865721993884</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294707</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">137</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.8798621,-29.1722008 -51.8796505,-29.1721922 -51.8790293,-29.1722318 -51.8784392,-29.1722341 -51.8777981,-29.1721568 -51.8771169,-29.1720491 -51.8765938,-29.1720116 -51.8758589,-29.1719859 -51.8747512,-29.1719671 -51.8743891,-29.1719625 -51.8737185,-29.1719788 -51.8728817,-29.1719461 -51.872596,-29.1719425 -51.8724431,-29.1719238 -51.8723466,-29.1719226 -51.8722594,-29.1719215 -51.8721816,-29.1719238 -51.8720891,-29.1719109 -51.8719777,-29.1719086 -51.8712267,-29.17185 -51.8705066,-29.1718173 -51.8698333,-29.1717657 -51.8694457,-29.1716557 -51.8692043,-29.1715971 -51.8689589,-29.1715327 -51.8686518,-29.1714332 -51.8684654,-29.171377 -51.8682522,-29.171295 -51.8681073,-29.1712177 -51.8679987,-29.1711439 -51.8677573,-29.170963 -51.8675776,-29.1708465 -51.8673188,-29.1707001 -51.8669003,-29.1704999 -51.8664148,-29.1701931 -51.8663391,-29.1701495 -51.8662338,-29.1700888 -51.8660983,-29.1700174 -51.8659911,-29.1699682 -51.8658874,-29.1699387 -51.865802,-29.1699144 -51.8653487,-29.1697528 -51.8647324,-29.16953 -51.8646748,-29.1695092 -51.8640277,-29.1693183 -51.8638104,-29.1692199 -51.863675,-29.1690724 -51.8635207,-29.1688897 -51.8633397,-29.1686801 -51.8625042,-29.1677831 -51.8621857,-29.1674323 -51.8617773,-29.1670324 -51.8614192,-29.1667186 -51.8607366,-29.1662502 -51.8604443,-29.1659972 -51.8601251,-29.1657372 -51.8596677,-29.1654304 -51.85937,-29.1652009 -51.8591943,-29.1650428 -51.8587478,-29.1643987 -51.8584259,-29.1638858 -51.858096,-29.163494 -51.8576963,-29.1631175 -51.8572967,-29.162724 -51.8566355,-29.162115 -51.8561809,-29.1616513 -51.8556806,-29.1612238 -51.8553682,-29.1608947 -51.8550852,-29.1605961 -51.854699,-29.1601745 -51.854412,-29.1598325 -51.8541317,-29.1594168 -51.8536127,-29.158919 -51.8533847,-29.1585548 -51.8531433,-29.1582655 -51.8528911,-29.1579306 -51.8526417,-29.1575816 -51.8525666,-29.1574457 -51.8524727,-29.1572513 -51.8523842,-29.157003 -51.8523601,-29.1569187 -51.8523413,-29.1568273 -51.8523198,-29.1566376 -51.8523078,-29.1564994 -51.8522877,-29.1563155 -51.8521837,-29.1559718 -51.8519691,-29.1554846 -51.8519014,-29.1553306 -51.8518759,-29.1552252 -51.8518625,-29.1550928 -51.8518652,-29.1549113 -51.851888,-29.154591 -51.8518826,-29.1544194 -51.851831,-29.154157 -51.8517405,-29.1539181 -51.8516533,-29.1537904 -51.8515594,-29.1536757 -51.851487,-29.1535222 -51.8514307,-29.1534016 -51.8514039,-29.1532974 -51.851367,-29.1529829 -51.8513368,-29.1527053 -51.851306,-29.15244 -51.8512563,-29.1521203 -51.8511692,-29.1517232 -51.8510713,-29.1514539 -51.8506475,-29.1505005 -51.8505201,-29.1502826 -51.8503538,-29.1500624 -51.8500789,-29.1498387 -51.8498267,-29.1496607 -51.8495867,-29.1495412 -51.8494552,-29.1494967 -51.8491817,-29.149451 -51.8488263,-29.1493948 -51.848499,-29.1493269 -51.8482375,-29.1492824 -51.8480511,-29.1492554 -51.8478848,-29.1492496 -51.8476541,-29.1492753 -51.8474624,-29.1493222 -51.8473886,-29.1493714 -51.847292,-29.1494487 -51.8472129,-29.1495611 -51.8471633,-29.1496501 -51.8471177,-29.1497825 -51.8470909,-29.1498903 -51.8470654,-29.1501069 -51.8470372,-29.150299 -51.8469764,-29.1504849 -51.8467435,-29.1511341 -51.8466859,-29.1513098 -51.8466094,-29.151489 -51.8465169,-29.1516307 -51.8464069,-29.1517666 -51.8462795,-29.1519294 -51.8461213,-29.1520863 -51.845963,-29.1522807 -51.8458369,-29.1525126 -51.8457122,-29.1527516 -51.8455593,-29.153021 -51.8453957,-29.1532177 -51.8453059,-29.1532968 -51.8451467,-29.1534536 -51.845102,-29.1534976 -51.844634,-29.154095 -51.8442987,-29.1545096 -51.8436771,-29.1551766 -51.8433881,-29.1554793 -51.8431923,-29.1557253 -51.843093,-29.1558892 -51.8430153,-29.1560907 -51.8429871,-29.1562406 -51.8429536,-29.1563963 -51.8429167,-29.1565006 -51.8428355,-29.1566013 -51.8426974,-29.1567026 -51.842403,-29.1568543 -51.842047,-29.1570586 -51.8417224,-29.1572718 -51.84141,-29.1575008 -51.84119,-29.1576975 -51.8409768,-29.1578966 -51.8406972,-29.1581912 -51.8404183,-29.1586882 -51.8396574,-29.1599327 -51.8393493,-29.1603368 -51.8392159,-29.1605059 -51.8391489,-29.1606453 -51.839058,-29.1609077 -51.8389852,-29.1611571 -51.8388793,-29.1613632 -51.8386728,-29.1617134 -51.8381354,-29.1627447 -51.8372794,-29.1645896 -51.8371855,-29.1647535 -51.8368896,-29.1651 -51.8367617,-29.1653397 -51.8366262,-29.1655592 -51.8365223,-29.165839 -51.8364935,-29.1659328 -51.8362293,-29.1663485 -51.8359463,-29.1669651 -51.8355829,-29.1678428 -51.8354259,-29.1682907 -51.8352607,-29.1686837 -51.8347514,-29.1694682 -51.8344074,-29.1701111 -51.8341336,-29.1706187 -51.8339652,-29.170918 -51.8332547,-29.1722201 -51.8331917,-29.172336 -51.83313,-29.172555 -51.8330857,-29.1727353 -51.8330562,-29.1729508 -51.8330508,-29.1731686 -51.8330629,-29.1733343 -51.8330475,-29.1734168 -51.8330193,-29.1734859 -51.8329697,-29.1735573 -51.8328812,-29.1736329 -51.832786,-29.173699 -51.8325989,-29.1738126 -51.8323749,-29.1739742 -51.8321671,-29.1741932 -51.8320732,-29.1743267 -51.8319243,-29.1745328 -51.8318237,-29.1746803 -51.8316722,-29.1748712 -51.8313946,-29.1751464 -51.8311592,-29.1754473 -51.8310513,-29.1755878 -51.8309681,-29.1757482 -51.8308984,-29.1759262 -51.8308903,-29.1761253 -51.8309198,-29.176329 -51.8309239,-29.1764367 -51.8309051,-29.176548 -51.8308662,-29.1766253 -51.8308058,-29.1767072 -51.8306731,-29.1768483 -51.8304773,-29.1770825 -51.8302466,-29.1773243 -51.8300816,-29.1774367 -51.8299395,-29.1775398 -51.8296418,-29.1777681 -51.8293267,-29.1780482 -51.8291133,-29.1782875 -51.8290329,-29.1784407 -51.828742,-29.1793591 -51.8286407,-29.1795229 -51.8285201,-29.1796359 -51.8281573,-29.1798978 -51.8280075,-29.1800363 -51.8276637,-29.1805827 -51.8271907,-29.1810419 -51.8269527,-29.1812112 -51.826673,-29.181353 -51.8264649,-29.1814677 -51.8262358,-29.1816345 -51.8259449,-29.1819269 -51.8254924,-29.1822989 -51.825275,-29.1825092 -51.824893,-29.1828248 -51.8246109,-29.1830351 -51.8242715,-29.1831907 -51.8240556,-29.1833712 -51.8237824,-29.1836738 -51.8235385,-29.1841228 -51.8234651,-29.1842382 -51.8233652,-29.1842946 -51.8232868,-29.1843051 -51.8232124,-29.1842921 -51.8230008,-29.1841843 -51.822851,-29.1841407 -51.8225094,-29.184118 -51.8218055,-29.1839917 -51.8216669,-29.1839919 -51.8215053,-29.1840304 -51.8211703,-29.1841407 -51.8209326,-29.184186 -51.8194027,-29.1842493 -51.8188462,-29.1841664 -51.8183196,-29.1841299 -51.8146287,-29.1841262 -51.8144302,-29.1840689 -51.8141863,-29.1839483 -51.81396,-29.1838842 -51.8137417,-29.1838438 -51.8127902,-29.183803 -51.8125879,-29.1837559 -51.8123235,-29.1836482 -51.8120502,-29.1835405 -51.8118181,-29.1834917 -51.8114005,-29.1834808 -51.8099788,-29.1836046 -51.8098348,-29.1835918 -51.8096882,-29.1835386 -51.8095366,-29.183459 -51.8061346,-29.1809542 -51.8040587,-29.1793432 -51.8038527,-29.1792308 -51.8037058,-29.1791821 -51.8035501,-29.1791692 -51.8033629,-29.1791866 -51.8016344,-29.1795848 -51.8009623,-29.1796671 -51.8006119,-29.1797644 -51.8002564,-29.1799363 -51.7998391,-29.1802018 -51.7994836,-29.1804698 -51.7985089,-29.1814871 -51.797656,-29.182668 -51.7972565,-29.1829915 -51.7965916,-29.1837193 -51.794771,-29.1851681 -51.7944975,-29.1854797 -51.794286,-29.1856157 -51.7939834,-29.1858645 -51.7933957,-29.1862903 -51.7932400601495,-29.1863836822351</coordinates></LineString><LineString><coordinates>-51.7764839856934,-29.1864819111659 -51.7760522,-29.1863154 -51.776003,-29.1862954 -51.7754611,-29.1860745 -51.7752889,-29.1860004 -51.7732686,-29.1850781 -51.7731667,-29.1850391 -51.7730715,-29.184999 -51.7729578,-29.184959 -51.7727548,-29.1848947 -51.7725669,-29.1848535 -51.7722826,-29.1848003 -51.7719631,-29.1847509 -51.7715224,-29.1846939 -51.7714898,-29.1846928 -51.770997,-29.184655 -51.7706569,-29.1846374 -51.770062,-29.1846201 -51.7695853,-29.1846346 -51.7691672,-29.1847025 -51.7688894,-29.1847864 -51.7686351,-29.1848979 -51.7684272,-29.1850421 -51.7677568,-29.1857208 -51.7676939,-29.185767 -51.7675717,-29.1858288 -51.7670793,-29.1860093 -51.7666973,-29.1860538 -51.7650218,-29.1861442 -51.7645027,-29.1861713 -51.7641006,-29.1861945 -51.7630867,-29.186248 -51.7625397,-29.186322 -51.7620146,-29.1864038 -51.7614377,-29.1864876 -51.760756996984,-29.1865721993884</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294707</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.8798621,-29.1722008 -51.8796505,-29.1721922 -51.8790293,-29.1722318 -51.8784392,-29.1722341 -51.8777981,-29.1721568 -51.8771169,-29.1720491 -51.8765938,-29.1720116 -51.8758589,-29.1719859 -51.8747512,-29.1719671 -51.8743891,-29.1719625 -51.8737185,-29.1719788 -51.8728817,-29.1719461 -51.872596,-29.1719425 -51.8724431,-29.1719238 -51.8723466,-29.1719226 -51.8722594,-29.1719215 -51.8721816,-29.1719238 -51.8720891,-29.1719109 -51.8719777,-29.1719086 -51.8712267,-29.17185 -51.8705066,-29.1718173 -51.8698333,-29.1717657 -51.8694457,-29.1716557 -51.8692043,-29.1715971 -51.8689589,-29.1715327 -51.8686518,-29.1714332 -51.8684654,-29.171377 -51.8682522,-29.171295 -51.8681073,-29.1712177 -51.8679987,-29.1711439 -51.8677573,-29.170963 -51.8675776,-29.1708465 -51.8673188,-29.1707001 -51.8669003,-29.1704999 -51.8664148,-29.1701931 -51.8663391,-29.1701495 -51.8662338,-29.1700888 -51.8660983,-29.1700174 -51.8659911,-29.1699682 -51.8658874,-29.1699387 -51.865802,-29.1699144 -51.8653487,-29.1697528 -51.8647324,-29.16953 -51.8646748,-29.1695092 -51.8640277,-29.1693183 -51.8638104,-29.1692199 -51.863675,-29.1690724 -51.8635207,-29.1688897 -51.8633397,-29.1686801 -51.8625042,-29.1677831 -51.8621857,-29.1674323 -51.8617773,-29.1670324 -51.8614192,-29.1667186 -51.8607366,-29.1662502 -51.8604443,-29.1659972 -51.8601251,-29.1657372 -51.8596677,-29.1654304 -51.85937,-29.1652009 -51.8591943,-29.1650428 -51.8587478,-29.1643987 -51.8584259,-29.1638858 -51.858096,-29.163494 -51.8576963,-29.1631175 -51.8572967,-29.162724 -51.8566355,-29.162115 -51.8561809,-29.1616513 -51.8556806,-29.1612238 -51.8553682,-29.1608947 -51.8550852,-29.1605961 -51.854699,-29.1601745 -51.854412,-29.1598325 -51.8541317,-29.1594168 -51.8536127,-29.158919 -51.8533847,-29.1585548 -51.8531433,-29.1582655 -51.8528911,-29.1579306 -51.8526417,-29.1575816 -51.8525666,-29.1574457 -51.8524727,-29.1572513 -51.8523842,-29.157003 -51.8523601,-29.1569187 -51.8523413,-29.1568273 -51.8523198,-29.1566376 -51.8523078,-29.1564994 -51.8522877,-29.1563155 -51.8521837,-29.1559718 -51.8519691,-29.1554846 -51.8519014,-29.1553306 -51.8518759,-29.1552252 -51.8518625,-29.1550928 -51.8518652,-29.1549113 -51.851888,-29.154591 -51.8518826,-29.1544194 -51.851831,-29.154157 -51.8517405,-29.1539181 -51.8516533,-29.1537904 -51.8515594,-29.1536757 -51.851487,-29.1535222 -51.8514307,-29.1534016 -51.8514039,-29.1532974 -51.851367,-29.1529829 -51.8513368,-29.1527053 -51.851306,-29.15244 -51.8512563,-29.1521203 -51.8511692,-29.1517232 -51.8510713,-29.1514539 -51.8506475,-29.1505005 -51.8505201,-29.1502826 -51.8503538,-29.1500624 -51.8500789,-29.1498387 -51.8498267,-29.1496607 -51.8495867,-29.1495412 -51.8494552,-29.1494967 -51.8491817,-29.149451 -51.8488263,-29.1493948 -51.848499,-29.1493269 -51.8482375,-29.1492824 -51.8480511,-29.1492554 -51.8478848,-29.1492496 -51.8476541,-29.1492753 -51.8474624,-29.1493222 -51.8473886,-29.1493714 -51.847292,-29.1494487 -51.8472129,-29.1495611 -51.8471633,-29.1496501 -51.8471177,-29.1497825 -51.8470909,-29.1498903 -51.8470654,-29.1501069 -51.8470372,-29.150299 -51.8469764,-29.1504849 -51.8467435,-29.1511341 -51.8466859,-29.1513098 -51.8466094,-29.151489 -51.8465169,-29.1516307 -51.8464069,-29.1517666 -51.8462795,-29.1519294 -51.8461213,-29.1520863 -51.845963,-29.1522807 -51.8458369,-29.1525126 -51.8457122,-29.1527516 -51.8455593,-29.153021 -51.8453957,-29.1532177 -51.8453059,-29.1532968 -51.8451467,-29.1534536 -51.845102,-29.1534976 -51.844634,-29.154095 -51.8442987,-29.1545096 -51.8436771,-29.1551766 -51.8433881,-29.1554793 -51.8431923,-29.1557253 -51.843093,-29.1558892 -51.8430153,-29.1560907 -51.8429871,-29.1562406 -51.8429536,-29.1563963 -51.8429167,-29.1565006 -51.8428355,-29.1566013 -51.8426974,-29.1567026 -51.842403,-29.1568543 -51.842047,-29.1570586 -51.8417224,-29.1572718 -51.84141,-29.1575008 -51.84119,-29.1576975 -51.8409768,-29.1578966 -51.8406972,-29.1581912 -51.8404183,-29.1586882 -51.8396574,-29.1599327 -51.8393493,-29.1603368 -51.8392159,-29.1605059 -51.8391489,-29.1606453 -51.839058,-29.1609077 -51.8389852,-29.1611571 -51.8388793,-29.1613632 -51.8386728,-29.1617134 -51.8381354,-29.1627447 -51.8372794,-29.1645896 -51.8371855,-29.1647535 -51.8368896,-29.1651 -51.8367617,-29.1653397 -51.8366262,-29.1655592 -51.8365223,-29.165839 -51.8364935,-29.1659328 -51.8362293,-29.1663485 -51.8359463,-29.1669651 -51.8355829,-29.1678428 -51.8354259,-29.1682907 -51.8352607,-29.1686837 -51.8347514,-29.1694682 -51.8344074,-29.1701111 -51.8341336,-29.1706187 -51.8339652,-29.170918 -51.8332547,-29.1722201 -51.8331917,-29.172336 -51.83313,-29.172555 -51.8330857,-29.1727353 -51.8330562,-29.1729508 -51.8330508,-29.1731686 -51.8330629,-29.1733343 -51.8330475,-29.1734168 -51.8330193,-29.1734859 -51.8329697,-29.1735573 -51.8328812,-29.1736329 -51.832786,-29.173699 -51.8325989,-29.1738126 -51.8323749,-29.1739742 -51.8321671,-29.1741932 -51.8320732,-29.1743267 -51.8319243,-29.1745328 -51.8318237,-29.1746803 -51.8316722,-29.1748712 -51.8313946,-29.1751464 -51.8311592,-29.1754473 -51.8310513,-29.1755878 -51.8309681,-29.1757482 -51.8308984,-29.1759262 -51.8308903,-29.1761253 -51.8309198,-29.176329 -51.8309239,-29.1764367 -51.8309051,-29.176548 -51.8308662,-29.1766253 -51.8308058,-29.1767072 -51.8306731,-29.1768483 -51.8304773,-29.1770825 -51.8302466,-29.1773243 -51.8300816,-29.1774367 -51.8299395,-29.1775398 -51.8296418,-29.1777681 -51.8293267,-29.1780482 -51.8291133,-29.1782875 -51.8290329,-29.1784407 -51.828742,-29.1793591 -51.8286407,-29.1795229 -51.8285201,-29.1796359 -51.8281573,-29.1798978 -51.8280075,-29.1800363 -51.8276637,-29.1805827 -51.8271907,-29.1810419 -51.8269527,-29.1812112 -51.826673,-29.181353 -51.8264649,-29.1814677 -51.8262358,-29.1816345 -51.8259449,-29.1819269 -51.8254924,-29.1822989 -51.825275,-29.1825092 -51.824893,-29.1828248 -51.8246109,-29.1830351 -51.8242715,-29.1831907 -51.8240556,-29.1833712 -51.8237824,-29.1836738 -51.8235385,-29.1841228 -51.8234651,-29.1842382 -51.8233652,-29.1842946 -51.8232868,-29.1843051 -51.8232124,-29.1842921 -51.8230008,-29.1841843 -51.822851,-29.1841407 -51.8225094,-29.184118 -51.8218055,-29.1839917 -51.8216669,-29.1839919 -51.8215053,-29.1840304 -51.8211703,-29.1841407 -51.8209326,-29.184186 -51.8194027,-29.1842493 -51.8188462,-29.1841664 -51.8183196,-29.1841299 -51.8146287,-29.1841262 -51.8144302,-29.1840689 -51.8141863,-29.1839483 -51.81396,-29.1838842 -51.8137417,-29.1838438 -51.8127902,-29.183803 -51.8125879,-29.1837559 -51.8123235,-29.1836482 -51.8120502,-29.1835405 -51.8118181,-29.1834917 -51.8114005,-29.1834808 -51.8099788,-29.1836046 -51.8098348,-29.1835918 -51.8096882,-29.1835386 -51.8095366,-29.183459 -51.8061346,-29.1809542 -51.8040587,-29.1793432 -51.8038527,-29.1792308 -51.8037058,-29.1791821 -51.8035501,-29.1791692 -51.8033629,-29.1791866 -51.8016344,-29.1795848 -51.8009623,-29.1796671 -51.8006119,-29.1797644 -51.8002564,-29.1799363 -51.7998391,-29.1802018 -51.7994836,-29.1804698 -51.7985089,-29.1814871 -51.797656,-29.182668 -51.7972565,-29.1829915 -51.7965916,-29.1837193 -51.794771,-29.1851681 -51.7944975,-29.1854797 -51.794286,-29.1856157 -51.7939834,-29.1858645 -51.7933957,-29.1862903 -51.7932400601495,-29.1863836822351</coordinates></LineString><LineString><coordinates>-51.7764839856934,-29.1864819111659 -51.7760522,-29.1863154 -51.776003,-29.1862954 -51.7754611,-29.1860745 -51.7752889,-29.1860004 -51.7732686,-29.1850781 -51.7731667,-29.1850391 -51.7730715,-29.184999 -51.7729578,-29.184959 -51.7727548,-29.1848947 -51.7725669,-29.1848535 -51.7722826,-29.1848003 -51.7719631,-29.1847509 -51.7715224,-29.1846939 -51.7714898,-29.1846928 -51.770997,-29.184655 -51.7706569,-29.1846374 -51.770062,-29.1846201 -51.7695853,-29.1846346 -51.7691672,-29.1847025 -51.7688894,-29.1847864 -51.7686351,-29.1848979 -51.7684272,-29.1850421 -51.7677568,-29.1857208 -51.7676939,-29.185767 -51.7675717,-29.1858288 -51.7670793,-29.1860093 -51.7666973,-29.1860538 -51.7650218,-29.1861442 -51.7645027,-29.1861713 -51.7641006,-29.1861945 -51.7630867,-29.186248 -51.7625397,-29.186322 -51.7620146,-29.1864038 -51.7614377,-29.1864876 -51.760756996984,-29.1865721993884</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294707</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.8798621,-29.1722008 -51.8796505,-29.1721922 -51.8790293,-29.1722318 -51.8784392,-29.1722341 -51.8777981,-29.1721568 -51.8771169,-29.1720491 -51.8765938,-29.1720116 -51.8758589,-29.1719859 -51.8747512,-29.1719671 -51.8743891,-29.1719625 -51.8737185,-29.1719788 -51.8728817,-29.1719461 -51.872596,-29.1719425 -51.8724431,-29.1719238 -51.8723466,-29.1719226 -51.8722594,-29.1719215 -51.8721816,-29.1719238 -51.8720891,-29.1719109 -51.8719777,-29.1719086 -51.8712267,-29.17185 -51.8705066,-29.1718173 -51.8698333,-29.1717657 -51.8694457,-29.1716557 -51.8692043,-29.1715971 -51.8689589,-29.1715327 -51.8686518,-29.1714332 -51.8684654,-29.171377 -51.8682522,-29.171295 -51.8681073,-29.1712177 -51.8679987,-29.1711439 -51.8677573,-29.170963 -51.8675776,-29.1708465 -51.8673188,-29.1707001 -51.8669003,-29.1704999 -51.8664148,-29.1701931 -51.8663391,-29.1701495 -51.8662338,-29.1700888 -51.8660983,-29.1700174 -51.8659911,-29.1699682 -51.8658874,-29.1699387 -51.865802,-29.1699144 -51.8653487,-29.1697528 -51.8647324,-29.16953 -51.8646748,-29.1695092 -51.8640277,-29.1693183 -51.8638104,-29.1692199 -51.863675,-29.1690724 -51.8635207,-29.1688897 -51.8633397,-29.1686801 -51.8625042,-29.1677831 -51.8621857,-29.1674323 -51.8617773,-29.1670324 -51.8614192,-29.1667186 -51.8607366,-29.1662502 -51.8604443,-29.1659972 -51.8601251,-29.1657372 -51.8596677,-29.1654304 -51.85937,-29.1652009 -51.8591943,-29.1650428 -51.8587478,-29.1643987 -51.8584259,-29.1638858 -51.858096,-29.163494 -51.8576963,-29.1631175 -51.8572967,-29.162724 -51.8566355,-29.162115 -51.8561809,-29.1616513 -51.8556806,-29.1612238 -51.8553682,-29.1608947 -51.8550852,-29.1605961 -51.854699,-29.1601745 -51.854412,-29.1598325 -51.8541317,-29.1594168 -51.8536127,-29.158919 -51.8533847,-29.1585548 -51.8531433,-29.1582655 -51.8528911,-29.1579306 -51.8526417,-29.1575816 -51.8525666,-29.1574457 -51.8524727,-29.1572513 -51.8523842,-29.157003 -51.8523601,-29.1569187 -51.8523413,-29.1568273 -51.8523198,-29.1566376 -51.8523078,-29.1564994 -51.8522877,-29.1563155 -51.8521837,-29.1559718 -51.8519691,-29.1554846 -51.8519014,-29.1553306 -51.8518759,-29.1552252 -51.8518625,-29.1550928 -51.8518652,-29.1549113 -51.851888,-29.154591 -51.8518826,-29.1544194 -51.851831,-29.154157 -51.8517405,-29.1539181 -51.8516533,-29.1537904 -51.8515594,-29.1536757 -51.851487,-29.1535222 -51.8514307,-29.1534016 -51.8514039,-29.1532974 -51.851367,-29.1529829 -51.8513368,-29.1527053 -51.851306,-29.15244 -51.8512563,-29.1521203 -51.8511692,-29.1517232 -51.8510713,-29.1514539 -51.8506475,-29.1505005 -51.8505201,-29.1502826 -51.8503538,-29.1500624 -51.8500789,-29.1498387 -51.8498267,-29.1496607 -51.8495867,-29.1495412 -51.8494552,-29.1494967 -51.8491817,-29.149451 -51.8488263,-29.1493948 -51.848499,-29.1493269 -51.8482375,-29.1492824 -51.8480511,-29.1492554 -51.8478848,-29.1492496 -51.8476541,-29.1492753 -51.8474624,-29.1493222 -51.8473886,-29.1493714 -51.847292,-29.1494487 -51.8472129,-29.1495611 -51.8471633,-29.1496501 -51.8471177,-29.1497825 -51.8470909,-29.1498903 -51.8470654,-29.1501069 -51.8470372,-29.150299 -51.8469764,-29.1504849 -51.8467435,-29.1511341 -51.8466859,-29.1513098 -51.8466094,-29.151489 -51.8465169,-29.1516307 -51.8464069,-29.1517666 -51.8462795,-29.1519294 -51.8461213,-29.1520863 -51.845963,-29.1522807 -51.8458369,-29.1525126 -51.8457122,-29.1527516 -51.8455593,-29.153021 -51.8453957,-29.1532177 -51.8453059,-29.1532968 -51.8451467,-29.1534536 -51.845102,-29.1534976 -51.844634,-29.154095 -51.8442987,-29.1545096 -51.8436771,-29.1551766 -51.8433881,-29.1554793 -51.8431923,-29.1557253 -51.843093,-29.1558892 -51.8430153,-29.1560907 -51.8429871,-29.1562406 -51.8429536,-29.1563963 -51.8429167,-29.1565006 -51.8428355,-29.1566013 -51.8426974,-29.1567026 -51.842403,-29.1568543 -51.842047,-29.1570586 -51.8417224,-29.1572718 -51.84141,-29.1575008 -51.84119,-29.1576975 -51.8409768,-29.1578966 -51.8406972,-29.1581912 -51.8404183,-29.1586882 -51.8396574,-29.1599327 -51.8393493,-29.1603368 -51.8392159,-29.1605059 -51.8391489,-29.1606453 -51.839058,-29.1609077 -51.8389852,-29.1611571 -51.8388793,-29.1613632 -51.8386728,-29.1617134 -51.8381354,-29.1627447 -51.8372794,-29.1645896 -51.8371855,-29.1647535 -51.8368896,-29.1651 -51.8367617,-29.1653397 -51.8366262,-29.1655592 -51.8365223,-29.165839 -51.8364935,-29.1659328 -51.8362293,-29.1663485 -51.8359463,-29.1669651 -51.8355829,-29.1678428 -51.8354259,-29.1682907 -51.8352607,-29.1686837 -51.8347514,-29.1694682 -51.8344074,-29.1701111 -51.8341336,-29.1706187 -51.8339652,-29.170918 -51.8332547,-29.1722201 -51.8331917,-29.172336 -51.83313,-29.172555 -51.8330857,-29.1727353 -51.8330562,-29.1729508 -51.8330508,-29.1731686 -51.8330629,-29.1733343 -51.8330475,-29.1734168 -51.8330193,-29.1734859 -51.8329697,-29.1735573 -51.8328812,-29.1736329 -51.832786,-29.173699 -51.8325989,-29.1738126 -51.8323749,-29.1739742 -51.8321671,-29.1741932 -51.8320732,-29.1743267 -51.8319243,-29.1745328 -51.8318237,-29.1746803 -51.8316722,-29.1748712 -51.8313946,-29.1751464 -51.8311592,-29.1754473 -51.8310513,-29.1755878 -51.8309681,-29.1757482 -51.8308984,-29.1759262 -51.8308903,-29.1761253 -51.8309198,-29.176329 -51.8309239,-29.1764367 -51.8309051,-29.176548 -51.8308662,-29.1766253 -51.8308058,-29.1767072 -51.8306731,-29.1768483 -51.8304773,-29.1770825 -51.8302466,-29.1773243 -51.8300816,-29.1774367 -51.8299395,-29.1775398 -51.8296418,-29.1777681 -51.8293267,-29.1780482 -51.8291133,-29.1782875 -51.8290329,-29.1784407 -51.828742,-29.1793591 -51.8286407,-29.1795229 -51.8285201,-29.1796359 -51.8281573,-29.1798978 -51.8280075,-29.1800363 -51.8276637,-29.1805827 -51.8271907,-29.1810419 -51.8269527,-29.1812112 -51.826673,-29.181353 -51.8264649,-29.1814677 -51.8262358,-29.1816345 -51.8259449,-29.1819269 -51.8254924,-29.1822989 -51.825275,-29.1825092 -51.824893,-29.1828248 -51.8246109,-29.1830351 -51.8242715,-29.1831907 -51.8240556,-29.1833712 -51.8237824,-29.1836738 -51.8235385,-29.1841228 -51.8234651,-29.1842382 -51.8233652,-29.1842946 -51.8232868,-29.1843051 -51.8232124,-29.1842921 -51.8230008,-29.1841843 -51.822851,-29.1841407 -51.8225094,-29.184118 -51.8218055,-29.1839917 -51.8216669,-29.1839919 -51.8215053,-29.1840304 -51.8211703,-29.1841407 -51.8209326,-29.184186 -51.8194027,-29.1842493 -51.8188462,-29.1841664 -51.8183196,-29.1841299 -51.8146287,-29.1841262 -51.8144302,-29.1840689 -51.8141863,-29.1839483 -51.81396,-29.1838842 -51.8137417,-29.1838438 -51.8127902,-29.183803 -51.8125879,-29.1837559 -51.8123235,-29.1836482 -51.8120502,-29.1835405 -51.8118181,-29.1834917 -51.8114005,-29.1834808 -51.8099788,-29.1836046 -51.8098348,-29.1835918 -51.8096882,-29.1835386 -51.8095366,-29.183459 -51.8061346,-29.1809542 -51.8040587,-29.1793432 -51.8038527,-29.1792308 -51.8037058,-29.1791821 -51.8035501,-29.1791692 -51.8033629,-29.1791866 -51.8016344,-29.1795848 -51.8009623,-29.1796671 -51.8006119,-29.1797644 -51.8002564,-29.1799363 -51.7998391,-29.1802018 -51.7994836,-29.1804698 -51.7985089,-29.1814871 -51.797656,-29.182668 -51.7972565,-29.1829915 -51.7965916,-29.1837193 -51.794771,-29.1851681 -51.7944975,-29.1854797 -51.794286,-29.1856157 -51.7939834,-29.1858645 -51.7933957,-29.1862903 -51.7932400601495,-29.1863836822351</coordinates></LineString><LineString><coordinates>-51.7764839856934,-29.1864819111659 -51.7760522,-29.1863154 -51.776003,-29.1862954 -51.7754611,-29.1860745 -51.7752889,-29.1860004 -51.7732686,-29.1850781 -51.7731667,-29.1850391 -51.7730715,-29.184999 -51.7729578,-29.184959 -51.7727548,-29.1848947 -51.7725669,-29.1848535 -51.7722826,-29.1848003 -51.7719631,-29.1847509 -51.7715224,-29.1846939 -51.7714898,-29.1846928 -51.770997,-29.184655 -51.7706569,-29.1846374 -51.770062,-29.1846201 -51.7695853,-29.1846346 -51.7691672,-29.1847025 -51.7688894,-29.1847864 -51.7686351,-29.1848979 -51.7684272,-29.1850421 -51.7677568,-29.1857208 -51.7676939,-29.185767 -51.7675717,-29.1858288 -51.7670793,-29.1860093 -51.7666973,-29.1860538 -51.7650218,-29.1861442 -51.7645027,-29.1861713 -51.7641006,-29.1861945 -51.7630867,-29.186248 -51.7625397,-29.186322 -51.7620146,-29.1864038 -51.7614377,-29.1864876 -51.760756996984,-29.1865721993884</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">480107377</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7325274049909,-29.1852607962729 -51.7327644,-29.1853496 -51.7329441,-29.1854456 -51.7331359,-29.1856166 -51.733679,-29.1861575 -51.7340894,-29.1865474 -51.7342084386803,-29.1867204223038</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332294706</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7351067,-29.1841211 -51.7348516,-29.1839469 -51.7346733,-29.1837391 -51.7345491,-29.1835224 -51.7343517,-29.1833038 -51.7341686,-29.1831599 -51.7339681,-29.1829722 -51.7337494,-29.1826909 -51.7334182,-29.1820085 -51.7332487,-29.1816906 -51.7329822,-29.1812872 -51.7328804,-29.1811078 -51.7327428,-29.1807293 -51.7324893103934,-29.1798983181884</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Avelino Dalla Lasta</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968332</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7324719800995,-29.1774582939686 -51.7327905,-29.1765442 -51.7328751,-29.1763709 -51.7329724,-29.1762059 -51.7330702,-29.1760798 -51.7332293,-29.1759111 -51.7344046,-29.1747492 -51.7344941,-29.174655</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Itália</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88969363</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7349415,-29.1742415 -51.7348064,-29.1743433 -51.7347519,-29.1743612 -51.7346771,-29.1743594</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Itália</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952941828</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7346949,-29.1742973 -51.7347642,-29.1742816 -51.7349415,-29.1742415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">384718070</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8638104,-29.1692199 -51.8635516,-29.1695033 -51.8634591,-29.1696204 -51.863282,-29.1698652 -51.8631372,-29.1700678 -51.8630674,-29.1702013 -51.8628797,-29.1706176 -51.8622521,-29.1718934 -51.8618524,-29.1725749 -51.8616579,-29.1729133 -51.8615198,-29.1731627 -51.8613361,-29.1733723 -51.861088,-29.1736815 -51.8607044,-29.174 -51.8602699,-29.1743595 -51.8598863,-29.1746545 -51.8596718,-29.1747798 -51.8595055,-29.1748396 -51.8593378,-29.1748583 -51.8591769,-29.174904 -51.8588859,-29.1750585 -51.8586767,-29.1752869 -51.858611,-29.1753677 -51.8585077,-29.1754965 -51.8583334,-29.1757389 -51.8581892,-29.1758764 -51.8580598,-29.1759824 -51.8580061,-29.1760175 -51.8579149,-29.1760234 -51.8578492,-29.1759953 -51.8577419,-29.1758595 -51.8576776,-29.1757763 -51.8576159,-29.1757424 -51.8575334,-29.1757049 -51.8573939,-29.175678 -51.8572176,-29.1756873 -51.8568943,-29.1756979 -51.8565819,-29.1756838 -51.8561339,-29.1755363</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952538337</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8663391,-29.1701495 -51.8661346,-29.1698195 -51.8660541,-29.1696907 -51.866042,-29.1696333 -51.8660299,-29.1695677 -51.8660139,-29.1694424 -51.8659911,-29.1693827 -51.8659508,-29.1693253 -51.865916,-29.1692996 -51.8658811,-29.1692949 -51.8658221,-29.1692925 -51.8656799,-29.1693206 -51.8653916,-29.1694155 -51.8651998,-29.1694647 -51.8650684,-29.1694951 -51.8649074,-29.1695185 -51.8647324,-29.16953</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88969359</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7349934,-29.1738669 -51.7346465,-29.1738246</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Abramo Caumo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968328</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7374617,-29.1717577 -51.7374247,-29.1717973 -51.7373724,-29.1718149 -51.7372946,-29.1718196 -51.7359119,-29.1718594 -51.7357922,-29.1718628</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vergilio Franceschini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1279198156</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7385959,-29.1707346 -51.7385573,-29.1707699 -51.7385003,-29.1707913 -51.7374671,-29.1708505 -51.7357856,-29.1708678</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Itália</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968331</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7358919,-29.1668772 -51.7358207,-29.167113 -51.7357802,-29.1672609 -51.735768,-29.1674026 -51.7357772,-29.1675613 -51.7358161,-29.1680357 -51.7358485,-29.1682573 -51.7358478,-29.1682873 -51.7358462,-29.168361 -51.735827,-29.1693423 -51.7357954,-29.1701861 -51.7357856,-29.1708678 -51.7357922,-29.1718628 -51.7357966,-29.1730837 -51.7357859,-29.1731902 -51.7357661,-29.1732978 -51.7354592,-29.173777 -51.7353219,-29.1739244 -51.7349415,-29.1742415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Antônio Tramontina</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968313</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7357954,-29.1701861 -51.7366847,-29.1701851 -51.7374597,-29.1701634</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Cesare Appiani</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968321</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7358919,-29.1668772 -51.7361453,-29.1670277 -51.7364783,-29.167218 -51.736911,-29.1673931 -51.7371108,-29.1674864 -51.7372239,-29.1675652 -51.7373259,-29.1676734 -51.737378,-29.1677756 -51.7373917,-29.1678983 -51.7373923,-29.1679599 -51.7373963,-29.1683344 -51.7374156,-29.1689178 -51.7374224,-29.1691238 -51.7374302,-29.1693581 -51.7374597,-29.1701634 -51.7374671,-29.1708505 -51.7374617,-29.1717577</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Amadeo Picinini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88968324</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7366054,-29.1683669 -51.7366513,-29.1693587 -51.7366847,-29.1701851</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">390200903</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">137</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8225409,-29.1441485 -51.822463,-29.1442033 -51.8224532,-29.1442847 -51.822466,-29.1443789 -51.8224838,-29.1444831 -51.8225768,-29.144787 -51.8226533,-29.1450107 -51.8227297,-29.1452789 -51.822896,-29.1457217 -51.8230006,-29.1459044 -51.8231991,-29.146059 -51.8235853,-29.1462534 -51.8241432,-29.1464643 -51.8251316,-29.1468028 -51.8253382,-29.1468649 -51.8256412,-29.1469152 -51.8263239,-29.1469703 -51.826745,-29.1469492 -51.8269542,-29.1469023 -51.8272305,-29.1467735 -51.8275389,-29.1465744 -51.8280485,-29.1461925 -51.8286172,-29.1458224 -51.8289819,-29.1456069 -51.8294191,-29.1453726 -51.8298268,-29.1451876 -51.83026,-29.1450552 -51.8309051,-29.144924 -51.8317352,-29.1447483 -51.8319833,-29.144712 -51.8322006,-29.144698 -51.8324018,-29.1447495 -51.8326204,-29.1448502 -51.8330213,-29.1450892 -51.8337321,-29.1455108 -51.8341291,-29.145628 -51.8344,-29.1456514 -51.8347299,-29.1456186 -51.8348265,-29.1456128 -51.8349579,-29.1456338 -51.8350464,-29.1456819 -51.8351913,-29.1458154 -51.8353415,-29.1459559 -51.8354729,-29.146141 -51.8356003,-29.1463483 -51.8357317,-29.146613 -51.8358283,-29.1467208 -51.8359517,-29.1468098 -51.8361931,-29.1470376 -51.8363379,-29.1472502 -51.8364398,-29.1474681 -51.8366598,-29.1479284 -51.8367402,-29.1480338 -51.8368529,-29.1481275 -51.8370326,-29.1482142 -51.8372539,-29.1482493 -51.837506,-29.1482681 -51.8377414,-29.1482458 -51.8379888,-29.1481322 -51.8382208,-29.1479858 -51.8384059,-29.1479284 -51.8386325,-29.147912 -51.8388619,-29.1479237 -51.8390644,-29.1479776 -51.839287,-29.1480736 -51.83957,-29.1482634 -51.8397564,-29.148473 -51.8398838,-29.1486768 -51.8399736,-29.1489199 -51.8400085,-29.1491237 -51.8400233,-29.1494885 -51.8400246,-29.1497438 -51.8400072,-29.1498088 -51.8398844,-29.1500531 -51.8397792,-29.1503236 -51.839747,-29.1504384 -51.8397202,-29.1507546 -51.8396793,-29.1509813 -51.8396276,-29.1512641 -51.8395445,-29.151564 -51.8394419,-29.1519915 -51.8393299,-29.1524435 -51.8392749,-29.1526684 -51.8391529,-29.1529038 -51.8390375,-29.1530748 -51.8389839,-29.153213 -51.8389195,-29.1534449 -51.8388793,-29.153726 -51.8387532,-29.1541008 -51.8386593,-29.1543093 -51.8385105,-29.1545306 -51.8380599,-29.1550823 -51.8377595,-29.1554489 -51.8374912,-29.1557897 -51.83624,-29.1572654 -51.836075,-29.1575113 -51.8359624,-29.1576975 -51.8358149,-29.1579763 -51.835717,-29.1581344 -51.8354682,-29.1584863 -51.8352677,-29.1587949 -51.8350612,-29.1591404 -51.8348385,-29.1596159 -51.8346199,-29.1600667 -51.8344322,-29.1605446 -51.8342216,-29.1613304 -51.8340473,-29.1619933 -51.8339655,-29.1621408 -51.8338595,-29.1622767 -51.8333311,-29.1629875 -51.8327236,-29.1638202 -51.8325493,-29.1640766 -51.8323488,-29.1644034 -51.8321456,-29.1646692 -51.831923,-29.1649128 -51.8317325,-29.1651002 -51.8316051,-29.1652665 -51.8315247,-29.1653754 -51.8313825,-29.1655651 -51.8312028,-29.1657536 -51.8310472,-29.1659527 -51.8308863,-29.1660815 -51.8307026,-29.1661752 -51.8303753,-29.1662982 -51.8303069,-29.1663193 -51.8302453,-29.1663532 -51.8302131,-29.1663919 -51.830193,-29.1664504 -51.8301795,-29.166564 -51.8302466,-29.1667174 -51.8303043,-29.1669247 -51.8303137,-29.1670125 -51.8302962,-29.1671238 -51.8302439,-29.167317 -51.8301098,-29.1678217 -51.8299878,-29.1682351 -51.8298912,-29.1685302 -51.829851,-29.1687504 -51.8297879,-29.168967 -51.8296941,-29.1691684 -51.8296069,-29.1693136 -51.8294909,-29.1694541 -51.8291596,-29.1698312 -51.8286279,-29.1704226 -51.828471,-29.1705988 -51.8282712,-29.1707645 -51.8280606,-29.1709214 -51.8278366,-29.1710795 -51.8274839,-29.1713348 -51.8271942,-29.1715444 -51.8270883,-29.1715936 -51.8269166,-29.1716475 -51.8267463,-29.1716955 -51.8266176,-29.1717283 -51.8264982,-29.1717622 -51.8263574,-29.1718313 -51.826226,-29.1719379 -51.8258438,-29.1722938 -51.825597,-29.1725702 -51.8254374,-29.172754 -51.8245576,-29.1736487 -51.8237523,-29.1745123 -51.8229631,-29.1752705 -51.8220317,-29.1761668 -51.820883,-29.1772353 -51.8206148,-29.1775339 -51.8199912,-29.1780046 -51.8187878,-29.1786113 -51.8176827,-29.1787518 -51.8171463,-29.1786301 -51.8162772,-29.1787518 -51.8155262,-29.1786488 -51.8141636,-29.1785083 -51.813241,-29.1778619 -51.8125668,-29.1772084 -51.8122906,-29.1769871 -51.8119995,-29.176781 -51.8117769,-29.1765819 -51.8114242,-29.1762014 -51.8110621,-29.1757611 -51.8107563,-29.1754426 -51.8105158,-29.1751922 -51.8094966,-29.1744334 -51.8090782,-29.1739931 -51.808145,-29.1733932 -51.8079017,-29.1732164 -51.807259,-29.1729032 -51.8065569,-29.1725973 -51.8056571,-29.1720063 -51.8053971,-29.1718712 -51.8051993,-29.1717975 -51.8049379,-29.1717345 -51.8037781,-29.171445 -51.8031988,-29.1714357 -51.8026409,-29.17152 -51.8016967,-29.1714544 -51.8001732,-29.1713139 -51.7995832,-29.1712951 -51.798902,-29.1713903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">390200903</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">140</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8225409,-29.1441485 -51.822463,-29.1442033 -51.8224532,-29.1442847 -51.822466,-29.1443789 -51.8224838,-29.1444831 -51.8225768,-29.144787 -51.8226533,-29.1450107 -51.8227297,-29.1452789 -51.822896,-29.1457217 -51.8230006,-29.1459044 -51.8231991,-29.146059 -51.8235853,-29.1462534 -51.8241432,-29.1464643 -51.8251316,-29.1468028 -51.8253382,-29.1468649 -51.8256412,-29.1469152 -51.8263239,-29.1469703 -51.826745,-29.1469492 -51.8269542,-29.1469023 -51.8272305,-29.1467735 -51.8275389,-29.1465744 -51.8280485,-29.1461925 -51.8286172,-29.1458224 -51.8289819,-29.1456069 -51.8294191,-29.1453726 -51.8298268,-29.1451876 -51.83026,-29.1450552 -51.8309051,-29.144924 -51.8317352,-29.1447483 -51.8319833,-29.144712 -51.8322006,-29.144698 -51.8324018,-29.1447495 -51.8326204,-29.1448502 -51.8330213,-29.1450892 -51.8337321,-29.1455108 -51.8341291,-29.145628 -51.8344,-29.1456514 -51.8347299,-29.1456186 -51.8348265,-29.1456128 -51.8349579,-29.1456338 -51.8350464,-29.1456819 -51.8351913,-29.1458154 -51.8353415,-29.1459559 -51.8354729,-29.146141 -51.8356003,-29.1463483 -51.8357317,-29.146613 -51.8358283,-29.1467208 -51.8359517,-29.1468098 -51.8361931,-29.1470376 -51.8363379,-29.1472502 -51.8364398,-29.1474681 -51.8366598,-29.1479284 -51.8367402,-29.1480338 -51.8368529,-29.1481275 -51.8370326,-29.1482142 -51.8372539,-29.1482493 -51.837506,-29.1482681 -51.8377414,-29.1482458 -51.8379888,-29.1481322 -51.8382208,-29.1479858 -51.8384059,-29.1479284 -51.8386325,-29.147912 -51.8388619,-29.1479237 -51.8390644,-29.1479776 -51.839287,-29.1480736 -51.83957,-29.1482634 -51.8397564,-29.148473 -51.8398838,-29.1486768 -51.8399736,-29.1489199 -51.8400085,-29.1491237 -51.8400233,-29.1494885 -51.8400246,-29.1497438 -51.8400072,-29.1498088 -51.8398844,-29.1500531 -51.8397792,-29.1503236 -51.839747,-29.1504384 -51.8397202,-29.1507546 -51.8396793,-29.1509813 -51.8396276,-29.1512641 -51.8395445,-29.151564 -51.8394419,-29.1519915 -51.8393299,-29.1524435 -51.8392749,-29.1526684 -51.8391529,-29.1529038 -51.8390375,-29.1530748 -51.8389839,-29.153213 -51.8389195,-29.1534449 -51.8388793,-29.153726 -51.8387532,-29.1541008 -51.8386593,-29.1543093 -51.8385105,-29.1545306 -51.8380599,-29.1550823 -51.8377595,-29.1554489 -51.8374912,-29.1557897 -51.83624,-29.1572654 -51.836075,-29.1575113 -51.8359624,-29.1576975 -51.8358149,-29.1579763 -51.835717,-29.1581344 -51.8354682,-29.1584863 -51.8352677,-29.1587949 -51.8350612,-29.1591404 -51.8348385,-29.1596159 -51.8346199,-29.1600667 -51.8344322,-29.1605446 -51.8342216,-29.1613304 -51.8340473,-29.1619933 -51.8339655,-29.1621408 -51.8338595,-29.1622767 -51.8333311,-29.1629875 -51.8327236,-29.1638202 -51.8325493,-29.1640766 -51.8323488,-29.1644034 -51.8321456,-29.1646692 -51.831923,-29.1649128 -51.8317325,-29.1651002 -51.8316051,-29.1652665 -51.8315247,-29.1653754 -51.8313825,-29.1655651 -51.8312028,-29.1657536 -51.8310472,-29.1659527 -51.8308863,-29.1660815 -51.8307026,-29.1661752 -51.8303753,-29.1662982 -51.8303069,-29.1663193 -51.8302453,-29.1663532 -51.8302131,-29.1663919 -51.830193,-29.1664504 -51.8301795,-29.166564 -51.8302466,-29.1667174 -51.8303043,-29.1669247 -51.8303137,-29.1670125 -51.8302962,-29.1671238 -51.8302439,-29.167317 -51.8301098,-29.1678217 -51.8299878,-29.1682351 -51.8298912,-29.1685302 -51.829851,-29.1687504 -51.8297879,-29.168967 -51.8296941,-29.1691684 -51.8296069,-29.1693136 -51.8294909,-29.1694541 -51.8291596,-29.1698312 -51.8286279,-29.1704226 -51.828471,-29.1705988 -51.8282712,-29.1707645 -51.8280606,-29.1709214 -51.8278366,-29.1710795 -51.8274839,-29.1713348 -51.8271942,-29.1715444 -51.8270883,-29.1715936 -51.8269166,-29.1716475 -51.8267463,-29.1716955 -51.8266176,-29.1717283 -51.8264982,-29.1717622 -51.8263574,-29.1718313 -51.826226,-29.1719379 -51.8258438,-29.1722938 -51.825597,-29.1725702 -51.8254374,-29.172754 -51.8245576,-29.1736487 -51.8237523,-29.1745123 -51.8229631,-29.1752705 -51.8220317,-29.1761668 -51.820883,-29.1772353 -51.8206148,-29.1775339 -51.8199912,-29.1780046 -51.8187878,-29.1786113 -51.8176827,-29.1787518 -51.8171463,-29.1786301 -51.8162772,-29.1787518 -51.8155262,-29.1786488 -51.8141636,-29.1785083 -51.813241,-29.1778619 -51.8125668,-29.1772084 -51.8122906,-29.1769871 -51.8119995,-29.176781 -51.8117769,-29.1765819 -51.8114242,-29.1762014 -51.8110621,-29.1757611 -51.8107563,-29.1754426 -51.8105158,-29.1751922 -51.8094966,-29.1744334 -51.8090782,-29.1739931 -51.808145,-29.1733932 -51.8079017,-29.1732164 -51.807259,-29.1729032 -51.8065569,-29.1725973 -51.8056571,-29.1720063 -51.8053971,-29.1718712 -51.8051993,-29.1717975 -51.8049379,-29.1717345 -51.8037781,-29.171445 -51.8031988,-29.1714357 -51.8026409,-29.17152 -51.8016967,-29.1714544 -51.8001732,-29.1713139 -51.7995832,-29.1712951 -51.798902,-29.1713903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778375283</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">135</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7988869,-29.1713924 -51.7987785,-29.1714076 -51.7976198,-29.1718479 -51.7966327,-29.1724849 -51.7958602,-29.1734498 -51.7955384,-29.1745926 -51.7953667,-29.1748081 -51.7908606,-29.1787706 -51.7879209,-29.1817868 -51.7843911,-29.1823114 -51.7836508,-29.1822927 -51.7813763,-29.1819367 -51.7799708,-29.1818992 -51.7793486,-29.1816089 -51.7766234,-29.181 -51.775941,-29.1810536 -51.7753939,-29.1812269 -51.7747287,-29.181255 -51.7743049,-29.1812644 -51.7736397,-29.1811754 -51.7728082,-29.1809225 -51.7719499,-29.180782 -51.7710648,-29.1805712 -51.7703728,-29.1804494 -51.7691711,-29.1803745 -51.7688278,-29.1803979 -51.7680392,-29.1804026 -51.7674653,-29.1803698 -51.766902,-29.1802949 -51.7665748,-29.1801637 -51.7663065,-29.1801028 -51.7658828,-29.1802012 -51.765416,-29.1802433 -51.7645524,-29.1802387 -51.7640696,-29.180248 -51.7634795,-29.1803932 -51.763104,-29.1804963 -51.7627177,-29.1804728 -51.7620633,-29.180426 -51.761382,-29.1802855 -51.7610011,-29.1801965 -51.7605505,-29.1801965 -51.7602447,-29.1801684 -51.7600034,-29.1800935 -51.7597834,-29.18007 -51.7594615,-29.1801216 -51.7591826,-29.180159 -51.7578629,-29.1806368 -51.7575679,-29.1807023 -51.7566989,-29.1808803 -51.7561678,-29.181077 -51.7554919,-29.1812503 -51.7540274,-29.181728 -51.7521284,-29.1822011 -51.7514256,-29.1823603 -51.7500684,-29.1823837 -51.7493818,-29.1822994 -51.7473487,-29.1821074 -51.7468283,-29.1820044 -51.7465065,-29.1818685 -51.7460559,-29.1817421 -51.7455033,-29.1816625 -51.7451064,-29.1816437 -51.7447684,-29.1816952 -51.7439208,-29.1820746 -51.7436204,-29.1821777 -51.7433361,-29.1822339 -51.7430947,-29.1822245 -51.7426226,-29.1821168 -51.7421559,-29.1820231 -51.7411528,-29.1816297 -51.7403428,-29.1813206 -51.7394147,-29.1808147 -51.7387763,-29.18044 -51.738492,-29.1802433 -51.7383526,-29.1800888 -51.7382077,-29.179967 -51.7378376,-29.1797422 -51.7375962,-29.1795689 -51.7374031,-29.179227 -51.7372689,-29.1786884 -51.7371617,-29.1779249 -51.7371632,-29.1777974 -51.737178,-29.1775655 -51.7371739,-29.1772494 -51.7371619,-29.1770773 -51.7371739,-29.1769203 -51.7372155,-29.1767517 -51.7374782,-29.1763699 -51.737623,-29.176131 -51.7377357,-29.1757938 -51.7379073,-29.1754519 -51.7383526,-29.1749273 -51.738889,-29.1744355 -51.7394498,-29.173911 -51.7398199,-29.1736393 -51.7401014,-29.1733582 -51.7407022,-29.1726743 -51.7415819,-29.1716532 -51.7418555,-29.1714518 -51.7423115,-29.1710818 -51.7424645,-29.1709338 -51.7428562,-29.1705549 -51.743438,-29.1700091 -51.7436258,-29.1698826 -51.7442695,-29.1694236 -51.7446558,-29.1691285 -51.7452136,-29.1686039 -51.7460344,-29.1678263 -51.7466245,-29.1672127 -51.7470284,-29.1667807 -51.7475286,-29.1663321 -51.7480836,-29.1658355 -51.7483534,-29.1654573 -51.7485961,-29.1650721 -51.7489421,-29.164346 -51.7491887,-29.1639103 -51.749473,-29.1634793 -51.7497198,-29.1630717 -51.7498914,-29.1626736 -51.7501167,-29.1622801 -51.7504171,-29.1617039 -51.7506424,-29.1612776 -51.7508892,-29.1606546 -51.751195,-29.159891 -51.7514686,-29.1592164 -51.7517261,-29.1586215 -51.7518924,-29.1581577 -51.7519782,-29.1579516 -51.7521337,-29.1577408 -51.7524073,-29.1573754 -51.7525629,-29.1571552 -51.7527989,-29.1568788 -51.7529062,-29.1566867 -51.7530672,-29.1562604 -51.7532442,-29.1556139 -51.7534266,-29.1549674 -51.7536143,-29.1542085 -51.7538128,-29.1534589 -51.7540274,-29.1526812 -51.7542098,-29.1518988 -51.7542581,-29.1514397 -51.7543653,-29.1510649 -51.7544887,-29.1507932 -51.7545746,-29.1504231 -51.7546336,-29.1501232 -51.7547409,-29.1497906 -51.7548696,-29.1495563 -51.7550413,-29.1493362 -51.7551861,-29.1491066 -51.7552827,-29.1489098 -51.75539,-29.1485678 -51.7555294,-29.1481134 -51.755626,-29.1476917 -51.7557011,-29.1474246 -51.7557923,-29.1471951 -51.7558835,-29.1465954 -51.7559639,-29.1462252 -51.7560981,-29.1459301 -51.7561946,-29.1457005 -51.7563985,-29.1454334 -51.756613,-29.1450867 -51.756715,-29.1448197 -51.7567901,-29.1446135 -51.7569456,-29.1443418 -51.7570207,-29.144145 -51.7571066,-29.1436343 -51.7573265,-29.1430768 -51.7575733,-29.1423084 -51.7577503,-29.141793 -51.7578254,-29.1414463 -51.7579541,-29.1408981 -51.7580614,-29.1405139 -51.7581151,-29.1398907 -51.7581151,-29.1389489 -51.7580936,-29.1384991 -51.7580722,-29.1379837 -51.7580883,-29.1378291 -51.7581794,-29.1376651 -51.7584048,-29.137473 -51.7585818,-29.137309 -51.758673,-29.1371965 -51.7587159,-29.1370888 -51.7587105,-29.1369669 -51.7585925,-29.1368826 -51.7583297,-29.1368357 -51.7580078,-29.1367889 -51.7576484,-29.136742 -51.7573641,-29.1366296 -51.7569564,-29.1364609 -51.7564736,-29.1362313 -51.7560873,-29.1360345 -51.7557279,-29.1358236 -51.7550895,-29.1353785 -51.7546658,-29.1350974 -51.7544244,-29.1348443 -51.7542312,-29.1346663 -51.7539523,-29.1345538 -51.7534909,-29.1343945 -51.7525522,-29.1341649 -51.7518655,-29.1340431 -51.7509268,-29.1339587 -51.7489126,-29.1338815 -51.7483923,-29.1338628 -51.7481536,-29.1338862 -51.7468151,-29.1342728 -51.7450956,-29.1347459 -51.744656,-29.1349007 -51.744012,-29.1352192 -51.7436636,-29.1353997 -51.7433202,-29.1354723 -51.7415446,-29.1354934 -51.7394257,-29.1353669 -51.7386451,-29.1352638 -51.7380846,-29.1351256 -51.7377627,-29.1349873 -51.7374513,-29.1347506 -51.7372958,-29.134596 -51.73699,-29.1342492 -51.7368695,-29.1341123 -51.7367797,-29.1340631 -51.7366724,-29.134035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">778375283</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">137</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7988869,-29.1713924 -51.7987785,-29.1714076 -51.7976198,-29.1718479 -51.7966327,-29.1724849 -51.7958602,-29.1734498 -51.7955384,-29.1745926 -51.7953667,-29.1748081 -51.7908606,-29.1787706 -51.7879209,-29.1817868 -51.7843911,-29.1823114 -51.7836508,-29.1822927 -51.7813763,-29.1819367 -51.7799708,-29.1818992 -51.7793486,-29.1816089 -51.7766234,-29.181 -51.775941,-29.1810536 -51.7753939,-29.1812269 -51.7747287,-29.181255 -51.7743049,-29.1812644 -51.7736397,-29.1811754 -51.7728082,-29.1809225 -51.7719499,-29.180782 -51.7710648,-29.1805712 -51.7703728,-29.1804494 -51.7691711,-29.1803745 -51.7688278,-29.1803979 -51.7680392,-29.1804026 -51.7674653,-29.1803698 -51.766902,-29.1802949 -51.7665748,-29.1801637 -51.7663065,-29.1801028 -51.7658828,-29.1802012 -51.765416,-29.1802433 -51.7645524,-29.1802387 -51.7640696,-29.180248 -51.7634795,-29.1803932 -51.763104,-29.1804963 -51.7627177,-29.1804728 -51.7620633,-29.180426 -51.761382,-29.1802855 -51.7610011,-29.1801965 -51.7605505,-29.1801965 -51.7602447,-29.1801684 -51.7600034,-29.1800935 -51.7597834,-29.18007 -51.7594615,-29.1801216 -51.7591826,-29.180159 -51.7578629,-29.1806368 -51.7575679,-29.1807023 -51.7566989,-29.1808803 -51.7561678,-29.181077 -51.7554919,-29.1812503 -51.7540274,-29.181728 -51.7521284,-29.1822011 -51.7514256,-29.1823603 -51.7500684,-29.1823837 -51.7493818,-29.1822994 -51.7473487,-29.1821074 -51.7468283,-29.1820044 -51.7465065,-29.1818685 -51.7460559,-29.1817421 -51.7455033,-29.1816625 -51.7451064,-29.1816437 -51.7447684,-29.1816952 -51.7439208,-29.1820746 -51.7436204,-29.1821777 -51.7433361,-29.1822339 -51.7430947,-29.1822245 -51.7426226,-29.1821168 -51.7421559,-29.1820231 -51.7411528,-29.1816297 -51.7403428,-29.1813206 -51.7394147,-29.1808147 -51.7387763,-29.18044 -51.738492,-29.1802433 -51.7383526,-29.1800888 -51.7382077,-29.179967 -51.7378376,-29.1797422 -51.7375962,-29.1795689 -51.7374031,-29.179227 -51.7372689,-29.1786884 -51.7371617,-29.1779249 -51.7371632,-29.1777974 -51.737178,-29.1775655 -51.7371739,-29.1772494 -51.7371619,-29.1770773 -51.7371739,-29.1769203 -51.7372155,-29.1767517 -51.7374782,-29.1763699 -51.737623,-29.176131 -51.7377357,-29.1757938 -51.7379073,-29.1754519 -51.7383526,-29.1749273 -51.738889,-29.1744355 -51.7394498,-29.173911 -51.7398199,-29.1736393 -51.7401014,-29.1733582 -51.7407022,-29.1726743 -51.7415819,-29.1716532 -51.7418555,-29.1714518 -51.7423115,-29.1710818 -51.7424645,-29.1709338 -51.7428562,-29.1705549 -51.743438,-29.1700091 -51.7436258,-29.1698826 -51.7442695,-29.1694236 -51.7446558,-29.1691285 -51.7452136,-29.1686039 -51.7460344,-29.1678263 -51.7466245,-29.1672127 -51.7470284,-29.1667807 -51.7475286,-29.1663321 -51.7480836,-29.1658355 -51.7483534,-29.1654573 -51.7485961,-29.1650721 -51.7489421,-29.164346 -51.7491887,-29.1639103 -51.749473,-29.1634793 -51.7497198,-29.1630717 -51.7498914,-29.1626736 -51.7501167,-29.1622801 -51.7504171,-29.1617039 -51.7506424,-29.1612776 -51.7508892,-29.1606546 -51.751195,-29.159891 -51.7514686,-29.1592164 -51.7517261,-29.1586215 -51.7518924,-29.1581577 -51.7519782,-29.1579516 -51.7521337,-29.1577408 -51.7524073,-29.1573754 -51.7525629,-29.1571552 -51.7527989,-29.1568788 -51.7529062,-29.1566867 -51.7530672,-29.1562604 -51.7532442,-29.1556139 -51.7534266,-29.1549674 -51.7536143,-29.1542085 -51.7538128,-29.1534589 -51.7540274,-29.1526812 -51.7542098,-29.1518988 -51.7542581,-29.1514397 -51.7543653,-29.1510649 -51.7544887,-29.1507932 -51.7545746,-29.1504231 -51.7546336,-29.1501232 -51.7547409,-29.1497906 -51.7548696,-29.1495563 -51.7550413,-29.1493362 -51.7551861,-29.1491066 -51.7552827,-29.1489098 -51.75539,-29.1485678 -51.7555294,-29.1481134 -51.755626,-29.1476917 -51.7557011,-29.1474246 -51.7557923,-29.1471951 -51.7558835,-29.1465954 -51.7559639,-29.1462252 -51.7560981,-29.1459301 -51.7561946,-29.1457005 -51.7563985,-29.1454334 -51.756613,-29.1450867 -51.756715,-29.1448197 -51.7567901,-29.1446135 -51.7569456,-29.1443418 -51.7570207,-29.144145 -51.7571066,-29.1436343 -51.7573265,-29.1430768 -51.7575733,-29.1423084 -51.7577503,-29.141793 -51.7578254,-29.1414463 -51.7579541,-29.1408981 -51.7580614,-29.1405139 -51.7581151,-29.1398907 -51.7581151,-29.1389489 -51.7580936,-29.1384991 -51.7580722,-29.1379837 -51.7580883,-29.1378291 -51.7581794,-29.1376651 -51.7584048,-29.137473 -51.7585818,-29.137309 -51.758673,-29.1371965 -51.7587159,-29.1370888 -51.7587105,-29.1369669 -51.7585925,-29.1368826 -51.7583297,-29.1368357 -51.7580078,-29.1367889 -51.7576484,-29.136742 -51.7573641,-29.1366296 -51.7569564,-29.1364609 -51.7564736,-29.1362313 -51.7560873,-29.1360345 -51.7557279,-29.1358236 -51.7550895,-29.1353785 -51.7546658,-29.1350974 -51.7544244,-29.1348443 -51.7542312,-29.1346663 -51.7539523,-29.1345538 -51.7534909,-29.1343945 -51.7525522,-29.1341649 -51.7518655,-29.1340431 -51.7509268,-29.1339587 -51.7489126,-29.1338815 -51.7483923,-29.1338628 -51.7481536,-29.1338862 -51.7468151,-29.1342728 -51.7450956,-29.1347459 -51.744656,-29.1349007 -51.744012,-29.1352192 -51.7436636,-29.1353997 -51.7433202,-29.1354723 -51.7415446,-29.1354934 -51.7394257,-29.1353669 -51.7386451,-29.1352638 -51.7380846,-29.1351256 -51.7377627,-29.1349873 -51.7374513,-29.1347506 -51.7372958,-29.134596 -51.73699,-29.1342492 -51.7368695,-29.1341123 -51.7367797,-29.1340631 -51.7366724,-29.134035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">390200905</SimpleData>
+		<SimpleData name="source">Maxar Premium</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">141</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7544782,-29.1378257 -51.7546192,-29.1379313 -51.754809,-29.138085 -51.7549574,-29.1383084 -51.7550674,-29.1385126 -51.7550977,-29.1387095 -51.7551032,-29.1393748 -51.7551609,-29.1398 -51.7551967,-29.1403236 -51.7551692,-29.1405205 -51.7550867,-29.1407559 -51.754644,-29.14139 -51.7541572,-29.1420505 -51.753687,-29.1425789 -51.7535357,-29.1427759 -51.7534477,-29.1429872 -51.753412,-29.1433211 -51.7532965,-29.1436573 -51.7532195,-29.1438254 -51.753225,-29.1439263 -51.753214,-29.1443082 -51.7531783,-29.1444715 -51.7529445,-29.1449375 -51.7527715,-29.1453827 -51.7525735,-29.1460624 -51.752403,-29.1464611 -51.7519003,-29.1477791 -51.7517628,-29.1481106 -51.7517298,-29.1482619 -51.7516831,-29.1488743 -51.7516061,-29.1491745 -51.7514824,-29.1496596 -51.7513091,-29.1506179 -51.7511991,-29.1509613 -51.7511104,-29.1511554 -51.7509706,-29.1514878 -51.7508389,-29.1518787 -51.7505171,-29.1530771 -51.7502009,-29.1539225 -51.7500964,-29.154201 -51.7499314,-29.1546357 -51.7497802,-29.1548519 -51.7493292,-29.1555147 -51.7488727,-29.1561078 -51.7487022,-29.1563624 -51.7485564,-29.1566362 -51.7483254,-29.1570612 -51.7479377,-29.157604 -51.747473,-29.1581323 -51.747407,-29.1582427 -51.747385,-29.1583556 -51.747385,-29.1585237 -51.7473905,-29.1595707 -51.7473547,-29.1598013 -51.7472585,-29.1600462 -51.7465655,-29.1612397 -51.746252,-29.1616647 -51.7457625,-29.1621282 -51.7453748,-29.1624764 -51.7450008,-29.1627213 -51.7447368,-29.1629182 -51.7444977,-29.1630648 -51.7441879,-29.1631983 -51.7438875,-29.1633002 -51.7436019,-29.1633283 -51.7434691,-29.1633166 -51.7433953,-29.1632873 -51.743284,-29.1632463 -51.7431834,-29.1631913 -51.7430681,-29.1631433 -51.7429729,-29.1630941 -51.7428482,-29.1630215 -51.7425826,-29.1627955 -51.7423609,-29.1625652 -51.7421849,-29.1623923 -51.7420144,-29.1622987 -51.7418961,-29.1622459 -51.7417889,-29.1622315 -51.7416679,-29.1622555 -51.7415964,-29.1623155 -51.7415057,-29.1624067 -51.7411812,-29.1628462 -51.7409392,-29.1632208 -51.7407632,-29.1635354 -51.7406257,-29.1637851 -51.7405817,-29.163934 -51.7405569,-29.1641285 -51.7405487,-29.1644142 -51.7405365,-29.1646926 -51.7405514,-29.1650578 -51.7405789,-29.1662584 -51.7406072,-29.1666226 -51.7406125,-29.1668029 -51.7406049,-29.1668685 -51.7405968,-29.1669225 -51.740585,-29.1669821</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952638405</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8591019,-29.1566024 -51.858635,-29.1566258 -51.8581073,-29.1566501 -51.8573087,-29.1567454 -51.8570352,-29.1567945 -51.8570083,-29.1568273 -51.8569466,-29.1569187 -51.8569037,-29.1570358 -51.8568823,-29.1571974 -51.8568541,-29.1573965 -51.8568407,-29.1575254 -51.8568876,-29.1578064 -51.8569735,-29.1582234 -51.8570285,-29.1584119 -51.8570338,-29.1584892 -51.8570352,-29.1585443 -51.8570405,-29.1585935 -51.8570318,-29.1586514 -51.8570365,-29.1587024 -51.8570466,-29.1587141 -51.8570747,-29.1587211 -51.8571579,-29.1587205 -51.8572551,-29.1587375 -51.8573731,-29.1587621 -51.8575273,-29.1588283 -51.8577024,-29.1588903 -51.8577982,-29.1589512 -51.8578921,-29.1590479 -51.8580423,-29.1592106 -51.8582113,-29.1594109 -51.8583843,-29.159596 -51.8585319,-29.15974 -51.8585908,-29.1597704 -51.8586565,-29.1597728 -51.8587826,-29.1597728 -51.8590576,-29.1597657 -51.859476,-29.1597558 -51.8599319,-29.1597341 -51.8605274,-29.1596733 -51.8609035,-29.1596351</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Cecilio Domingos Gelatti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">552482190</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8585665,-29.1553026 -51.8599125,-29.1552217</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Nossa Senhora de Fátima</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430286</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8615868,-29.1605815 -51.8610987,-29.1600119 -51.8609035,-29.1596351 -51.8606856,-29.1592276 -51.8603772,-29.1586836 -51.8601814,-29.1584307 -51.8599467,-29.1581519 -51.8596181,-29.157687 -51.859421,-29.1574539 -51.8593118,-29.1571625 -51.8591019,-29.1566024 -51.8590321,-29.1564444 -51.8586106,-29.1555442 -51.8585665,-29.1553026 -51.8585543,-29.1552155 -51.8585552,-29.1549969 -51.8585761,-29.154817 -51.8586159,-29.1545885 -51.8586703,-29.1543983 -51.858776,-29.1541423 -51.8590627,-29.1537125 -51.8594005,-29.1531963 -51.8602015,-29.1517572 -51.8605546,-29.1510878 -51.8606436,-29.1509355 -51.8616043,-29.149184 -51.862162,-29.1481228 -51.8625512,-29.1473568 -51.8627882,-29.1470503 -51.8642239,-29.1462124 -51.8644541,-29.1460714 -51.8653713,-29.1454901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">490585569</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8788469,-29.1624808 -51.8790391,-29.1626735 -51.8794935,-29.1631869 -51.8796209,-29.1633567 -51.8807992,-29.1649268 -51.8814709,-29.1657125 -51.8815932,-29.1658383 -51.8816759,-29.1659233</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696921635</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8780252,-29.1641509 -51.8789791,-29.1641597</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696980271</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8787505,-29.1624159 -51.8788469,-29.1624808</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696980272</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8786441,-29.1623267 -51.8787505,-29.1624159</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Tranquilo Luiz Girardi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626065</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8823136,-29.1617169 -51.8815508,-29.1617352 -51.8803923,-29.1617966 -51.8802379,-29.1618022 -51.8799132,-29.1618176 -51.8797864,-29.1618193 -51.8796029,-29.1618001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Luiz Buffon</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626072</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8792441,-29.1613846 -51.8788206,-29.1616612</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Clovis Nelson Predebom</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626070</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8796029,-29.1618001 -51.8792441,-29.1613846 -51.8790491,-29.1611482</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207458591</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8878457,-29.1685829 -51.8882078,-29.168111 -51.8886423,-29.1675219 -51.8887255,-29.1673111 -51.8887778,-29.1672163 -51.8888623,-29.1671121 -51.8889762,-29.1669786 -51.8891948,-29.1667397 -51.8893397,-29.1664422 -51.889396,-29.1663251 -51.889455,-29.1660839 -51.889565,-29.1656646 -51.8895945,-29.1655264 -51.8896186,-29.1652594 -51.8897004,-29.1648191 -51.8900478,-29.1636387 -51.8902007,-29.163162 -51.890367,-29.1627674 -51.8905225,-29.1624558 -51.8911207,-29.1615471 -51.8913728,-29.1612168 -51.8915686,-29.1610224 -51.8917993,-29.1608584 -51.8922043,-29.1605914 -51.8923733,-29.1604087 -51.8925181,-29.1602073 -51.8928722,-29.1597482 -51.8929514,-29.1595249 -51.8930995,-29.1594114 -51.8934769,-29.1590785 -51.8943059,-29.1584185 -51.8950528,-29.1578158</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Victor Gaetano Zilio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626563</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822152,-29.1606032 -51.8822648,-29.1611661 -51.8823136,-29.1617169 -51.8823235,-29.1619907</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alexandre Manuel Gelatti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626560</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822648,-29.1611661 -51.8803807,-29.1612124</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Julio Elias Morigi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626562</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8822152,-29.1606032 -51.8809621,-29.1606371</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Santa Lúcia</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332308946</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8841416,-29.1577373 -51.8838291,-29.1580443 -51.8833168,-29.1585465 -51.8826071,-29.1591724 -51.8809621,-29.1606371 -51.8803807,-29.1612124 -51.8802507,-29.1613128 -51.8799286,-29.1615685 -51.8798903,-29.1615957 -51.8796029,-29.1618001 -51.8789251,-29.1622555 -51.8787505,-29.1624159</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209261340</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8843159,-29.1584711 -51.8841617,-29.158498 -51.883817,-29.158532 -51.8835032,-29.1585437 -51.8833168,-29.1585465</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Santa Lúcia</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332308947</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8947455,-29.1449645 -51.8947014,-29.1453117 -51.8946558,-29.1456327 -51.8946424,-29.1457498 -51.8944949,-29.1464854 -51.8944091,-29.1468508 -51.8943849,-29.1470242 -51.8943568,-29.1473193 -51.8943098,-29.1474429 -51.8942481,-29.1475536 -51.8941931,-29.1476449 -51.8937613,-29.1480373 -51.8936689,-29.1481122 -51.8936178,-29.1482001 -51.8935736,-29.1482786 -51.8935494,-29.1483676 -51.8935052,-29.1486475 -51.8934462,-29.1487858 -51.8933281,-29.1489614 -51.8930894,-29.1492144 -51.8927515,-29.1495869 -51.8924941,-29.1499474 -51.8923585,-29.1501476 -51.8922485,-29.1502845 -51.8918368,-29.1506574 -51.8917087,-29.1507743 -51.8916476,-29.1508715 -51.8915257,-29.1512102 -51.8914345,-29.1514421 -51.8912719,-29.1517197 -51.8909679,-29.1522349 -51.8907971,-29.1524543 -51.8906275,-29.1526296 -51.8902824,-29.1529216 -51.8898109,-29.1533369 -51.8895938,-29.1534648 -51.8891747,-29.1536312 -51.8889673,-29.1536923 -51.8887039,-29.1538106 -51.8885404,-29.1539392 -51.8884224,-29.1540657 -51.8881461,-29.1544615 -51.8877545,-29.1549933 -51.8876472,-29.1551198 -51.8875748,-29.15519</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">445449867</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8950528,-29.1578158 -51.8951923,-29.1576495 -51.8953197,-29.1574059 -51.8955423,-29.1569948 -51.8958145,-29.1566048 -51.895954,-29.1564666 -51.8961257,-29.1562886 -51.8966407,-29.1558108 -51.8970403,-29.1554313 -51.8971409,-29.1552943 -51.8972066,-29.1551373 -51.8972576,-29.1550003 -51.8973273,-29.154834 -51.8974373,-29.1546864 -51.897558,-29.1545833 -51.8976572,-29.1544826 -51.8978342,-29.1542765 -51.8983787,-29.1537178 -51.8985075,-29.153596 -51.8987033,-29.153418 -51.8988441,-29.1532271 -51.8989165,-29.1530748 -51.8989635,-29.1529624 -51.8990707,-29.1526462 -51.8994409,-29.1514937 -51.8995267,-29.1512056 -51.8995468,-29.1509502 -51.8995535,-29.1506199 -51.899575,-29.1504513 -51.89963,-29.150169 -51.9000177,-29.1485432 -51.9003877,-29.1468414 -51.9004802,-29.1463799 -51.9006023,-29.1459009 -51.9007257,-29.1453 -51.9007404,-29.1449861 -51.9007766,-29.144794 -51.9007753,-29.1446499 -51.9007391,-29.1442318 -51.9007096,-29.1440233 -51.9006841,-29.1436555 -51.9007096,-29.1432654 -51.9008169,-29.1425228 -51.9009188,-29.1419981 -51.9009697,-29.1418505 -51.9010127,-29.141772 -51.9011816,-29.1415283 -51.9014432,-29.1411512 -51.901761,-29.1406334 -51.9019112,-29.140453 -51.9021446,-29.1402164 -51.9024503,-29.1399306 -51.9027427,-29.1396542 -51.902968,-29.139441 -51.9031584,-29.1392629 -51.9033422,-29.1391552 -51.9035152,-29.1390497 -51.9036573,-29.1389607 -51.9049233,-29.1383329 -51.9053002,-29.1381337 -51.9054041,-29.1380822 -51.9055375,-29.1379861 -51.9056636,-29.1378596 -51.9058085,-29.1377073 -51.9063181,-29.1371673 -51.9066922,-29.1367386 -51.9071737,-29.1361318 -51.9072649,-29.1359959 -51.90734,-29.1358213 -51.9074044,-29.1356099 -51.9074392,-29.1355121</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">332308945</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8947652,-29.1448021 -51.8947455,-29.1449645</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696980274</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9082281,-29.110534 -51.9083405,-29.1106423 -51.9085416,-29.1107595 -51.908665,-29.1108649 -51.9088152,-29.1110805 -51.909636,-29.1128943 -51.9098425,-29.1134731 -51.9100866,-29.1140941 -51.9101617,-29.1142511 -51.9104353,-29.114633 -51.9105077,-29.1148275 -51.9105721,-29.1155024 -51.9106793,-29.1161796 -51.9106391,-29.1168803 -51.9105533,-29.1175293 -51.9104621,-29.1177777 -51.9100826,-29.1184779 -51.9088233,-29.1202076 -51.9085416,-29.1206575 -51.9082332,-29.1214425 -51.9082037,-29.1215913 -51.9081889,-29.1220482 -51.9081379,-29.1226984 -51.9081017,-29.1229585 -51.908024,-29.1236895 -51.9080132,-29.1240855 -51.9079676,-29.1242894 -51.907922,-29.1245822 -51.9077772,-29.1249478 -51.9076994,-29.1251493 -51.9076484,-29.1254047 -51.9075868,-29.1256624 -51.9074178,-29.1261029 -51.907222,-29.1265574 -51.9071254,-29.1267847 -51.9070235,-29.1270495 -51.9069672,-29.1272627 -51.9069216,-29.1276329 -51.9068706,-29.128071 -51.906876,-29.1284857 -51.9068974,-29.1286474 -51.9068813,-29.1288325 -51.9068331,-29.1293081 -51.9067499,-29.1300298 -51.9067284,-29.1304445 -51.9066346,-29.1308849 -51.9065809,-29.1311122 -51.9065407,-29.1313067 -51.9065112,-29.13148 -51.9063959,-29.1316417 -51.9062912,-29.1318198 -51.9062269,-29.1320377 -51.9061196,-29.1322438 -51.9058889,-29.1326046 -51.9057092,-29.1328155 -51.904631,-29.1341837 -51.9042581,-29.1345867 -51.9040622,-29.1348273 -51.9038922,-29.135044 -51.9034079,-29.1354817 -51.903255,-29.1356152 -51.9030887,-29.135812 -51.9028285,-29.1361962 -51.9027255,-29.1363259 -51.9026137,-29.1364375 -51.9019863,-29.1368382 -51.9012299,-29.1373934 -51.9010945,-29.1375047 -51.9009805,-29.1376581 -51.9007149,-29.1380588 -51.9005996,-29.1382602 -51.9004333,-29.1384828 -51.9001704,-29.1388038 -51.899862,-29.1390919 -51.898891,-29.1399025 -51.8984499,-29.1402145 -51.8979486,-29.14051 -51.8978289,-29.1406358 -51.8977511,-29.1407576 -51.8975821,-29.1410036 -51.8974695,-29.1411746 -51.8973122,-29.1413305 -51.8971074,-29.1415565 -51.8968686,-29.1417931 -51.8967184,-29.1420601 -51.8965682,-29.1423108 -51.8963698,-29.1425919 -51.8955222,-29.1436321 -51.8954377,-29.1437691 -51.8953921,-29.143864 -51.8953465,-29.1440045 -51.8952794,-29.1441451 -51.8951789,-29.1443185 -51.8948932,-29.1446031 -51.8948248,-29.144698 -51.8947652,-29.1448021</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696980274</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9082281,-29.110534 -51.9083405,-29.1106423 -51.9085416,-29.1107595 -51.908665,-29.1108649 -51.9088152,-29.1110805 -51.909636,-29.1128943 -51.9098425,-29.1134731 -51.9100866,-29.1140941 -51.9101617,-29.1142511 -51.9104353,-29.114633 -51.9105077,-29.1148275 -51.9105721,-29.1155024 -51.9106793,-29.1161796 -51.9106391,-29.1168803 -51.9105533,-29.1175293 -51.9104621,-29.1177777 -51.9100826,-29.1184779 -51.9088233,-29.1202076 -51.9085416,-29.1206575 -51.9082332,-29.1214425 -51.9082037,-29.1215913 -51.9081889,-29.1220482 -51.9081379,-29.1226984 -51.9081017,-29.1229585 -51.908024,-29.1236895 -51.9080132,-29.1240855 -51.9079676,-29.1242894 -51.907922,-29.1245822 -51.9077772,-29.1249478 -51.9076994,-29.1251493 -51.9076484,-29.1254047 -51.9075868,-29.1256624 -51.9074178,-29.1261029 -51.907222,-29.1265574 -51.9071254,-29.1267847 -51.9070235,-29.1270495 -51.9069672,-29.1272627 -51.9069216,-29.1276329 -51.9068706,-29.128071 -51.906876,-29.1284857 -51.9068974,-29.1286474 -51.9068813,-29.1288325 -51.9068331,-29.1293081 -51.9067499,-29.1300298 -51.9067284,-29.1304445 -51.9066346,-29.1308849 -51.9065809,-29.1311122 -51.9065407,-29.1313067 -51.9065112,-29.13148 -51.9063959,-29.1316417 -51.9062912,-29.1318198 -51.9062269,-29.1320377 -51.9061196,-29.1322438 -51.9058889,-29.1326046 -51.9057092,-29.1328155 -51.904631,-29.1341837 -51.9042581,-29.1345867 -51.9040622,-29.1348273 -51.9038922,-29.135044 -51.9034079,-29.1354817 -51.903255,-29.1356152 -51.9030887,-29.135812 -51.9028285,-29.1361962 -51.9027255,-29.1363259 -51.9026137,-29.1364375 -51.9019863,-29.1368382 -51.9012299,-29.1373934 -51.9010945,-29.1375047 -51.9009805,-29.1376581 -51.9007149,-29.1380588 -51.9005996,-29.1382602 -51.9004333,-29.1384828 -51.9001704,-29.1388038 -51.899862,-29.1390919 -51.898891,-29.1399025 -51.8984499,-29.1402145 -51.8979486,-29.14051 -51.8978289,-29.1406358 -51.8977511,-29.1407576 -51.8975821,-29.1410036 -51.8974695,-29.1411746 -51.8973122,-29.1413305 -51.8971074,-29.1415565 -51.8968686,-29.1417931 -51.8967184,-29.1420601 -51.8965682,-29.1423108 -51.8963698,-29.1425919 -51.8955222,-29.1436321 -51.8954377,-29.1437691 -51.8953921,-29.143864 -51.8953465,-29.1440045 -51.8952794,-29.1441451 -51.8951789,-29.1443185 -51.8948932,-29.1446031 -51.8948248,-29.144698 -51.8947652,-29.1448021</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957026105</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9074788,-29.1353868 -51.9081286,-29.1342119 -51.9082278,-29.1340268 -51.9083203,-29.1338042 -51.9083981,-29.1335008 -51.9085228,-29.1325109 -51.9086463,-29.1315878 -51.9086773,-29.1314522 -51.9087066,-29.1313242 -51.9087508,-29.1312223 -51.9088259,-29.1310571 -51.9089896,-29.1307936 -51.9093812,-29.1300462 -51.9094697,-29.1298447 -51.9096496,-29.1292961 -51.9098436,-29.1287207 -51.9098975,-29.1285607 -51.9100906,-29.1279808 -51.9101872,-29.1276938 -51.9103253,-29.1273552 -51.910556,-29.1269534 -51.9106418,-29.1267917 -51.9107115,-29.1266184 -51.9107544,-29.1262786 -51.9108294,-29.1256761 -51.9108684,-29.1251961 -51.9108939,-29.1250368 -51.9109637,-29.1248189 -51.9110951,-29.1244534 -51.9112614,-29.1240715 -51.9113405,-29.1239402 -51.9115725,-29.123413 -51.9118112,-29.1229772 -51.9121036,-29.1224664 -51.9125153,-29.1217002 -51.9127741,-29.1212702 -51.9130196,-29.1208953 -51.9138108,-29.1197144 -51.9141756,-29.1192094 -51.9149494,-29.1183401 -51.9155422,-29.1178457 -51.9156564250179,-29.1177415495608</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">566382090</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9156887275071,-29.1213884384181 -51.9152364,-29.1214425 -51.9146141,-29.1216557 -51.914244,-29.1218713 -51.9138269,-29.1222122 -51.9136673,-29.1222977 -51.9133978,-29.1223809 -51.9125059,-29.1228694 -51.9118783,-29.1233427 -51.911535,-29.1237528 -51.9113405,-29.1239402</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ercílio Filipi Chiella</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626069</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8799286,-29.1615685 -51.8793973,-29.1609386</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Julio Remor Bastiani</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256626068</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">138</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8802507,-29.1613128 -51.8796306,-29.1606303</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696980275</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.908138,-29.1104138 -51.9082281,-29.110534</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">566382092</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.915604087225,-29.1118312780937 -51.9154376,-29.1114766 -51.9151586,-29.1105884 -51.9150513,-29.1103494 -51.914936,-29.110183 -51.9146128,-29.1098702 -51.914303,-29.1094612 -51.9138269,-29.1090019 -51.9135413,-29.1086035 -51.9130974,-29.1078595 -51.9129539,-29.107706 -51.9125462,-29.1074693 -51.9122377,-29.1072279 -51.9120526,-29.1069842 -51.9117388,-29.1063351 -51.9115738,-29.1056695 -51.9115591,-29.1052078 -51.9116718,-29.1046641 -51.9120392,-29.1037314 -51.9122458,-29.10334 -51.9127795,-29.1027612 -51.9136995,-29.1020534 -51.9143822,-29.1016093 -51.9149172,-29.1012964 -51.9155083382108,-29.1010141748652</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">244102468</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">142</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9154844595707,-29.0983155938684 -51.9153988,-29.098337 -51.9147134,-29.0985192 -51.913552,-29.0985778 -51.9129083,-29.0986739 -51.9115333,-29.0991482 -51.910871,-29.0993916 -51.9104589,-29.0996137 -51.9102609,-29.0997801 -51.9098901,-29.1001441 -51.9095528,-29.1006144 -51.9093016,-29.1008508 -51.9089305,-29.101116 -51.9087401,-29.1013128 -51.9085041,-29.1015917 -51.9079435,-29.1021518 -51.9077611,-29.1024635 -51.9076565,-29.102808 -51.9074875,-29.1031736 -51.9070771,-29.103872 -51.9069591,-29.1042704 -51.9068411,-29.1052852 -51.9067097,-29.1058851 -51.9067419,-29.1062167 -51.9068599,-29.106703 -51.9071093,-29.1078736 -51.9072676,-29.1084899 -51.9073346,-29.108627 -51.907564,-29.1088988 -51.9076739,-29.1090605 -51.9077531,-29.1092492 -51.9079945,-29.1101139 -51.9081091,-29.110379 -51.908138,-29.1104138</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207498748</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8625512,-29.1473568 -51.8633915,-29.1473988</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430291</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8657501,-29.1475164 -51.8656302,-29.1473193 -51.8656002,-29.1472244 -51.8655111,-29.1471548 -51.8644176,-29.1471205 -51.8627882,-29.1470503</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida São Cristóvão</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430287</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8627882,-29.1470503 -51.8627605,-29.1469211 -51.8627295,-29.1467522 -51.8627013,-29.1466269 -51.8626409,-29.1464564 -51.8625907,-29.1463659 -51.8625196,-29.1462909 -51.8623124,-29.1461275 -51.8622353,-29.1460686 -51.8620857,-29.1459544</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida São Cristóvão</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430297</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8620857,-29.1459544 -51.861975,-29.1458756</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">696921625</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.85326,-29.1468813 -51.8535617,-29.146565 -51.8537763,-29.1463554 -51.8540271,-29.1461949 -51.8541598,-29.1461199 -51.8543409,-29.146004 -51.8546976,-29.1458078 -51.8547647,-29.1457556 -51.8548948,-29.1456385 -51.8550369,-29.1454991 -51.8551214,-29.1453539 -51.8551724,-29.1452414 -51.8554044,-29.1446886 -51.8555948,-29.1441615</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Maximo Coletti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430296</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.862229,-29.143737 -51.8615301,-29.1445656</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida São Cristóvão</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430298</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.861975,-29.1458756 -51.8617847,-29.145759 -51.8616499,-29.1456315 -51.8615122,-29.1454862 -51.86145,-29.1452906 -51.8614132,-29.1451491 -51.8614173,-29.1450076 -51.8615301,-29.1445656 -51.8614683,-29.1438695 -51.8613551,-29.1433392 -51.8612527,-29.1431016 -51.8611279,-29.1428319 -51.86076,-29.1424309 -51.8605544,-29.1421649 -51.8603369,-29.1418092 -51.8601906,-29.1416883 -51.8598545,-29.1415571 -51.8595263,-29.1414258 -51.8591809,-29.1412613 -51.8588237,-29.1409969</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952637016</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">139</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.85326,-29.1468813 -51.8535107,-29.1462488 -51.8539131,-29.1454101 -51.8541276,-29.1447003 -51.8541786,-29.144288 -51.8541572,-29.1433041 -51.8540069,-29.1428145 -51.853838,-29.1424537 -51.8533659,-29.1418868 -51.853087,-29.1416619 -51.8529233,-29.1415401 -51.8525451,-29.141362 -51.8520141,-29.1410434 -51.8517324,-29.1408654 -51.8513033,-29.1405257 -51.8508044,-29.1402586 -51.8504986,-29.1399775 -51.8502411,-29.1397291 -51.8498629,-29.1395534 -51.8494445,-29.139434 -51.8492299,-29.1393309 -51.8488973,-29.139195 -51.8485272,-29.1390708 -51.8484655,-29.1390263 -51.8484065,-29.1389443 -51.8483824,-29.1388248 -51.8483126,-29.1386163 -51.8481946,-29.1383516 -51.8480203,-29.137965 -51.8479143,-29.1377671 -51.8477856,-29.1376499 -51.8475804,-29.1375187 -51.8474127,-29.1374192 -51.8471378,-29.1372798 -51.846883,-29.1371509 -51.8465236,-29.1369131 -51.8461883,-29.1366906 -51.8459013,-29.1364938 -51.8457471,-29.1363989 -51.8455352,-29.1363145 -51.8450859,-29.1361611 -51.8445951,-29.1360276 -51.8439996,-29.1359549 -51.8438897,-29.1359303 -51.8437435,-29.135901 -51.8435772,-29.1358835 -51.8434028,-29.1358366 -51.8431628,-29.1357851 -51.8427175,-29.1356492 -51.8421261,-29.1355566 -51.8418673,-29.1355438 -51.8415427,-29.1355332 -51.841186,-29.1355145 -51.8408534,-29.1355121 -51.8406174,-29.1355332 -51.8404993,-29.135566 -51.8401453,-29.1355871 -51.8400729,-29.1356293 -51.8400058,-29.1356691 -51.8399549,-29.1357652 -51.8399629,-29.1358518 -51.8400273,-29.1359596 -51.840097,-29.1360557 -51.8401721,-29.1361189 -51.8403853,-29.1362536 -51.8404873,-29.1362876 -51.8406643,-29.1363415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952637016</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">140</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.85326,-29.1468813 -51.8535107,-29.1462488 -51.8539131,-29.1454101 -51.8541276,-29.1447003 -51.8541786,-29.144288 -51.8541572,-29.1433041 -51.8540069,-29.1428145 -51.853838,-29.1424537 -51.8533659,-29.1418868 -51.853087,-29.1416619 -51.8529233,-29.1415401 -51.8525451,-29.141362 -51.8520141,-29.1410434 -51.8517324,-29.1408654 -51.8513033,-29.1405257 -51.8508044,-29.1402586 -51.8504986,-29.1399775 -51.8502411,-29.1397291 -51.8498629,-29.1395534 -51.8494445,-29.139434 -51.8492299,-29.1393309 -51.8488973,-29.139195 -51.8485272,-29.1390708 -51.8484655,-29.1390263 -51.8484065,-29.1389443 -51.8483824,-29.1388248 -51.8483126,-29.1386163 -51.8481946,-29.1383516 -51.8480203,-29.137965 -51.8479143,-29.1377671 -51.8477856,-29.1376499 -51.8475804,-29.1375187 -51.8474127,-29.1374192 -51.8471378,-29.1372798 -51.846883,-29.1371509 -51.8465236,-29.1369131 -51.8461883,-29.1366906 -51.8459013,-29.1364938 -51.8457471,-29.1363989 -51.8455352,-29.1363145 -51.8450859,-29.1361611 -51.8445951,-29.1360276 -51.8439996,-29.1359549 -51.8438897,-29.1359303 -51.8437435,-29.135901 -51.8435772,-29.1358835 -51.8434028,-29.1358366 -51.8431628,-29.1357851 -51.8427175,-29.1356492 -51.8421261,-29.1355566 -51.8418673,-29.1355438 -51.8415427,-29.1355332 -51.841186,-29.1355145 -51.8408534,-29.1355121 -51.8406174,-29.1355332 -51.8404993,-29.135566 -51.8401453,-29.1355871 -51.8400729,-29.1356293 -51.8400058,-29.1356691 -51.8399549,-29.1357652 -51.8399629,-29.1358518 -51.8400273,-29.1359596 -51.840097,-29.1360557 -51.8401721,-29.1361189 -51.8403853,-29.1362536 -51.8404873,-29.1362876 -51.8406643,-29.1363415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">460430295</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">140</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8588237,-29.1409969 -51.8585721,-29.1407904 -51.8581402,-29.1403558 -51.8579042,-29.1401579 -51.8571854,-29.139687 -51.8566489,-29.1393684 -51.8557611,-29.1388787 -51.8553856,-29.1386655 -51.8550906,-29.1384594 -51.854817,-29.1382134 -51.8546681,-29.138047 -51.8544897,-29.1378819 -51.8541558,-29.1376968 -51.8538246,-29.1375199 -51.8536019,-29.1373969 -51.8531165,-29.1371451 -51.8525894,-29.1368065 -51.8521522,-29.1364879 -51.8516305,-29.1360791 -51.8510659,-29.1356035 -51.8507575,-29.1353095 -51.8503082,-29.1346875 -51.8500426,-29.1343331 -51.8498495,-29.1340373 -51.8497449,-29.1339155 -51.8496403,-29.1338405 -51.8495666,-29.1338136 -51.8494754,-29.1337925 -51.8493453,-29.1337901 -51.84925,-29.1338007 -51.849014,-29.1339003 -51.848731,-29.1340432 -51.8484052,-29.1342001 -51.8481812,-29.1342365 -51.8479143,-29.1342505 -51.8476501,-29.1342095 -51.8473712,-29.1341287 -51.8467677,-29.1339869 -51.8459402,-29.1337491 -51.8456143,-29.1336636 -51.8453501,-29.1336332 -51.8451503,-29.1336191 -51.8446769,-29.1335957 -51.844292,-29.1335301 -51.8433411,-29.1334071 -51.8424936,-29.1332349 -51.8418056,-29.1330638 -51.8413711,-29.1329209 -51.8411632,-29.1328729 -51.840789,-29.1328342 -51.8404001,-29.132805 -51.839696,-29.132723 -51.8390241,-29.1326445 -51.8381363,-29.1325672 -51.8374416,-29.1324781 -51.8364626,-29.1324406 -51.8359879,-29.132443 -51.8355373,-29.1324875 -51.8348587,-29.1326656 -51.8338917,-29.1329889 -51.8328631,-29.1333075 -51.832383,-29.1334692 -51.8320182,-29.1336191 -51.8311277,-29.13409 -51.8303526,-29.1345867 -51.8295854,-29.1352193 -51.8289015,-29.135962 -51.828652,-29.1364024 -51.8284535,-29.1368733 -51.8282926,-29.137466 -51.8282363,-29.1379229 -51.8282041,-29.1381267 -51.8282148,-29.1383235 -51.8282416,-29.1385871 -51.8282899,-29.1387768 -51.8283302,-29.1389361 -51.8284442,-29.1392137 -51.8285434,-29.1395406 -51.8287016,-29.1398838 -51.8289578,-29.1403254 -51.8290503,-29.1404835 -51.8290812,-29.1405866 -51.8290959,-29.1406416 -51.8290959,-29.1408009 -51.8290289,-29.141068 -51.8289256,-29.1413386 -51.8287057,-29.1418235 -51.8283865,-29.1423623 -51.8279573,-29.1428941 -51.827787,-29.1430757 -51.8274812,-29.1433638 -51.8270347,-29.1437715 -51.8268026,-29.1439565 -51.8265773,-29.1440748 -51.8263775,-29.1441592 -51.8260758,-29.1442529 -51.8256533,-29.1444368 -51.8254106,-29.1445328 -51.825141,-29.1445972 -51.824964,-29.1445996 -51.8247736,-29.1446007 -51.8244195,-29.1445469 -51.8237758,-29.1444145 -51.8234879,-29.1443338</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952637013</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">140</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8282041,-29.1381267 -51.8280029,-29.1382907 -51.8279117,-29.1387522 -51.8273968,-29.1403453 -51.8271554,-29.1411324 -51.8270159,-29.1415846 -51.8268549,-29.1417158 -51.8267021,-29.1418024 -51.8264017,-29.1418821 -51.8260691,-29.1419289 -51.8256828,-29.1420601 -51.8255621,-29.1420882 -51.8254629,-29.1421023 -51.8253905,-29.1420718 -51.8253502,-29.1420203 -51.8253368,-29.1418915 -51.8254307,-29.1415729 -51.8253985,-29.1414651 -51.8253261,-29.1413597 -51.8252805,-29.1413339 -51.8251035,-29.1413105 -51.8249211,-29.1412964 -51.8247253,-29.1412425 -51.8244597,-29.1411605 -51.8242478,-29.1410809 -51.8240815,-29.1409872 -51.8239448,-29.1408677 -51.8238321,-29.1407459 -51.8234217,-29.1404648 -51.8223971,-29.139694 -51.8220404,-29.1392981 -51.8216595,-29.1388647 -51.8212491,-29.1383469 -51.8209916,-29.1380388 -51.8208079,-29.1377823 -51.8204136,-29.1372165 -51.8201749,-29.1368698 -51.8199483,-29.1366156 -51.8197055,-29.1362279 -51.8196438,-29.1360615 -51.8195687,-29.135689 -51.8195298,-29.1353973 -51.8195137,-29.134158 -51.8195285,-29.1338206 -51.8195875,-29.133482 -51.8196251,-29.1333204 -51.8197551,-29.1330451 -51.8198745,-29.1327054 -51.8200126,-29.1324723 -51.8202728,-29.1321829 -51.820592,-29.131869 -51.8209863,-29.1314402 -51.8211687,-29.1311661 -51.8213081,-29.1308662 -51.8213832,-29.1307069 -51.8214047,-29.130626 -51.8214127,-29.1304843 -51.8213591,-29.1300157 -51.8213564,-29.1298939 -51.8213685,-29.129649 -51.8213712,-29.1294159 -51.8214409,-29.1292308 -51.8215549,-29.1290223 -51.821681,-29.1287599 -51.8218204,-29.128542 -51.8219103,-29.1284635 -51.8220256,-29.128351 -51.8222871,-29.1280968 -51.8224373,-29.1279258 -51.8225688,-29.1276118 -51.8227109,-29.1273986 -51.8228611,-29.127251 -51.8231589,-29.1269909 -51.8233493,-29.1267215 -51.8235961,-29.1263559 -51.8237489,-29.1260935 -51.8240038,-29.1256507 -51.8240923,-29.1250673 -51.8241406,-29.1242659 -51.8241915,-29.1241136 -51.824272,-29.1240152 -51.8245053,-29.1238746 -51.8248272,-29.1237153 -51.825074,-29.123652 -51.825251,-29.1235677 -51.8256399,-29.1233451 -51.8258384,-29.1233099 -51.8260556,-29.1233123 -51.8261763,-29.1232889 -51.8262836,-29.1231951</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Muçum_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312623843</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">141</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7321864281815,-29.13721030683 -51.7331919,-29.137511 -51.7338381,-29.1377319 -51.7339591,-29.1377416 -51.7346163,-29.137756 -51.7359528,-29.1378232 -51.7362828,-29.1378737 -51.7368548,-29.1380274 -51.737204,-29.138097 -51.7374707,-29.1382051 -51.737633,-29.1382364 -51.7379245,-29.138294 -51.7382407,-29.1384093 -51.7385295,-29.1385414 -51.7387055,-29.138587 -51.7393049,-29.1386279 -51.7403802,-29.1387191 -51.7405121,-29.1387095 -51.7406689,-29.1386303 -51.7409741,-29.1384525 -51.7412629,-29.13833 -51.7415626,-29.1382243 -51.7418844,-29.1381523 -51.7421868,-29.1381163 -51.7432511,-29.1380418 -51.7451815,-29.1377656 -51.7470019,-29.1374701 -51.7474969,-29.1373621 -51.7479259,-29.1372227 -51.7492266,-29.1369633 -51.7495154,-29.1369537 -51.7504063,-29.1369874 -51.7508656,-29.1370594 -51.7510773,-29.1371195 -51.7515503,-29.1371915 -51.7531508,-29.1372996 -51.753379,-29.1373164 -51.7535742,-29.1373597 -51.7537695,-29.1374389 -51.7543332,-29.1377319 -51.7544782,-29.1378257</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

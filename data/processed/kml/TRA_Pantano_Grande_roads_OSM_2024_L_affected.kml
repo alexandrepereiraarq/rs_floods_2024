@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Pantano_Grande_roads_OSM_2024_L_affected" id="TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Pantano_Grande_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">362662907</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4708647,-30.1216033 -52.4707836,-30.1217396 -52.4708524,-30.1218672 -52.4711497,-30.12201 -52.4716604,-30.1224973 -52.4716517,-30.1227214 -52.4713816,-30.1241644 -52.4712717,-30.1253522 -52.4711777,-30.1269618 -52.4709479,-30.1294235 -52.470718,-30.1319489 -52.4709559,-30.1337651 -52.4709952,-30.1366819 -52.4710627,-30.1376232 -52.470768,-30.1394636 -52.4700054,-30.1444576 -52.4700054,-30.1456715 -52.4695927,-30.1510769 -52.4689917,-30.1562763 -52.4686679,-30.1578511 -52.4686682,-30.158212 -52.4697458,-30.1630167 -52.470065,-30.1642855 -52.4709058,-30.1773556 -52.4712924,-30.1833647 -52.4713599,-30.1844133 -52.471483,-30.1863067 -52.4719754,-30.1938819 -52.4722948,-30.198794 -52.4724251,-30.2011424 -52.4725458,-30.2030711 -52.4726085,-30.2038741 -52.4726242,-30.2041089</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">362662910</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.5110189,-30.2087878 -52.5111353,-30.20826 -52.5111831,-30.2044633 -52.5110475,-30.2043224 -52.509434,-30.2032645 -52.5091695,-30.2028653 -52.5085686,-30.200469 -52.5082997,-30.2001537 -52.50801,-30.1998234 -52.5078597,-30.1996042 -52.5075459,-30.1985344 -52.5072026,-30.1973962 -52.5064962,-30.1951307 -52.5064959,-30.1949643 -52.5065781,-30.1948185 -52.5077243,-30.193869 -52.5089045,-30.1929057 -52.509036,-30.1928367 -52.5100136,-30.1925661 -52.5108585,-30.192034 -52.5109532,-30.1918815 -52.5111602,-30.1913037 -52.5112358,-30.1911781 -52.5115129,-30.1909189 -52.5117596,-30.1906539 -52.5120497,-30.1901763 -52.5121054,-30.1900145 -52.512158,-30.1891024 -52.5121687,-30.1881762 -52.5122105,-30.1863245 -52.5121857,-30.1857591 -52.5122695,-30.181168 -52.5122626,-30.1805099 -52.5122693,-30.1798561 -52.5122942,-30.1785426 -52.5123739,-30.1774215 -52.5123887,-30.1766204 -52.5124163,-30.1762544 -52.5124893,-30.1746494 -52.5125241,-30.1738483 -52.5125834,-30.1730062 -52.5126435,-30.1729046 -52.5127406,-30.1727924 -52.5136735,-30.1718425 -52.5146189,-30.1709011 -52.515551,-30.169948 -52.5164949,-30.1690097 -52.5176431,-30.1678286 -52.5187947,-30.1666544 -52.5189045,-30.166491 -52.5189359,-30.1663317 -52.5188582,-30.1655328 -52.5187777,-30.1647293 -52.5186532,-30.1632885 -52.5186078,-30.1630412 -52.5183767,-30.1619279 -52.5182399,-30.1613806 -52.5180761,-30.1608502 -52.5179918,-30.1604217 -52.5178773,-30.1600107 -52.5174522,-30.1577903 -52.5170747,-30.1560861 -52.516563,-30.1537012 -52.5160711,-30.1514899 -52.516011,-30.1511518 -52.5159332,-30.1508166 -52.5157904,-30.1501382 -52.5154853,-30.148793 -52.5149006,-30.1460877 -52.5148906,-30.1460382 -52.5146421,-30.1448088 -52.5135291,-30.1397372 -52.5134307,-30.139503 -52.5133549,-30.1390725 -52.5123968,-30.1345971 -52.510631,-30.1266997 -52.5105245,-30.1262708 -52.5104619,-30.1256597 -52.5102758,-30.1253034 -52.5097144,-30.124432 -52.5095425,-30.1241514 -52.5091137,-30.1236835 -52.5088981,-30.1232284 -52.5091296,-30.1226207 -52.5091012,-30.1221292 -52.508098,-30.1191741 -52.50793,-30.1184195 -52.5076921,-30.1179534 -52.507548,-30.1177413 -52.5067645,-30.1155365 -52.5065767,-30.1152965 -52.5064071,-30.1153 -52.5060004,-30.1154326 -52.5056363,-30.1157231 -52.5052968,-30.1161608 -52.5048679,-30.1169128 -52.504006,-30.1173381 -52.5033836,-30.1175191 -52.5025464,-30.1179014 -52.5017037,-30.11844 -52.5013369,-30.1187503 -52.4978452,-30.1208773 -52.4971705,-30.1212864 -52.496838,-30.1215678 -52.4962479,-30.1223476 -52.4958219,-30.1232013 -52.4946765,-30.1249059 -52.4942307,-30.1251736 -52.4930452,-30.1256029 -52.4922202,-30.1260178 -52.4912374,-30.1263301 -52.4908286,-30.1264087 -52.4899383,-30.1266679 -52.4898384,-30.1267937</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">575512896</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.5574744837053,-30.1413037934775 -52.5573252,-30.1413125 -52.5567395,-30.1415782 -52.5525864,-30.1445884 -52.5523079,-30.1446839 -52.552087,-30.1446216 -52.5509251,-30.1435919 -52.5507907,-30.1432141 -52.5505026,-30.1419477 -52.5502481,-30.1415491 -52.5495087,-30.1390412 -52.5492399,-30.1383312 -52.5492591,-30.138107 -52.5491006,-30.13699 -52.5488558,-30.1347768 -52.5475918,-30.1317515 -52.5475985,-30.1313867 -52.5461721,-30.128485 -52.5439689,-30.1240541 -52.5421207,-30.120347 -52.5404264,-30.1169527 -52.5398104,-30.1156204 -52.5398237,-30.1154292</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">579511157</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4817977,-30.1256887 -52.4823984,-30.1255497 -52.4827562,-30.1255989 -52.4828903,-30.1255748 -52.4829368,-30.1254805 -52.4830245,-30.1248113</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">954141232</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4358881,-30.1605875 -52.4360651,-30.1608171 -52.4361911,-30.1610652 -52.436226,-30.1612206 -52.4362609,-30.1616658 -52.4363333,-30.1620902 -52.4363628,-30.1624172 -52.436395,-30.1626955 -52.4364835,-30.1628578 -52.4368241,-30.1632428 -52.4374196,-30.1637275 -52.4379453,-30.1641704 -52.4382082,-30.1643791 -52.4383932,-30.1646968 -52.4385113,-30.165098 -52.4385703,-30.1652998 -52.4385434,-30.1654366 -52.4383852,-30.1658633 -52.4382886,-30.1661415 -52.4381653,-30.1663804 -52.4379534,-30.1665566 -52.4374867,-30.1667885 -52.4371406,-30.1669253 -52.4370146,-30.1669764 -52.4369153,-30.1670552 -52.4368134,-30.1673288 -52.4366766,-30.1677857 -52.4365586,-30.1679596 -52.4361214,-30.1685069 -52.435703,-30.1692906 -52.4355796,-30.169548 -52.4348903,-30.1707701 -52.4341312,-30.1718275 -52.4336645,-30.1723678 -52.4335894,-30.1724582 -52.4335572,-30.1725278 -52.4335465,-30.1727527 -52.4334902,-30.1738054 -52.4334312,-30.1744477 -52.433407,-30.1745497 -52.4333507,-30.1746494 -52.4329376,-30.1751735 -52.4324039,-30.1756558 -52.4320471,-30.1759132 -52.4318728,-30.1760013 -52.4312961,-30.1761636 -52.4302956,-30.1764186 -52.4294883,-30.1767294 -52.4287587,-30.1770702 -52.4280989,-30.1774018 -52.4275813,-30.177585 -52.4269751,-30.1777496 -52.4267283,-30.1778122 -52.4265835,-30.1779026 -52.4263662,-30.1780974 -52.4261141,-30.1782922 -52.4260524,-30.1783895 -52.4260443,-30.1785101 -52.4260765,-30.1800636 -52.4260765,-30.1817469 -52.4260712,-30.1822477 -52.4259934,-30.1829224 -52.4258735,-30.1839102 -52.4258566,-30.1840493 -52.4257654,-30.1850509 -52.4255991,-30.1860849 -52.4254838,-30.1865579 -52.4253631,-30.1868361 -52.42506,-30.1874853 -52.4249393,-30.1878725 -52.424553,-30.1892032 -52.4241829,-30.1905966 -52.4238691,-30.1920873 -52.4236438,-30.1931306</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">362662911</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.383611,-30.1688981 -52.3910157,-30.1671884 -52.3966828,-30.1658716 -52.3996672,-30.165161 -52.399815,-30.1650655 -52.3998869,-30.1649519 -52.4000135,-30.1636022 -52.4001671,-30.1620393 -52.4003012,-30.1606856 -52.4003126,-30.1605712 -52.4003515,-30.1604899 -52.4013519,-30.1592725 -52.4023067,-30.1580472 -52.403031,-30.1569232 -52.403782,-30.155926 -52.4041414,-30.1554018 -52.4045599,-30.1549148 -52.4049944,-30.1544231 -52.4051955,-30.1541402 -52.4053149,-30.1538926</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">579511148</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4686682,-30.158212 -52.4683559,-30.1582252 -52.468046,-30.1582729 -52.4664281,-30.1583264 -52.4641699,-30.1584205 -52.461755,-30.1594821 -52.461568,-30.1593907 -52.4603565,-30.1578792 -52.4599499,-30.1574011 -52.4588279,-30.15622 -52.4577302,-30.1551092 -52.4570147,-30.1533164 -52.4570228,-30.1531477 -52.4572179,-30.1528383 -52.4574212,-30.1526344 -52.457348,-30.152543 -52.4572314,-30.1525329 -52.4544215,-30.1526337 -52.4515845,-30.1527506 -52.451402,-30.1526676 -52.4502881,-30.1513639 -52.4498464,-30.1506415 -52.4496735,-30.1505004 -52.4480891,-30.150517 -52.4479163,-30.1506581</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953346215</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.411024,-30.1447074 -52.4108496,-30.1450738 -52.4108121,-30.1452176 -52.410804,-30.1453522 -52.4108282,-30.1456259 -52.4109033,-30.1458787 -52.4110025,-30.146041 -52.4112037,-30.146215 -52.4113673,-30.1463078 -52.4115416,-30.1464353 -52.411665,-30.1466139 -52.4117643,-30.1468459 -52.411893,-30.147043 -52.4121827,-30.147268 -52.4125126,-30.147551 -52.412577,-30.14766 -52.4125743,-30.1477713 -52.4125153,-30.1478734 -52.4124201,-30.1479406 -52.4122444,-30.1480102 -52.4119346,-30.1480728 -52.4116234,-30.148183 -52.411378,-30.1482549 -52.4111876,-30.148328 -52.4109314,-30.1484161 -52.4107303,-30.1484324 -52.4102609,-30.1484474 -52.4099162,-30.1484695 -52.4096614,-30.1485321 -52.4092966,-30.1486434 -52.408964,-30.1487594 -52.4087092,-30.1488058 -52.4084088,-30.148815 -52.4081272,-30.1488406 -52.4077061,-30.1488475 -52.4074996,-30.1488336 -52.4073064,-30.1487455 -52.4068746,-30.1485646 -52.4065474,-30.1484068 -52.406188,-30.1483001 -52.4058688,-30.1482839 -52.4054879,-30.1482746 -52.4051204,-30.1483141 -52.4048227,-30.1484208 -52.4046698,-30.1484834 -52.4045089,-30.1486527 -52.4043694,-30.1488336 -52.4041602,-30.1491003 -52.4039805,-30.1492743 -52.4038115,-30.1494622 -52.4035701,-30.1496384 -52.4034199,-30.1497869 -52.403318,-30.1498889 -52.4032429,-30.1500721 -52.4032241,-30.1502252 -52.4032161,-30.1504224 -52.4032858,-30.1506218 -52.4034521,-30.1507726 -52.4039134,-30.1510834 -52.4043855,-30.1513849 -52.4047262,-30.1516794 -52.4048442,-30.1518093 -52.404981,-30.1519833 -52.4050319,-30.152141 -52.4051043,-30.1523567 -52.4051821,-30.1527417 -52.4053001,-30.15302 -52.4054021,-30.1533122 -52.4054343,-30.1534282 -52.4054369,-30.1535395 -52.4054101,-30.153681 -52.4053149,-30.1538926</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">579511158</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4635394,-30.1183609 -52.4627646,-30.1185652 -52.4622845,-30.1185486 -52.461862,-30.1186732 -52.4610937,-30.1188559 -52.4606712,-30.1190718 -52.4604408,-30.1193543 -52.4603448,-30.1195693 -52.4602217,-30.1199114 -52.4598454,-30.1207081 -52.4595573,-30.1215304 -52.4593077,-30.1220786 -52.4592218,-30.122385 -52.4589989,-30.1236005</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">579511161</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4603448,-30.1195693 -52.4599442,-30.1197142 -52.4597003,-30.1200729 -52.4592856,-30.1203612 -52.4590823,-30.1207269 -52.4586107,-30.1209801 -52.4583831,-30.120959 -52.457879,-30.120734 -52.45757,-30.1205159 -52.4558787,-30.119672 -52.4555779,-30.1194891 -52.4551876,-30.1191304</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">355570056</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4635394,-30.1183609 -52.4644396,-30.1188434 -52.4671644,-30.120041 -52.4676661,-30.1201884 -52.4706179,-30.121423 -52.4708647,-30.1216033 -52.4710722,-30.1216705 -52.4715103,-30.1219023 -52.4722904,-30.1222089 -52.4728083,-30.1223551 -52.4732849,-30.122561 -52.4745769,-30.1232393 -52.4752706,-30.1233673 -52.4756446,-30.1235358 -52.4759022,-30.1236966 -52.4759614,-30.12377 -52.4762105,-30.1242603 -52.4763878,-30.1245311 -52.4764702,-30.1248191 -52.4765705,-30.1253879 -52.4766945,-30.125719 -52.4773078,-30.1266687 -52.4774216,-30.1270499 -52.4775908,-30.1271826 -52.4779184,-30.1271921 -52.4787226,-30.1271193 -52.4792945,-30.1272432 -52.4796723,-30.1271761 -52.4801762,-30.1269741 -52.480284,-30.1267959 -52.4800714,-30.1262054 -52.4800946,-30.1259262 -52.4803309,-30.1257858 -52.4813123,-30.1257853 -52.4817977,-30.1256887 -52.4822076,-30.1252311 -52.4824995,-30.1250702 -52.4826179,-30.1248605</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">960049580</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.5571404518009,-30.120027877643 -52.555815,-30.1215262 -52.5552128,-30.1221665 -52.5546026,-30.1232569 -52.5522369,-30.1248577 -52.5493187,-30.1268064 -52.5469583,-30.127971 -52.5465989,-30.1282447 -52.5461721,-30.128485</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">579511162</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4635394,-30.1183609 -52.4638097,-30.1181104 -52.4639189,-30.1178169 -52.4639327,-30.1175132 -52.4641668,-30.1163579 -52.4641737,-30.1161494 -52.464036,-30.1158814 -52.4636022,-30.1154169 -52.4635196,-30.1151965 -52.4634508,-30.1145534 -52.4632442,-30.1132967 -52.4631134,-30.1123557 -52.4631547,-30.1120758 -52.4630996,-30.1119091 -52.4628449,-30.1115696 -52.4627761,-30.1110514 -52.46248,-30.1097709 -52.4625213,-30.1094255 -52.46248,-30.1091217 -52.4625764,-30.1090205 -52.4653097,-30.1081926 -52.4670171,-30.1071325 -52.4672374,-30.1070193 -52.4673132,-30.1069061 -52.4702599,-30.1063403 -52.4705077,-30.1061974 -52.4737092,-30.1055779 -52.4740741,-30.1054112</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">290570257</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4956523,-30.0902326 -52.4957257,-30.0904703 -52.4957537,-30.0905152 -52.4957898,-30.0905502 -52.4958293,-30.0905739 -52.4958846,-30.0905897 -52.4959433,-30.0905908 -52.496021,-30.0905774 -52.4972325,-30.0903044 -52.4976172,-30.0902246 -52.498053,-30.0901547 -52.4992033,-30.0900812 -52.5003464,-30.0900261 -52.5007605,-30.0899863 -52.5014931,-30.0898914 -52.502247,-30.0898608 -52.5024735,-30.0898883 -52.5027389,-30.0899986 -52.5028706,-30.0900914 -52.5029407,-30.0901578 -52.5030079,-30.0902895 -52.5030822,-30.0905528 -52.5032026,-30.0913704 -52.5034149,-30.0925432 -52.5034898,-30.0929607 -52.5035192,-30.09301 -52.5035924,-30.0930214 -52.5038089,-30.0929774</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">290570261</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.495573,-30.0899617 -52.4956523,-30.0902326</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">290570264</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4953969,-30.089368 -52.495573,-30.0899617</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">540399318</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4843445990494,-30.0780720764032 -52.4843427,-30.0780752 -52.484318,-30.0781916 -52.4843109,-30.0783324 -52.4843887,-30.0785652 -52.4844631,-30.0787918 -52.4844737,-30.078948 -52.4844524,-30.079144 -52.484318,-30.0798178 -52.4842861,-30.0801118 -52.4843109,-30.0804273 -52.4844171,-30.0809601 -52.4844666,-30.0812296 -52.4844666,-30.0813093 -52.4844277,-30.0813858 -52.4843427,-30.0815818 -52.4843073,-30.0817319 -52.4842967,-30.081787 -52.4842755,-30.0818483 -52.4842295,-30.0819432 -52.4840419,-30.0822219 -52.4839357,-30.0823995 -52.483911,-30.0824944 -52.4838508,-30.08262 -52.48378,-30.0827915</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pantano_Grande_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">290570259</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.4938412,-30.0897289 -52.4953969,-30.089368 -52.496112,-30.0891939 -52.4963536,-30.0891375 -52.4965229,-30.0890968 -52.4966244,-30.089072 -52.4967441,-30.0890314 -52.4968524,-30.0889885 -52.4969924,-30.0889253 -52.4971707,-30.0888395 -52.4973468,-30.0887605 -52.497568,-30.0886634 -52.4980839,-30.0884845 -52.4992978,-30.0880894 -52.5015452,-30.0872657 -52.5018142,-30.087134 -52.5020301,-30.0869104 -52.502292,-30.0864786 -52.5024229,-30.0862061 -52.5025079,-30.0858539 -52.5026318,-30.0852077 -52.5027698,-30.0848066 -52.503106,-30.0839981 -52.5033431,-30.0833458 -52.5035236,-30.0827976 -52.5037431,-30.0822862 -52.504143,-30.0814991 -52.5044686,-30.0807335 -52.5046066,-30.0803844 -52.5047057,-30.0800015 -52.5047305,-30.0797627 -52.504688,-30.0795176 -52.5045783,-30.0790705 -52.5044367,-30.0787489 -52.5042421,-30.0785192 -52.5039731,-30.0783324 -52.5032017699579,-30.0778577354233</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

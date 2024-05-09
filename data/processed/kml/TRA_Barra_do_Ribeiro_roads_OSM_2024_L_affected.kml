@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected" id="TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932821270</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3058901,-30.3000196 -51.3058179,-30.2999249</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pastor Luther King</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377958</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3063948,-30.2998516 -51.3063818,-30.2998105</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">222080332</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.308344,-30.2992391 -51.3074089,-30.2995326 -51.306792,-30.2997262 -51.3063948,-30.2998516 -51.3058901,-30.3000196 -51.3048736,-30.3003562</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551811</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3048273,-30.300256 -51.3058179,-30.2999249 -51.3059148,-30.2998993 -51.3063645,-30.2997561 -51.3067495,-30.2996354 -51.3073666,-30.2994404 -51.3082942,-30.2991473</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">950277136</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3118963,-30.3163084 -51.3117528,-30.3164832 -51.3116187,-30.3166661 -51.3115302,-30.3169579 -51.3112298,-30.317759 -51.3111815,-30.3179072 -51.3111513,-30.317983 -51.311101,-30.3180507 -51.3110799,-30.3180672 -51.3110434,-30.3180774 -51.3108784,-30.3181364 -51.3108241,-30.3181619 -51.3107657,-30.3182024 -51.3107362,-30.3182591 -51.3107014,-30.3184015 -51.310688,-30.3186643 -51.3106732,-30.3188924 -51.3106719,-30.3190626 -51.3106531,-30.3191899 -51.3106102,-30.3193196 -51.3104519,-30.3197305 -51.3103621,-30.3199401 -51.3102266,-30.3201728 -51.3102192,-30.3201965 -51.3102239,-30.3202202 -51.3102461,-30.3202492 -51.3103605,-30.3203349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Carlos Augusto Evangelista Py</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">220970845</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3119915,-30.3164809 -51.3118963,-30.3163084 -51.3117635,-30.3160375 -51.3113374,-30.3150343 -51.309932,-30.3118493 -51.3092473,-30.3102976 -51.3089945,-30.3097426 -51.3086176,-30.3089153 -51.3085556,-30.3087818 -51.3083704,-30.3083522 -51.3082123,-30.3079853 -51.3076437,-30.3067303 -51.307421,-30.3061987 -51.3068154,-30.3048328 -51.3065912,-30.3043038</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953235165</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">0</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3019257,-30.4096943 -51.3019359,-30.4098889 -51.3018501,-30.4100925 -51.2906975,-30.4211489 -51.2904292,-30.4213155 -51.2903434,-30.4215051 -51.2893564,-30.422428 -51.2891606,-30.4224835 -51.2856871,-30.4219677 -51.2854457,-30.4220371 -51.2835735,-30.4238967 -51.2834823,-30.4242806 -51.2832624,-30.424498 -51.2829244,-30.4245489 -51.2818086,-30.4256961 -51.2814868,-30.4261679 -51.2813258,-30.4263992 -51.280489,-30.4266582 -51.2798935,-30.426686 -51.2791371,-30.4269589 -51.2783808,-30.4274584 -51.2775493,-30.4287397 -51.2762189,-30.4298545 -51.2760794,-30.4300533 -51.2763047,-30.4309599 -51.2767875,-30.4312005 -51.2776888,-30.4312745 -51.278193,-30.4314502 -51.2784934,-30.4320238 -51.2787294,-30.4322088 -51.2791666,-30.4322365 -51.2793705,-30.4323198 -51.2795341,-30.4325141 -51.2795985,-30.4328656 -51.2799096,-30.4332911 -51.2796521,-30.4338462 -51.2785256,-30.4345214 -51.2773776,-30.4350487 -51.2770128,-30.435243 -51.2764657,-30.4360015 -51.2759936,-30.436316 -51.2751997,-30.4374446 -51.2745935,-30.4388645 -51.2741536,-30.4393316 -51.2731022,-30.4400577 -51.2729895,-30.440178 -51.2719756,-30.4405757 -51.2714177,-30.4408717 -51.2709886,-30.4409411 -51.2703449,-30.4413111 -51.2700445,-30.4416163 -51.2699747,-30.4424349 -51.2693256,-30.4434431 -51.2689287,-30.4437669 -51.2669331,-30.4446271 -51.266343,-30.4446178 -51.2652326,-30.4447658 -51.2646157,-30.4447103 -51.2628722,-30.4450063</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">658309225</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">2</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3022246,-30.4098085 -51.3019257,-30.4096943 -51.2989757,-30.4086948 -51.2967942,-30.4074547 -51.294263,-30.4049192 -51.2912462,-30.4021816 -51.2898332,-30.4015616 -51.2881723,-30.3992952 -51.2874056,-30.3986873 -51.2871967,-30.3981844 -51.2861059,-30.3975119 -51.2843379,-30.3967323 -51.2803763,-30.3956437 -51.2776418,-30.39265 -51.2739834,-30.3894855</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">388355390</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">2</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2739834,-30.3894855 -51.2703341,-30.3863191 -51.2700015,-30.3861016 -51.2684459,-30.3854722 -51.2608485,-30.3817123 -51.2605146,-30.3816105 -51.2574112,-30.3810065 -51.2569767,-30.3808862 -51.2560996,-30.3805044 -51.2559307,-30.3803494 -51.2548551,-30.3779244 -51.2548658,-30.3777485 -51.2549382,-30.3776236 -51.2571779,-30.3764296 -51.257304,-30.376337 -51.2577224,-30.3756358 -51.258401,-30.3747426 -51.2584439,-30.374583 -51.2584346,-30.3744153 -51.2583447,-30.3737291 -51.2584037,-30.3735393 -51.2589669,-30.3727664 -51.2589884,-30.3725882 -51.2587336,-30.3714451 -51.2585324,-30.3705078 -51.258467,-30.3703658 -51.2583742,-30.3702533 -51.2581824,-30.3701133 -51.2579618,-30.3699733 -51.2578545,-30.3698657 -51.2577901,-30.3697286 -51.2577626,-30.369603 -51.2577807,-30.3694862 -51.2578591,-30.3691842 -51.2580013,-30.3689805 -51.2582937,-30.3687271 -51.2583594,-30.368616 -51.2583741,-30.3685316 -51.2584547,-30.3683858 -51.2586772,-30.3682099 -51.2590662,-30.367953 -51.2597582,-30.3675064 -51.2604797,-30.3670273 -51.2612093,-30.3665922 -51.2622003,-30.3660114 -51.2627971,-30.365729</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada da Barba Negra</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">221137625</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3116987,-30.3192727 -51.3114142,-30.3192935 -51.3111929,-30.319312 -51.3110769,-30.3193381 -51.310985,-30.3193815 -51.310863,-30.3194764 -51.3106473,-30.319782 -51.3104774,-30.3200813 -51.3103605,-30.3203349 -51.3102494,-30.3205756 -51.3099848,-30.3212118 -51.3097855,-30.3216826 -51.3094568,-30.3225124 -51.3091323,-30.3233737 -51.3088104,-30.3242141 -51.3086146,-30.3246887 -51.3084751,-30.3250823 -51.3083893,-30.3253856 -51.3082772,-30.3258256 -51.3082208,-30.3261149 -51.3081211,-30.3267724 -51.3080943,-30.3270479 -51.3080567,-30.3274206 -51.3080084,-30.3285736 -51.3080058,-30.3290945 -51.3080031,-30.3295575 -51.3079897,-30.3297219 -51.3079414,-30.329921 -51.3078851,-30.3301618 -51.3078046,-30.3304419 -51.3077295,-30.3307822 -51.3075954,-30.3313054 -51.3074854,-30.3317337 -51.3073164,-30.3322754 -51.3071206,-30.3326736 -51.3069248,-30.3330417 -51.3067317,-30.3333357 -51.3065305,-30.3336968 -51.3063052,-30.334102 -51.3061711,-30.3343126 -51.3059458,-30.3345302 -51.3055918,-30.3348682 -51.305227,-30.3352108 -51.3048139,-30.3355836 -51.3043794,-30.3359655 -51.3039234,-30.3363706 -51.3035479,-30.3367295 -51.3032877,-30.3369586 -51.3028774,-30.3373244 -51.3026252,-30.3375651 -51.3022363,-30.3378939 -51.3019332,-30.3381624 -51.301657,-30.338424 -51.3015416,-30.3384992 -51.301429,-30.3385606 -51.3012273,-30.3386086 -51.3010226,-30.3386335 -51.3007115,-30.3386578 -51.3004549,-30.3386919 -51.3001429,-30.3387272 -51.2998541,-30.3387753 -51.2995756,-30.3388256 -51.2992698,-30.3389101 -51.2991142,-30.3389703 -51.299015,-30.3390328 -51.2989399,-30.3391208 -51.2988836,-30.3392481 -51.2987816,-30.3397087 -51.2986502,-30.340225 -51.2985778,-30.3405305 -51.2984705,-30.3409402 -51.2984142,-30.3411856 -51.2983525,-30.3414194 -51.2982908,-30.3415583 -51.2982103,-30.3416717 -51.298103,-30.3417481 -51.2979019,-30.3418592 -51.2976739,-30.3419657 -51.2974164,-30.3420953 -51.2969095,-30.3423523 -51.2964213,-30.3426254 -51.2958393,-30.3429402 -51.2952384,-30.3432597 -51.2947825,-30.3435027 -51.2943909,-30.3436775 -51.2941159,-30.343777 -51.293921,-30.3438308 -51.2936318,-30.3438557 -51.2934521,-30.3439009 -51.2933502,-30.3439472 -51.2932858,-30.3440027 -51.2932348,-30.3441439 -51.293157,-30.3445722 -51.2929237,-30.3455397 -51.2925562,-30.3471091 -51.2923658,-30.347947 -51.2921351,-30.348859 -51.2918857,-30.3498242 -51.2917864,-30.3502177 -51.2915665,-30.3511088 -51.2914512,-30.3516388 -51.291368,-30.3519721 -51.2913036,-30.3521052 -51.2912218,-30.3521874 -51.2910917,-30.3522511 -51.2909161,-30.3523101 -51.2905092,-30.3523766 -51.2885383,-30.3527035 -51.2873058,-30.3529072 -51.2849302,-30.3533209 -51.2813334,-30.3541044 -51.2777048,-30.3548815 -51.2773984,-30.3549515 -51.2772475,-30.3550094 -51.2771322,-30.3550794 -51.2769324,-30.3552611 -51.2757549,-30.3563605 -51.2748107,-30.3571868 -51.2742247,-30.3577573 -51.2736788,-30.3583949 -51.2734535,-30.3586703 -51.2733248,-30.3588832 -51.273247,-30.3592096 -51.2732255,-30.359441 -51.2732336,-30.3596632 -51.2732899,-30.3600057 -51.2733114,-30.3602487 -51.2732765,-30.3604802 -51.2732229,-30.3607486 -51.2731612,-30.3610518 -51.2729949,-30.3613666 -51.2728286,-30.3615876 -51.2727535,-30.3616616 -51.2726422,-30.3617461 -51.2725014,-30.3617797 -51.2723485,-30.3617982 -51.2720346,-30.3618012 -51.2718851,-30.3617914</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">950277137</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2984142,-30.3411856 -51.2981835,-30.3411069 -51.2972823,-30.3404981 -51.2962335,-30.3398476 -51.2959613,-30.3396983 -51.2957843,-30.3395976 -51.295571,-30.3394229 -51.2953202,-30.3391208 -51.2951446,-30.3388198 -51.2949783,-30.3385258 -51.2948683,-30.3384355 -51.2944284,-30.3382249 -51.2938625,-30.3380629 -51.2921619,-30.3373059 -51.291191,-30.3368707 -51.2907243,-30.336579 -51.2903327,-30.3364216 -51.2897372,-30.3361993 -51.289587,-30.3361415 -51.289461,-30.3360604 -51.2889218,-30.3356692 -51.2870872,-30.3342316 -51.2847736,-30.3324533 -51.2840831,-30.3319004 -51.2829378,-30.3310021 -51.2822485,-30.3304604 -51.2813419,-30.329745 -51.2803602,-30.3289996 -51.2792337,-30.3280967 -51.2780535,-30.3272215 -51.2767768,-30.3262144 -51.2757495,-30.3254226 -51.2743816,-30.3243785 -51.2741455,-30.3241794 -51.2740436,-30.3241145 -51.2738934,-30.3241006 -51.2737808,-30.3241562 -51.2734374,-30.324522 -51.2731424,-30.3249017 -51.2728071,-30.325381 -51.2725604,-30.3258764 -51.2724048,-30.3260802 -51.2721902,-30.3262723 -51.271407,-30.3268696 -51.2705326,-30.3275457 -51.2700284,-30.327967 -51.269626,-30.3282217 -51.2691432,-30.3284717 -51.268301,-30.3290088 -51.2670565,-30.3297265 -51.2661982,-30.3302173 -51.2656725,-30.3305368 -51.2653828,-30.3307915 -51.2649804,-30.3312452 -51.2645835,-30.3317175 -51.2642562,-30.332037 -51.263414,-30.3329398 -51.2628454,-30.3334954 -51.2624484,-30.3339121 -51.262207,-30.3340788 -51.261676,-30.3343937 -51.2613004,-30.3346344 -51.2611073,-30.3347779 -51.261,-30.3349307 -51.2609142,-30.3353058 -51.2609035,-30.3356761 -51.2609839,-30.3358891 -51.261161,-30.3360327 -51.2617779,-30.3364447 -51.2624592,-30.336917 -51.26284,-30.3371948 -51.2629688,-30.3373707 -51.2630814,-30.3377179 -51.2631726,-30.3379494 -51.2634087,-30.3385559 -51.2638164,-30.33963 -51.2639746,-30.3401902 -51.2641704,-30.3406463 -51.2643957,-30.3411856 -51.264495,-30.3413639 -51.2646827,-30.3415606 -51.2651333,-30.3420213 -51.2652433,-30.3421532 -51.2653425,-30.34235 -51.2655222,-30.3427736 -51.2658602,-30.3433893 -51.2660641,-30.343681 -51.2663108,-30.3440143 -51.2663859,-30.3441347 -51.2666219,-30.3443985 -51.2668231,-30.3446416 -51.2670967,-30.3450073</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Rosa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">222643774</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3055858,-30.3021357 -51.3053611,-30.3022076 -51.3049476,-30.3023369 -51.3044043,-30.3024713 -51.3038392,-30.3026508 -51.3032235,-30.3028465 -51.3026656,-30.3030299 -51.302143,-30.3031482 -51.3017859,-30.3032239 -51.3009997,-30.3033724 -51.300593,-30.3034463</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Jacuí</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377972</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.302143,-30.3031482 -51.3019727,-30.3023743</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Sinval Hoff Pereira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377973</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3019727,-30.3023743 -51.3008264,-30.3025937 -51.300502,-30.3026546</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua César Verdi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486833</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3038392,-30.3026508 -51.3034659,-30.3019214</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Silvano Gonçalves da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486842</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3044043,-30.3024713 -51.304105,-30.3017175</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Sinval Hoff Pereira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486835</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.304105,-30.3017175 -51.3034659,-30.3019214 -51.3021186,-30.3023439 -51.3019727,-30.3023743</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Argemiro Ferreira de Borba</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486840</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3009997,-30.3033724 -51.3008264,-30.3025937 -51.3006852,-30.301945 -51.300562,-30.3012611 -51.3004243,-30.3005883</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Carlos Augusto Evangelista Py</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551827</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3065912,-30.3043038 -51.3065805,-30.3042787</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Carlos Augusto Evangelista Py</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952370797</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3065805,-30.3042787 -51.3064272,-30.3040102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952370796</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3066688,-30.3040013 -51.3065953,-30.3040204 -51.3065025,-30.3040227 -51.3064272,-30.3040102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Carlos Augusto Evangelista Py</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">933178348</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3064272,-30.3040102 -51.3063938,-30.3039647</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932827342</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3069284,-30.3038756 -51.3067946,-30.3039538 -51.3066688,-30.3040013</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551825</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3063938,-30.3039647 -51.3064498,-30.3039329 -51.3065047,-30.303905 -51.3065461,-30.3038842 -51.3065925,-30.3038723 -51.3066835,-30.3038638</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">933176992</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3066835,-30.3038638 -51.3067557,-30.3038666 -51.3069284,-30.3038756</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">119441521</SimpleData>
+		<SimpleData name="source">yahoo</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3069284,-30.3038756 -51.307849,-30.3036005 -51.3089512,-30.3032827 -51.3105568,-30.3027911</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Visconde do Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">220970968</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.304516,-30.2993726 -51.3046262,-30.2997923 -51.3048273,-30.300256 -51.3048736,-30.3003562 -51.3050593,-30.300795 -51.3052994,-30.30133 -51.3055556,-30.3018973 -51.3057299,-30.302295 -51.3061021,-30.3031241 -51.3062744,-30.3035369 -51.3063294,-30.3036427 -51.3064498,-30.3039329 -51.3065025,-30.3040227 -51.3065441,-30.3041435 -51.3065805,-30.3042787</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Edgar Onofre Soares</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486832</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3032386,-30.3012503 -51.301867,-30.3017103 -51.3006852,-30.301945 -51.3004256,-30.3019823</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Sinval Hoff Pereira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377974</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3052994,-30.30133 -51.3052242,-30.301359 -51.304105,-30.3017175</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Jacuí</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486837</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3019727,-30.3023743 -51.301867,-30.3017103 -51.3017262,-30.3010517 -51.3016,-30.3003914</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Silvano Gonçalves da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377975</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.304105,-30.3017175 -51.3036636,-30.300797</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Visconde do Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">584989796</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3063938,-30.3039647 -51.3062054,-30.3035651 -51.3060347,-30.3031447 -51.3056729,-30.3023158 -51.3055858,-30.3021357 -51.3054798,-30.3019164 -51.3052242,-30.301359 -51.3049797,-30.3008197 -51.3047861,-30.3003928 -51.3047376,-30.3002795 -51.3046322,-30.3000241 -51.3045395,-30.299814 -51.3043359,-30.2991249 -51.3042454,-30.2988188 -51.3041283,-30.2984226</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Laura Eunice Souza de Brito</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486844</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3017262,-30.3010517 -51.301024,-30.3011678 -51.3007504,-30.3012187 -51.300562,-30.3012611 -51.3002569,-30.3013113</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Joaquim Evangelista</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551818</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3016,-30.3003914 -51.3004243,-30.3005883 -51.2987721,-30.3009152 -51.2974942,-30.301168 -51.2973484,-30.3011636 -51.2972749,-30.3010832</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551812</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3048736,-30.3003562 -51.3047861,-30.3003928</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932821272</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3047376,-30.3002795 -51.3048273,-30.300256</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551810</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3084562,-30.2991133 -51.308344,-30.2992391</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551808</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3082942,-30.2991473 -51.3084562,-30.2991133</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pastor Luther King</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">224610173</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3063818,-30.2998105 -51.3063645,-30.2997561 -51.3058091,-30.2979551</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">225369613</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3091042,-30.2985486 -51.3088829,-30.2986667 -51.3087568,-30.2988219 -51.3086281,-30.2989793 -51.3085449,-30.2990558 -51.3084562,-30.2991133</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932830628</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3093201,-30.2983703 -51.3091042,-30.2985486</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932830629</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3098268,-30.2979265 -51.3093201,-30.2983703</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377957</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3054489,-30.2980347 -51.3058091,-30.2979551</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">225369614</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3100953,-30.2976871 -51.3098268,-30.2979265</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Joaquim Evangelista</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486884</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3030834,-30.3001025 -51.3016,-30.3003914</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487053</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2972749,-30.3010832 -51.2972764,-30.3009061 -51.2973956,-30.3007204 -51.2986095,-30.2997016 -51.2987682,-30.2996498 -51.3012127,-30.2990623</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Joaquim Evangelista</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223486838</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3045627,-30.2998104 -51.3045395,-30.299814 -51.3030834,-30.3001025</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Antonio Joaquim Evangelista</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377982</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3046262,-30.2997923 -51.3045627,-30.2998104</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Jacuí</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551817</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3016,-30.3003914 -51.3012127,-30.2990623</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Visconde do Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">584989795</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.304236,-30.2983913 -51.304343,-30.2987925 -51.3044056,-30.2990274 -51.3044296,-30.2991023 -51.304516,-30.2993726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551819</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3012127,-30.2990623 -51.302687,-30.2987295 -51.3041283,-30.2984226</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">584989794</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3041283,-30.2984226 -51.304236,-30.2983913</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">584989793</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.304236,-30.2983913 -51.3054489,-30.2980347</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 14 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377956</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3058091,-30.2979551 -51.3065723,-30.2977471 -51.3086116,-30.2972248</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">222080299</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3152427,-30.29734 -51.314883,-30.2973212 -51.3147516,-30.2973131 -51.3142713,-30.2972896 -51.3139253,-30.2972873 -51.3135714,-30.2972934 -51.3132012,-30.2973305 -51.3126085,-30.2973652 -51.3121659,-30.2974092 -51.3117448,-30.2974486 -51.3113559,-30.2974648 -51.310806,-30.297518 -51.3104681,-30.2975597 -51.3103259,-30.2975783 -51.3102052,-30.2976292 -51.3100953,-30.2976871</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Barão do Jacuí</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551815</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3012127,-30.2990623 -51.3008483,-30.2977697 -51.3002398,-30.2958541</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Idalino Heller</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487524</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3038243,-30.2970813 -51.3037225,-30.2971083 -51.302265,-30.297427 -51.3008483,-30.2977697</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Coronel Araújo Ribeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487253</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3030834,-30.3001025 -51.302687,-30.2987295 -51.302265,-30.297427 -51.3017755,-30.2958066 -51.3014513,-30.2945178</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor C. Pinto de Albuquerque</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488744</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3054489,-30.2980347 -51.3048224,-30.2960297 -51.3045321,-30.2950944 -51.3042937,-30.2943263 -51.3041515,-30.293868</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Francisco Rosalles</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487512</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3033929,-30.2957821 -51.3033141,-30.2957954 -51.3017755,-30.2958066 -51.3002398,-30.2958541 -51.2991156,-30.2958322 -51.2985244,-30.2958596</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Visconde do Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551807</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3041283,-30.2984226 -51.303863,-30.297607 -51.3037225,-30.2971083 -51.3036183,-30.296787 -51.3034759,-30.2963481 -51.3033899,-30.2960544 -51.3033141,-30.2957954 -51.3031767,-30.2954066 -51.3030045,-30.2949078 -51.3029046,-30.2944901 -51.3028452,-30.2938648 -51.3028135,-30.2932456 -51.3028086,-30.2930376</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Visconde do Rio Grande</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">584989797</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3029185,-30.2930314 -51.3029666,-30.2938502 -51.3030262,-30.2944727 -51.3031167,-30.2948875 -51.3032782,-30.2953831 -51.3033929,-30.2957821 -51.3034744,-30.2960308 -51.3035711,-30.2963262 -51.3037126,-30.2967555 -51.3038243,-30.2970813 -51.3039587,-30.2975829 -51.304236,-30.2983913</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marinho Chaves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488749</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3077899,-30.294323 -51.3075349,-30.2943834 -51.3065204,-30.2946264 -51.3056418,-30.2948308 -51.3046914,-30.2950568 -51.3045321,-30.2950944 -51.3032782,-30.2953831 -51.3031767,-30.2954066</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932870656</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2989292,-30.2937409 -51.2987119,-30.2945259 -51.2984477,-30.2957916 -51.2984625,-30.2958345 -51.2985244,-30.2958596</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ferernando Gertum</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487439</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3030262,-30.2944727 -51.3029046,-30.2944901 -51.302232,-30.2945036 -51.3014513,-30.2945178 -51.2994984,-30.2945347 -51.2987119,-30.2945259</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">819659289</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3310593,-30.2590579 -51.3305068,-30.2590579 -51.3285971,-30.2591738 -51.326513,-30.2593035 -51.3254374,-30.25938 -51.3220096,-30.2596116 -51.3197967,-30.2597993 -51.3189223,-30.2599036 -51.3184235,-30.2600171 -51.3180184,-30.2601908 -51.3169348,-30.2607631 -51.3165164,-30.2610411 -51.3145745,-30.2619492 -51.3139844,-30.262357 -51.3126728,-30.2629906 -51.3119245,-30.2634412 -51.3108864,-30.263872 -51.3099155,-30.2643435 -51.3092543,-30.264676 -51.3090123,-30.2648463 -51.3085932,-30.2651346 -51.3082981,-30.2652806 -51.3077885,-30.2655076 -51.3066164,-30.2662003 -51.3058922,-30.2665431 -51.3050661,-30.2669972 -51.3023195,-30.2684219 -51.3022551,-30.2685215 -51.3022632,-30.2686443 -51.3023785,-30.2698813 -51.3026076,-30.2717638 -51.3027084,-30.2725916 -51.3027674,-30.2732819 -51.3027835,-30.2735321 -51.3028055,-30.2738797 -51.3028238,-30.2741367 -51.3028251,-30.2742618</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">950285565</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3338329,-30.2473042 -51.3333339,-30.2472533 -51.3323361,-30.247098 -51.3322784,-30.2470992 -51.3322234,-30.2471432 -51.3322046,-30.2473413 -51.3321885,-30.2478789 -51.332143,-30.2490026 -51.3321859,-30.2493641 -51.332202,-30.2494985 -51.3321269,-30.2497881 -51.3318828,-30.2505017 -51.3316146,-30.2511806 -51.3313919,-30.2517923 -51.3313155,-30.2519938 -51.3312981,-30.2520819 -51.3313182,-30.2522163 -51.3313799,-30.2523692 -51.3313812,-30.2524526 -51.3313145,-30.2528662 -51.3313155,-30.2528905 -51.3313302,-30.2529276 -51.3313758,-30.2529473 -51.3318224,-30.2529716 -51.3319016,-30.2530063 -51.3319592,-30.2530886 -51.3320397,-30.2533272 -51.3321215,-30.2535682 -51.3322476,-30.2536528 -51.3325815,-30.2538184 -51.3327862,-30.2538636</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">933146034</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.303796,-30.2943141 -51.3030262,-30.2944727</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor C. Pinto de Albuquerque</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">560377955</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3041515,-30.293868 -51.3041065,-30.2937229</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor Maurício Cardoso</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">359874227</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3012022,-30.2930347 -51.2998971,-30.2930184 -51.299085,-30.2930052</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor Maurício Cardoso</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487717</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3064919,-30.2928304 -51.3061205,-30.2928489 -51.30545,-30.2929092 -51.3039693,-30.2929762 -51.3033846,-30.2929971 -51.3029185,-30.2930314 -51.3028086,-30.2930376 -51.3023761,-30.2930342 -51.3022201,-30.2930342</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">932821273</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3039693,-30.2929762 -51.3039704,-30.2924543 -51.3039878,-30.2924127 -51.3040388,-30.2923895 -51.3042265,-30.2923605</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Coronel Araújo Ribeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551814</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3014513,-30.2945178 -51.3012022,-30.2930347 -51.3012134,-30.2928946 -51.3011138,-30.2919744 -51.3010156,-30.2906405</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488745</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3028589,-30.2920154 -51.3022183,-30.2919951 -51.3011138,-30.2919744 -51.2999716,-30.291935 -51.2993693,-30.2919017</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Daltro Filho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487868</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.302837,-30.2908292 -51.3021997,-30.2907629 -51.3010156,-30.2906405 -51.3000345,-30.29054</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Julio de Castilhos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223487773</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.2991156,-30.2958322 -51.2994984,-30.2945347 -51.2995461,-30.2937791 -51.2995823,-30.2936841 -51.2996466,-30.2936575 -51.2998264,-30.2936297 -51.2998475,-30.2936034 -51.2998518,-30.2935695 -51.2998971,-30.2930184 -51.2999716,-30.291935 -51.3000345,-30.29054 -51.3000916,-30.2898116 -51.3002027,-30.2882421 -51.3003381,-30.2867533 -51.3004178,-30.2848818 -51.3004208,-30.2846164 -51.30045,-30.2845147 -51.3004996,-30.2844869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Guilherme Hoff</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488751</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3051307,-30.2900303 -51.3040491,-30.2899834 -51.3029383,-30.2899352 -51.3019006,-30.2898933 -51.3000916,-30.2898116</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 15 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">407551820</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3039935,-30.2884183 -51.303046,-30.2883806 -51.3019356,-30.2883226 -51.3002027,-30.2882421</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Alberto Pasqualini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488752</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3083669,-30.2961655 -51.3062136,-30.2966528</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Lindolfo Collor</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488748</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3065723,-30.2977471 -51.3062136,-30.2966528 -51.305923,-30.2957676 -51.3056418,-30.2948308 -51.3054129,-30.2940799</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Nicolau Frederes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223488750</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3086323,-30.2951214 -51.305923,-30.2957676 -51.3048224,-30.2960297 -51.3035711,-30.2963262 -51.3034759,-30.2963481</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">737158903</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3075349,-30.2943834 -51.3072626,-30.2934422</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">359871310</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3004996,-30.2844869 -51.3006889,-30.2844425 -51.301005,-30.2843169 -51.3011986,-30.2841491 -51.3013684,-30.2839229 -51.3014498,-30.2838007 -51.3016731,-30.2835814 -51.3018407,-30.2835096 -51.3020244,-30.2835223 -51.3021907,-30.2835559 -51.3024066,-30.2835744 -51.3026145,-30.2835293 -51.3031322,-30.283351</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">819659286</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3062972,-30.2770489 -51.3060625,-30.277258 -51.3059673,-30.2773309 -51.3059888,-30.2786837 -51.3059834,-30.2787775 -51.3059472,-30.2788412 -51.3058614,-30.278876 -51.3049158,-30.2789686 -51.3035761,-30.2791377 -51.3034192,-30.279136 -51.3034017,-30.2790902 -51.3033696,-30.2789663 -51.3033602,-30.2787856 -51.3033374,-30.2787092 -51.3032261,-30.2786199 -51.3031134,-30.2785655 -51.3027889,-30.278499 -51.3026923,-30.2785308 -51.3024817,-30.2786605 -51.3022256,-30.2787312 -51.3018863,-30.2787173 -51.3015698,-30.278642 -51.3013083,-30.2786368 -51.3012486,-30.2786426 -51.3012023,-30.278679 -51.3010991,-30.2788921 -51.3009864,-30.2790682 -51.3007826,-30.2792396</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">820271505</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1440324,-30.2570021 -51.1431603,-30.2572493 -51.1423267,-30.2574832 -51.1409888,-30.2578382 -51.1403513,-30.2580056 -51.140307,-30.2580263 -51.1402704,-30.2580632 -51.1402562,-30.2581176 -51.1402765,-30.2582177 -51.1404859,-30.2589552 -51.1406061,-30.2595049 -51.1406212,-30.2595663 -51.1410991,-30.2615115 -51.1414072,-30.2627835 -51.1414318,-30.2629006 -51.1411976,-30.2644015</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">820271507</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.140307,-30.2580263 -51.1399802,-30.2581069 -51.1382743,-30.2585624 -51.1375204,-30.2587366 -51.137439,-30.258758 -51.1374001,-30.258807 -51.1374001,-30.2589262</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">820271504</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1369784,-30.2555474 -51.1415706,-30.2543032 -51.141782,-30.2542716 -51.1419365,-30.2542786 -51.1420828,-30.2543348 -51.1424691,-30.2545841 -51.1426052,-30.2546658 -51.1431616,-30.254604</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">820271503</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1411324,-30.2535082 -51.1411649,-30.2533115 -51.1412097,-30.2530692 -51.1411975,-30.2529674 -51.1411202,-30.252855 -51.1410348,-30.2527637 -51.1409291,-30.2527567 -51.1407096,-30.2528129 -51.1366224,-30.2538858</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1020259626</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1433916,-30.2503639 -51.1443081,-30.2499906 -51.1457326,-30.2494005 -51.1472544,-30.2487783 -51.1473199,-30.2487508 -51.1473712,-30.248734 -51.1474296,-30.2487157 -51.1474827,-30.248705 -51.1475429,-30.2486989 -51.147596,-30.2486943 -51.1476508,-30.2486927 -51.147711,-30.2486927 -51.14778,-30.2486989 -51.1485215,-30.248815 -51.1510998,-30.2492369 -51.152565,-30.2494448 -51.1527207,-30.2494632 -51.1528304,-30.2494724 -51.1529118,-30.2494815 -51.1529685,-30.2495121 -51.1529932,-30.2495518 -51.1530074,-30.2496069 -51.1529932,-30.2496466 -51.152926,-30.2497139 -51.1528517,-30.249772 -51.1528021,-30.2498209 -51.1527632,-30.2498698 -51.1526252,-30.2502673 -51.152565,-30.2504751 -51.1522146,-30.2520588 -51.15202,-30.2528659 -51.15162,-30.2542447 -51.1514395,-30.2548439 -51.1513688,-30.2550671 -51.1512095,-30.2554737 -51.1511508,-30.2556464</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Heitor Vieira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">88467460</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1732916,-30.2328479 -51.1717546,-30.2304526 -51.1717162,-30.2304087 -51.1716811,-30.2303766 -51.1712065,-30.230014 -51.1711133,-30.229934 -51.1705675,-30.2293468 -51.1705528,-30.2293098 -51.1705485,-30.2292675 -51.1706157,-30.2288987 -51.1712024,-30.2262411 -51.1712037,-30.2261287 -51.1711668,-30.2260442 -51.1710882,-30.2259546 -51.1708569,-30.2257497 -51.17028,-30.2252295 -51.1702321,-30.2251768 -51.1702207,-30.2251367 -51.1702213,-30.2250974 -51.1702404,-30.2250428 -51.1716138513026,-30.2216489711009</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Barra_do_Ribeiro_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">927871941</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.1383973,-30.2225434 -51.1402438,-30.2246756 -51.1419518,-30.2258696 -51.1427758,-30.2262553</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

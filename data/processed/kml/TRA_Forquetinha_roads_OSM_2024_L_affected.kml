@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Forquetinha_roads_OSM_2024_L_affected" id="TRA_Forquetinha_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Forquetinha_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1117898225</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0548196,-29.4055921 -52.0542783,-29.4057619 -52.0535847,-29.4060716 -52.0533935,-29.4061316 -52.0532594,-29.4061493 -52.0530883,-29.4061373 -52.0530013,-29.4061202 -52.052927,-29.4060866 -52.0528567,-29.4060356 -52.0524243,-29.4057015 -52.0521807,-29.4055411 -52.0518523,-29.4053908 -52.0517711,-29.4053662 -52.051719,-29.4053554 -52.0515776,-29.4053459 -52.0513036,-29.4053542 -52.0465871,-29.4057776 -52.041122,-29.4062682 -52.040908,-29.4062541 -52.0407378,-29.4061939 -52.0405682,-29.4060789 -52.0404589,-29.4059607 -52.0401523,-29.405462 -52.0400738,-29.4053339 -52.0400093,-29.4052241 -52.039915,-29.4051034 -52.0397773,-29.4050037 -52.0396801,-29.4049538</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235418</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0550884,-29.3742451 -52.0550025,-29.3747406 -52.0549382,-29.37518 -52.0547665,-29.3756007 -52.054686,-29.3762038 -52.054686,-29.3766479 -52.0546699,-29.3768769 -52.0544393,-29.3772509 -52.0541335,-29.3776856 -52.0539565,-29.3780596 -52.0537365,-29.3784008 -52.0534468,-29.3786953 -52.0531089,-29.3790412 -52.0529533,-29.3793918 -52.052728,-29.3797705 -52.0524222,-29.3801164 -52.0521004,-29.3804015 -52.0516873,-29.3806352 -52.0510972,-29.3808596 -52.0504374,-29.3811494 -52.0498366,-29.3814159 -52.0494504,-29.3815281 -52.0489837,-29.3815655 -52.0484526,-29.3816543 -52.0480932,-29.3818272 -52.0479215,-29.382089 -52.0477284,-29.3824816 -52.0476694,-29.3827621 -52.0475567,-29.3830519 -52.0473046,-29.3832996 -52.0468754,-29.3836128 -52.0465321,-29.3837811 -52.0460976,-29.3838933 -52.0456255,-29.3839821 -52.0452607,-29.3840709 -52.0450623,-29.384141 -52.0448852,-29.3843467 -52.0447189,-29.3846225 -52.0445312,-29.3848515 -52.0442522,-29.3850011 -52.0438821,-29.3851507 -52.0433564,-29.3853703 -52.0428146,-29.385562 -52.0424391,-29.3857162 -52.042026,-29.3860995 -52.0417739,-29.3864454 -52.0415432,-29.3867352 -52.0413608,-29.3870437 -52.0412696,-29.3873335 -52.0411409,-29.3874691 -52.0408351,-29.3875392 -52.0404381,-29.3876467 -52.0401431,-29.3876607 -52.0400171,-29.3876582 -52.0399017,-29.387656 -52.0395597,-29.3877799 -52.0394511,-29.3880112 -52.0394511,-29.3882683 -52.0395637,-29.3885581 -52.0397086,-29.3888947 -52.0396978,-29.389091 -52.0395476,-29.3893153 -52.0388878,-29.3901239 -52.0385445,-29.3904231 -52.0382441,-29.3906708 -52.0379544,-29.3909045 -52.0377023,-29.3911662 -52.0373751,-29.3915355 -52.0368493,-29.3922132 -52.0365858,-29.3926026 -52.0365489,-29.3926572 -52.0361949,-29.392989 -52.0359052,-29.393204 -52.0352776,-29.3937602 -52.0350952,-29.3941388 -52.0349879,-29.3945221 -52.035004,-29.39491 -52.0351381,-29.3952325 -52.0354707,-29.3959149 -52.0356209,-29.396228 -52.0357657,-29.3964149 -52.0359052,-29.3965739 -52.0360822,-29.3967982 -52.0361895,-29.3970365 -52.0363397,-29.3974665 -52.0365972,-29.3976675 -52.0368172,-29.3978404 -52.0370264,-29.3980227 -52.0371176,-29.3981769 -52.0372088,-29.3985274 -52.0372356,-29.3988452 -52.0368869,-29.3993921 -52.0365972,-29.3996164 -52.0364309,-29.3999529 -52.0363075,-29.4003314 -52.036109,-29.400682 -52.0359535,-29.4010278 -52.0356692,-29.4017662 -52.0355243,-29.4020887 -52.0355136,-29.4023925 -52.0355672,-29.4026682 -52.0355458,-29.4029953 -52.0353473,-29.4036823 -52.0351327,-29.4040001 -52.0349807,-29.4041016 -52.0348806,-29.4041683 -52.0343817,-29.4043039 -52.0339847,-29.4043272 -52.0335636,-29.4043529 -52.033046,-29.404388 -52.0327402,-29.4044207 -52.0325337,-29.4045072 -52.0323325,-29.4046941 -52.0321152,-29.4050072 -52.0319865,-29.4053133 -52.0318846,-29.4056685 -52.0317022,-29.4060096 -52.0316324,-29.4061639 -52.0313535,-29.406713 -52.0307688,-29.4076593 -52.0304871,-29.4081453 -52.0303825,-29.4083416 -52.0300178,-29.4089234 -52.0298434,-29.4092482 -52.0298515,-29.409358 -52.0299728,-29.4094778</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235422</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.043156,-29.3722568 -52.0431016,-29.3748528 -52.0431981,-29.3752268 -52.0434342,-29.3753623 -52.0438901,-29.3754932 -52.0443461,-29.3756194 -52.044668,-29.3756849 -52.04536,-29.375741 -52.0456443,-29.3758906 -52.0458642,-29.3760495 -52.0462076,-29.3762552 -52.046685,-29.3763721 -52.0472979,-29.3767378 -52.0476506,-29.3769611 -52.047729,-29.3770376 -52.0478504,-29.3772819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1199323642</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.029541,-29.4098478 -52.0299728,-29.4094778 -52.0333098,-29.4066151 -52.0344893,-29.4056053 -52.0352416,-29.4050378 -52.0360754,-29.4044121 -52.0363066,-29.4042433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1133294301</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0396845,-29.401496 -52.0395541,-29.4016627 -52.0394066,-29.4018511 -52.0393122,-29.4019475 -52.0392152,-29.4020466 -52.0370121,-29.4038458 -52.0365723,-29.4041755 -52.0362762,-29.4043918 -52.0361914,-29.4044654 -52.0361109,-29.4045379 -52.0359136,-29.4046675 -52.0345698,-29.4056813 -52.033393,-29.4066887 -52.030056,-29.4095514 -52.0294599,-29.4100622</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1280900702</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0396801,-29.4049538 -52.0392807,-29.404833 -52.0388932,-29.4047585 -52.0383996,-29.4046725 -52.0379383,-29.4046237 -52.0374359,-29.4045865 -52.0370267,-29.404542</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235429</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0349807,-29.4041016 -52.035126,-29.4041882 -52.0353191,-29.4042677 -52.0356101,-29.4043261 -52.0358422,-29.4043389 -52.0359096,-29.4043619</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>VRS-811</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">512958565</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0276756564546,-29.3860580824929 -52.0288092,-29.3856458 -52.0288773,-29.3856172 -52.0289887,-29.3855704 -52.0292169,-29.3853936 -52.0295176,-29.38487 -52.0296958,-29.3841633 -52.0298223,-29.3836618 -52.0300865,-29.3830506 -52.0306314,-29.3824203 -52.0311142,-29.382037 -52.0316587,-29.3816631 -52.0320235,-29.3814878 -52.0324365,-29.3814317 -52.0328496,-29.3813616 -52.0331527,-29.3811676 -52.0333807,-29.3808895 -52.0335577,-29.3805248 -52.033555,-29.3800854 -52.0335899,-29.3795923 -52.033783,-29.3792581 -52.0340593,-29.3790337 -52.0344723,-29.3787859 -52.0348452,-29.37862 -52.0351241,-29.3784283 -52.0353306,-29.378211 -52.0355881,-29.3778884 -52.0359731,-29.3774865 -52.0361593,-29.377292 -52.0363925,-29.3770897 -52.0365351,-29.3769579 -52.0366446,-29.3768503 -52.0367361,-29.3767244 -52.0367865,-29.376607 -52.0368135,-29.376504 -52.0368458,-29.3763406 -52.0368464,-29.3762503 -52.0369117,-29.3761526 -52.0370039,-29.3760823 -52.0375755,-29.3757865 -52.0379306,-29.3756343 -52.0382552,-29.3754471 -52.0383003,-29.3754157 -52.0385879,-29.3752154 -52.0386475,-29.3751662 -52.0388413,-29.3750063 -52.0390182,-29.3748789 -52.0391489,-29.3748237 -52.0393935,-29.3748158 -52.0396351,-29.3747959 -52.0397417,-29.3747554 -52.0398934,-29.3746958 -52.0403908,-29.3742716 -52.0406001,-29.3740947 -52.0408572,-29.3739198 -52.0410948,-29.3737669 -52.0413218,-29.3735728 -52.0414024,-29.3734135 -52.0413978,-29.3729881 -52.0414686,-29.3728448 -52.0416075,-29.3727467 -52.0417431,-29.3727142</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49016422</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0417431,-29.3727142 -52.0418903,-29.3726973 -52.0420325,-29.3726857 -52.042159,-29.3726599 -52.0423442,-29.3725926 -52.042577,-29.3724987 -52.0427889,-29.3724098 -52.0429567,-29.3723354 -52.043156,-29.3722568 -52.0433521,-29.3721738 -52.0435184,-29.3720849 -52.043662,-29.3719883 -52.0438027,-29.3718886 -52.0439181,-29.3717811 -52.0441031,-29.3716081 -52.0442852,-29.3714369 -52.0445108,-29.3711944 -52.0447362,-29.3709466 -52.0451304,-29.3705422 -52.0452592,-29.3704222 -52.0454738,-29.3702313 -52.0456722,-29.3700724 -52.0459826,-29.3698413 -52.0462516,-29.369654 -52.0463729,-29.3695552 -52.0464903,-29.3694413 -52.0465627,-29.3693197 -52.0466003,-29.3691958 -52.0466126,-29.3690583 -52.0466137,-29.3688569 -52.0466298,-29.3684198 -52.0466474,-29.3678755 -52.04667,-29.3677232 -52.0467156,-29.3675806 -52.0467842,-29.3674478 -52.0468578,-29.3673492 -52.046957,-29.3672534 -52.047086,-29.3671731 -52.0478893,-29.3668096 -52.048054,-29.3667204 -52.0481951,-29.3666273 -52.0483169,-29.3665241 -52.048392,-29.3664399 -52.0484483,-29.3663487 -52.0484768,-29.3662346 -52.0485154,-29.3659327 -52.0485668,-29.3655617 -52.0486822,-29.3648677 -52.0487085,-29.3647428 -52.0487568,-29.3646306 -52.0488158,-29.3645465 -52.0489016,-29.364467 -52.0489911,-29.3644123 -52.0491062,-29.3643657 -52.049304,-29.3643034 -52.0494971,-29.364259 -52.0496574,-29.3642013 -52.0498458,-29.3641047 -52.0500147,-29.3639925 -52.050122,-29.3638873 -52.0501912,-29.3637878 -52.0502454,-29.3636231 -52.0502749,-29.3634852 -52.0503242,-29.3633285 -52.0503916,-29.3632152 -52.0505673,-29.3630037 -52.0506941,-29.3628426 -52.050857,-29.3625291 -52.0509776,-29.3622299 -52.0510146,-29.3620952 -52.0510313,-29.3619634 -52.051042,-29.3613182 -52.051042,-29.3606286 -52.0510572,-29.3605041 -52.0510823,-29.3603995 -52.0511305,-29.360299 -52.0512073,-29.3602246 -52.0518444,-29.3597187 -52.0522624,-29.3593335 -52.0524165,-29.359163 -52.0525414,-29.3589548 -52.052654,-29.3586743 -52.0527721,-29.3582956 -52.0528271,-29.3579894 -52.0528472,-29.3576784 -52.0528579,-29.3573558 -52.0527774,-29.3563693 -52.0527904,-29.3561178 -52.0528284,-29.3559765 -52.0528954,-29.3558643 -52.0530248,-29.3557496 -52.053228,-29.3556586 -52.0536947,-29.3555674 -52.0538691,-29.3555393 -52.0539966,-29.3554945 -52.0541158,-29.3553967 -52.0541879,-29.3552779 -52.0541909,-29.3551536 -52.054148,-29.354838 -52.0541069,-29.3547157 -52.0540488,-29.3546206 -52.0539227,-29.3544149 -52.0538679,-29.354307 -52.0538422,-29.3541928 -52.0538664,-29.3540852 -52.0539308,-29.35398 -52.0540217,-29.3538717 -52.0542929,-29.3535335 -52.0543519,-29.3534353 -52.0543867,-29.3533278 -52.0543963,-29.3532138 -52.0543385,-29.3529981 -52.0542955,-29.3527643 -52.0543036,-29.3526194 -52.0543268,-29.3525015 -52.0543599,-29.3523716 -52.0545984,-29.3517267 -52.0550519,-29.3510016 -52.0553652,-29.3504224 -52.055937,-29.3493862 -52.0560256,-29.3492668 -52.0561516,-29.349192 -52.0563136,-29.3491818 -52.0572352,-29.349337 -52.0575552,-29.3493509 -52.0578092,-29.3493229 -52.0583111,-29.3491777 -52.058565,-29.3491282 -52.0587561,-29.3491429 -52.0589304,-29.3491967 -52.0590872,-29.3492901 -52.0592217,-29.3494181 -52.05944,-29.3496222 -52.0596009,-29.3497531 -52.0597404,-29.3498396 -52.0598612,-29.3498817 -52.0600033,-29.3498981 -52.0601669,-29.3498724 -52.0603305,-29.3498233 -52.0604754,-29.3497437 -52.0606309,-29.3496199 -52.0607838,-29.3494632 -52.0608643,-29.3493113 -52.0609233,-29.3491756 -52.0609528,-29.3490704 -52.0609501,-29.3489091 -52.0608589,-29.3485888 -52.0607007,-29.3481633 -52.0606497,-29.3479926 -52.060647,-29.3478407 -52.0606792,-29.3477098 -52.0607329,-29.3475952 -52.060867,-29.3473848 -52.060985,-29.3471861 -52.0610762,-29.3470084 -52.0611727,-29.346812 -52.0612612,-29.3466062 -52.0613283,-29.3464169 -52.0613658,-29.3462719 -52.0613793,-29.3460872 -52.0613498,-29.3457037 -52.0613524,-29.3455284 -52.0613766,-29.3453881 -52.0615697,-29.3443921 -52.0616019,-29.3440811 -52.0615965,-29.3437632 -52.0615536,-29.3434639 -52.0615161,-29.3432184 -52.0614249,-29.3426268 -52.0613927,-29.3424024 -52.0613069,-29.342192 -52.061162,-29.3420049 -52.0607811,-29.341729 -52.0606792,-29.3416449 -52.0606202,-29.3415677 -52.0605692,-29.3414719 -52.0605022,-29.3412568 -52.0604673,-29.3411211 -52.060403,-29.3410065 -52.0603171,-29.3409271 -52.0602232,-29.3408686 -52.0599711,-29.3406628 -52.0599255,-29.3405646 -52.0599014,-29.3404781 -52.0598986,-29.3403776 -52.059896,-29.3402864 -52.0599228,-29.3401882 -52.0599819,-29.3400503 -52.0600918,-29.3399053 -52.0606765,-29.3393208 -52.0607945,-29.3391805 -52.0608965,-29.3390121 -52.060985,-29.3388484 -52.061044,-29.3386941 -52.0610654,-29.3385352 -52.061052,-29.3383878 -52.0610037,-29.3382452 -52.0608482,-29.3378757 -52.0605424,-29.3372678 -52.0601642,-29.3365149 -52.0599202,-29.3359888 -52.0596063,-29.3352218 -52.0593032,-29.3343216 -52.0591289,-29.3337581 -52.0591047,-29.3335921 -52.0591021,-29.3333769 -52.0592093,-29.3326544 -52.0593488,-29.331083 -52.0593891,-29.330931 -52.0595071,-29.3307767 -52.0603976,-29.3300308 -52.0607369,-29.329666 -52.0608006573839,-29.3295615495355</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235428</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0550884,-29.3742451 -52.0550749,-29.3738395 -52.0551554,-29.3734188 -52.0556168,-29.3728625 -52.0557401,-29.372582 -52.0560191,-29.3721753 -52.0563839,-29.3718668 -52.0567916,-29.3717312 -52.0572422,-29.3716517 -52.0577464,-29.3715489 -52.0581863,-29.3715442 -52.0587013,-29.3715582 -52.0590768,-29.3714788 -52.0593718,-29.3711562 -52.0594094,-29.3708477 -52.0593075,-29.3704877 -52.0591304,-29.3699127 -52.0590071,-29.3694405 -52.0590875,-29.3689683 -52.0593327,-29.3684572 -52.0597056,-29.3679827 -52.0601857,-29.3674801 -52.0604619,-29.3671809 -52.0608053,-29.3668186 -52.061213,-29.3664469 -52.0617601,-29.366129 -52.0622107,-29.3657901 -52.0626602,-29.3654761 -52.0630465,-29.3652984 -52.0634338,-29.3651215 -52.0637101,-29.3648737 -52.0640588,-29.3642239 -52.0642653,-29.3636079 -52.0643646,-29.3632409 -52.0644276,-29.3630539 -52.0645483,-29.362729 -52.0648554,-29.3618851 -52.0650163,-29.3612855 -52.0652352,-29.3605624 -52.0654938,-29.3598595 -52.0657325,-29.359171 -52.0657969,-29.3588917 -52.0659164,-29.3584117 -52.0660651,-29.3577392 -52.0663188,-29.356995 -52.06669,-29.355876 -52.0668617,-29.3554037 -52.066977,-29.3549783 -52.0672184,-29.3541554 -52.0675403,-29.3531688 -52.0678166,-29.3523295 -52.0680124,-29.3517684 -52.0682055,-29.3510811 -52.068427,-29.3499347 -52.0686346,-29.3490377 -52.0687795,-29.3485608 -52.0693857,-29.3476256 -52.069929,-29.3470263 -52.0707498,-29.3465072 -52.0718334,-29.3459134 -52.0723404,-29.3456609 -52.0725845,-29.3455145</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234372</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0730472,-29.3450275 -52.0727863,-29.3454625 -52.0726951,-29.3456004 -52.0725936,-29.3457342 -52.0724873,-29.3459031 -52.0719982,-29.3469687 -52.0717931,-29.3475345 -52.0715935,-29.3484698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">679353647</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0714313,-29.3484426 -52.0716736,-29.3475063 -52.0719246,-29.3467383 -52.0723458,-29.3458593 -52.0724554,-29.3456737 -52.0725845,-29.3455145 -52.0729561,-29.3449316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234371</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0725845,-29.3455145 -52.0727863,-29.3454625</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957096566</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0727863,-29.3454625 -52.0732668,-29.3453998 -52.073822,-29.3454957 -52.0740929,-29.3455144 -52.0742539,-29.3454676 -52.0743933,-29.3453811 -52.0746964,-29.3449252 -52.0750558,-29.344177</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234370</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0733761,-29.3446238 -52.0730472,-29.3450275</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">679353648</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0729561,-29.3449316 -52.0732909,-29.344509</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">704357443</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0763688,-29.3416028 -52.0762239,-29.3415256 -52.076122,-29.3415046 -52.0739307,-29.3414379 -52.0729651,-29.3414707 -52.0728698,-29.3414637 -52.0727491,-29.3414438 -52.07221,-29.3412719 -52.0720813,-29.3412228 -52.0718211,-29.3411948 -52.0711769,-29.3411786 -52.0700696,-29.3411632 -52.0699167,-29.3411866 -52.0694608,-29.3412836 -52.0693548,-29.3413082 -52.0692502,-29.3413187 -52.0686869,-29.3412919 -52.0680875,-29.3412719 -52.0678622,-29.3412427 -52.0677683,-29.3412146 -52.0677039,-29.3411796 -52.0675617,-29.3409972 -52.0673794,-29.3406886 -52.0673203,-29.340553 -52.0672855,-29.3401485 -52.0672587,-29.3400526 -52.0672426,-29.3400152 -52.067197,-29.3399941 -52.0665023,-29.3399895</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1236234369</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1017338701779,-29.3292299388641 -52.1017032,-29.3294493 -52.1016185,-29.3298167 -52.1014587,-29.3303186 -52.1013302,-29.3306747 -52.1011566,-29.3310216 -52.100877,-29.3314436 -52.1005397,-29.3318171 -52.1002238,-29.3321603 -52.099848,-29.3324789 -52.0994437,-29.3327817 -52.0990509,-29.3330426 -52.0987639,-29.3331875 -52.0984045,-29.3333723 -52.0974308,-29.3337932 -52.094687,-29.3350193 -52.0938903,-29.3353481 -52.0934451,-29.3354709 -52.0930427,-29.3355305 -52.0926391,-29.3355539 -52.0921938,-29.3355211 -52.0916185,-29.3354253 -52.0908621,-29.335278 -52.0904611,-29.3352359 -52.0901969,-29.3352218 -52.0898241,-29.3352522 -52.0893529,-29.3353652 -52.0888111,-29.3355345 -52.0875725,-29.3359676 -52.0845389,-29.3370348 -52.0839505,-29.3372089 -52.0832841,-29.3373473 -52.0818834,-29.3375649 -52.0812752,-29.3376853 -52.0809417,-29.3377718 -52.0807247,-29.3378323 -52.080242,-29.3380494 -52.0798576,-29.3383019 -52.0795469,-29.3385045 -52.0792339,-29.3388194 -52.0788737,-29.3392374 -52.0783439,-29.3400792 -52.0780846,-29.3404757 -52.0779237,-29.3407142 -52.0777686,-29.340916 -52.0774589,-29.3412572 -52.0768316,-29.3417821 -52.0766447,-29.3419386 -52.0763075,-29.3421994 -52.0761888,-29.3422782 -52.074751,-29.3432321 -52.0738278,-29.344118 -52.0733761,-29.3446238</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">384260631</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0732909,-29.344509 -52.0737268,-29.3440215 -52.0740326,-29.3436965 -52.0746776,-29.3431623 -52.0762038,-29.3421078 -52.0765713,-29.3418693 -52.0767567,-29.3417141 -52.0773974,-29.3411562 -52.0776784,-29.3408323 -52.077832,-29.340664 -52.0779983,-29.3404021 -52.0782718,-29.3400128 -52.078768,-29.3391945 -52.0791496,-29.3387601 -52.0794728,-29.338435 -52.0797926,-29.3382265 -52.0801842,-29.3379692 -52.0806831,-29.3377448 -52.0809098,-29.3376817 -52.0812477,-29.337594 -52.0818619,-29.3374724 -52.0832621,-29.3372549 -52.0839205,-29.3371182 -52.0845012,-29.3369463 -52.0875321,-29.3358801 -52.0887727,-29.3354463 -52.0893265,-29.3352733 -52.0898268,-29.3351611 -52.0902479,-29.33514 -52.0906502,-29.3351564 -52.0916721,-29.3353317 -52.0922354,-29.335437 -52.0926994,-29.3354674 -52.0930937,-29.3354229 -52.0935202,-29.3353575 -52.0939466,-29.3352289 -52.0944616,-29.3349997 -52.0975515,-29.3336108 -52.0982865,-29.3332857 -52.0987076,-29.3331127 -52.099067,-29.3328952 -52.0993955,-29.3326837 -52.0997831,-29.3324042 -52.1001439,-29.3321014 -52.1004577,-29.3317612 -52.1007849,-29.331394 -52.1010599,-29.330979 -52.1012302,-29.3306387 -52.1013469,-29.3302833 -52.101489,-29.3297806 -52.1015695,-29.3294766 -52.1016105637941,-29.3292309566537</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 25 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679273</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0982865,-29.3332857 -52.0979492,-29.3330184 -52.094235,-29.3300723 -52.0933227388874,-29.3292991044577</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1268886733</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0964231740527,-29.3292736709482 -52.0962624,-29.3294606</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Jaeger</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679262</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0952379199891,-29.3292834023362 -52.094235,-29.3300723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Osório</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514868341</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0930853,-29.3295298 -52.0929932,-29.32968 -52.0926637,-29.3302463 -52.0923896,-29.3307428 -52.092272,-29.3310618 -52.0922596,-29.3312359 -52.0922822,-29.3313959 -52.0925653,-29.3321242 -52.0926515,-29.3324501 -52.0926401,-29.3326707 -52.092562,-29.3328458 -52.0924322,-29.332968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Willy Goellner</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">227943825</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0925515413117,-29.3293054195646 -52.0929932,-29.32968</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Getúlio Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514898056</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0932909958375,-29.32929936448 -52.0930853,-29.3295298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Osório</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Forquetinha_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">223679254</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0931727192661,-29.3293003332727 -52.0930853,-29.3295298</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

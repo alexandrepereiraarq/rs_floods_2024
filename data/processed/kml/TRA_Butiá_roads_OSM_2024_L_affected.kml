@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Butiá_roads_OSM_2024_L_affected" id="TRA_Butiá_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Butiá_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">959708457</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">40</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8028009,-30.1712663 -51.8034942,-30.1728141 -51.8038228,-30.1736918 -51.8045108,-30.1753833 -51.804547,-30.1755143 -51.8045953,-30.1756106 -51.8054643,-30.1771502 -51.8060169,-30.1780487 -51.8067156,-30.1793089 -51.8068215,-30.1794932 -51.8068779,-30.17963 -51.8069127,-30.1798294 -51.8071313,-30.1809493 -51.8073137,-30.1818153 -51.8073513,-30.1819579 -51.8073915,-30.1820854 -51.8077187,-30.1830337 -51.807763,-30.1832552 -51.8077952,-30.1834117 -51.8078461,-30.1835751 -51.8079199,-30.1840759 -51.8079615,-30.1857279 -51.8080808,-30.1902303 -51.8081371,-30.1946838 -51.808286,-30.1999798 -51.8085998,-30.2026677 -51.8086307,-30.2027639 -51.8086642,-30.2028358 -51.8088949,-30.203238 -51.8089244,-30.2032959 -51.8089485,-30.2034002 -51.8089995,-30.2043924 -51.809025,-30.2045338 -51.8091604,-30.2050715 -51.8092033,-30.2052176 -51.809269,-30.2053346 -51.8094662,-30.2056522 -51.8096057,-30.2059686 -51.8096513,-30.2061309 -51.8096781,-30.2062074 -51.8099678,-30.2069746 -51.8100375,-30.2071253 -51.8101126,-30.2072899 -51.8102708,-30.2075611 -51.8102883,-30.2076422 -51.8102843,-30.2077257 -51.810243,-30.2077978</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">959676784</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">40</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.787127,-30.192627 -51.7880179,-30.1915761 -51.7884806,-30.1909583 -51.788553,-30.1908563 -51.7886589,-30.1907543 -51.7888078,-30.190658 -51.7901194,-30.1899799 -51.7915544,-30.1893203 -51.7929626,-30.188728 -51.7932066,-30.1886433 -51.7933193,-30.1885738 -51.7934226,-30.1884938 -51.7940649,-30.1879582 -51.7942554,-30.1878516 -51.7944552,-30.1877728 -51.7946966,-30.1877426 -51.7949259,-30.1877612 -51.7968585,-30.1880904 -51.7969631,-30.1880892 -51.7970174,-30.1880614 -51.7970449,-30.1879953 -51.7966694,-30.1790805 -51.7966425,-30.1788602 -51.7965862,-30.1786469 -51.7961396,-30.1768789 -51.7961517,-30.1767978 -51.7961839,-30.1767131 -51.796322,-30.1763734 -51.7963529,-30.1762691 -51.7964602,-30.1758053 -51.7966311,-30.1749555 -51.7966714,-30.1749074 -51.7967337,-30.1748767 -51.7972782,-30.1747121 -51.7973761,-30.1746819 -51.7974646,-30.1746645 -51.7979354,-30.1745903 -51.7980064,-30.1745787 -51.7980561,-30.1745579 -51.7982988,-30.1744721 -51.7983618,-30.1744593 -51.7984343,-30.1744524 -51.7989278,-30.1744512 -51.7990109,-30.1744408 -51.7990874,-30.1744141 -51.7991799,-30.1743422 -51.7992577,-30.1742553 -51.7993207,-30.1741625 -51.7993543,-30.1740582 -51.7993704,-30.173824 -51.7993274,-30.173715 -51.7990083,-30.1732582 -51.7989707,-30.1730843 -51.7989305,-30.1729057 -51.7989492,-30.1726321 -51.7990378,-30.1724118 -51.7991692,-30.1722657 -51.7993355,-30.1721973 -51.7995541,-30.1721347 -51.7997968,-30.1721278 -51.8011996,-30.1721452 -51.8013324,-30.1721312 -51.8014504,-30.1720999 -51.8016033,-30.1720536 -51.8016958,-30.1720559 -51.8017817,-30.1720918 -51.8022846,-30.1728362 -51.8027526,-30.173606 -51.8028358,-30.1736396 -51.8029176,-30.1736419 -51.8034098,-30.1735109 -51.8034996,-30.1735144 -51.8035761,-30.1735527 -51.803676,-30.1736666 -51.8036954,-30.1736906 -51.8037256,-30.173697 -51.8038228,-30.1736918</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">943222035</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9266398,-29.9605635 -51.9230131,-29.9607381 -51.9193514,-29.9608572 -51.9182324,-29.9609626 -51.9177135,-29.9612155 -51.916583,-29.9626822 -51.9154814,-29.9636261 -51.9144604,-29.9644833 -51.9137128,-29.9652753 -51.9131033,-29.9660373 -51.9116111,-29.9677709 -51.9114792,-29.9679832 -51.9111348,-29.9682751 -51.9110042,-29.9683624 -51.9106487,-29.9684642 -51.9102968,-29.9684696 -51.9091251,-29.9683172 -51.9084779,-29.9682573 -51.9079879,-29.9681376 -51.9076643,-29.9680396 -51.9075472,-29.9680774 -51.907501,-29.968119 -51.9061328,-29.9697463 -51.9058945,-29.9699555 -51.9057237,-29.9701257 -51.9055498,-29.9703824 -51.9048148,-29.9715679 -51.9046498,-29.9716751 -51.9043638,-29.9718228 -51.9041328,-29.9718871 -51.9037753,-29.9718752 -51.9033601,-29.9717394 -51.9030713,-29.9714822 -51.9029201,-29.9713511 -51.9027578,-29.9713249 -51.9025461,-29.9713559 -51.9024141,-29.9714726 -51.9020648,-29.9721397 -51.9018833,-29.9723302 -51.9016523,-29.9724946 -51.9012178,-29.9726399 -51.9008026,-29.97274 -51.9006294,-29.9728472 -51.9004754,-29.9731068 -51.9003241,-29.9733046 -51.9000711,-29.9734904 -51.8996119,-29.973862 -51.8994304,-29.9740478 -51.8992544,-29.9742813 -51.8991141,-29.9744004 -51.8988529,-29.9744647 -51.8983029,-29.9745576 -51.8980279,-29.97466 -51.8978106,-29.9748506 -51.8976896,-29.9750602 -51.8975686,-29.9755343 -51.8975934,-29.9758106 -51.8979399,-29.9761584 -51.8983249,-29.9766324 -51.8984486,-29.9768492 -51.8984431,-29.9769493 -51.8981296,-29.9773709 -51.8978381,-29.977802 -51.8975356,-29.9781808 -51.8974394,-29.9784047 -51.8973651,-29.9788907 -51.8972139,-29.9795481 -51.8970599,-29.9798077 -51.8967326,-29.9800555 -51.8957206,-29.9806748 -51.895541,-29.9807871 -51.8951386,-29.9808335 -51.8945539,-29.9808312 -51.8942294,-29.9808266 -51.8936768,-29.9809334 -51.8934032,-29.9809927 -51.8930975,-29.9810833 -51.8929258,-29.9811181 -51.8928453,-29.981139 -51.8928105,-29.9811716 -51.8928078,-29.9812169 -51.8928359,-29.9812843 -51.8929258,-29.9815119 -51.8930733,-29.9816676 -51.8932128,-29.9817954 -51.8933469,-29.9818477 -51.8935253,-29.9819429 -51.8935829,-29.981958 -51.8939544,-29.9819232 -51.8940188,-29.9819417 -51.8940644,-29.9819812 -51.8942267,-29.9822426 -51.8942991,-29.9823472 -51.8943413,-29.9824093</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Velha do Butiá</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">270849425</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">67</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.78248322945,-30.0012598340419 -51.7828936,-30.001416 -51.7840202,-30.0019038 -51.7851215,-30.0023809 -51.7857851,-30.0028701 -51.7866326,-30.0037806 -51.7875661,-30.004733 -51.7879915,-30.0050846 -51.7905433,-30.0072508 -51.7919059,-30.0084075 -51.7931343,-30.0094759 -51.7944448,-30.010529 -51.7945666,-30.0106047 -51.7959292,-30.0111064 -51.7986023,-30.0120898 -51.7994858,-30.0124024 -51.8010683,-30.0129552 -51.8031728,-30.0135669 -51.8035161,-30.0136738 -51.8049216,-30.014208 -51.8059714,-30.0145438 -51.8074788,-30.0151198 -51.8077577,-30.0153149 -51.8082743,-30.016052 -51.8090935,-30.0174237 -51.8103112,-30.0196207 -51.8107189,-30.0203081 -51.8121619,-30.0228441 -51.8122638,-30.0230996 -51.8122799,-30.0233225 -51.8121834,-30.0239867 -51.81206,-30.025185 -51.811965,-30.0261357 -51.8119849,-30.0264297 -51.8121582,-30.0270089 -51.8122638,-30.0271543 -51.812473,-30.0273401 -51.8138694,-30.0285323 -51.8152947,-30.0296855 -51.8155967,-30.0299349 -51.8165876,-30.0307211 -51.8169861,-30.0310402 -51.817544,-30.0315093 -51.8177516,-30.0316361 -51.8181379,-30.0317615 -51.8205143,-30.0324209 -51.8217857,-30.0327367 -51.8224938,-30.03289 -51.8228317,-30.0329086 -51.8244679,-30.0328482 -51.8246878,-30.0328064 -51.8259324,-30.0326206 -51.8288882,-30.0325278 -51.8294262,-30.0326053 -51.830476,-30.0329039 -51.832949,-30.0335216 -51.8336695,-30.0336224 -51.8359477,-30.0342507 -51.8368811,-30.0344551 -51.8394738,-30.0351271 -51.8417322,-30.0356844 -51.8448688,-30.0364613 -51.8456734,-30.0367446 -51.8461723,-30.0371022 -51.8468606,-30.0374909 -51.8479801,-30.0379613 -51.8496967,-30.0387508 -51.8501758,-30.0389816 -51.8521644,-30.0400418 -51.8539775,-30.0410216 -51.8560069,-30.0421115 -51.8580561,-30.0432167 -51.8600839,-30.044308 -51.8623192,-30.0455492 -51.8627055,-30.0458139 -51.8638105,-30.0462318 -51.8647815,-30.0467658 -51.8659885,-30.0474995 -51.8666054,-30.0480475 -51.8683971,-30.049747 -51.8685419,-30.049877 -51.8689244,-30.0500149 -51.8694217,-30.0501277 -51.8703068,-30.0503552 -51.8706126,-30.0503785 -51.8708111,-30.0504899 -51.8715031,-30.05114 -51.8733485,-30.0528208 -51.8742068,-30.0537123 -51.874534,-30.0540002 -51.8749953,-30.0543206 -51.8758231,-30.0543331 -51.8767549,-30.0545574 -51.8807138,-30.0583833 -51.8817438,-30.0593676 -51.8827523,-30.0604169 -51.8838949,-30.0615498 -51.8852253,-30.0628915 -51.8864001,-30.0637783 -51.8870009,-30.0640615 -51.8876715,-30.0643911 -51.8878555,-30.0644037 -51.8880539,-30.0642505 -51.8893291,-30.0633512 -51.889785,-30.0631887 -51.8902426,-30.0631176 -51.891153,-30.0633279 -51.8919324,-30.0636098 -51.8936742,-30.0639454 -51.8941839,-30.0639454 -51.894554,-30.0638897 -51.8954676,-30.0636562 -51.8956323,-30.0636065 -51.89646,-30.0633823 -51.8968623,-30.0634055 -51.8975651,-30.063698 -51.8980462,-30.0640336 -51.898595,-30.0645754 -51.8988026,-30.0648322 -51.899205,-30.0651293 -51.9006426,-30.0662668 -51.9010074,-30.0666103 -51.9014473,-30.0670049 -51.9019515,-30.0673253 -51.9027723,-30.0679799 -51.903636,-30.0687227 -51.9039219,-30.0689859 -51.9045533,-30.0697394 -51.9049878,-30.0701804 -51.9052254,-30.0703508 -51.9058692,-30.0707036 -51.9071121,-30.0713503 -51.9077934,-30.0716985 -51.9094134,-30.072613 -51.9097836,-30.0728869 -51.9107669,-30.0737722 -51.9120527,-30.0749899 -51.9124658,-30.0754123 -51.9131524,-30.0760854 -51.9133724,-30.0762525 -51.9137425,-30.076401 -51.914397,-30.0765729 -51.9160332,-30.0769395 -51.9162557,-30.0770184 -51.9164478,-30.0771076 -51.9166714,-30.0772273 -51.9168056,-30.0773573 -51.9169558,-30.0775477 -51.9175244,-30.0784343 -51.9181629,-30.0795693 -51.9186053,-30.0803165 -51.919048,-30.0811058 -51.919756,-30.0823846 -51.9200268,-30.082916 -51.9202871,-30.0834847 -51.9204801,-30.0838397 -51.9206893,-30.0841925 -51.9211266,-30.0848842 -51.9213402,-30.085231 -51.9215664,-30.0854852 -51.9217917,-30.0857266 -51.9222987,-30.0862117 -51.9230551,-30.086952 -51.9238116,-30.087704 -51.9243398,-30.0881959 -51.9248065,-30.0887065 -51.9257079,-30.0895699 -51.9260861,-30.0900156 -51.9262576,-30.0901825 -51.9264668,-30.0903218 -51.9266815,-30.0904054 -51.9288915,-30.0909414 -51.9300447,-30.0912502 -51.9312036,-30.091561 -51.9318311,-30.0917654 -51.9325581,-30.0920345 -51.932963,-30.0921785 -51.9331938,-30.092241 -51.9333814,-30.0922643 -51.9336176,-30.0922549 -51.9340627,-30.0922156 -51.9349237,-30.0921181</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209299773</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8456734,-30.0367446 -51.846113,-30.0362498 -51.8499448,-30.0350361 -51.8535897,-30.0341785 -51.8546739,-30.0339196 -51.8566365,-30.034049 -51.8570803,-30.0338545</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">714291867</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8574296,-30.0336813 -51.857702,-30.0334341 -51.8571973,-30.031913 -51.8581132,-30.0304889 -51.8591973,-30.0300196 -51.8605992,-30.0301005 -51.8615338,-30.0296959 -51.8622254,-30.0288544 -51.862917,-30.0269286 -51.8649171,-30.0260062 -51.8672349,-30.0240642 -51.8682255,-30.0209892 -51.86959,-30.0185777 -51.869048,-30.0174933 -51.8664311,-30.0168459 -51.8625245,-30.0161176 -51.8613656,-30.012314 -51.8605992,-30.0094815 -51.8606366,-30.0060662 -51.8616647,-30.0032496 -51.8616647,-30.0026507 -51.8616647,-30.0020032 -51.862132,-30.0010158 -51.8648984,-29.9987657 -51.86559,-29.9978754 -51.8676792,-29.9974154 -51.8676916,-29.9974086 -51.8697583,-29.9962727 -51.8711228,-29.9954471 -51.8723751,-29.9941197 -51.8736462,-29.9919989 -51.8740574,-29.9910114 -51.8750481,-29.9895382 -51.8784633,-29.9885977 -51.8793967,-29.9882911 -51.8807754,-29.987852 -51.8814969,-29.9876104 -51.8819582,-29.9874129 -51.8830097,-29.986874 -51.8832672,-29.9867508 -51.8833879,-29.9866718 -51.8835032,-29.9865441 -51.8836132,-29.9864535 -51.8840839,-29.9861631 -51.884336,-29.986033 -51.8849838,-29.9856949 -51.8853325,-29.9855149 -51.8855484,-29.9854057 -51.8861049,-29.9851757 -51.8864483,-29.9850247 -51.8865649,-29.9849585 -51.8867192,-29.9848191 -51.8870088,-29.9845008 -51.8871161,-29.9843963 -51.8871899,-29.9843591 -51.8872637,-29.9843649 -51.8873549,-29.9843858 -51.8876687,-29.9845844 -51.8880469,-29.9847877 -51.888189,-29.9848354 -51.8883781,-29.984883 -51.8887655,-29.9848959 -51.8890348,-29.9848672 -51.8892185,-29.9848181 -51.8894224,-29.9847713 -51.8900151,-29.9845507 -51.8900436,-29.9845383</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209299810</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8616647,-30.0026507 -51.8611974,-30.0025212 -51.8608609,-30.0021489 -51.8545056,-30.0013072 -51.8539636,-30.0009187 -51.8533094,-29.9995751 -51.8522065,-29.9983448 -51.8509916,-29.9975192 -51.8495149,-29.9954957 -51.8497953,-29.9933588 -51.8490476,-29.9930512 -51.8485507,-29.9926512</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">714291868</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8482957,-29.9924301 -51.8478513,-29.9921122 -51.8467485,-29.9929055 -51.8441503,-29.9931645 -51.8373651,-29.9925332 -51.8338697,-29.9935854 -51.831851,-29.9941844 -51.8273276,-29.9956252 -51.8255518,-29.995868</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209299811</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8485507,-29.9926512 -51.8482957,-29.9924301</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Porto do Conde</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">270850337</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7823531854273,-29.9846784622719 -51.7834273,-29.9823994 -51.7840764,-29.9809973 -51.7850554,-29.9788494 -51.785624,-29.9775576 -51.7865682,-29.9757361 -51.7871358,-29.9744709 -51.7877554,-29.9732533 -51.7881279,-29.9724286 -51.7889312,-29.9707011 -51.7895042,-29.9695624 -51.7899343,-29.9686772 -51.7901265,-29.9683181 -51.7905781,-29.9677582</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Jerônimo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032216</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7929961,-29.9727713 -51.7934396,-29.9719528 -51.7940192,-29.9708798 -51.794301,-29.97032 -51.7947516,-29.9694254 -51.79528,-29.9684669 -51.7954717,-29.9681171 -51.7954168,-29.9679383 -51.7952584,-29.967413 -51.7951137,-29.9669856 -51.7950435,-29.9662902 -51.7949848,-29.9655913 -51.7949389,-29.9653527</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">962221846</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7971026,-29.9659748 -51.7974848,-29.9661956 -51.797702,-29.9663954 -51.7978898,-29.9666975 -51.798099,-29.9671204 -51.7982411,-29.9673063 -51.7984262,-29.9674457 -51.7986622,-29.9675526 -51.7997941,-29.9678663 -51.801728,-29.9683705 -51.8018836,-29.9684333 -51.8024737,-29.9688585</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032228</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7965349,-29.9671481 -51.7959774,-29.9672714 -51.7952584,-29.967413</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032230</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7970073,-29.9662479 -51.7968558,-29.9666069 -51.7968021,-29.9667231 -51.7965349,-29.9671481 -51.7961544,-29.9677373 -51.7960701,-29.9679493 -51.7960739,-29.96799 -51.7960907,-29.9680214 -51.7961686,-29.9681075</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032225</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7958003,-29.966823 -51.7951137,-29.9669856 -51.7940864,-29.9672517 -51.792866,-29.9675538</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032222</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7956527,-29.9662815 -51.7958003,-29.966823 -51.7959774,-29.9672714 -51.7961544,-29.9677373</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032227</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7937484,-29.9661294 -51.7940864,-29.9672517 -51.7942768,-29.9677734</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032232</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7950435,-29.9662902 -51.7956527,-29.9662815 -51.7962764,-29.9664454 -51.7965983,-29.9665825 -51.7968021,-29.9667231 -51.7970608,-29.9669715 -51.7974256,-29.9673852</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">283613930</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7940243,-29.9659561 -51.7949848,-29.9655913 -51.795352,-29.9654821 -51.7955616,-29.9655078 -51.7969496,-29.9659179 -51.7971026,-29.9659748 -51.7970073,-29.9662479</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Venâncio Aires</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">660258815</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8941619,-29.9451495 -51.8941757,-29.9449922 -51.8941333,-29.944647 -51.894058,-29.9442336 -51.8936803,-29.9424482 -51.8936439,-29.9422737 -51.8936427,-29.942196 -51.8936826,-29.9421148 -51.8937707,-29.9420303 -51.8939567,-29.9419048 -51.8942865,-29.941708 -51.8943852,-29.9416487 -51.8944238,-29.9415099 -51.8944913,-29.9413195 -51.894568,-29.9411103 -51.8946349,-29.9409946 -51.8947007,-29.9409397 -51.8948096,-29.9408748 -51.8949596,-29.9408295 -51.8950787,-29.9408044 -51.8952229,-29.9408081 -51.8954739,-29.9408297 -51.8957567,-29.9408542 -51.8960107,-29.9408538 -51.8961172,-29.9408836 -51.8962176,-29.9408956 -51.8963722,-29.940897 -51.8965923,-29.9408959 -51.8967928,-29.9408808 -51.8972194,-29.9408211 -51.8976836,-29.9407357 -51.8979817,-29.9406823 -51.8982266,-29.9406143 -51.8988045,-29.9404662 -51.8989243,-29.9404532 -51.8990308,-29.9404364 -51.8991827,-29.940399 -51.8993505,-29.940349 -51.8995039,-29.9402793 -51.8996774,-29.9401826 -51.8997869,-29.9401497 -51.899925,-29.940081 -51.9000772,-29.939997 -51.9003921,-29.9397676 -51.9004459,-29.9397091 -51.900756,-29.9393065 -51.9009376,-29.9390545 -51.9014034,-29.9384208 -51.9016062,-29.9380928 -51.9017695,-29.9378146 -51.9018456,-29.9376856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Capitão Rodrigo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">660246209</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8982266,-29.9406143 -51.8982247,-29.9405066 -51.898214,-29.9397311</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Júlio de Castilos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">660244768</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8974233,-29.9396403 -51.8974263,-29.9396832 -51.8974397,-29.9397025 -51.8974628,-29.939713 -51.8974999,-29.9397139 -51.897847,-29.9397216 -51.898214,-29.9397311 -51.8988045,-29.9397415 -51.8996745,-29.9397404</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Câmara</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">660244767</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8988821,-29.9378954 -51.8988643,-29.9381679 -51.8988549,-29.938452 -51.8988273,-29.9390398 -51.8988199,-29.9391849 -51.89881,-29.9395972 -51.8988045,-29.9397415 -51.8987923,-29.9400086 -51.8987898,-29.9402477 -51.8988045,-29.9404662</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032218</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.795352,-29.9654821 -51.7949389,-29.9653527 -51.7942205,-29.9651012</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">962221848</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7955616,-29.9655078 -51.7957655,-29.9649919 -51.7959023,-29.9647642 -51.7961597,-29.9644343</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Sadi de Souza Capelão</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">271032219</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7905781,-29.9677582 -51.7906398,-29.9676548 -51.7907175,-29.9675607 -51.7911521,-29.9672645 -51.7917184,-29.9669653 -51.7937484,-29.9661294 -51.7940243,-29.9659561 -51.7941186,-29.9656728 -51.7941803,-29.9654671 -51.7941937,-29.9653707 -51.7942205,-29.9651012 -51.7941307,-29.9649362 -51.7940529,-29.9647026 -51.7940032,-29.9645284 -51.7940046,-29.9642948 -51.7940611,-29.9639941 -51.7941642,-29.9637186 -51.7943063,-29.9634606 -51.794537,-29.9631539 -51.7946928,-29.9629903 -51.7947569,-29.9628994 -51.7949072,-29.9625393 -51.7949796,-29.96248 -51.7951069,-29.9624091 -51.7951942,-29.9623929 -51.7952492,-29.9622163</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">962221847</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7949389,-29.9653527 -51.7955589,-29.9634537 -51.7958298,-29.9626218 -51.7958258,-29.9625335 -51.7957936,-29.9624951 -51.7957373,-29.9624812 -51.7956099,-29.9625125 -51.7953779,-29.9626316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">959954243</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.7940611,-29.9639941 -51.7945974,-29.9635373 -51.7951673,-29.9630412 -51.7953537,-29.9627716 -51.7953779,-29.9626316 -51.7953645,-29.9625224 -51.7953283,-29.962444 -51.7952632,-29.9623998 -51.7951942,-29.9623929</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">943216525</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.899681,-29.9373915 -51.8997874,-29.9373882 -51.9000405,-29.9373863 -51.9001844,-29.9373866 -51.9004313,-29.9373983 -51.9006231,-29.9374064 -51.9007726,-29.9374058 -51.9009991,-29.9373948 -51.9010993,-29.9373915 -51.9011834,-29.9373816 -51.901248,-29.9373719 -51.9013184,-29.9373578 -51.9013893,-29.9373481 -51.9014295,-29.9373446 -51.9014772,-29.9373467 -51.9015421,-29.9373601 -51.9015852,-29.9373731 -51.901631,-29.9373953 -51.9016952,-29.9374445 -51.9017395,-29.9374833 -51.901793,-29.9375381 -51.9018292,-29.9375743 -51.9018482,-29.9376099 -51.9018513,-29.937651 -51.9018456,-29.9376856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Demétrio Ribeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">660246211</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8999418,-29.9333628 -51.899867,-29.9335271 -51.8998271,-29.9344928 -51.899825,-29.9350553 -51.8998215,-29.9354164 -51.8997185,-29.9357352 -51.8997085,-29.9362253 -51.8996854,-29.9366048 -51.8996856,-29.9369034 -51.8996795,-29.9370876 -51.899681,-29.9373915 -51.8996834,-29.9378974 -51.8996884,-29.9379502 -51.8997028,-29.9384462 -51.8997073,-29.9385362 -51.8997087,-29.9387604 -51.8996949,-29.9390776 -51.8996997,-29.9394244 -51.8996745,-29.9397404 -51.8996774,-29.9401826</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Hilário Flores</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">376581597</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0502277,-30.1250417 -52.0513451,-30.1243775 -52.051734,-30.1242104 -52.0522544,-30.1241663 -52.052646,-30.1241408 -52.0529142,-30.1241524 -52.053043,-30.124164 -52.0532307,-30.1241895 -52.0545799,-30.1246535 -52.0553577,-30.1248948 -52.0555803,-30.1249551 -52.0557708,-30.1249342 -52.0561919,-30.1248136 -52.0566827,-30.1245375 -52.0569161,-30.1243751 -52.0570475,-30.1242441 -52.0571682,-30.1241339 -52.0574525,-30.1237511 -52.0576865,-30.1234216 -52.0578736,-30.1232036 -52.0580399,-30.123004 -52.0581311,-30.1229089 -52.0582598,-30.1227836 -52.0583886,-30.1226978 -52.0587051,-30.1225238 -52.0594695,-30.1221364 -52.0605773,-30.1214728 -52.0619988,-30.1206678 -52.063694,-30.1197328 -52.0640132,-30.1195275 -52.064107,-30.1193941 -52.0641634,-30.1192387 -52.063297,-30.1149163 -52.0632783,-30.1147214 -52.0633051,-30.114501 -52.0634258,-30.1139488 -52.063973,-30.1118002 -52.0643806,-30.1104325 -52.0645148,-30.1097398 -52.0648018,-30.1086099 -52.0651585,-30.1072571 -52.0654348,-30.1061851 -52.0656788,-30.1053034 -52.0660141,-30.1041965 -52.0662716,-30.1032916 -52.0666713,-30.1020199 -52.0667759,-30.1016394 -52.0668061,-30.1014264 -52.0668161,-30.1013563 -52.0668188,-30.1011196 -52.066741,-30.1006741 -52.0664674,-30.0995973 -52.0661885,-30.0983094 -52.0659685,-30.0973859 -52.0656601,-30.0959285 -52.0639852,-30.0885528 -52.0641272,-30.0884076 -52.0676422,-30.0863834 -52.0692381,-30.0854899 -52.0715207,-30.0842969 -52.0729959,-30.08348 -52.0732829,-30.0832595 -52.0733929,-30.0831388 -52.073409,-30.0830204 -52.0733687,-30.0828881 -52.072835,-30.0821849 -52.0722824,-30.0814306 -52.0722207,-30.0812913 -52.0722422,-30.0811892 -52.0723334,-30.0810894 -52.0735887,-30.0803676 -52.0764157,-30.0787615 -52.0851919,-30.0737294 -52.0854977,-30.0735623 -52.0864928,-30.0731073 -52.0867127,-30.0729704 -52.0869461,-30.0727429 -52.0870654,-30.0725692 -52.0871392,-30.0724597 -52.089411,-30.0661854 -52.0899314,-30.0648228 -52.0900695,-30.0645284 -52.090162,-30.0643701 -52.0924956,-30.0608393 -52.0932922,-30.0595718 -52.0938957,-30.0586803 -52.0942551,-30.0581742 -52.0960307,-30.0554929 -52.0961675,-30.0553164 -52.0963016,-30.0552073 -52.0965269,-30.0550518 -52.0978197,-30.0542206 -52.0979244,-30.0541278 -52.0979646,-30.0540117 -52.0979351,-30.0538399 -52.0970982,-30.0517365 -52.0967576,-30.0508636 -52.0966999,-30.050655 -52.0966879,-30.0505362 -52.0967174,-30.0503458 -52.0968622,-30.0495588 -52.0972323,-30.0476851 -52.0973155,-30.0471674 -52.0973611,-30.0466775 -52.0974281,-30.0461389 -52.0974737,-30.045909 -52.0975542,-30.045714 -52.0988256,-30.0437729 -52.0992172,-30.0431925 -52.099362,-30.043023 -52.0994961,-30.0429069 -52.1015909,-30.0417785 -52.1059924,-30.0393126 -52.1061319,-30.0391663 -52.1062365,-30.038962 -52.1068132,-30.0362894 -52.1070144,-30.0351678 -52.107752,-30.0319367 -52.1077171,-30.0310276 -52.1076071,-30.0295994 -52.1075213,-30.0292534 -52.1060555,-30.0256149 -52.105574,-30.0240214 -52.1053487,-30.0231157 -52.1052178,-30.022259 -52.1049464,-30.0204822 -52.1045896,-30.0190655 -52.104308,-30.0182457 -52.1038601,-30.0171286 -52.1036884,-30.0165085 -52.1035087,-30.0161961 -52.1028543,-30.015338 -52.1026263,-30.0149013 -52.1016365,-30.0135868 -52.1008882,-30.0130874 -52.1003101,-30.012772 -52.0999065,-30.0126206 -52.0995176,-30.0125277 -52.0977942,-30.0121077 -52.0964719,-30.0118662 -52.0960388,-30.0117171 -52.094821,-30.0110195 -52.0943141,-30.0107393 -52.0921576,-30.0093109 -52.0883743,-30.0080013 -52.0862862,-30.0076781 -52.0841217,-30.0075341 -52.0834753,-30.0075062 -52.0826599,-30.0075689 -52.0822468,-30.0075434 -52.0820805,-30.0074899 -52.0817077,-30.0072553 -52.0811176,-30.0067722 -52.0807233,-30.0065725 -52.0793836,-30.0061432 -52.0764653,-30.0049911 -52.0759249,-30.0048072 -52.0754126,-30.0047096 -52.0748305,-30.0047073 -52.074286,-30.0047654 -52.0734277,-30.0050325 -52.0727196,-30.005324 -52.0724206,-30.005353 -52.0713973,-30.0050871 -52.0630395,-30.0011232 -52.056102,-29.9969819 -52.0553724,-29.9969819 -52.0546429,-29.9973536 -52.0541493,-29.9973164 -52.0533125,-29.9970377 -52.0524327,-29.9970563 -52.0503299,-29.9983014 -52.0465748,-29.9991004 -52.0450942,-29.9996579 -52.0444505,-29.9996765 -52.0438926,-29.9994349 -52.0430557,-29.9981155 -52.0430128,-29.9976695 -52.0423905,-29.9956253 -52.0425837,-29.9944731 -52.0424764,-29.9933953 -52.0387857,-29.9915554 -52.0315115,-29.990143 -52.0180146,-29.9888235 -51.9949691,-29.979196 -51.9893686,-29.9778391 -51.9878237,-29.9779135 -51.9761078,-29.9825787 -51.9744985,-29.9828203 -51.9736616,-29.982746 -51.9728891,-29.9828017 -51.9722454,-29.9830805 -51.9682334,-29.986041 -51.9676219,-29.9863012 -51.9669889,-29.986487 -51.9664417,-29.9865428 -51.9504772,-29.9868587 -51.9435299,-29.9869981 -51.9434159,-29.9870918</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534011</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0322707,-29.9544518 -52.0323645,-29.9550281</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534044</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0343092,-29.9536245 -52.0322707,-29.9544518 -52.0306921,-29.9539027 -52.0305986,-29.9539008 -52.0305523,-29.9539431 -52.0305205,-29.9540443 -52.0304132,-29.9542772</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534034</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0281267,-29.9523138 -52.028372,-29.9522179 -52.0285732,-29.9521551 -52.0287275,-29.9520744 -52.0288923,-29.9521714 -52.0290908,-29.9523526 -52.0292022,-29.9525229</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">355564231</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.1686034,-29.9628823 -52.1658302,-29.9630695 -52.1660463,-29.9657529 -52.1655781,-29.9688418 -52.1648657,-29.9702529 -52.1645856,-29.9726135 -52.1632613,-29.9739813 -52.1633122,-29.9745549 -52.1649167,-29.9748858 -52.1664447,-29.9762757 -52.1669541,-29.9769154 -52.1682274,-29.977489 -52.1681256,-29.9781067 -52.1669448,-29.9788898 -52.1665306,-29.9793734 -52.1663865,-29.9801377 -52.1672689,-29.9816352 -52.1682414,-29.9824775 -52.1686989,-29.9851402 -52.1682667,-29.9870119 -52.1683928,-29.9881973 -52.1679426,-29.9891643 -52.1681634,-29.9902305 -52.1697169,-29.9906606 -52.1702007,-29.9912231 -52.1718943,-29.9912231 -52.172531,-29.9920171 -52.1732736,-29.9922382 -52.1708759,-29.9970803 -52.1696797,-29.9994568 -52.1714388,-30.0064034 -52.1724239,-30.0105467 -52.1757665683868,-30.0145266549509</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534030</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0630356,-29.9333948 -52.061598,-29.9337342 -52.0595809,-29.9342083</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534014</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0615212,-29.9332156 -52.061598,-29.9337342</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">912564112</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0287275,-29.9520744 -52.0287609,-29.9519901 -52.0287448,-29.95186 -52.0286858,-29.9516973 -52.0286295,-29.9515021 -52.0285544,-29.9513533 -52.0285249,-29.9512557 -52.0285249,-29.9511767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Butiá_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">412534066</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0609652908258,-29.9300425600934 -52.0610293,-29.9304102 -52.0612654,-29.9308937 -52.0623168,-29.9316933 -52.0625743,-29.932214 -52.0624884,-29.9325487 -52.0618233,-29.9331624 -52.0615212,-29.9332156 -52.0599243,-29.9334971 -52.0583257,-29.9340363 -52.0566627,-29.9349103 -52.0557078,-29.9357657 -52.0528754,-29.9372626 -52.0519205,-29.937588 -52.051073,-29.9381644 -52.0475217,-29.9400331 -52.0460841,-29.940656 -52.0453116,-29.9406932 -52.0445498,-29.9411116 -52.0442387,-29.9415392 -52.0439597,-29.9416973 -52.0438095,-29.9421528 -52.0425221,-29.9436868 -52.0413097,-29.9439657 -52.0410093,-29.9451185 -52.0404729,-29.9457413 -52.039636,-29.9472939 -52.0379087,-29.9489114 -52.0374366,-29.9496783 -52.0372703,-29.9502965 -52.0372971,-29.9504825 -52.0370826,-29.9509008 -52.0365247,-29.9515376 -52.0361331,-29.9519931 -52.035999,-29.9523417 -52.0356342,-29.952918 -52.0352801,-29.953406 -52.0343548,-29.9543728 -52.0335004,-29.9547835 -52.0329908,-29.9549741 -52.0327655,-29.9550484 -52.0325684,-29.95507 -52.0323645,-29.9550281 -52.0314673,-29.9547184 -52.0305299,-29.9543542 -52.0304132,-29.9542772 -52.0298311,-29.953912 -52.0292961,-29.9535129 -52.0291566,-29.9534363 -52.0289919,-29.9531572 -52.0287608,-29.952957 -52.0286222,-29.9528769 -52.0281267,-29.9523138 -52.0278799,-29.9513563 -52.0278799,-29.9501896 -52.0279175,-29.9500014</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

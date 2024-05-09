@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected" id="TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<name>Rua José Felice</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">457426361</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4419098,-29.6128315 -53.4435669,-29.6120058</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184042723</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4500255,-29.5792983 -53.4497765,-29.5792396 -53.4495481,-29.5791795 -53.4492955,-29.5791106 -53.449244,-29.579091</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184042789</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4494399,-29.5789345 -53.449475,-29.5789728 -53.4494994,-29.5790068 -53.4495296,-29.5790406 -53.4496236,-29.5790973 -53.4496972,-29.5791321 -53.4498134,-29.5791876 -53.4500255,-29.5792983</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">320570991</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4421767,-29.5830824 -53.4422491,-29.5832072 -53.4423665,-29.5833023 -53.4426327,-29.583433 -53.4428222,-29.5835152 -53.4430223,-29.5835945 -53.4433018,-29.5837037 -53.4434622,-29.5837484 -53.4435532,-29.5837699 -53.44375,-29.5837897 -53.4439386,-29.5837996 -53.4440742,-29.5838277 -53.4441784,-29.5838691 -53.4442611,-29.5839154 -53.4443057,-29.583965 -53.4443173,-29.584013 -53.4443901,-29.5840758 -53.4444711,-29.5841254 -53.4445306,-29.58418 -53.4445637,-29.5842594 -53.4445935,-29.5843553 -53.4446629,-29.5844049 -53.4447605,-29.584476 -53.4448333,-29.5845323 -53.4448846,-29.5846001 -53.4449408,-29.5846844 -53.4449772,-29.5847754 -53.4450202,-29.5848697 -53.4450615,-29.5849524 -53.4451062,-29.5850136 -53.4451475,-29.5850599 -53.4452137,-29.5851144 -53.4453046,-29.5851591 -53.445384,-29.5851889 -53.4454766,-29.5852071 -53.4455759,-29.5852203 -53.4456586,-29.5852319 -53.4457545,-29.5852401 -53.4458173,-29.5852633 -53.4458934,-29.5853179 -53.4459976,-29.5853559 -53.4461183,-29.5853873 -53.4463118,-29.5854816 -53.4466327,-29.5856271 -53.4476531,-29.5859844 -53.4488141,-29.5864011 -53.4500628,-29.5868245 -53.4510204,-29.5871404</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Foletto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">221260722</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4480535,-29.5808674 -53.4477797,-29.5810441 -53.4471078,-29.581444 -53.4463836,-29.5818732 -53.4458439,-29.5821605</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">451617801</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4246165,-29.6136998 -53.4248668,-29.6144497 -53.4251851,-29.6149496 -53.4254533,-29.6154253 -53.4257967,-29.6162928 -53.425904,-29.616983 -53.4260542,-29.6173747 -53.4263715,-29.6179381 -53.4265056,-29.6185023 -53.4266692,-29.6187798 -53.4274739,-29.6202395 -53.4284677,-29.622043 -53.4294708,-29.6238734</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">451617800</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.442692,-29.6106177 -53.4395313,-29.6121362 -53.4381262,-29.6128173 -53.4376686,-29.6130417 -53.4374317,-29.6131557 -53.4371996,-29.6132616 -53.4371124,-29.6132954 -53.4370051,-29.6133304 -53.4367396,-29.6134132 -53.4366006,-29.61342 -53.4365228,-29.6134275 -53.4364532,-29.6134175 -53.4363734,-29.6133826 -53.4362834,-29.6133265 -53.4361725,-29.6132171 -53.4360736,-29.6130777 -53.435967,-29.612913 -53.4359197,-29.6128237 -53.4358967,-29.6127378 -53.4358934,-29.612591 -53.4359124,-29.6124072 -53.4359528,-29.6121369 -53.4359891,-29.6119089 -53.4359908,-29.6117073 -53.4360006,-29.6108512 -53.4360736,-29.6103767 -53.4361038,-29.60971 -53.436101,-29.6096704 -53.4360861,-29.6096308 -53.4360722,-29.6096053 -53.4360441,-29.6095798 -53.4360059,-29.6095615 -53.4359535,-29.6095464 -53.4358528,-29.6095077 -53.4357959,-29.6094692 -53.435747,-29.6094236 -53.4355319,-29.6092422 -53.4353939,-29.6091391 -53.4352881,-29.6090686 -53.4351057,-29.6089948 -53.434968,-29.6089517 -53.4348196,-29.6089334 -53.4347141,-29.6089396 -53.4345943,-29.6089675 -53.4336913,-29.6093577 -53.4328103,-29.6097708 -53.428776,-29.6116887 -53.4246165,-29.6136998</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49354908</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4443448,-29.6104772 -53.4440161,-29.6099478 -53.4438438,-29.6096784 -53.4437549,-29.6095455 -53.4436638,-29.6094144 -53.4435716,-29.6092895 -53.4434838,-29.6091802 -53.4433688,-29.609042 -53.4432853,-29.6089487 -53.4431394,-29.6087863 -53.4430609,-29.6087031 -53.4429846,-29.6086239 -53.4426841,-29.6083165 -53.4423734,-29.6080002 -53.4417557,-29.6073746 -53.4411303,-29.6067308 -53.44052,-29.6060967 -53.4399564,-29.6055273 -53.4394343,-29.6050018 -53.4389535,-29.6045149 -53.4384716,-29.6040291 -53.4379323,-29.6034802 -53.4374032,-29.6029416 -53.4368028,-29.6023261 -53.4361986,-29.6017137 -53.4359083,-29.6014174 -53.435608,-29.6011142 -53.4350171,-29.6005149 -53.4344746,-29.599966 -53.4339818,-29.5994394 -53.4335148,-29.5988978 -53.4330869,-29.5983787 -53.4326775,-29.5978895 -53.4321874,-29.5973003 -53.4319886,-29.5970739 -53.4318779,-29.5969585 -53.4317627,-29.5968431 -53.4315454,-29.5966305 -53.4309369,-29.5960798</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Ponte sobre o Rio Soturno</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238838</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4309369,-29.5960798 -53.4307386,-29.5959049</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Ponte sobre o Rio Soturno</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658007</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4307386,-29.5959049 -53.4305457,-29.5957328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238690</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4305457,-29.5957328 -53.4298466,-29.595059 -53.4294283,-29.5946686 -53.4291504,-29.5944302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238339</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4291504,-29.5944302 -53.429052,-29.5943657 -53.4289252,-29.5942884 -53.4288695,-29.5942574 -53.4288101,-29.5942264 -53.42873,-29.5941919 -53.4286691,-29.5941642 -53.4285763,-29.5941349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257329846</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288281,-29.5939999 -53.4288659,-29.5940539 -53.4289003,-29.5941138 -53.4289886,-29.5942414 -53.429079,-29.5943498 -53.4291022,-29.5943781 -53.4291504,-29.5944302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658001</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.3883058,-29.6201519 -53.3870935,-29.6205481 -53.3865897,-29.6207103 -53.3864737,-29.6207455 -53.3848118,-29.6212905 -53.3847096,-29.6213238 -53.3841176,-29.6215291 -53.3835176,-29.6217109 -53.3831246,-29.6218389 -53.3830074,-29.6218759 -53.3823155,-29.6221024 -53.3810198,-29.6225347 -53.3804874,-29.6227093 -53.3802128,-29.6228054 -53.3801574,-29.6228299 -53.3800186,-29.6228912 -53.3798445,-29.6229887 -53.3798083,-29.6230198 -53.3797139,-29.6230877 -53.37959,-29.6231925 -53.3793791,-29.6233991 -53.3789622,-29.6238139 -53.378588,-29.6241794 -53.3785337,-29.6242403 -53.3783294,-29.624444 -53.3781134,-29.624642 -53.3779898,-29.6247424 -53.3778506,-29.6248341 -53.377698,-29.6249178 -53.3775392,-29.6249957 -53.3768511,-29.62531 -53.3765129,-29.6254628 -53.3761898,-29.6256244 -53.3758868,-29.6258005 -53.3755994,-29.6259812 -53.3754035,-29.6261246 -53.3752127,-29.6262723 -53.3750204,-29.6264303 -53.3748239,-29.6265885 -53.3746457,-29.626729 -53.3745971,-29.6267713 -53.3744481,-29.6268914 -53.3742584,-29.6270407 -53.3741840561357,-29.6270960980065</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">273503255</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.394686,-29.6181282 -53.3945766,-29.6180594 -53.3943433,-29.6180408 -53.3933213,-29.618064 -53.393029,-29.6180197 -53.3902743,-29.617038 -53.3896869,-29.6169167 -53.3894737,-29.6170543 -53.3893581,-29.6171649 -53.3887562,-29.6178028 -53.3883422,-29.6183045 -53.3880883,-29.6186236 -53.386482,-29.6206734 -53.3864777,-29.620704 -53.3864737,-29.6207455</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">684483116</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.3933213,-29.618064 -53.3936057,-29.6182482 -53.3936942,-29.6184184</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">684483108</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.3739202661025,-29.6158485505769 -53.3740564,-29.6159304 -53.3742508,-29.6161916 -53.3744627,-29.6164329 -53.3746988,-29.616469 -53.3751118,-29.6164212 -53.3752714,-29.6164142 -53.375482,-29.6164644 -53.3756509,-29.6165646 -53.3757556,-29.6167582 -53.3759621,-29.6170333 -53.3762303,-29.6173714 -53.3763859,-29.6175242 -53.3765683,-29.6176186 -53.3769304,-29.6177608 -53.3773206,-29.618001 -53.3775821,-29.6181258 -53.3778571,-29.6182808 -53.3780837,-29.6184627 -53.3782004,-29.6186154 -53.3783452,-29.6188195 -53.3785155,-29.6189325 -53.3788146,-29.6189943 -53.3789514,-29.6190456 -53.3790305,-29.6191144 -53.3791177,-29.6192963 -53.3794409,-29.6197848 -53.379689,-29.620159 -53.3798432,-29.6203071 -53.3801477,-29.620468 -53.3806278,-29.6206848 -53.3810046,-29.6208457 -53.38193,-29.6213342 -53.3825737,-29.6216058 -53.3828272,-29.6217492 -53.3830074,-29.6218759</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238557</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.400953,-29.6091703 -53.4008459,-29.6093791 -53.400765,-29.6095521 -53.4006572,-29.6098075 -53.4005515,-29.6100717 -53.4004529,-29.6103306 -53.4004001,-29.6104596 -53.4003737,-29.6105232 -53.4003485,-29.6105921 -53.4002812,-29.6108016 -53.4002487,-29.6109094 -53.4002222,-29.6110189 -53.4001989,-29.611125 -53.4001806,-29.6112319 -53.400148,-29.6114493 -53.4001419,-29.6116304 -53.400143,-29.611816 -53.4001551,-29.6120006 -53.4001717,-29.6121873 -53.4002801,-29.6129346 -53.4003299,-29.6133004 -53.4003797,-29.6136733 -53.4004061,-29.6138615 -53.4004275,-29.6140471 -53.4004326,-29.6142335 -53.4004305,-29.6143245 -53.4004216,-29.6144201 -53.4003942,-29.6145137 -53.4003546,-29.6146109 -53.4003078,-29.6147055 -53.4002489,-29.6148027 -53.4001198,-29.6149873 -53.3999826,-29.6151738 -53.3998748,-29.6153196 -53.3997783,-29.6154441 -53.399637,-29.6156262 -53.3995404,-29.6157331 -53.3994307,-29.6158479 -53.3992344,-29.6160204 -53.3988477,-29.6163522 -53.3984576,-29.616687 -53.3980742,-29.6170072 -53.3978666,-29.6171643 -53.3977578,-29.61724 -53.3976339,-29.6173172 -53.3974732,-29.6173914 -53.3973008,-29.6174642 -53.3969341,-29.6175777 -53.3961858,-29.6177538 -53.3954308,-29.6179357 -53.394686,-29.6181282 -53.3939994,-29.6183199 -53.3936942,-29.6184184 -53.3932745,-29.6185397 -53.3918615,-29.6189909 -53.3906762,-29.6193824 -53.3894892,-29.6197651 -53.3883058,-29.6201519</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">993658000</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4119039,-29.5970035 -53.4109982,-29.5975173 -53.4107655,-29.5976483 -53.4104524,-29.5978318 -53.4103,-29.597922 -53.4101527,-29.5980137 -53.4096572,-29.5983907 -53.4093692,-29.5986207 -53.4087119,-29.5991721 -53.408469,-29.599378 -53.408223,-29.599583 -53.4076958,-29.6000168 -53.4075024,-29.6001831 -53.4072442,-29.6004093 -53.4070145,-29.600602 -53.4067849,-29.6008078 -53.4065639,-29.6010378 -53.4063664,-29.6012707 -53.4061923,-29.6014977 -53.4060232,-29.6017335 -53.4058742,-29.6019606 -53.4057386,-29.6021921 -53.4054509,-29.6026853 -53.4053297,-29.6028953 -53.4051834,-29.6031304 -53.4048703,-29.6035943 -53.4042056,-29.6045204 -53.4040501,-29.6047467 -53.4038845,-29.6049746 -53.4035573,-29.605443 -53.4028933,-29.6063647 -53.4022388,-29.607289 -53.401744,-29.6079953 -53.4015775,-29.608222 -53.4013448,-29.6085509 -53.4012326,-29.608711 -53.4011187,-29.6088842 -53.4010233,-29.6090429 -53.400953,-29.6091703</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida São João</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">198329897</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4425071,-29.6103306 -53.442692,-29.6106177 -53.4430112,-29.6111106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184019608</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4394343,-29.6050018 -53.4393845,-29.605238 -53.4393808,-29.6053012 -53.4393892,-29.6053644 -53.4394833,-29.605541 -53.4398381,-29.6061415 -53.4402201,-29.6068042 -53.440609,-29.6074345 -53.441008,-29.6080631 -53.4413696,-29.6086352 -53.4417474,-29.609218 -53.4424106,-29.6102019 -53.4425071,-29.6103306</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183238452</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4285763,-29.5941349 -53.4285171,-29.5941137 -53.4284681,-29.5940779 -53.4284339,-29.5940308</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978740</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288281,-29.5939999 -53.4288088,-29.5940444 -53.4287769,-29.594083 -53.4287345,-29.594113 -53.4286846,-29.5941324 -53.4286306,-29.5941399 -53.4285763,-29.5941349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978737</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4288247,-29.5939062 -53.4288335,-29.5939529 -53.4288281,-29.5939999</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978743</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4284339,-29.5940308 -53.4284211,-29.593996 -53.4284166,-29.5939596 -53.4284206,-29.5939232 -53.4284329,-29.5938883 -53.4284531,-29.5938562 -53.4284802,-29.5938283 -53.4285132,-29.5938056</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">256504168</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4285838,-29.5937809 -53.428622,-29.5937773 -53.4286604,-29.5937799 -53.4286975,-29.5937886 -53.4287321,-29.593803 -53.4287632,-29.5938227 -53.4287895,-29.5938471 -53.4288102,-29.5938752 -53.4288247,-29.5939062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199526175</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4284339,-29.5940308 -53.4283637,-29.5939624 -53.4283073,-29.5939049 -53.4282423,-29.5938483 -53.4281757,-29.5937998 -53.4281091,-29.59376 -53.4279758,-29.5936904 -53.4278252,-29.5936141</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199498364</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4289643,-29.5934499 -53.4289226,-29.5935406 -53.4288762,-29.5936313 -53.428846,-29.5937245 -53.4288313,-29.5938097 -53.4288247,-29.5939062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806270</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4097606,-29.6008868 -53.4094924,-29.6007609 -53.4089667,-29.6005463 -53.4078938,-29.6001172 -53.4076958,-29.6000168</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">375971024</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4720829,-29.5877045 -53.4718718,-29.5877751 -53.4716577,-29.5878595 -53.4712461,-29.5880317 -53.4701413,-29.5885128 -53.4690463,-29.5890537 -53.4686845,-29.5892597 -53.4684631,-29.5894123 -53.4682646,-29.5895705 -53.4681957,-29.5896428 -53.4681413,-29.5897151 -53.4680507,-29.589857 -53.4678759,-29.5901696 -53.4676096,-29.5906919 -53.4674817,-29.5909607 -53.4671988,-29.5915038 -53.4670759,-29.5917475 -53.4669237,-29.5920492 -53.4663662,-29.5931469 -53.465885,-29.5941109 -53.4655781,-29.5947292 -53.4655009,-29.5948739 -53.4652354,-29.5953805 -53.4649166,-29.5958541 -53.4648682,-29.595926 -53.4646184,-29.5962605 -53.4644078,-29.5965426 -53.4641435,-29.5968816 -53.4638734,-29.597213 -53.4635733,-29.5975599 -53.4632617,-29.5979068 -53.4632383,-29.597933 -53.4625793,-29.598669 -53.4622081,-29.5989596 -53.4618455,-29.5992276 -53.4614664,-29.5994841 -53.461096,-29.599723 -53.4610097,-29.5997809 -53.460705,-29.5999753 -53.4603857,-29.6001745 -53.4599607,-29.6004226 -53.459798,-29.600507 -53.4595319,-29.6006451 -53.4591059,-29.600855 -53.4589165,-29.600951 -53.4580716,-29.6013791 -53.4569962,-29.601895 -53.4567851,-29.6019872 -53.4565581,-29.6020712 -53.4562811,-29.6021404 -53.4560134,-29.6021911 -53.4557646,-29.6022061 -53.4555641,-29.6021972 -53.4552611,-29.6021755 -53.4549822,-29.6021255 -53.4547253,-29.602065 -53.4541056,-29.6018267 -53.4539647,-29.601787 -53.4537435,-29.6017369 -53.4535745,-29.6017124 -53.4533975,-29.6017031 -53.4531936,-29.6017054 -53.4530112,-29.6017206 -53.4528503,-29.6017707 -53.452637,-29.60185 -53.4524667,-29.6019316 -53.4522495,-29.6020459 -53.4517828,-29.6023199 -53.4514046,-29.6025473 -53.4506267,-29.6029741 -53.4503666,-29.6031164 -53.4502164,-29.6032166 -53.4501048,-29.6033213 -53.4499888,-29.6034275 -53.4498642,-29.6035588 -53.4497034,-29.603772 -53.4495458,-29.6040049 -53.4493067,-29.6043879 -53.4490709,-29.6047928 -53.4487668,-29.6053268 -53.4483143,-29.606101 -53.4480094,-29.6066158 -53.4477987,-29.6069644 -53.4476799,-29.6071552 -53.4475548,-29.607346 -53.4473128,-29.6076923 -53.4470362,-29.6080592 -53.4468614,-29.6083204 -53.4466757,-29.6085733 -53.4465156,-29.6087882 -53.4462956,-29.6091416</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">322457821</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.464073,-29.5832785 -53.4637741,-29.5832342 -53.4634597,-29.5831611 -53.463159,-29.583068 -53.4620123,-29.5826667 -53.4611452,-29.5823949 -53.4601933,-29.582135 -53.4579358,-29.5814859 -53.4566008,-29.5811195 -53.4555912,-29.5808488 -53.4538187,-29.5803805 -53.4521286,-29.5799301 -53.4512226,-29.579667 -53.4506527,-29.5794876 -53.4500255,-29.5792983</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">533911365</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4916422,-29.5665373 -53.4914916,-29.5665343 -53.4914262,-29.5665402 -53.491368,-29.5665523 -53.4912459,-29.5665882 -53.4907444,-29.5667751 -53.4906039,-29.5668189 -53.4903161,-29.5669009 -53.4901462,-29.5669393 -53.4899742,-29.5669625 -53.4897932,-29.5669671 -53.4879442,-29.5669763 -53.4859837,-29.5669847 -53.4858297,-29.5669854 -53.4840548,-29.5669798 -53.4832953,-29.5669542 -53.4830516,-29.5669515 -53.4827113,-29.5669721 -53.48197,-29.5670102 -53.4812448,-29.5670219 -53.4809519,-29.5670277 -53.4807768,-29.5670244 -53.4806339,-29.5670025 -53.4804607,-29.5669522 -53.4803124,-29.5668927 -53.4800481,-29.5667705 -53.4794586,-29.5665105 -53.4788691,-29.5662396 -53.4785369,-29.5660917 -53.4783672,-29.5660349 -53.4781706,-29.5659827 -53.4776549,-29.5658485 -53.4770301,-29.5656971 -53.4769218,-29.5656732 -53.47681,-29.5656524 -53.4766582,-29.5656405 -53.4765154,-29.5656099 -53.476432,-29.5655687 -53.4763682,-29.5655259 -53.4762193,-29.5654435 -53.4760715,-29.5653938 -53.4759175,-29.5653686 -53.4757456,-29.565362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806140</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4754103,-29.565362 -53.4757456,-29.565362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806132</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4631553,-29.565257 -53.4628737,-29.5654903 -53.4626949,-29.5654771</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806130</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4626949,-29.5654771 -53.4622541,-29.5650999 -53.4620176,-29.5648787 -53.4619298,-29.5647961 -53.4618984,-29.5647688 -53.4618616,-29.5647477 -53.4617905,-29.5647356 -53.4616479,-29.5647298 -53.4605402,-29.5647601 -53.459309,-29.5647251 -53.4583434,-29.5646994 -53.4582069,-29.5646857</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806134</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4665381,-29.5617143 -53.466032,-29.561901 -53.4657088,-29.5621308 -53.4654969,-29.5622381 -53.4654294,-29.5623361 -53.4653869,-29.5624341 -53.4653413,-29.5626231 -53.4653002,-29.5627599 -53.4652148,-29.5629287 -53.4651008,-29.5630944 -53.4649484,-29.5632511 -53.464762,-29.563428 -53.4644428,-29.5637569 -53.4638813,-29.5644801 -53.4638304,-29.5646162 -53.4631553,-29.565257</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806142</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4646241,-29.55853 -53.4647593,-29.5587105 -53.4648961,-29.5595107 -53.4648585,-29.559772 -53.4648424,-29.56022 -53.4649122,-29.5606773 -53.4651965,-29.5609993 -53.4655023,-29.5612886 -53.4657759,-29.5614145 -53.4665021,-29.5615868 -53.4667682,-29.5616572 -53.4676464,-29.5618299 -53.4678269,-29.5618812 -53.4679172,-29.5619333 -53.4680093,-29.5620211 -53.4681568,-29.5621712 -53.4682269,-29.5622353 -53.4682864,-29.5622684 -53.4684134,-29.5623252 -53.4685269,-29.5623598 -53.4686351,-29.5623882 -53.4687737,-29.5624123 -53.4688765,-29.5624131 -53.4690196,-29.5623804 -53.4691537,-29.5623275 -53.4692887,-29.56227 -53.4693579,-29.5622506 -53.4694379,-29.5622436 -53.4695256,-29.5622514 -53.470436,-29.5624668 -53.4719654,-29.5628155 -53.4721357,-29.5628523 -53.472274,-29.5628953 -53.4723321,-29.5629264 -53.4723902,-29.5629637 -53.4726191,-29.5632125 -53.4727394,-29.5633802 -53.4728562,-29.5635851 -53.4731148,-29.5640385 -53.4734472,-29.5646054 -53.4736366,-29.5649561 -53.4736956,-29.5650292 -53.4737805,-29.5651061 -53.4738587,-29.5651493 -53.4739583,-29.5651847 -53.474417,-29.5652613 -53.47489,-29.5653223 -53.4754103,-29.565362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806139</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4667682,-29.5616572 -53.4665381,-29.5617143</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806138</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4665021,-29.5615868 -53.4665381,-29.5617143</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380559352</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4639648,-29.5490786 -53.4633729,-29.549606 -53.4631914,-29.5498353 -53.4630529,-29.5501986 -53.4628705,-29.550964 -53.4608938,-29.5582552 -53.4608603,-29.558379 -53.4597554,-29.5623923 -53.4594727,-29.5630057 -53.4586787,-29.5640602 -53.4582069,-29.5646857 -53.4554093,-29.5683943 -53.4548735,-29.5690949 -53.4542837,-29.5698818 -53.4541531,-29.5700562 -53.4538489,-29.5704614 -53.4536036,-29.5707938 -53.4532929,-29.5712149 -53.4532548,-29.5712666 -53.4530162,-29.5715904</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380562762</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4642056,-29.5584553 -53.4646241,-29.55853</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380562761</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4608603,-29.558379 -53.4642056,-29.5584553</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">317978710</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4494399,-29.5789345 -53.4493702,-29.5790074 -53.4493073,-29.5790575 -53.449244,-29.579091</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184043267</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4495742,-29.5787712 -53.4494399,-29.5789345</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184042263</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4492066,-29.5787254 -53.449264,-29.5787378 -53.4493101,-29.5787642 -53.4493499,-29.5788037 -53.4493832,-29.5788487 -53.4494399,-29.5789345</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199526171</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4497651,-29.5784302 -53.4496754,-29.5786062 -53.4495742,-29.5787712</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">184043357</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4492066,-29.5787254 -53.4493358,-29.578709 -53.4494379,-29.5786791 -53.4495245,-29.578641 -53.4496252,-29.5785723 -53.4497651,-29.5784302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Fernando Ferrari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">48272607</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4481026,-29.581456 -53.4477797,-29.5810441 -53.4471304,-29.5801907 -53.4470627,-29.5800884 -53.4469745,-29.5799733 -53.4465376,-29.5794201</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Duque de Caxias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">322396999</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4490106,-29.5766185 -53.44981,-29.5761644 -53.450306,-29.5758676 -53.4514035,-29.5751812 -53.4520878,-29.5747627</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">966762704</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4527981,-29.5725488 -53.4526256,-29.5737568 -53.4525114,-29.5740801 -53.4520878,-29.5747627 -53.4510553,-29.5763722 -53.4497651,-29.5784302</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jorge Schmidt</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">48272612</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">38</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4514035,-29.5751812 -53.4505601,-29.5740407</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380562763</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4646241,-29.55853 -53.4645919,-29.5579607 -53.4645275,-29.5576434 -53.4646241,-29.5572514 -53.4647635,-29.5569061 -53.4649888,-29.5567195 -53.4652142,-29.5566261 -53.4655682,-29.5566448 -53.4659759,-29.5567288 -53.4661046,-29.5567101 -53.4663407,-29.5563928 -53.4666196,-29.5560382 -53.4668128,-29.5558702 -53.4670273,-29.5557209 -53.4671453,-29.5554689 -53.4673707,-29.5552542 -53.4676818,-29.5551609 -53.4680358,-29.5551236 -53.4683041,-29.5550769 -53.4685294,-29.5549556 -53.4688083,-29.5547689 -53.4689263,-29.5546196 -53.4691624,-29.5545076 -53.4694091,-29.5544236 -53.4695808,-29.5544143 -53.4697954,-29.5544329 -53.4702996,-29.5543209 -53.4705678,-29.5541436 -53.4709112,-29.553985 -53.4711257,-29.553845 -53.4712545,-29.5534996 -53.4713403,-29.5530983 -53.4715013,-29.5528837 -53.4716622,-29.552781 -53.4720806,-29.552893 -53.4727458,-29.553061 -53.4729818,-29.5530797 -53.4731642,-29.5528463 -53.4732564,-29.5525929 -53.4733744,-29.5523969 -53.4740503,-29.5525462 -53.4745975,-29.5526676 -53.4748872,-29.5527516 -53.4750374,-29.5528822 -53.4753807,-29.5528356 -53.4755953,-29.5527049 -53.4758528,-29.5524156 -53.4761424,-29.5522102 -53.4764428,-29.5520049 -53.4765823,-29.5517062 -53.4766789,-29.5514636 -53.4768934,-29.5514823 -53.4777303,-29.5516689 -53.478374,-29.5518276 -53.4786208,-29.5517436 -53.4788354,-29.5515756</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">687806144</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">126</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4817028,-29.5503039 -53.4811932,-29.5500566 -53.4809947,-29.5500146 -53.4807694,-29.5499632 -53.4799433,-29.5495759 -53.4798575,-29.5494966 -53.4796912,-29.5494686 -53.4795678,-29.5493706 -53.4796643,-29.5489132 -53.4797502,-29.5486892 -53.4797716,-29.5484699 -53.479659,-29.5476766 -53.4796536,-29.5474105 -53.4798467,-29.5468085 -53.474198,-29.5455298 -53.4736696,-29.5454038 -53.4735623,-29.5454248 -53.4733745,-29.5454948 -53.4732378,-29.5455322 -53.4731197,-29.5455182</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia do Imigrante</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">221259984</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">128</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.5678925178103,-29.5183780121787 -53.5678715,-29.5183558 -53.567225,-29.5176999 -53.5669756,-29.5174572 -53.5668388,-29.5173334 -53.5666376,-29.5171887 -53.5664794,-29.5171047 -53.5663453,-29.517044 -53.5662004,-29.5169833 -53.5660556,-29.5169483 -53.5657874,-29.516876 -53.5656801,-29.5168316 -53.5654736,-29.5167032 -53.565326,-29.5165889 -53.5650605,-29.5163671 -53.5647762,-29.5161337 -53.5645224,-29.5158843 -53.5636188,-29.5150404 -53.5629576,-29.5144115 -53.5625821,-29.514026 -53.5622039,-29.5136876 -53.5618794,-29.5134005 -53.5616943,-29.5132674 -53.561528,-29.5131157 -53.5613671,-29.5129593 -53.5612303,-29.5128356 -53.5610452,-29.5126278 -53.5608709,-29.5123828 -53.5606726,-29.5121618 -53.56049,-29.5120373 -53.5602137,-29.5119533 -53.5600233,-29.5119346 -53.5598731,-29.5119229 -53.5597283,-29.5119229 -53.5594815,-29.5119416 -53.5588619,-29.5119906 -53.5580418,-29.5120583 -53.5567966,-29.5120746 -53.5554501,-29.512182 -53.5548037,-29.5122077 -53.5545623,-29.5122264 -53.5542178,-29.5122937 -53.5541051,-29.5123164 -53.5539924,-29.5123542 -53.553913,-29.5123907 -53.5538364,-29.512441 -53.5537367,-29.5125189 -53.5536266,-29.512612 -53.5535093,-29.512729 -53.5532574,-29.5130081 -53.5529214,-29.5133834 -53.5525941,-29.5137787 -53.5524228,-29.513988 -53.5522312,-29.5141949 -53.5520327,-29.5143625 -53.551791,-29.514549 -53.5514912,-29.5147552 -53.5513487,-29.5148735 -53.5512047,-29.5150375 -53.5511264,-29.5152211 -53.5509173,-29.5156135 -53.5506524,-29.5162623 -53.5503802,-29.5168622 -53.5503348,-29.5170535 -53.5503164,-29.5171968 -53.5503067,-29.5173251 -53.550297,-29.5176453 -53.5502708,-29.517924 -53.5502547,-29.5180267 -53.5501769,-29.5181457 -53.5501139,-29.5181941 -53.5500455,-29.5182227 -53.549961,-29.5182367 -53.5498711,-29.5182344 -53.5497183,-29.5181994 -53.549436,-29.5180448 -53.5490611,-29.5177676 -53.5484818,-29.5173498 -53.5479695,-29.5170253 -53.5476208,-29.5167826 -53.5473284,-29.5166145 -53.5471058,-29.5165305 -53.5468778,-29.5164838 -53.5465962,-29.5164208 -53.545747,-29.5163963 -53.5449423,-29.5163162 -53.544824,-29.5162987 -53.5447173,-29.5162812 -53.5446168,-29.5162593 -53.544525,-29.5162349 -53.5443126,-29.5161786 -53.5439915,-29.5161237 -53.5438305,-29.5161065 -53.5436667,-29.5160942 -53.5429579,-29.5160625 -53.542805,-29.516052 -53.5426637,-29.5160416 -53.542478,-29.5160162 -53.5417919,-29.5159231 -53.540897,-29.5158097 -53.5398926,-29.5157103 -53.5394419,-29.5156436 -53.5388879,-29.5155727 -53.5383772,-29.5155209 -53.5380715,-29.515495 -53.5378133,-29.5154934 -53.5375861,-29.5155189 -53.5373615,-29.515558 -53.5370922,-29.5156385 -53.5367708,-29.5157624 -53.5363888,-29.5159263 -53.5354029,-29.5163483 -53.5349243,-29.5165548 -53.5331786,-29.5173277 -53.5318084,-29.517917 -53.5305147,-29.5184372 -53.5303206,-29.5185287 -53.530125,-29.5186427 -53.5299855,-29.5187457 -53.5298782,-29.5188361 -53.5297911,-29.5189277 -53.5297172,-29.5190387 -53.5296571,-29.5191532 -53.52961,-29.5192878 -53.5294855,-29.5197449 -53.5293128,-29.520313 -53.5291516,-29.5209201 -53.5289325,-29.5216858 -53.5288811,-29.5219125 -53.528841,-29.522115 -53.5288253,-29.5222676 -53.5288153,-29.5224153 -53.5288181,-29.5226092 -53.5288311,-29.5228568 -53.5288578,-29.5230784 -53.5288931,-29.5233076 -53.5289335,-29.5235912 -53.5289995,-29.5242847 -53.5290656,-29.5249657 -53.5291667,-29.5258017 -53.5291923,-29.5259555 -53.5292066,-29.5260449 -53.5292093,-29.5261318 -53.5291962,-29.5262539 -53.5291774,-29.5263809 -53.5291276,-29.5265928 -53.5290835,-29.5267739 -53.5290336,-29.5269198 -53.5289308,-29.5271107 -53.5288147,-29.5272685 -53.5280654,-29.5280925 -53.527337,-29.528873 -53.5268375,-29.5293852 -53.5263698,-29.5298774 -53.525837,-29.5305017 -53.5251686,-29.5313286 -53.5245021,-29.5321342 -53.5237586,-29.5330103 -53.5230151,-29.5338927 -53.5222361,-29.5348433 -53.5217026,-29.5354831 -53.521208,-29.5361242 -53.5211074,-29.5362313 -53.520874,-29.5364916 -53.5202974,-29.5371949 -53.5197169,-29.5379089 -53.519396,-29.5382765 -53.5187768,-29.5390304 -53.5181421,-29.5398114 -53.5178067,-29.5402081 -53.5175648,-29.5404558 -53.5173454,-29.5406551 -53.5171156,-29.5408364 -53.5167859,-29.5410725 -53.5160536,-29.5415312 -53.5144957,-29.5425478 -53.513054,-29.5434735 -53.5122968,-29.5439724 -53.5116241,-29.5443919 -53.5106332,-29.5450109 -53.5095503,-29.5457016 -53.5077696,-29.5468416 -53.506548,-29.5476393 -53.505342,-29.5484145 -53.5050472,-29.5486009 -53.5048605,-29.5487278 -53.5046998,-29.5488306 -53.5044274,-29.5489935 -53.5040009,-29.5492757 -53.5038696,-29.5493626 -53.503657,-29.5495002 -53.5034907,-29.5496016 -53.5018681,-29.5506525 -53.500257,-29.5516829 -53.5000663,-29.5518183 -53.4998893,-29.5519795 -53.4997711,-29.5521139 -53.499595,-29.5523578 -53.4994326,-29.5526208 -53.498135,-29.5549223 -53.4975102,-29.5560543 -53.4966871,-29.557491 -53.4955653,-29.5595094 -53.4950479,-29.5604299 -53.4943698,-29.5616622 -53.4939327,-29.5624441 -53.4934099,-29.5633547 -53.4924734,-29.5650179 -53.4916983,-29.5664308 -53.4916422,-29.5665373 -53.489442,-29.5704347 -53.4886078,-29.5719315 -53.4883066,-29.5724514 -53.4880374,-29.573023 -53.4878993,-29.5734007 -53.4877588,-29.5738781 -53.4874826,-29.574805 -53.4872164,-29.5757261 -53.486925,-29.5766991 -53.4864819,-29.578139</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626302958</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">128</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.5349462,-29.5138932 -53.5342497,-29.5138411 -53.5337372,-29.5136873 -53.5333661,-29.5136489 -53.5322527,-29.5131952 -53.5321379,-29.513149 -53.531431,-29.5134028 -53.5303441,-29.5133259 -53.5301339,-29.5133931 -53.5296461,-29.5135489 -53.5278523,-29.5144716 -53.5275519,-29.5148946 -53.527004,-29.5148177 -53.5260497,-29.5149023 -53.5252015,-29.515279 -53.5242737,-29.5159326 -53.52415,-29.5164632 -53.5236993,-29.5167631 -53.5235049,-29.5173705 -53.5238672,-29.5176627 -53.5240881,-29.5179703 -53.5239025,-29.5181702 -53.5234784,-29.5191391 -53.5229394,-29.5198926 -53.522586,-29.5210998 -53.5211545,-29.5231604 -53.520589,-29.5234757 -53.5203946,-29.5243599 -53.5201295,-29.5248212 -53.5198291,-29.5252364 -53.519564,-29.5257515 -53.5191222,-29.5260129 -53.5207392,-29.5270278 -53.5207215,-29.5275968 -53.5206155,-29.5278121 -53.5204564,-29.5280658 -53.5198556,-29.5284348 -53.5191929,-29.5288654 -53.518539,-29.5289807 -53.5175052,-29.5282888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380559810</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4803567,-29.5234298 -53.4805069,-29.5229723 -53.4806034,-29.5227763 -53.4804425,-29.5224869 -53.4802172,-29.5221134 -53.4800992,-29.5216933 -53.4801636,-29.5213759 -53.4804318,-29.5209744 -53.4806785,-29.5205823 -53.4808287,-29.5203022 -53.480936,-29.5200688 -53.4811506,-29.5196861 -53.4812794,-29.5194433 -53.4814832,-29.5193126 -53.481569,-29.5191259 -53.4813652,-29.5189112 -53.4812579,-29.5187058 -53.4813652,-29.518519 -53.4816549,-29.518323 -53.4819231,-29.518267 -53.482202,-29.5180709 -53.4821806,-29.5177348 -53.4821055,-29.5174827 -53.4820518,-29.5173614 -53.4819767,-29.5169132 -53.4818909,-29.5158022 -53.4818694,-29.5151953 -53.4818373,-29.5147285 -53.4818158,-29.514383 -53.4817836,-29.5141029 -53.4816518,-29.5138891</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada para Rincão dos Freos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">333333180</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4778095,-29.5138624 -53.4783697,-29.5139078 -53.4791774,-29.5138851 -53.4799069,-29.5139531 -53.4805061,-29.5139418 -53.4811705,-29.5139418 -53.4815222,-29.5139418 -53.4816518,-29.5138891 -53.4817176,-29.5138624 -53.4816946,-29.5131796 -53.4816134,-29.5121166 -53.4815613,-29.5111643 -53.4818088,-29.5107222 -53.482395,-29.5099059 -53.4842057,-29.5108809 -53.4847268,-29.5111983 -53.4849483,-29.5118672 -53.4851176,-29.5119692 -53.4854954,-29.5118105 -53.4860946,-29.5114137 -53.4863421,-29.5112777 -53.4869935,-29.5112664 -53.4873973,-29.5112437 -53.4878402,-29.511085 -53.4883613,-29.5110736 -53.4888954,-29.511289 -53.4893514,-29.5116858 -53.4898203,-29.5118785 -53.4903023,-29.5119806 -53.4908234,-29.5119919 -53.4910449,-29.5120486 -53.4914747,-29.5124907 -53.4917092,-29.5127515 -53.4918265,-29.5131256 -53.4917223,-29.513545 -53.4917613,-29.5138398 -53.4917744,-29.5143499 -53.4918395,-29.514554 -53.4921782,-29.5146673 -53.4926862,-29.5145766 -53.4933246,-29.514554 -53.4937675,-29.5147127 -53.4942104,-29.5145993 -53.4947836,-29.5144179 -53.4952135,-29.5143272 -53.4954089,-29.5143953 -53.4962817,-29.5148714 -53.497389,-29.5155176 -53.4978188,-29.515835 -53.4981976,-29.5161536 -53.4986005,-29.5164925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">380569931</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.482395,-29.5099059 -53.4832256,-29.5087578 -53.4837927,-29.5078723 -53.4841108,-29.5073801 -53.4841461,-29.5070417 -53.4840578,-29.5063189 -53.4838634,-29.5059036 -53.4838104,-29.5052115 -53.483881,-29.5047193 -53.4839568,-29.5045297 -53.4840224,-29.5043656 -53.4841991,-29.5039657 -53.4843229,-29.5032582 -53.4843582,-29.5029659 -53.4840401,-29.5022276 -53.4839164,-29.501797 -53.483775,-29.5011664 -53.483722,-29.5005973 -53.4836513,-29.5000282 -53.4836866,-29.4997205 -53.4838634,-29.4994898 -53.4843052,-29.4991514 -53.484747,-29.4987361 -53.4852595,-29.4982901 -53.4854539,-29.498044 -53.4856129,-29.4978748 -53.4857376,-29.4976928</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">565995166</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4796788,-29.4900548 -53.4798628,-29.4903198 -53.4800543,-29.4905661 -53.4803014,-29.4908572 -53.4804793,-29.4910668 -53.4809686,-29.49164 -53.4814871,-29.4922209 -53.4816829,-29.4924345 -53.4818407,-29.4926533 -53.4819338,-29.4928257 -53.4819936,-29.4930058 -53.4820276,-29.493229 -53.4820553,-29.4938183 -53.4820809,-29.494357 -53.4820889,-29.4945254 -53.4820965,-29.4946859 -53.482091,-29.4950028 -53.4820662,-29.4953172 -53.482015,-29.4959568 -53.4819228,-29.4966061 -53.4818401,-29.4972517 -53.4817414,-29.4982049 -53.4816939,-29.498435 -53.481625,-29.4986774 -53.4814485,-29.4991623 -53.4812361,-29.4995871 -53.4811065,-29.4997887 -53.4809513,-29.4999755 -53.4807618,-29.5001415 -53.480555,-29.5002807 -53.4801276,-29.5005399 -53.4786247,-29.5014832 -53.4778691,-29.5019584 -53.4771411,-29.5024024 -53.4769039,-29.50258 -53.476744,-29.5027312 -53.4766089,-29.502916 -53.4765206,-29.5030912 -53.4764682,-29.5032952 -53.4764351,-29.5035064 -53.4764048,-29.5039072 -53.4763993,-29.50432 -53.4764186,-29.5047304 -53.4766116,-29.5062592 -53.4767054,-29.5070176 -53.4768046,-29.5077832 -53.4769067,-29.5086135 -53.4769287,-29.5090503 -53.4769122,-29.5094967 -53.4768543,-29.5099983 -53.476755,-29.5105262 -53.476562,-29.511563 -53.4764131,-29.5123693 -53.4762559,-29.5131228 -53.4761152,-29.513922 -53.4761208,-29.5144787 -53.4761732,-29.5150307 -53.4763051,-29.5155981 -53.4764733,-29.5161525 -53.476807,-29.5172755 -53.4769173,-29.5178371 -53.4770083,-29.5183962 -53.477091,-29.5189745 -53.4771627,-29.5195384 -53.4773171,-29.5206662 -53.4773474,-29.5209398 -53.4773474,-29.5212254 -53.4773199,-29.5215061 -53.4772647,-29.5217869 -53.4771627,-29.5222164 -53.4770607,-29.5226531 -53.4765959,-29.5249983 -53.4765837,-29.5251627 -53.4766281,-29.5253764 -53.4767107,-29.5255974 -53.4768641,-29.5258431 -53.4776098,-29.526884 -53.47783,-29.5271446 -53.4780926,-29.5273928 -53.4786194,-29.5278184 -53.4792677,-29.5284917 -53.4794772,-29.5287707 -53.4796697,-29.5291441 -53.4800019,-29.5299874 -53.4800251,-29.5302009 -53.4800341,-29.5303774 -53.4800058,-29.5306519 -53.4798843,-29.5312996 -53.4797572,-29.531956 -53.4796595,-29.5324603 -53.4796368,-29.5327409 -53.4795914,-29.5330215 -53.4795505,-29.5333021 -53.4795278,-29.5335906 -53.4795096,-29.5341637 -53.4795383,-29.5346371 -53.4794324,-29.5350608 -53.4793325,-29.535377 -53.4792099,-29.5356892 -53.4791557,-29.5358147 -53.4790418,-29.5360014 -53.4780824,-29.5371569 -53.4772033,-29.5384995 -53.4767228,-29.5391724 -53.4764918,-29.5395002 -53.4763612,-29.5396633 -53.4762256,-29.5398191 -53.4760614,-29.5399667 -53.4758796,-29.5401181 -53.475517,-29.5404167 -53.4747953,-29.5410036 -53.4733586,-29.5421858 -53.4729955,-29.5424813 -53.4726398,-29.5427775 -53.4719225,-29.5433773 -53.4704811,-29.5445775</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada para Rincão dos Freos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">333334145</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4772885,-29.5136924 -53.4778095,-29.5138624</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada para Rincão dos Freos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Faxinal_do_Soturno_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">409586106</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">129</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-53.4762559,-29.5131228 -53.4766762,-29.5132049 -53.4769888,-29.5135337 -53.4772885,-29.5136924</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

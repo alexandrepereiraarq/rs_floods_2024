@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Arroio_do_Meio_roads_OSM_2024_L_affected" id="TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Arroio_do_Meio_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272837113</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8739545,-29.4066472 -51.8745768,-29.4068528 -51.8752393,-29.4070561 -51.8758881,-29.4073664 -51.8759125,-29.4073785 -51.8771328,-29.4077497 -51.8791004,-29.4082781 -51.8797214,-29.4084589 -51.8802946,-29.4086257 -51.881597,-29.4090287 -51.8822768,-29.409239 -51.8839668,-29.4097397 -51.8847866,-29.4099826 -51.8852633,-29.4101301 -51.885889,-29.4103238 -51.886746,-29.4106369 -51.8873043,-29.4108476 -51.8878806,-29.4111357 -51.888354,-29.4114056 -51.8892658,-29.4119683 -51.8894368,-29.4120738 -51.8909988,-29.41307 -51.8913751,-29.4133091 -51.8917955,-29.4135639 -51.8919884,-29.4136848</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">512398942</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8738300087741,-29.3938793294372 -51.8740457,-29.394101 -51.8744347,-29.3944259 -51.8752742,-29.3951503 -51.8756363,-29.3953805 -51.8760332,-29.3955114 -51.8763846,-29.3955359 -51.8769278,-29.3954821 -51.8773998,-29.3954716 -51.8778471,-29.3955295 -51.8782313,-29.3956551 -51.8787906,-29.3958882 -51.8790581,-29.3959513 -51.8793418,-29.395977 -51.8797689,-29.3959998 -51.8799493,-29.3960553 -51.8801632,-29.3961365 -51.8804187,-29.3962796 -51.8886973,-29.4028174 -51.8891721,-29.403199 -51.8910053,-29.4046727 -51.8916182,-29.4054473 -51.8919171,-29.4058751 -51.8922687,-29.4060723 -51.893139,-29.4063866 -51.8935628,-29.4066436 -51.8941006,-29.4070829 -51.8944198,-29.4074603 -51.8951186,-29.408598 -51.8959795,-29.4094744 -51.8963376,-29.4097431 -51.8992169,-29.411457 -51.9014418,-29.4130376 -51.9026931,-29.4140061 -51.9041307,-29.4152724 -51.9045264,-29.4156942 -51.9047704,-29.4160785 -51.904926,-29.4165446 -51.9051486,-29.4172105 -51.9065031,-29.4200959 -51.9067687,-29.4205573 -51.9075036,-29.4215058 -51.9077021,-29.4218481 -51.9077799,-29.4221763 -51.9079126,-29.4232148 -51.9080201889119,-29.4238324666963</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272837112</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.893122741777,-29.4239331827343 -51.8929003,-29.4218469 -51.8927836,-29.4204884 -51.892616,-29.4189768 -51.8925302,-29.4184172 -51.8924712,-29.417881 -51.892439,-29.4176509 -51.8923894,-29.4174476 -51.8922754,-29.4165189 -51.8921815,-29.4153542 -51.8919884,-29.4136848 -51.8919632,-29.4134106 -51.8918328,-29.4125306 -51.8916625,-29.4109301 -51.8915659,-29.4102338 -51.891354,-29.4082454 -51.8911435,-29.4065882</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953338642</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8893692,-29.4140353 -51.8894255,-29.4138414 -51.8894175,-29.4136124 -51.8892658,-29.4119683</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953338643</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.887603,-29.4140773 -51.8875439,-29.4137304 -51.8875292,-29.4134792 -51.8875507,-29.4134255 -51.8876995,-29.4132935 -51.8877424,-29.4132047 -51.8877773,-29.4129266 -51.8878229,-29.4128203 -51.8879959,-29.4126229 -51.8883486,-29.4120855 -51.8883862,-29.4119687 -51.888354,-29.4114056</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada para Cascalheira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">387244938</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9104353,-29.4009655 -51.9107893,-29.4012646 -51.91102,-29.401517 -51.9113928,-29.4019715 -51.9118568,-29.4025673 -51.9120888,-29.4028746 -51.9122297,-29.4031725 -51.912286,-29.403391 -51.9124483,-29.4040932 -51.912455,-29.4042451 -51.9123504,-29.4047463 -51.9123115,-29.4050033 -51.9123222,-29.4053398 -51.9123879,-29.4057055 -51.9124818,-29.4061167 -51.9126226,-29.406625 -51.9127849,-29.4070269 -51.9130585,-29.4074171 -51.9131818,-29.4076834 -51.9135788,-29.4084393 -51.9139141,-29.4090877 -51.9139979,-29.4093319 -51.9140334,-29.4094779 -51.9141233,-29.4095936 -51.9143157,-29.4097782 -51.9145457,-29.4100562 -51.9147704,-29.4103833 -51.9147878,-29.4104978 -51.9147053,-29.4105971 -51.9145276,-29.4106865 -51.9143794,-29.4108086 -51.9143432,-29.4109722 -51.9144411,-29.4111088 -51.9148663,-29.411603 -51.9154805,-29.412332 -51.9162295,-29.4131591 -51.916687,-29.4136703 -51.9168821,-29.4139366 -51.9170845,-29.4142199 -51.9172132,-29.4143122 -51.9173225,-29.4143443 -51.917458,-29.4143273 -51.9176892,-29.4141812 -51.9179441,-29.413985 -51.918067,-29.4139616 -51.9181728,-29.4139859 -51.9183699,-29.4140895 -51.9186191,-29.4143139 -51.9187264,-29.4144967 -51.9188045,-29.4147205 -51.9188097,-29.4149228 -51.9187037,-29.4150832 -51.9184223,-29.4153141 -51.9181052,-29.4155436 -51.9178303,-29.4157094</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953324221</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9255804,-29.4153869 -51.9250318,-29.4141708 -51.9245936,-29.4129727 -51.924372,-29.4124161 -51.9241414,-29.4121941 -51.9235754,-29.4118997 -51.9232455,-29.4117105 -51.922929,-29.4114138 -51.9226339,-29.4108927 -51.9221458,-29.4096099 -51.9218829,-29.4091567 -51.9212124,-29.4083318 -51.9208127,-29.4078599 -51.9207966,-29.4076823 -51.9208905,-29.4075421 -51.9211614,-29.4073925 -51.922027,-29.4070336 -51.9227788,-29.4067219 -51.9240207,-29.4061541 -51.9253564,-29.405563 -51.9259304,-29.4053562 -51.926786,-29.404925 -51.9277972,-29.404515</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Telmo Nilsson</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">694021146</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9199276,-29.3960243 -51.9193858,-29.3953653 -51.9191887,-29.3951281</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Helma Kuhn</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">694021141</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9206035,-29.3956738 -51.9199988,-29.3949551 -51.9198203,-29.3947343</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Afonso Brod</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">694021142</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9215141,-29.3955873 -51.9206276,-29.3945649 -51.920456,-29.3943651</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Adolfo Marder</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">694021143</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9221056,-29.3951363 -51.9212607,-29.3941484 -51.9210488,-29.3938931</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Felipe Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">694021144</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9227654,-29.3947624 -51.9218997,-29.3937404 -51.9216979,-29.3934864</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Helmuth Kuhn</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850594</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9236533,-29.392622 -51.9232401,-29.3928858 -51.9229433,-29.3930701 -51.9225381,-29.3933217 -51.9218997,-29.3937404 -51.9212607,-29.3941484 -51.9206276,-29.3945649 -51.9199988,-29.3949551 -51.9193858,-29.3953653</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953324222</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9100879,-29.4028723 -51.9100504,-29.4028314 -51.9099297,-29.4028127 -51.9097741,-29.4028179 -51.90964,-29.4028442 -51.9095374,-29.4028635 -51.9094663,-29.4028249 -51.9093503,-29.4026736 -51.9092705,-29.4026374 -51.9090693,-29.4026333 -51.9089372,-29.40261 -51.9088742,-29.4025586 -51.9087991,-29.4024575</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Arthur José Schroeder</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">387244960</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9115393,-29.392955 -51.9113939,-29.3929728 -51.9111779,-29.3930313 -51.9107624,-29.3932528 -51.9107088,-29.393282 -51.9101632,-29.3936185 -51.9096334,-29.3939889 -51.9094873,-29.394114 -51.9094198,-29.3942352 -51.9093611,-29.3944106 -51.9094026,-29.3946046 -51.9094898,-29.3948944 -51.9095635,-29.3952858 -51.9097553,-29.3964204 -51.9098867,-29.3970525 -51.9100758,-29.397722 -51.9103293,-29.3986065 -51.9103455,-29.3986506 -51.9105144,-29.3991113 -51.9105975,-29.3994688 -51.9106123,-29.3997597 -51.9105828,-29.4001079 -51.9104929,-29.400657 -51.9104353,-29.4009655 -51.9103474,-29.4011093 -51.9101509,-29.4013499 -51.9094536,-29.401899 -51.9087991,-29.4024575 -51.9085255,-29.4026643 -51.908095,-29.4029377 -51.9076464,-29.4031818 -51.9075039,-29.4032594 -51.9074321,-29.4033055 -51.9073661,-29.403344 -51.9068838,-29.4036504 -51.9064736,-29.4038718 -51.9063224,-29.4040084 -51.9063556,-29.4041656 -51.9065125,-29.4043935 -51.9067861,-29.4047159 -51.9068398,-29.4048818 -51.9068317,-29.405029 -51.9067217,-29.4052054 -51.9063999,-29.4054893 -51.9057649,-29.4061367 -51.9052975,-29.4066133 -51.9051647,-29.4068738 -51.9049783,-29.4072687 -51.9049823,-29.4074124 -51.9053451,-29.4084533 -51.9055279,-29.4086518</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">229798944</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8935628,-29.4066436 -51.8918583,-29.4065934 -51.8911435,-29.4065882 -51.8899298,-29.4065397 -51.8877632,-29.4065058 -51.8853968,-29.4064263 -51.8849952,-29.4064217 -51.8846371,-29.4064433 -51.8836413,-29.406445 -51.8820494,-29.4063668 -51.8796153,-29.4063329 -51.8776788,-29.4063037 -51.8761995,-29.4062558 -51.8754244,-29.406285 -51.8746974,-29.4062604 -51.8743461,-29.4061985 -51.8739345524232,-29.4061051419437</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">891227546</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8797689,-29.3959998 -51.8798981,-29.3958955 -51.8800154,-29.3957594 -51.8800952,-29.3955964 -51.8801042,-29.3954185 -51.8800371,-29.3952368 -51.8799345,-29.3950043 -51.8798628,-29.3948652 -51.8798319,-29.3947542 -51.8798125,-29.3946315 -51.8797204,-29.3944653 -51.8796475,-29.3944031 -51.8795825,-29.3943295 -51.8795353,-29.3942293</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">387244949</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8855202,-29.3878823 -51.8853861,-29.3878847 -51.8852118,-29.3878823 -51.8848926,-29.387887 -51.8826985,-29.3881791 -51.8815908,-29.3882679 -51.8807539,-29.3883825 -51.8790695,-29.3885741 -51.8775192,-29.3887564</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953338640</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8949723,-29.3968913 -51.8947135,-29.3966319 -51.8944278,-29.3964204 -51.8943541,-29.3962615 -51.8943259,-29.3960979 -51.8943374,-29.3958931</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">387244959</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9073331,-29.4032403 -51.907004,-29.4029709 -51.906766,-29.4028594 -51.9063529,-29.4027566 -51.9062489,-29.4027246 -51.9061477,-29.4026935 -51.9057669,-29.4023886 -51.9056321,-29.4022261 -51.9046685,-29.4010648 -51.9044485,-29.4007386 -51.9044298,-29.4007108 -51.9040767,-29.3999055 -51.9038934,-29.3995003 -51.9037405,-29.3992772 -51.9034629,-29.3989722 -51.9023444,-29.3977302 -51.9015706,-29.396896 -51.9014715,-29.3968247 -51.9013855,-29.3967627 -51.9001857,-29.3961721 -51.900035,-29.3960979 -51.8996139,-29.3959729 -51.8989715,-29.3958467 -51.8986215,-29.3957275 -51.898345,-29.3955291 -51.8980891,-29.3952531 -51.8979465,-29.3950758 -51.8974613,-29.3944722 -51.8973218,-29.3942927 -51.897154,-29.394122 -51.897039,-29.39399 -51.8966031,-29.3934911 -51.8962933,-29.3930634 -51.8958454,-29.3925002 -51.8951172,-29.3917477 -51.894916,-29.3914533 -51.894739,-29.3912359 -51.8944734,-29.3908877 -51.8941408,-29.3904975 -51.8938351,-29.3901446 -51.8937305,-29.389974 -51.8936124,-29.3896585 -51.893532,-29.3892962 -51.8934596,-29.3889504 -51.8934247,-29.3888499 -51.8933845,-29.3887879 -51.8933362,-29.3887295 -51.8932571,-29.3886582 -51.8931618,-29.3885881 -51.8930183,-29.3885449 -51.8928601,-29.3885168 -51.8926871,-29.3884642 -51.8925771,-29.3883825 -51.8924859,-29.3883147 -51.8923974,-29.3882235 -51.8922311,-29.3880436 -51.8917322,-29.3873985 -51.8905635,-29.387962 -51.8894118,-29.388463 -51.8885227,-29.3888742 -51.8880084,-29.3882637 -51.8878063,-29.3879908 -51.8870687,-29.3870622 -51.886982,-29.3869685 -51.8868157,-29.3867442 -51.886746,-29.3866554 -51.8866789,-29.3865946 -51.8866253,-29.3865595 -51.8865609,-29.3865338 -51.8861076,-29.3864731 -51.8855631,-29.3863632 -51.8851447,-29.3862487 -51.8846807,-29.3861085 -51.8841818,-29.3860243 -51.883758,-29.3859542 -51.883294,-29.3858818 -51.8831652,-29.3858578 -51.8830794,-29.3858421 -51.8830311,-29.385807 -51.883007,-29.3857345 -51.882838,-29.3851222</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">387244948</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8893611,-29.3898992 -51.8904501,-29.3912663 -51.8914734,-29.3925376 -51.8917805,-29.3929232 -51.8920501,-29.3931733 -51.8923853,-29.3935729 -51.8930009,-29.3943289 -51.8939926,-29.3955908 -51.8942066,-29.3958409 -51.8943374,-29.3958931 -51.8944674,-29.3958753 -51.894621,-29.3957801 -51.8953854,-29.3951211 -51.8955624,-29.3948897 -51.8956249,-29.394639 -51.8957159,-29.3942983 -51.8958186,-29.3942004 -51.8959929,-29.3941489 -51.8965906,-29.3940803 -51.897039,-29.39399</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">400601868</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9485604,-29.4231539 -51.9486458,-29.4231509 -51.9529184,-29.4231988 -51.9529896,-29.423194 -51.9530901,-29.4231759 -51.9531972,-29.4231566 -51.9536552,-29.423099 -51.9538656,-29.4230395 -51.954015,-29.4229435 -51.9541075,-29.4228092 -51.9542246,-29.4223869 -51.954242,-29.4219108 -51.9542078,-29.4215416 -51.9542086,-29.4214609 -51.9542314,-29.4214071 -51.9543025,-29.4213639 -51.9543843,-29.4213838 -51.9544352,-29.4214737 -51.9544915,-29.4215123 -51.9545519,-29.421545 -51.9545935,-29.4215461</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano Peixoto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">176546013</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9564069,-29.4172634 -51.9558815,-29.4168715 -51.9557455,-29.4167422 -51.9551876,-29.4160774 -51.9550967,-29.4159792 -51.9543819,-29.4153589 -51.9541834,-29.4151977 -51.9539098,-29.41504 -51.9531697,-29.4146672 -51.9530911,-29.4146276 -51.9524038,-29.4143133 -51.9520954,-29.4141732 -51.9517762,-29.414026 -51.9514409,-29.4137782 -51.9510707,-29.4135189 -51.9503226,-29.4128342 -51.9480251,-29.4107544 -51.9479887,-29.4107214 -51.9479592,-29.4106947 -51.9476898,-29.4104508 -51.9464114,-29.4092934 -51.9463852,-29.409264 -51.9458535,-29.4086672 -51.945518,-29.4081588 -51.9454517,-29.4080583 -51.9449817,-29.4069213</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Edgar Schneider</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226099</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9481339,-29.4097642 -51.9485966,-29.4103418</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Emílio Francisco Kaufmann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226084</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9560646,-29.4057142 -51.9559101,-29.4057951 -51.9556923,-29.4059275 -51.9553234,-29.4061838 -51.9546729,-29.4065807 -51.95391,-29.4070415 -51.9535466,-29.4072687 -51.9532572,-29.4074515 -51.9526293,-29.4078482 -51.9519872,-29.4082454 -51.9513464,-29.4086418 -51.9511391,-29.4087645 -51.9507586,-29.4090054 -51.9504084,-29.4092221 -51.9490574,-29.4100541 -51.9485966,-29.4103418 -51.9479887,-29.4107214</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">377812389</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9075036,-29.4215058 -51.9079271,-29.4212559 -51.9086167,-29.4209708 -51.9093972,-29.4206636 -51.910157,-29.4203649 -51.9101965,-29.4203494 -51.9106901,-29.4201765 -51.9110039,-29.4201041 -51.9118488,-29.4200281 -51.9124134,-29.4199954 -51.9128144,-29.4199417 -51.9134608,-29.4198494 -51.9138899,-29.4197816 -51.9141555,-29.4197197 -51.9144505,-29.4196216 -51.9145796,-29.4195782 -51.9147214,-29.4195305 -51.9149682,-29.4194954 -51.9154872,-29.4194896 -51.9158708,-29.4194861 -51.9162597,-29.4194569 -51.9166151,-29.419395 -51.9171569,-29.4192688 -51.9178194,-29.4190702 -51.9183152,-29.4188683 -51.918852,-29.4186497 -51.9192436,-29.4185048 -51.9195762,-29.4184125 -51.9198592,-29.4183343 -51.920161,-29.4182373 -51.9204627,-29.4180703 -51.9207832,-29.4179172 -51.9211212,-29.4177759 -51.92145,-29.4176536 -51.9215362,-29.4176215 -51.9215798,-29.4176053 -51.9220667,-29.4174862 -51.9225293,-29.4173191 -51.9228096,-29.4171018 -51.9233635,-29.4165995 -51.923501,-29.4164786 -51.9236371,-29.4163589 -51.9239831,-29.4161065 -51.9246054,-29.415804 -51.9255804,-29.4153869 -51.9264239,-29.4150026 -51.9275357,-29.4145178 -51.9285811,-29.4140581 -51.9305445,-29.4132175 -51.9315221,-29.4127981 -51.9322389,-29.4124675 -51.9328384,-29.4121906 -51.933171,-29.4120627 -51.9336364,-29.4118524 -51.9340749,-29.4116632 -51.9346435,-29.411384 -51.935186,-29.4111643 -51.9359599,-29.4108052 -51.9364889,-29.4105598 -51.9377844,-29.4099709 -51.9381724,-29.4098083 -51.9383799,-29.4099126 -51.9386672,-29.4100725 -51.9390502,-29.4101072 -51.9394412,-29.4101142 -51.9398641,-29.4103297 -51.9405344,-29.4108649 -51.9417693,-29.4121107 -51.9418801,-29.4122409 -51.9419274,-29.4123609 -51.941974,-29.4127023 -51.9419936,-29.4127978 -51.9420431,-29.4128953 -51.9421631,-29.4130411 -51.9422589,-29.4130998 -51.9427474,-29.4132643 -51.9429149,-29.4133405 -51.9430066,-29.4134239 -51.9430329,-29.4135292 -51.9430266,-29.4139947 -51.9430628,-29.4141672 -51.9431361,-29.4143135 -51.9437522,-29.4151161 -51.9439039,-29.4152935 -51.9443766,-29.4156975 -51.9444431,-29.4157788 -51.9445244,-29.4159166 -51.9446566,-29.4162508 -51.9446847,-29.416372 -51.944671,-29.416443 -51.9446179,-29.4165209 -51.9441355,-29.4170865 -51.9440496,-29.417233 -51.9440215,-29.4173663 -51.9440373,-29.4176256 -51.9441482,-29.4180456 -51.9442365,-29.4182175 -51.9443437,-29.4183244 -51.9447716,-29.4185719 -51.9453071,-29.4188815 -51.9454258,-29.4189411 -51.9459498,-29.4191675 -51.9460059,-29.4192179 -51.9460589,-29.4192655 -51.9461461,-29.4194386 -51.9461863,-29.4195581 -51.9463732,-29.4201132 -51.9464452,-29.4203271 -51.9465092,-29.4205173 -51.9467093,-29.4209317 -51.9467692,-29.4210558 -51.9473901,-29.4221517 -51.947462,-29.4222195 -51.947522,-29.4222359 -51.947559,-29.422246 -51.9484149,-29.4222801 -51.9485498,-29.4223195 -51.9486196,-29.4223765 -51.9486581,-29.4224732 -51.9486581,-29.422672 -51.9485604,-29.4231539 -51.9484957659425,-29.4235504136035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Campos Sales</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226122</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9404412,-29.4063925 -51.9400603,-29.4060139 -51.9397438,-29.4056494 -51.9397283,-29.4056312 -51.9394434,-29.4052942 -51.939076,-29.4048434 -51.9390035,-29.4047545 -51.9385646,-29.4042757 -51.9380415,-29.4036588 -51.937531,-29.4031165 -51.937198,-29.4027195 -51.9366512,-29.4021304 -51.9362435,-29.4017121 -51.9360101,-29.4014994 -51.9356641,-29.4012295 -51.9352967,-29.4009012 -51.935134,-29.4007496 -51.9349463,-29.4005089 -51.934737,-29.4002004 -51.9344249,-29.3997948 -51.9342157,-29.3995459 -51.9340441,-29.3993671 -51.9339958,-29.3992859</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">960045042</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9417693,-29.4121107 -51.9415891,-29.4122537 -51.9410554,-29.4125376 -51.9409655,-29.4125762 -51.9408515,-29.4126124 -51.9404478,-29.4127187 -51.9403607,-29.4127128 -51.9402896,-29.412679 -51.9400308,-29.4124301 -51.9399369,-29.4123846 -51.939843,-29.4123717 -51.939206,-29.4124593</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Campos Sales</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850600</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9438207,-29.41061 -51.9438985,-29.4104815 -51.9439066,-29.4103623 -51.9437922,-29.4102247 -51.9436205,-29.4099934 -51.9434247,-29.409734 -51.9431395,-29.409395 -51.942553,-29.4087737 -51.9421605,-29.4083669 -51.9417054,-29.4078578 -51.9416656,-29.4078107 -51.9414068,-29.4075047 -51.9409598,-29.4069979 -51.9405458,-29.4065146 -51.9404412,-29.4063925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Acesso ao Rio Taquari</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919717928</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9405458,-29.4065146 -51.9403526,-29.4066472 -51.9402051,-29.4068154 -51.9401112,-29.4070047 -51.94013,-29.407222 -51.9402319,-29.4074089 -51.9403667,-29.4075892</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Osvaldo de Oliveira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226115</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9432253,-29.4060116 -51.9428159,-29.4062689 -51.9427103,-29.4063247 -51.9424153,-29.4064929 -51.9422168,-29.4066098 -51.9420666,-29.4067103 -51.9420263,-29.4067897 -51.9421283,-29.4069509 -51.9422221,-29.4070981 -51.9422785,-29.40725 -51.9422624,-29.4073458 -51.94219,-29.4074486 -51.9420398,-29.4075514 -51.9416656,-29.4078107</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Tiradentes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226091</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9432591,-29.4059551 -51.9432253,-29.4060116 -51.9432389,-29.4061201 -51.9435612,-29.4066496 -51.9438281,-29.4069771 -51.9440248,-29.4073573</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Tiradentes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369510</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9444261,-29.4056498 -51.9438673,-29.4057934 -51.9437711,-29.4058527 -51.9439219,-29.4064488 -51.9441939,-29.4072118 -51.9441868,-29.407264 -51.9440248,-29.4073573 -51.9437456,-29.407507</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Tranquilo Domingos Alberton</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226087</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9437456,-29.407507 -51.9434667,-29.4071262 -51.9431243,-29.4066801 -51.9428159,-29.4062689 -51.942553,-29.4059184 -51.9423285,-29.4056063 -51.9419231,-29.4050425</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Visconde do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369511</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9419893,-29.4049839 -51.9419231,-29.4050425 -51.941879,-29.4050816 -51.9409686,-29.4058831 -51.9408544,-29.4059836 -51.9404628,-29.4063714 -51.9404412,-29.4063925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Reinoldo Hermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231976462</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9402316,-29.4051896 -51.9405861,-29.4055256 -51.9409686,-29.4058831</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua José Adão Horn</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369503</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9424846,-29.4045456 -51.942536,-29.4046096 -51.9429939,-29.4052094 -51.9433433,-29.4056728 -51.9433245,-29.4058457 -51.9432591,-29.4059551</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226049</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9445448,-29.404027 -51.9448373,-29.4043899 -51.9450358,-29.4046774 -51.9453389,-29.4050793 -51.9455991,-29.4053714 -51.9458056,-29.4056401 -51.9458512,-29.4057242 -51.9458431,-29.4059134 -51.9457895,-29.4060864 -51.9457825,-29.4061717 -51.9458192,-29.4062578 -51.9458862,-29.406356</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Júlio Tasca</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226079</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9441918,-29.4046936 -51.9440756,-29.4047264 -51.9435337,-29.4049134 -51.9429939,-29.4052094 -51.9429115,-29.4052545 -51.9423285,-29.4056063</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Visconde do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369504</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9424846,-29.4045456 -51.9419893,-29.4049839</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Hnrique Schneider</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231976463</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9397728,-29.4041677 -51.9401624,-29.4045162 -51.9405924,-29.4048731</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor João Carlos Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">415179420</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9427913,-29.4029295 -51.9420022,-29.4036369 -51.941826,-29.4037793 -51.9405924,-29.4048731 -51.9402316,-29.4051896 -51.9397283,-29.4056312</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São José</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">254310214</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9529271,-29.4026921 -51.9525224,-29.4025767 -51.9522399,-29.402446 -51.9519619,-29.4022922 -51.9517279,-29.4020999 -51.9515249,-29.4019153 -51.951132,-29.4015308 -51.9510261,-29.4014885 -51.9508981,-29.4015192 -51.9506509,-29.4016077 -51.9505479,-29.4015808 -51.9500593,-29.4012558</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Júlio de Castilhos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226011</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9497003,-29.3995202 -51.9489302,-29.4001855 -51.9489059,-29.4002064 -51.9481975,-29.4008183 -51.9474514,-29.4014629 -51.9471736,-29.4017027 -51.9467243,-29.4020936 -51.9459728,-29.4027474 -51.9452413,-29.4033837 -51.9445448,-29.404027 -51.9441624,-29.4043528</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369499</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9509846,-29.4003915 -51.951131,-29.4005838 -51.9513605,-29.4008782 -51.9515965,-29.4011633 -51.9520632,-29.4016493 -51.9522349,-29.4018246 -51.9524173,-29.4020045 -51.9528137,-29.4023748 -51.9529787,-29.4025259</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São José</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301011130</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9500593,-29.4012558 -51.9499567,-29.4011871</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua do Moinho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226030</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9420022,-29.4036369 -51.9420988,-29.4037147 -51.9428014,-29.4042654</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Lorenço Casotti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226142</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9386436,-29.4032692 -51.9388345,-29.403502 -51.9395954,-29.4043393</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Gustavo Wienandts</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850608</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.939076,-29.4048434 -51.9391225,-29.4047968 -51.9395954,-29.4043393 -51.9397728,-29.4041677 -51.9399805,-29.4039668 -51.9402626,-29.4037258 -51.9403059,-29.4036867 -51.9405727,-29.4034641 -51.9410734,-29.4030312 -51.9419924,-29.4022498</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano Peixoto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919717932</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9441624,-29.4043528 -51.9438003,-29.4034028 -51.9437782,-29.4033396 -51.9437281,-29.4032955 -51.9430898,-29.4027239 -51.9430593,-29.4026947</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Coronel Zimermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369502</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9386436,-29.4032692 -51.9380415,-29.4036588</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jacob Adolfo Friedrich</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226127</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9397402,-29.4025505 -51.9399266,-29.4027551 -51.9405727,-29.4034641</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Coronel Zimermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">556369512</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9394565,-29.4027528 -51.9391108,-29.4029669 -51.9386436,-29.4032692</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor João Carlos Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850604</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430593,-29.4026947 -51.942995,-29.4027511 -51.9427913,-29.4029295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Daltro Filho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226139</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9437362,-29.4021069 -51.9437843,-29.4021536 -51.9444147,-29.4027087 -51.9444738,-29.4027619 -51.9452413,-29.4033837</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Costa e Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226092</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9398623,-29.4015433 -51.9399503,-29.4016443 -51.940363,-29.4021486 -51.9410734,-29.4030312 -51.9413376,-29.403329 -51.941826,-29.4037793</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Maurício Cardoso</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850607</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9427913,-29.4029295 -51.9419924,-29.4022498</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor João Carlos Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">415179419</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430593,-29.4026947 -51.9436703,-29.4021594 -51.9437362,-29.4021069</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Coronel Zimermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">254861006</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9413587,-29.4015048 -51.940363,-29.4021486 -51.9399691,-29.4023991 -51.9397402,-29.4025505 -51.9394565,-29.4027528</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Monsenhor Jacob Seger</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226132</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9459728,-29.4027474 -51.9457439,-29.402558 -51.9452507,-29.4021329 -51.9452144,-29.4021064 -51.9451423,-29.4020383 -51.9445309,-29.4014992 -51.9444762,-29.4014531 -51.9444088,-29.401393 -51.9436971,-29.4007696</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Daltro Filho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850606</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9437362,-29.4021069 -51.9436512,-29.4020294 -51.9430056,-29.4014219 -51.9429784,-29.4013982</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Visconde do Rio Branco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226027</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9488924,-29.3988527 -51.948163,-29.399503 -51.9474273,-29.400159 -51.9466995,-29.4008078 -51.9464977,-29.4009877 -51.945976,-29.401451 -51.9452925,-29.4020382 -51.9452144,-29.4021064 -51.944772,-29.4024781 -51.9444738,-29.4027619 -51.9444318,-29.4028004 -51.9443078,-29.4029173 -51.944167,-29.4030408 -51.9438437,-29.4032899 -51.9437782,-29.4033396 -51.943712,-29.4034023 -51.9428014,-29.4042654 -51.9424846,-29.4045456</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jacob Adolfo Friedrich</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">788691600</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9385924,-29.4013537 -51.9392167,-29.4020194 -51.9393027,-29.4020286</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Martin Luther King</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226121</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.941502,-29.4000997 -51.9410339,-29.400475 -51.940408,-29.4010726 -51.9398623,-29.4015433 -51.9393027,-29.4020286</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São João</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226153</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9467243,-29.4020936 -51.9465888,-29.4019878 -51.945976,-29.401451 -51.9452277,-29.400808 -51.945186,-29.4007722 -51.9451288,-29.4007216 -51.9444496,-29.4001212 -51.9439299,-29.3996517</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Coronel Zimermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226044</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9427662,-29.4002772 -51.9425764,-29.4004413 -51.942227,-29.4007546 -51.9413155,-29.4014631</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Luiz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226089</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9474514,-29.4014629 -51.9472647,-29.4013102 -51.9466995,-29.4008078 -51.9459661,-29.4001363 -51.9455976,-29.399833 -51.9451861,-29.3994943</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São José</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301011129</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9499567,-29.4011871 -51.9497097,-29.4010342 -51.9495446,-29.4009433 -51.9493515,-29.4007961 -51.949184,-29.4005832 -51.9490591,-29.4003545 -51.9489491,-29.40024 -51.9489302,-29.4001855 -51.9487759,-29.4000253 -51.948163,-29.399503</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">273323322</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9508052,-29.4001338 -51.9509846,-29.4003915</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bento Gonçalves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919717929</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9466886,-29.3995014 -51.9474273,-29.400159</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Doutor João Carlos Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226063</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9481164,-29.396938 -51.9480852,-29.3970117 -51.9480907,-29.3972095 -51.9480841,-29.3973154 -51.9480611,-29.3974052 -51.9480405,-29.3974848 -51.9478234,-29.3979203 -51.9477527,-29.3980848 -51.9476867,-29.3982282 -51.9474337,-29.398693 -51.9474073,-29.398738 -51.9473622,-29.3988147 -51.9473166,-29.3988788 -51.9471494,-29.3991136 -51.9470532,-29.3991946 -51.9467534,-29.3994469 -51.9466886,-29.3995014 -51.9466296,-29.3995533 -51.9460263,-29.4000834 -51.9459661,-29.4001363 -51.9459136,-29.4001824 -51.9454346,-29.4005678 -51.945186,-29.4007722 -51.9451461,-29.4008101 -51.9445594,-29.4013808 -51.9444762,-29.4014531 -51.9438353,-29.4020251 -51.9437362,-29.4021069</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mariz e Barros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">788691601</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9463083,-29.3992005 -51.9460952,-29.3993893 -51.9455976,-29.399833</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bento Gonçalves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919717930</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9466886,-29.3995014 -51.9463083,-29.3992005 -51.9458991,-29.3988767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">199653740</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9492779,-29.3977633 -51.9501044,-29.3990496 -51.9506402,-29.3998967 -51.9508052,-29.4001338</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São José</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850598</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.948163,-29.399503 -51.9474393,-29.3988809 -51.9473622,-29.3988147 -51.9472905,-29.3987505 -51.9466785,-29.3982027</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São José</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850597</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9466785,-29.3982027 -51.9462144,-29.3978364</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Maurício Cardoso</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226052</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9419924,-29.4022498 -51.9416508,-29.401857 -51.9413587,-29.4015048 -51.9413155,-29.4014631 -51.941228,-29.4013852 -51.9409293,-29.4012424 -51.940408,-29.4010726 -51.9389579,-29.4006932 -51.9367519,-29.4001027 -51.9357057,-29.3997819 -51.9347146,-29.399512 -51.9341446,-29.3993262 -51.9339958,-29.3992859 -51.933568,-29.3991089 -51.9330476,-29.3988367 -51.932711,-29.3986825 -51.9324443,-29.3985562</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Thelbaldo Brentano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">735380461</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9367519,-29.4001027 -51.9370966,-29.3997806 -51.9370868,-29.3996771 -51.9370542,-29.3995483 -51.936807,-29.3990405 -51.9364446,-29.3986165</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">953319787</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9359444,-29.3988636 -51.9360778,-29.3987946 -51.9363038,-29.3986235 -51.9363588,-29.3986001 -51.9364446,-29.3986165</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Thelbaldo Brentano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">735380462</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.936807,-29.3990405 -51.9372211,-29.3984756 -51.9370066,-29.3982307 -51.9369748,-29.3981944</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226167</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9324443,-29.3985562 -51.9316235,-29.3982805</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa João Pedro Schweizer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226179</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9324469,-29.3946187 -51.9323016,-29.3943916 -51.9321755,-29.3941644 -51.932058,-29.3939118 -51.9319073,-29.3937432 -51.9318319,-29.3937201 -51.9315523,-29.3937026 -51.9313169,-29.3936658 -51.9309475,-29.3936588 -51.9306531,-29.3936968 -51.9303527,-29.3937832 -51.9300965,-29.3938638 -51.929927,-29.3939047 -51.9295515,-29.394073 -51.9288367,-29.3943511 -51.9285792,-29.3945135 -51.9278725,-29.3949774 -51.9272047,-29.3953688</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Daltro Filho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850605</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9429784,-29.4013982 -51.9428364,-29.4012634 -51.942227,-29.4007546 -51.941502,-29.4000997 -51.9408918,-29.3995451</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Dois de Janeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226003</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9410339,-29.400475 -51.9397915,-29.4001575</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Bosco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226029</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9408918,-29.3995451 -51.940831,-29.3995408 -51.9397915,-29.4001575 -51.9389579,-29.4006932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Gustavo Wienandts</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226093</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9419924,-29.4022498 -51.9426944,-29.4016467 -51.9429268,-29.4014433 -51.9429784,-29.4013982 -51.9436971,-29.4007696 -51.9440408,-29.4004689 -51.9443268,-29.4002257 -51.9444496,-29.4001212 -51.9451861,-29.3994943 -51.9458991,-29.3988767 -51.9462027,-29.3986135 -51.9466785,-29.3982027 -51.9473882,-29.39759 -51.9477293,-29.3972826 -51.9477646,-29.3972515 -51.9478549,-29.3971694 -51.9479789,-29.3970389 -51.9480909,-29.3969211</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Luiz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850595</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9451861,-29.3994943 -51.9449635,-29.3992024 -51.944769,-29.3989754 -51.9444486,-29.3985643</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bento Gonçalves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919717931</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9454996,-29.3985236 -51.9458991,-29.3988767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226102</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9444486,-29.3985643 -51.9443799,-29.3984416</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Dom Pedro II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226135</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9443799,-29.3984416 -51.9443412,-29.398348 -51.9442964,-29.3980272 -51.9443018,-29.3977164 -51.9442696,-29.3974617 -51.9441918,-29.3971976 -51.9440112,-29.3969684 -51.94381,-29.3967371 -51.9432289,-29.3962629 -51.9430892,-29.396149 -51.9427988,-29.3959121 -51.9424243,-29.3955969 -51.9421775,-29.3953422 -51.9420817,-29.3952024 -51.9419888,-29.3950668 -51.9419629,-29.395029 -51.9417259,-29.3945474 -51.9416805,-29.3944524 -51.9414839,-29.3940292 -51.9412725,-29.3935824 -51.9409986,-29.3930033 -51.9408509,-29.3925157 -51.940823,-29.392407 -51.940696,-29.3920726 -51.9404475,-29.391776 -51.9402999,-29.3916008 -51.9400442,-29.3912897 -51.9399816,-29.3912241 -51.9396524,-29.3908789 -51.9395006,-29.3907197 -51.939383,-29.3905886 -51.9393736,-29.3905395 -51.9393857,-29.3904986 -51.9394094,-29.3904335 -51.9395506,-29.3903128 -51.9397743,-29.3900962 -51.9398867,-29.3899872</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alagoas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226149</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9250835,-29.3876442 -51.9253939,-29.388095 -51.9257211,-29.3885227 -51.9258479,-29.3886851 -51.9263069,-29.3892334 -51.9272018,-29.3903456 -51.9278476,-29.3911926 -51.9279082,-29.3912689 -51.9284248,-29.3919043 -51.9287574,-29.3923063 -51.929212,-29.3928828 -51.9293262,-29.3930413 -51.929927,-29.3939047 -51.9301522,-29.3946268 -51.9301576,-29.3948652 -51.9301237,-29.3950286</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226021</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9316235,-29.3982805 -51.9313298,-29.3982187 -51.930927,-29.3981464 -51.9305089,-29.3980118 -51.9295527,-29.3976718 -51.9287816,-29.397368 -51.9285372,-29.397232 -51.928366,-29.3971367 -51.9280601,-29.396834 -51.9275947,-29.3963398 -51.9273852,-29.3960084 -51.927277,-29.3956878 -51.9272047,-29.3953688 -51.9270611,-29.3949505 -51.9268814,-29.3946187 -51.9266837,-29.3944098 -51.9264079,-29.3941544 -51.9263919,-29.3941396 -51.925588,-29.3936222 -51.9252113,-29.393397 -51.9250561,-29.3933042 -51.9248063,-29.393164 -51.9247169,-29.3931166 -51.9246036,-29.3930566 -51.9240798,-29.3928228 -51.9236533,-29.392622 -51.9235336,-29.3925339 -51.9234681,-29.3924722 -51.9234034,-29.3923953 -51.9230874,-29.3919628 -51.9228093,-29.3915517 -51.9224683,-29.3910577 -51.9223157,-29.3908366 -51.9220539,-29.3904429 -51.921828,-29.390103 -51.9217793,-29.3900373 -51.921628,-29.3897767 -51.9215838,-29.3897111 -51.921376,-29.3893921 -51.9212053,-29.3891165 -51.9208365,-29.3885193 -51.9204292,-29.3878523 -51.920278,-29.387583 -51.9200148,-29.3867786 -51.919815,-29.3861323 -51.9196764,-29.3856016 -51.9196059,-29.3852676 -51.9194738,-29.3846347 -51.9194632,-29.3845148 -51.9194636,-29.384448 -51.9195147,-29.3834559 -51.9195623,-29.3830168 -51.9196273,-29.3827266 -51.9197667,-29.3822989 -51.9198696,-29.3819322 -51.9200063,-29.3814251 -51.9200221,-29.3812871 -51.9200107,-29.3811677 -51.9199599,-29.3810766 -51.9198213,-29.3808735 -51.9197312,-29.3807486 -51.9190595,-29.3799082 -51.9187378,-29.3795047 -51.9185912,-29.3793209 -51.91812,-29.37873 -51.9179392,-29.3785051 -51.9178935,-29.3784465 -51.9174349,-29.3778642 -51.9171552,-29.3775102 -51.9167765,-29.3770427 -51.916351,-29.3765175 -51.9161896,-29.3763182 -51.9159768,-29.3760512 -51.9154141,-29.375342 -51.9152025,-29.3750794 -51.9151073,-29.3749585 -51.914499,-29.3741863 -51.9138239,-29.3733871 -51.9135915,-29.3730416 -51.9134591,-29.3728448 -51.913233,-29.3725688 -51.9131257,-29.3724426</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">944593966</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.908933,-29.36745 -51.9088447,-29.3673048 -51.9086596,-29.3670243 -51.9082519,-29.3665521 -51.9077933,-29.3659794 -51.9073346,-29.3653646 -51.9070718,-29.3650654 -51.9065836,-29.364481 -51.9057092,-29.3634408 -51.9051996,-29.3627839</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">229698871</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8747777,-29.3700412 -51.8736385488738,-29.3714694662071</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">229698872</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8749216,-29.369856 -51.8747777,-29.3700412</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">423462732</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.884631,-29.3464021 -51.8844411,-29.3466778 -51.8838554,-29.347587 -51.8829606,-29.3489762 -51.8828246,-29.3491873 -51.8827012,-29.3494071 -51.8826154,-29.3496456 -51.8822613,-29.350548 -51.8818939,-29.3514458 -51.8816069,-29.3521144 -51.8815184,-29.352395 -51.8812662,-29.3535873 -51.8811402,-29.3541928 -51.881108,-29.3545808 -51.8811053,-29.3550344 -51.8810865,-29.3554365 -51.8810597,-29.3556422 -51.880998,-29.355869 -51.8807888,-29.3566311 -51.8804562,-29.3578514 -51.8802846,-29.3583423 -51.8798366,-29.3595603 -51.8795604,-29.3602242 -51.8792077,-29.3612292 -51.8790844,-29.3615597 -51.8786886,-29.3629966 -51.8784353,-29.3637819 -51.8783426,-29.3639901 -51.8777472,-29.3651332 -51.877487,-29.3656662 -51.8773717,-29.3658508 -51.8772483,-29.3660332 -51.8771356,-29.3661991 -51.877023,-29.3663417 -51.8768084,-29.3665965 -51.8767306,-29.3667041 -51.8766304,-29.3668685 -51.8765348,-29.3670827 -51.8764356,-29.3674147 -51.8763176,-29.3676648 -51.876162,-29.3679242 -51.8759313,-29.3682679 -51.8753171,-29.3692356 -51.8749216,-29.369856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">176547223</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9194299,-29.376612 -51.9190329,-29.376339 -51.9188703,-29.3762272 -51.918216,-29.3757774 -51.9177044,-29.3754017 -51.9172078,-29.3750371 -51.9166982,-29.3745953 -51.9159367,-29.3739196 -51.9157876,-29.3737981 -51.9150513,-29.3731625 -51.9145417,-29.3727745 -51.9141235,-29.3725228 -51.9138551,-29.3723748 -51.9135012,-29.3722332 -51.9131009,-29.3720892 -51.9128734,-29.3719985 -51.912416,-29.3718822 -51.912058,-29.3718115 -51.9112356,-29.3716998 -51.9110006,-29.3716386 -51.9106498,-29.3715497 -51.9103736,-29.3714398 -51.9101107,-29.3713183 -51.9098988,-29.3711733 -51.9095852,-29.370949 -51.9093677,-29.3707549 -51.9091988,-29.3705469 -51.9090298,-29.3703459 -51.9089198,-29.3701215 -51.9087964,-29.3698574 -51.9086928,-29.369565 -51.9086199,-29.3691599 -51.9086114,-29.3689037 -51.9086382,-29.3685904 -51.9086784,-29.3683427 -51.9088073,-29.3679363 -51.9090353,-29.3675295 -51.9093758,-29.3670009 -51.9106579,-29.3650561 -51.91113,-29.3642964 -51.9117683,-29.3631112 -51.9120312,-29.3625548 -51.9124603,-29.3614281 -51.9130799,-29.3596514 -51.9134957,-29.3585153 -51.913906,-29.3573137 -51.9139543,-29.3571197 -51.9139972,-29.3568462 -51.9139865,-29.3565984 -51.913957,-29.3563482 -51.9139114,-29.3560794 -51.9138336,-29.3557404 -51.9135788,-29.3547421 -51.9134474,-29.3541483 -51.913375,-29.3536083 -51.9133763,-29.3533967 -51.9133776,-29.3531845 -51.9133886,-29.3529732 -51.91341,-29.3527269 -51.9134795,-29.3523801 -51.9136523,-29.3519132 -51.9138954,-29.35135 -51.914069,-29.35097 -51.9142129,-29.3507027 -51.9144706,-29.3502055 -51.9149909,-29.3492599 -51.9150916,-29.349088 -51.9151403,-29.3489982 -51.9151734,-29.3489372 -51.9152187,-29.3488719 -51.9153799,-29.3486391 -51.9157135,-29.3480366 -51.9158862,-29.3476854 -51.9160279,-29.3473274 -51.9161135,-29.3470878 -51.916287,-29.3464817 -51.9165112,-29.3457203 -51.9165998,-29.3454746 -51.9167011,-29.3452471 -51.9168254,-29.3450182 -51.9168496,-29.3449843 -51.9170715,-29.3446732 -51.9174117,-29.3442892 -51.9175058,-29.3442075 -51.9176477,-29.3440648 -51.9179508,-29.3438006 -51.918616,-29.3431764 -51.9188398,-29.3429667 -51.9189754,-29.3428397 -51.9192463,-29.3425684 -51.9195629,-29.3421639 -51.9198122,-29.3417711 -51.9199973,-29.3414251 -51.9201661,-29.3409874 -51.9202119,-29.3408686 -51.9203032,-29.3404968 -51.9203356,-29.3402338 -51.9203407,-29.3396364 -51.9203219,-29.3393441 -51.9202494,-29.3389729 -51.920231,-29.3388962 -51.9202037,-29.3387825 -51.9200708,-29.3383785 -51.9195822,-29.3372077 -51.9190036,-29.3358121 -51.9188181,-29.3352867 -51.9186541,-29.334536 -51.9184191,-29.3318985 -51.9184373,-29.3313125 -51.9185019,-29.3307459 -51.9188131,-29.329687 -51.9190526,-29.3288249 -51.9191529,-29.3283685 -51.91918,-29.3280177 -51.9191637,-29.3277402 -51.9191502,-29.3275089 -51.9190797,-29.327058 -51.9189405,-29.3266081 -51.9186696,-29.3260672 -51.9182632,-29.3254954 -51.9176284,-29.3249237 -51.914649,-29.3230021 -51.912259,-29.3214979</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Synval Guazzelli</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">517465975</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8834858,-29.2996126 -51.8836851,-29.2999616 -51.8838868,-29.3001769 -51.8840373,-29.3003439 -51.8841209,-29.300416 -51.8843533,-29.3005283 -51.885134,-29.3008929 -51.8856704,-29.3011851 -51.8858823,-29.3013511 -51.8860915,-29.3015874 -51.8864214,-29.3021277 -51.886797,-29.3028202 -51.8870035,-29.3031802 -51.8872449,-29.3034796 -51.8877062,-29.3039989 -51.8880522,-29.3043474 -51.8886343,-29.3048409 -51.8888113,-29.3050772 -51.8888864,-29.3053204 -51.8889079,-29.3058093 -51.8889481,-29.3060736 -51.88905,-29.3063098 -51.8892324,-29.3066279 -51.8893558,-29.3068571 -51.8895409,-29.3073389 -51.8896374,-29.307664 -51.8899754,-29.3089691 -51.8902007,-29.3098134 -51.8905655,-29.311343 -51.8909329,-29.3131229 -51.8910295,-29.3135766 -51.8911153,-29.3138946 -51.8913782,-29.3145261 -51.8917376,-29.3151318 -51.8919709,-29.3155739 -51.8921815,-29.3159668 -51.8921922,-29.3160439 -51.8921828,-29.3161281 -51.8919683,-29.3169749 -51.8918771,-29.3172905 -51.8917,-29.3175196 -51.8914881,-29.317667 -51.8912789,-29.3178073 -51.8912092,-29.3179219 -51.8912306,-29.3181254 -51.8913218,-29.3182727 -51.891464,-29.3184062 -51.8917859,-29.3185674 -51.8928078,-29.3189205 -51.8931296,-29.3190561 -51.8935454,-29.3193321 -51.8939263,-29.3195332 -51.8943474,-29.3197343 -51.8945888,-29.3199144 -51.894747,-29.320167 -51.8948355,-29.320471 -51.8948597,-29.3208241 -51.8949831,-29.3211282 -51.8950555,-29.3213784 -51.8950608,-29.3217736 -51.8950796,-29.3219771 -51.8951279,-29.322087 -51.8952915,-29.3222062 -51.8956187,-29.3223606 -51.8959165,-29.3226389 -51.8963188,-29.3231837 -51.89641,-29.3233264 -51.896453,-29.3235137 -51.896477,-29.323883 -51.8965092,-29.3240701 -51.896579,-29.3242291 -51.8968955,-29.3246968 -51.8971664,-29.3254077 -51.8972683,-29.3257608 -51.8973488,-29.3262098 -51.8973434,-29.3269277 -51.8973541,-29.3271194 -51.8974775,-29.3273837 -51.8977404,-29.3277508 -51.8978047,-29.3279379 -51.8979603,-29.3284898 -51.8980837,-29.3292123 -51.8980703,-29.3296262 -51.8980166,-29.3299934 -51.8978342,-29.3305288 -51.897727,-29.3330332 -51.8976197,-29.3337745 -51.8975231,-29.3347098 -51.8973502,-29.3354648 -51.8962115,-29.337677 -51.8959487,-29.3379833 -51.8954203,-29.3384463 -51.8949133,-29.3390191 -51.8944386,-29.3394423 -51.8933067,-29.3404384 -51.8929487,-29.3407749 -51.8927783,-29.3409083 -51.8925288,-29.3410697 -51.8921681,-29.3412892 -51.8919709,-29.3413923 -51.8915781,-29.3415394 -51.8912816,-29.3416682 -51.8910214,-29.3418272 -51.8904837,-29.3421427 -51.8897435,-29.3428067 -51.8890715,-29.3435527 -51.8888032,-29.3437585 -51.8885726,-29.3438824 -51.8881461,-29.3440274 -51.8874756,-29.344315 -51.8867701,-29.3445488 -51.8864175,-29.3447098 -51.8857294,-29.3451613 -51.8854197,-29.3453973 -51.8851286,-29.3457084 -51.8849155,-29.34597 -51.884631,-29.3464021</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">551271869</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9186541,-29.334536 -51.9185624,-29.3342 -51.9184658,-29.333896 -51.9183853,-29.3336154 -51.9182485,-29.3333629 -51.9179669,-29.3329794 -51.9178519,-29.3327748 -51.9176554,-29.3322307 -51.9175269,-29.3318486 -51.9174412,-29.3315507 -51.9173822,-29.3311754 -51.9174064,-29.3308843 -51.9175243,-29.3306539 -51.917755,-29.3302798 -51.9180381,-29.3299004 -51.9182826,-29.3295824 -51.9184832,-29.3292404 -51.9185932,-29.328968 -51.9187957,-29.3285108 -51.9189902,-29.3280724 -51.9190436,-29.3279769 -51.9190961,-29.3278829 -51.9191637,-29.3277402</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1211898134</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9119472,-29.3213016 -51.9118627,-29.3212484 -51.9112099,-29.3209332 -51.908073,-29.3195333 -51.907363,-29.3191212 -51.9069027,-29.3187959 -51.9066163,-29.3185441 -51.9062783,-29.3182211 -51.9041562,-29.3157797 -51.9025748,-29.3138945 -51.9020348,-29.3131195 -51.9019066,-29.31293 -51.9017009,-29.3125633 -51.9014262,-29.3120101 -51.9013817,-29.3119269 -51.9007666,-29.3107282 -51.9005728,-29.3103506 -51.9005561,-29.310318 -51.9003273,-29.3097908 -51.9000108,-29.3088522 -51.8997544,-29.3078664 -51.8995876,-29.3070697 -51.8995053,-29.3066653 -51.8995004,-29.3066423 -51.8993722,-29.3060406 -51.8992799,-29.3054688 -51.8992359,-29.3044883 -51.8992845,-29.3037078 -51.8994285,-29.3027946 -51.8997144,-29.3017276 -51.9001664,-29.2999612 -51.9010454,-29.2968489 -51.9015232,-29.2951309</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Geral de Palmas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">205494721</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9065111,-29.2935947 -51.9057383,-29.2945769 -51.9055181,-29.2948548 -51.9053424,-29.2950767 -51.9051677,-29.2952972 -51.9044639,-29.2961856 -51.9042763,-29.2963478 -51.9039751,-29.2965278 -51.9031849,-29.2968206 -51.9029675,-29.2970007 -51.9028271,-29.2972205 -51.9027379,-29.2974774 -51.9026193,-29.2985583 -51.9026193,-29.2987875 -51.9026971,-29.2989887 -51.9029412,-29.2993208 -51.903027,-29.299522 -51.9030297,-29.299667 -51.9029358,-29.3004295 -51.9028446,-29.3009909 -51.9027829,-29.3011593 -51.9025603,-29.3016201 -51.9024074,-29.3020107 -51.9023243,-29.3024084 -51.9022384,-29.3027686 -51.9017637,-29.3036808 -51.9016993,-29.3039545 -51.9016805,-29.3041579 -51.9017074,-29.3044737 -51.9017851,-29.3047427 -51.9018844,-29.3049275 -51.902217,-29.3053742 -51.9024584,-29.3056713 -51.9034803,-29.3067121 -51.9038236,-29.3070442 -51.9065031,-29.3096263 -51.9066335,-29.3097715 -51.9069672,-29.3101432 -51.9075098,-29.3108062 -51.907661,-29.3110019 -51.907686,-29.3110344 -51.9083968,-29.3118903 -51.9085599,-29.3120435 -51.9091097,-29.3125786 -51.9094723,-29.3129287 -51.9101992,-29.3135111 -51.9110981,-29.3143249 -51.9111728,-29.3143925 -51.9113741,-29.3145964 -51.9120618,-29.3152929 -51.9126025,-29.3158405 -51.913569,-29.3168191 -51.9136393,-29.3168903 -51.9140536,-29.3172834 -51.9144613,-29.3175875 -51.9158817,-29.3184619 -51.9182352,-29.3198793 -51.9184953,-29.320036 -51.9192122,-29.3204634 -51.9199625,-29.3209107 -51.9207269,-29.321369</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">381120894</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9034803,-29.3067121 -51.9033891,-29.3067963 -51.9031236,-29.3069202 -51.9029036,-29.3069811 -51.9025174,-29.3070021 -51.9014633,-29.3070044 -51.9003287,-29.3069717 -51.9000409,-29.30697 -51.8999317,-29.3069694 -51.8997762,-29.3068197 -51.8996447,-29.3067144 -51.8995053,-29.3066653</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 31 de Março</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">691214267</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8785339,-29.2936055 -51.8788771,-29.294411 -51.8790619,-29.2948006 -51.8792932,-29.295358 -51.8794394,-29.295624 -51.8796917,-29.2959789 -51.8801791,-29.2964876 -51.8805508,-29.2968461 -51.8808978,-29.2971848 -51.8812356,-29.2974981</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 31 de Março</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1152573005</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8778049,-29.2921353 -51.8778498,-29.292234 -51.8779149,-29.2923536 -51.8780704,-29.2926425 -51.8781629,-29.2928438 -51.8782743,-29.29308 -51.8784138,-29.2933911 -51.8785339,-29.2936055</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Cezário Piccinini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">541760066</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8758505,-29.2928246 -51.876787,-29.2928402 -51.8781629,-29.2928438</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1209461322</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8786622979534,-29.2914038013689 -51.8786645,-29.2914144 -51.8787181,-29.2914472 -51.8788067,-29.2915407 -51.8788737,-29.2916624 -51.8789193,-29.2918448 -51.8788683,-29.2918869 -51.878804,-29.2919267 -51.8778049,-29.2921353</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada para Cascalheira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">385276577</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8880517679715,-29.2913417102218 -51.8882221,-29.2915055 -51.8883313,-29.291588 -51.888375,-29.2916197 -51.8884514,-29.2916293 -51.8886479,-29.2916324 -51.8889462,-29.2916197 -51.8891173,-29.2916166 -51.8893865,-29.2916388 -51.8895175,-29.2916642 -51.8898304,-29.2916991 -51.8900633,-29.2917213 -51.8906273,-29.2917149 -51.8912532,-29.29168 -51.8915952,-29.2916769 -51.8917881,-29.2916991 -51.8920864,-29.2917213 -51.892323,-29.2917245 -51.8925376,-29.291734 -51.8926759,-29.291734 -51.8929088,-29.2917086 -51.8932035,-29.2916261 -51.8933782,-29.2915309 -51.8934801,-29.2914357 -51.8936452903384,-29.2913044073976</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Waldemar Redecker</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">691098835</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8814046004656,-29.2913857351689 -51.8813949,-29.2916273</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Senador Alberto Pasqualini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1279193881</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9588855004403,-29.423476029251 -51.9589164,-29.4234132 -51.9590586,-29.4230885 -51.9591559,-29.4227099 -51.9591632,-29.4224414 -51.9591095,-29.4220956 -51.9589551,-29.4213925</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792241</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9654273,-29.4183419 -51.9655075,-29.4183725 -51.9655765,-29.4184193 -51.9656235,-29.41847 -51.965657,-29.4185282 -51.9656758,-29.4185912 -51.9656788,-29.4186562 -51.9656685,-29.4187127 -51.9656463,-29.4187665 -51.965613,-29.4188158 -51.9655482,-29.4188753</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">273323323</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9635677,-29.4146788 -51.9638128,-29.4149654 -51.9643008,-29.415535 -51.9645541,-29.4158889 -51.964817,-29.4163604 -51.9649498,-29.4166561 -51.9650467,-29.4168812 -51.9651287,-29.417115 -51.9652729,-29.4176519 -51.9654273,-29.4183419 -51.9655214,-29.4187495 -51.9655482,-29.4188753 -51.9658244,-29.419706 -51.9659554,-29.4202673 -51.9661194,-29.4209617</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846700357</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9664034,-29.4222684 -51.9666191188519,-29.4234201350041</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1211706167</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9665039,-29.4188228 -51.9665672,-29.4189826 -51.9666329,-29.4191298 -51.9668606,-29.419364 -51.9671132,-29.4194578 -51.9672476,-29.4195718 -51.9673853,-29.4197497 -51.9673864,-29.4198702 -51.9673197,-29.4200317 -51.9671907,-29.4201438</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marcolina Heineck Schuh</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">576112154</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9671926,-29.4192678 -51.9670771,-29.4189202 -51.9669856,-29.4187297</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Caminhoneiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792242</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9671862,-29.4186857 -51.9669856,-29.4187297 -51.9665039,-29.4188228 -51.9659871,-29.4189059 -51.9658487,-29.4189068 -51.9657411,-29.4188764 -51.965613,-29.4188158</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Aloisio Schuh</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792240</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9674378,-29.4167131 -51.9675972,-29.4169385 -51.9678053,-29.4171263 -51.9677509,-29.4172259 -51.9675716,-29.4172874 -51.9674102,-29.4173688 -51.9672747,-29.4175113 -51.9671817,-29.4176879 -51.9670987,-29.4178831 -51.9670236,-29.4180265 -51.9669309,-29.4180954 -51.9657167,-29.4182982 -51.9656368,-29.4183397 -51.9655765,-29.4184193</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Assyria da Costa Mello</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">400601867</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9565848880556,-29.4234925701306 -51.9566004,-29.4232705 -51.9566229,-29.4230221 -51.9566457,-29.4229111 -51.9566819,-29.4228095 -51.956804,-29.4225652 -51.9568327,-29.4224659 -51.9568534,-29.4221459 -51.9568377,-29.4220565 -51.9567755,-29.4218513</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano Peixoto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1279193882</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9587901,-29.4204708 -51.9583264,-29.4190934 -51.9581788,-29.418757 -51.9579749,-29.4184392 -51.9577508,-29.4181766 -51.9574946,-29.4179371 -51.9572936,-29.4177968 -51.9567365,-29.4174754 -51.9564069,-29.4172634</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1211698346</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9541834,-29.4151977 -51.9547704,-29.4148698</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1211703200</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9531697,-29.4146672 -51.9538294,-29.4141603 -51.9541633,-29.4141743</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792252</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9802863,-29.4157657 -51.9801133,-29.4157788 -51.9800348,-29.4157524 -51.9799607,-29.4157619 -51.9799069,-29.415795 -51.9795394,-29.4160074 -51.9794431,-29.4160258</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792251</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9808273,-29.4151158 -51.980676,-29.4149953 -51.9805012,-29.4149271 -51.9803447,-29.4148771 -51.980196,-29.4148567 -51.9800786,-29.4148976 -51.9799533,-29.4149817 -51.9797261,-29.4151707</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">922377856</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9868633,-29.4155491 -51.9862707,-29.4156626 -51.9861782,-29.4156591 -51.9860414,-29.4156007 -51.985918,-29.4154652 -51.9856444,-29.4145844 -51.985568,-29.4142748 -51.9855452,-29.4142427 -51.9855089,-29.4142304 -51.9853983,-29.4142111 -51.985285,-29.4142152 -51.9850047,-29.41429 -51.9848545,-29.4143495 -51.9847593,-29.4143998 -51.9845916,-29.4144477</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1133294301</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0396845,-29.401496 -52.0395541,-29.4016627 -52.0394066,-29.4018511 -52.0393122,-29.4019475 -52.0392152,-29.4020466 -52.0370121,-29.4038458 -52.0365723,-29.4041755 -52.0362762,-29.4043918 -52.0361914,-29.4044654 -52.0361109,-29.4045379 -52.0359136,-29.4046675 -52.0345698,-29.4056813 -52.033393,-29.4066887 -52.030056,-29.4095514 -52.0294599,-29.4100622</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1117898225</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0548196,-29.4055921 -52.0542783,-29.4057619 -52.0535847,-29.4060716 -52.0533935,-29.4061316 -52.0532594,-29.4061493 -52.0530883,-29.4061373 -52.0530013,-29.4061202 -52.052927,-29.4060866 -52.0528567,-29.4060356 -52.0524243,-29.4057015 -52.0521807,-29.4055411 -52.0518523,-29.4053908 -52.0517711,-29.4053662 -52.051719,-29.4053554 -52.0515776,-29.4053459 -52.0513036,-29.4053542 -52.0465871,-29.4057776 -52.041122,-29.4062682 -52.040908,-29.4062541 -52.0407378,-29.4061939 -52.0405682,-29.4060789 -52.0404589,-29.4059607 -52.0401523,-29.405462 -52.0400738,-29.4053339 -52.0400093,-29.4052241 -52.039915,-29.4051034 -52.0397773,-29.4050037 -52.0396801,-29.4049538</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1280900702</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0396801,-29.4049538 -52.0392807,-29.404833 -52.0388932,-29.4047585 -52.0383996,-29.4046725 -52.0379383,-29.4046237 -52.0374359,-29.4045865 -52.0370267,-29.404542</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792249</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9801268,-29.4170727 -51.9798468,-29.4167301 -51.9796746,-29.416471 -51.9795989,-29.4163301 -51.9794998,-29.4161574 -51.9794431,-29.4160258 -51.9794137,-29.4159574 -51.9793641,-29.415837 -51.9792258,-29.4156552 -51.9789363,-29.4152871 -51.978761,-29.4150704 -51.9787432,-29.4150484 -51.9785788,-29.4148757 -51.9784693,-29.4147689 -51.9783936,-29.4146712 -51.9783362,-29.414528 -51.9783101,-29.4143644 -51.9782475,-29.4141803 -51.9781588,-29.4140258 -51.9780336,-29.413894 -51.9779035,-29.4137345 -51.9776575,-29.4134769 -51.9775336,-29.4133678 -51.9772866,-29.4132082 -51.976824,-29.4129407 -51.9765624,-29.4127467 -51.9762754,-29.4125902 -51.976034,-29.4125259 -51.9758208,-29.4125084 -51.9755687,-29.4124558 -51.9754185,-29.4123811 -51.9752927,-29.4122892 -51.9752696,-29.4122724 -51.9751247,-29.4121895 -51.9749169,-29.4121229 -51.9746551,-29.4120668 -51.974499,-29.4119946 -51.9743589,-29.4119001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua do Umbú</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893850611</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.984977,-29.4048652 -51.9841141,-29.4053171 -51.9834868,-29.4056456 -51.982785,-29.4059692 -51.9821534,-29.406408 -51.9817159,-29.4067244 -51.9813031,-29.4070553 -51.9809522,-29.4073358 -51.980073,-29.4082384 -51.9797923,-29.4084685 -51.979235,-29.4088245 -51.978686,-29.4092093 -51.9776143,-29.4100486 -51.9772275,-29.4103399 -51.9766426,-29.4107591 -51.9764425,-29.4108626 -51.9761242,-29.4110228 -51.975978,-29.4110972 -51.9758618,-29.4111602 -51.9753822,-29.4114206 -51.9750288,-29.4116237 -51.9748387,-29.4117336 -51.9743589,-29.4119001 -51.974331,-29.4119098 -51.9740517,-29.4119964 -51.9739683,-29.412018 -51.9739197,-29.4120306 -51.9735893,-29.4121451 -51.9734873,-29.4121836 -51.9734122,-29.4122161 -51.9729633,-29.4124291 -51.9727706,-29.4125139 -51.9725364,-29.4126463 -51.9723059,-29.4127946 -51.9722401,-29.4128468 -51.9718797,-29.4131718 -51.971772,-29.4132923 -51.9716962,-29.4133478 -51.9714951,-29.4134848 -51.9713428,-29.413582 -51.9710096,-29.4137948 -51.9708924,-29.4138696 -51.9705415,-29.4139739 -51.9703001,-29.4139958 -51.9697359,-29.4140471 -51.9694724,-29.414071 -51.9692843,-29.4140669 -51.968651,-29.414053 -51.9681969,-29.4139199 -51.9678323,-29.4137307 -51.9678089,-29.4137186 -51.9675075,-29.4135891 -51.9671936,-29.4135166 -51.9669622,-29.4135314 -51.9665442,-29.4135641 -51.9663622,-29.4135774 -51.9661722,-29.4136071 -51.9658847,-29.4136521 -51.9653644,-29.4138671 -51.9647605,-29.4141173 -51.9643863,-29.414251 -51.9641651,-29.4143301 -51.9638232,-29.4144039</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1228433543</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.979235,-29.4088245 -51.9791669,-29.4087641 -51.9788155,-29.408673 -51.9784373,-29.4085912 -51.9782388,-29.408465 -51.9780725,-29.4082781 -51.9779599,-29.4081659 -51.97763,-29.4079183 -51.9774154,-29.4077594 -51.9772491,-29.4075234 -51.9770023,-29.4071612 -51.9767649,-29.4068922</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa João Antônio Rauber</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">302792253</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9876225,-29.4095948 -51.9870995,-29.4090228 -51.9841141,-29.4053171</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Antônio Rauber</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226182</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.984977,-29.4048652 -51.9848273,-29.4047313 -51.9845419,-29.404647 -51.984323,-29.4046192 -51.9841728,-29.404507 -51.9840865,-29.4043472 -51.9840154,-29.4042389 -51.983851,-29.4040397 -51.9836461,-29.4038151 -51.9834701,-29.403792 -51.983233,-29.4038478 -51.9830034,-29.4039088 -51.9828253,-29.4037263 -51.9825313,-29.4032032 -51.9817578,-29.4022869 -51.9811902,-29.4016422 -51.9802933,-29.4005017 -51.9796614,-29.3996466 -51.9793223,-29.3993566 -51.9788299,-29.3987586 -51.9779126,-29.3976183 -51.9767852,-29.396258 -51.9762653,-29.3956299 -51.9760378,-29.395355</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">404377954</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9898235,-29.3924139 -51.9898278,-29.3925687 -51.9898078,-29.3929575 -51.9898339,-29.3931197 -51.9898339,-29.3933013 -51.9898376,-29.3934538 -51.9898115,-29.39371 -51.9898302,-29.3944172 -51.9898525,-29.3949037 -51.9898376,-29.3953967 -51.989845,-29.3957989 -51.9899195,-29.3961947 -51.9899121,-29.3963179 -51.9898897,-29.3963828 -51.9898599,-29.3968045 -51.9898302,-29.3970704 -51.9898525,-29.3972586 -51.9900684,-29.3975764 -51.9903588,-29.3980954 -51.9907758,-29.3987765 -51.9910364,-29.3992047 -51.9911704,-29.3994252 -51.9912225,-29.3996393 -51.9912002,-29.4000999 -51.9912002,-29.4006188 -51.99123,-29.4011767 -51.9914012,-29.4014556 -51.9914906,-29.4016243 -51.9915055,-29.4018384 -51.9915055,-29.4020978 -51.9915725,-29.4023054 -51.9916455,-29.402425</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235429</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0349807,-29.4041016 -52.035126,-29.4041882 -52.0353191,-29.4042677 -52.0356101,-29.4043261 -52.0358422,-29.4043389 -52.0359096,-29.4043619</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Governador Leonel de Moura Brizola</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1199323642</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.029541,-29.4098478 -52.0299728,-29.4094778 -52.0333098,-29.4066151 -52.0344893,-29.4056053 -52.0352416,-29.4050378 -52.0360754,-29.4044121 -52.0363066,-29.4042433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua do Umbú</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231226024</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0273157,-29.386189 -52.0268422,-29.3863766 -52.0264237,-29.3865168 -52.0261662,-29.3867692 -52.0258176,-29.3872039 -52.025662,-29.3875965 -52.0254421,-29.3879891 -52.0252167,-29.3883491 -52.0249914,-29.3888118 -52.0249646,-29.3893072 -52.0250129,-29.3900411 -52.0250183,-29.3907281 -52.0249485,-29.3910647 -52.0249539,-29.3917938 -52.0248466,-29.3919714 -52.0246588,-29.3923921 -52.0242726,-29.3927847 -52.023881,-29.3930931 -52.0232748,-29.393224 -52.0226579,-29.3933596 -52.022041,-29.3936026 -52.0215636,-29.3938784 -52.0209735,-29.3939952 -52.0205926,-29.3939859 -52.0200562,-29.3938877 -52.0188867,-29.3935746 -52.018361,-29.393411 -52.0173954,-29.3931726 -52.0166605,-29.3930137 -52.0154213,-29.3926772 -52.0147937,-29.3924762 -52.0140158,-29.3922285 -52.0133185,-29.3920415 -52.0123636,-29.3917985 -52.0121598,-29.3917658 -52.0118647,-29.3918312 -52.0113068,-29.3921537 -52.0104914,-29.3925837 -52.009896,-29.3929062 -52.0096868,-29.3931679 -52.0091718,-29.3939157 -52.0088664,-29.394388 -52.0087909,-29.3945046 -52.0086943,-29.3950375 -52.0086943,-29.3956497 -52.0086729,-29.3961825 -52.0084583,-29.3966733 -52.0077985,-29.3972949 -52.0071172,-29.3979912 -52.0066666,-29.3985614 -52.0062482,-29.3991082 -52.0055883,-29.3995616 -52.0045262,-29.4002299 -52.0036142,-29.4008001 -52.0033788,-29.4009475 -52.0027184,-29.4013609 -52.0022839,-29.4014637 -52.0012807,-29.4016506 -52.000637,-29.4015665 -51.999151,-29.4013796 -51.9981854,-29.4012113 -51.9973915,-29.4010665 -51.9965064,-29.4009543 -51.9960933,-29.4010057 -51.9953745,-29.4010852 -51.9945645,-29.4013235 -51.9935667,-29.4017394 -51.992526,-29.4021647 -51.9916455,-29.402425 -51.9913404,-29.4025152 -51.9898062,-29.4029545 -51.9888621,-29.40302 -51.9875693,-29.4031602 -51.9872313,-29.4032957 -51.9865071,-29.4036742 -51.9861039,-29.403923 -51.9854145,-29.4045596 -51.984977,-29.4048652</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235418</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0550884,-29.3742451 -52.0550025,-29.3747406 -52.0549382,-29.37518 -52.0547665,-29.3756007 -52.054686,-29.3762038 -52.054686,-29.3766479 -52.0546699,-29.3768769 -52.0544393,-29.3772509 -52.0541335,-29.3776856 -52.0539565,-29.3780596 -52.0537365,-29.3784008 -52.0534468,-29.3786953 -52.0531089,-29.3790412 -52.0529533,-29.3793918 -52.052728,-29.3797705 -52.0524222,-29.3801164 -52.0521004,-29.3804015 -52.0516873,-29.3806352 -52.0510972,-29.3808596 -52.0504374,-29.3811494 -52.0498366,-29.3814159 -52.0494504,-29.3815281 -52.0489837,-29.3815655 -52.0484526,-29.3816543 -52.0480932,-29.3818272 -52.0479215,-29.382089 -52.0477284,-29.3824816 -52.0476694,-29.3827621 -52.0475567,-29.3830519 -52.0473046,-29.3832996 -52.0468754,-29.3836128 -52.0465321,-29.3837811 -52.0460976,-29.3838933 -52.0456255,-29.3839821 -52.0452607,-29.3840709 -52.0450623,-29.384141 -52.0448852,-29.3843467 -52.0447189,-29.3846225 -52.0445312,-29.3848515 -52.0442522,-29.3850011 -52.0438821,-29.3851507 -52.0433564,-29.3853703 -52.0428146,-29.385562 -52.0424391,-29.3857162 -52.042026,-29.3860995 -52.0417739,-29.3864454 -52.0415432,-29.3867352 -52.0413608,-29.3870437 -52.0412696,-29.3873335 -52.0411409,-29.3874691 -52.0408351,-29.3875392 -52.0404381,-29.3876467 -52.0401431,-29.3876607 -52.0400171,-29.3876582 -52.0399017,-29.387656 -52.0395597,-29.3877799 -52.0394511,-29.3880112 -52.0394511,-29.3882683 -52.0395637,-29.3885581 -52.0397086,-29.3888947 -52.0396978,-29.389091 -52.0395476,-29.3893153 -52.0388878,-29.3901239 -52.0385445,-29.3904231 -52.0382441,-29.3906708 -52.0379544,-29.3909045 -52.0377023,-29.3911662 -52.0373751,-29.3915355 -52.0368493,-29.3922132 -52.0365858,-29.3926026 -52.0365489,-29.3926572 -52.0361949,-29.392989 -52.0359052,-29.393204 -52.0352776,-29.3937602 -52.0350952,-29.3941388 -52.0349879,-29.3945221 -52.035004,-29.39491 -52.0351381,-29.3952325 -52.0354707,-29.3959149 -52.0356209,-29.396228 -52.0357657,-29.3964149 -52.0359052,-29.3965739 -52.0360822,-29.3967982 -52.0361895,-29.3970365 -52.0363397,-29.3974665 -52.0365972,-29.3976675 -52.0368172,-29.3978404 -52.0370264,-29.3980227 -52.0371176,-29.3981769 -52.0372088,-29.3985274 -52.0372356,-29.3988452 -52.0368869,-29.3993921 -52.0365972,-29.3996164 -52.0364309,-29.3999529 -52.0363075,-29.4003314 -52.036109,-29.400682 -52.0359535,-29.4010278 -52.0356692,-29.4017662 -52.0355243,-29.4020887 -52.0355136,-29.4023925 -52.0355672,-29.4026682 -52.0355458,-29.4029953 -52.0353473,-29.4036823 -52.0351327,-29.4040001 -52.0349807,-29.4041016 -52.0348806,-29.4041683 -52.0343817,-29.4043039 -52.0339847,-29.4043272 -52.0335636,-29.4043529 -52.033046,-29.404388 -52.0327402,-29.4044207 -52.0325337,-29.4045072 -52.0323325,-29.4046941 -52.0321152,-29.4050072 -52.0319865,-29.4053133 -52.0318846,-29.4056685 -52.0317022,-29.4060096 -52.0316324,-29.4061639 -52.0313535,-29.406713 -52.0307688,-29.4076593 -52.0304871,-29.4081453 -52.0303825,-29.4083416 -52.0300178,-29.4089234 -52.0298434,-29.4092482 -52.0298515,-29.409358 -52.0299728,-29.4094778</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235422</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.043156,-29.3722568 -52.0431016,-29.3748528 -52.0431981,-29.3752268 -52.0434342,-29.3753623 -52.0438901,-29.3754932 -52.0443461,-29.3756194 -52.044668,-29.3756849 -52.04536,-29.375741 -52.0456443,-29.3758906 -52.0458642,-29.3760495 -52.0462076,-29.3762552 -52.046685,-29.3763721 -52.0472979,-29.3767378 -52.0476506,-29.3769611 -52.047729,-29.3770376 -52.0478504,-29.3772819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>VRS-811</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">512958565</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0029529,-29.3790729 -52.0030804,-29.3791192 -52.0032218,-29.3791672 -52.0038162,-29.3793199 -52.0045264,-29.3794398 -52.0060517,-29.3795658 -52.0075021,-29.3795571 -52.0083835,-29.3795885 -52.0092662,-29.3797414 -52.0104978,-29.3799617 -52.0111764,-29.3801043 -52.0114392,-29.3802036 -52.0116331,-29.3803795 -52.0117821,-29.3807421 -52.0118952,-29.3810065 -52.0120668,-29.3813103 -52.0125136,-29.3819234 -52.0127589,-29.3822429 -52.012952,-29.3825525 -52.0131752,-29.3831021 -52.0133174,-29.3832858 -52.0134965,-29.3834395 -52.0138384,-29.3835984 -52.0141681,-29.383674 -52.0196685,-29.383729 -52.0198868,-29.3837632 -52.0201006,-29.3838739 -52.0205721,-29.3843907 -52.0210226,-29.3849207 -52.0214385,-29.3852847 -52.0216611,-29.3854249 -52.0219031,-29.3855451 -52.022274,-29.3856539 -52.022679,-29.3856773 -52.0234327,-29.3856773 -52.0248303,-29.385682 -52.0262577,-29.3857067 -52.026591,-29.3857334 -52.0268108,-29.3858228 -52.0273157,-29.386189 -52.0288092,-29.3856458 -52.0288773,-29.3856172 -52.0289887,-29.3855704 -52.0292169,-29.3853936 -52.0295176,-29.38487 -52.0296958,-29.3841633 -52.0298223,-29.3836618 -52.0300865,-29.3830506 -52.0306314,-29.3824203 -52.0311142,-29.382037 -52.0316587,-29.3816631 -52.0320235,-29.3814878 -52.0324365,-29.3814317 -52.0328496,-29.3813616 -52.0331527,-29.3811676 -52.0333807,-29.3808895 -52.0335577,-29.3805248 -52.033555,-29.3800854 -52.0335899,-29.3795923 -52.033783,-29.3792581 -52.0340593,-29.3790337 -52.0344723,-29.3787859 -52.0348452,-29.37862 -52.0351241,-29.3784283 -52.0353306,-29.378211 -52.0355881,-29.3778884 -52.0359731,-29.3774865 -52.0361593,-29.377292 -52.0363925,-29.3770897 -52.0365351,-29.3769579 -52.0366446,-29.3768503 -52.0367361,-29.3767244 -52.0367865,-29.376607 -52.0368135,-29.376504 -52.0368458,-29.3763406 -52.0368464,-29.3762503 -52.0369117,-29.3761526 -52.0370039,-29.3760823 -52.0375755,-29.3757865 -52.0379306,-29.3756343 -52.0382552,-29.3754471 -52.0383003,-29.3754157 -52.0385879,-29.3752154 -52.0386475,-29.3751662 -52.0388413,-29.3750063 -52.0390182,-29.3748789 -52.0391489,-29.3748237 -52.0393935,-29.3748158 -52.0396351,-29.3747959 -52.0397417,-29.3747554 -52.0398934,-29.3746958 -52.0403908,-29.3742716 -52.0406001,-29.3740947 -52.0408572,-29.3739198 -52.0410948,-29.3737669 -52.0413218,-29.3735728 -52.0414024,-29.3734135 -52.0413978,-29.3729881 -52.0414686,-29.3728448 -52.0416075,-29.3727467 -52.0417431,-29.3727142</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">405235428</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0550884,-29.3742451 -52.0550749,-29.3738395 -52.0551554,-29.3734188 -52.0556168,-29.3728625 -52.0557401,-29.372582 -52.0560191,-29.3721753 -52.0563839,-29.3718668 -52.0567916,-29.3717312 -52.0572422,-29.3716517 -52.0577464,-29.3715489 -52.0581863,-29.3715442 -52.0587013,-29.3715582 -52.0590768,-29.3714788 -52.0593718,-29.3711562 -52.0594094,-29.3708477 -52.0593075,-29.3704877 -52.0591304,-29.3699127 -52.0590071,-29.3694405 -52.0590875,-29.3689683 -52.0593327,-29.3684572 -52.0597056,-29.3679827 -52.0601857,-29.3674801 -52.0604619,-29.3671809 -52.0608053,-29.3668186 -52.061213,-29.3664469 -52.0617601,-29.366129 -52.0622107,-29.3657901 -52.0626602,-29.3654761 -52.0630465,-29.3652984 -52.0634338,-29.3651215 -52.0637101,-29.3648737 -52.0637741028256,-29.3647544318523</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49016422</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0417431,-29.3727142 -52.0418903,-29.3726973 -52.0420325,-29.3726857 -52.042159,-29.3726599 -52.0423442,-29.3725926 -52.042577,-29.3724987 -52.0427889,-29.3724098 -52.0429567,-29.3723354 -52.043156,-29.3722568 -52.0433521,-29.3721738 -52.0435184,-29.3720849 -52.043662,-29.3719883 -52.0438027,-29.3718886 -52.0439181,-29.3717811 -52.0441031,-29.3716081 -52.0442852,-29.3714369 -52.0445108,-29.3711944 -52.0447362,-29.3709466 -52.0451304,-29.3705422 -52.0452592,-29.3704222 -52.0454738,-29.3702313 -52.0456722,-29.3700724 -52.0459826,-29.3698413 -52.0462516,-29.369654 -52.0463729,-29.3695552 -52.0464903,-29.3694413 -52.0465627,-29.3693197 -52.0466003,-29.3691958 -52.0466126,-29.3690583 -52.0466137,-29.3688569 -52.0466298,-29.3684198 -52.0466474,-29.3678755 -52.04667,-29.3677232 -52.0467156,-29.3675806 -52.0467842,-29.3674478 -52.0468578,-29.3673492 -52.046957,-29.3672534 -52.047086,-29.3671731 -52.0478893,-29.3668096 -52.048054,-29.3667204 -52.0481951,-29.3666273 -52.0483169,-29.3665241 -52.048392,-29.3664399 -52.0484483,-29.3663487 -52.0484768,-29.3662346 -52.0485154,-29.3659327 -52.0485668,-29.3655617 -52.0486822,-29.3648677 -52.0487085,-29.3647428 -52.0487568,-29.3646306 -52.0488158,-29.3645465 -52.0489016,-29.364467 -52.0489911,-29.3644123 -52.0491062,-29.3643657 -52.049304,-29.3643034 -52.0494971,-29.364259 -52.0496574,-29.3642013 -52.0498458,-29.3641047 -52.0500147,-29.3639925 -52.050122,-29.3638873 -52.0501912,-29.3637878 -52.0502454,-29.3636231 -52.0502749,-29.3634852 -52.0503242,-29.3633285 -52.0503916,-29.3632152 -52.0505673,-29.3630037 -52.0506941,-29.3628426 -52.050857,-29.3625291 -52.0509776,-29.3622299 -52.0510146,-29.3620952 -52.0510313,-29.3619634 -52.051042,-29.3613182 -52.051042,-29.3606286 -52.0510572,-29.3605041 -52.0510823,-29.3603995 -52.0511305,-29.360299 -52.0512073,-29.3602246 -52.0518444,-29.3597187 -52.0522624,-29.3593335 -52.0524165,-29.359163 -52.0525414,-29.3589548 -52.052654,-29.3586743 -52.0527721,-29.3582956 -52.0528271,-29.3579894 -52.0528472,-29.3576784 -52.0528579,-29.3573558 -52.0527774,-29.3563693 -52.0527904,-29.3561178 -52.0528284,-29.3559765 -52.0528954,-29.3558643 -52.0530248,-29.3557496 -52.053228,-29.3556586 -52.0536947,-29.3555674 -52.0538691,-29.3555393 -52.0539966,-29.3554945 -52.0541158,-29.3553967 -52.0541879,-29.3552779 -52.0541909,-29.3551536 -52.054148,-29.354838 -52.0541069,-29.3547157 -52.0540488,-29.3546206 -52.0539227,-29.3544149 -52.0538679,-29.354307 -52.0538422,-29.3541928 -52.0538664,-29.3540852 -52.0539308,-29.35398 -52.0540217,-29.3538717 -52.0542929,-29.3535335 -52.0543519,-29.3534353 -52.0543867,-29.3533278 -52.0543963,-29.3532138 -52.0543385,-29.3529981 -52.0542955,-29.3527643 -52.0543036,-29.3526194 -52.0543268,-29.3525015 -52.0543599,-29.3523716 -52.0545984,-29.3517267 -52.0550519,-29.3510016 -52.0553652,-29.3504224 -52.055937,-29.3493862 -52.0560256,-29.3492668 -52.0561516,-29.349192 -52.0563136,-29.3491818 -52.0572352,-29.349337 -52.0575552,-29.3493509 -52.0578092,-29.3493229 -52.0583111,-29.3491777 -52.058565,-29.3491282 -52.0587561,-29.3491429 -52.0589304,-29.3491967 -52.0590872,-29.3492901 -52.0592217,-29.3494181 -52.05944,-29.3496222 -52.0596009,-29.3497531 -52.0597404,-29.3498396 -52.0598612,-29.3498817 -52.0600033,-29.3498981 -52.0601669,-29.3498724 -52.0603305,-29.3498233 -52.0604754,-29.3497437 -52.0606309,-29.3496199 -52.0607838,-29.3494632 -52.0608643,-29.3493113 -52.0609233,-29.3491756 -52.0609528,-29.3490704 -52.0609501,-29.3489091 -52.0608589,-29.3485888 -52.0607007,-29.3481633 -52.0606497,-29.3479926 -52.060647,-29.3478407 -52.0606792,-29.3477098 -52.0607329,-29.3475952 -52.060867,-29.3473848 -52.060985,-29.3471861 -52.0610762,-29.3470084 -52.0611727,-29.346812 -52.0612612,-29.3466062 -52.0613283,-29.3464169 -52.0613658,-29.3462719 -52.0613793,-29.3460872 -52.0613498,-29.3457037 -52.0613524,-29.3455284 -52.0613766,-29.3453881 -52.0615697,-29.3443921 -52.0616019,-29.3440811 -52.0615965,-29.3437632 -52.0615536,-29.3434639 -52.0615161,-29.3432184 -52.0614249,-29.3426268 -52.0613927,-29.3424024 -52.0613069,-29.342192 -52.061162,-29.3420049 -52.0607811,-29.341729 -52.0606792,-29.3416449 -52.0606202,-29.3415677 -52.0605692,-29.3414719 -52.0605022,-29.3412568 -52.0604673,-29.3411211 -52.060403,-29.3410065 -52.0603171,-29.3409271 -52.0602232,-29.3408686 -52.0599711,-29.3406628 -52.0599255,-29.3405646 -52.0599014,-29.3404781 -52.0598986,-29.3403776 -52.059896,-29.3402864 -52.0599228,-29.3401882 -52.0599819,-29.3400503 -52.0600918,-29.3399053 -52.0606765,-29.3393208 -52.0607945,-29.3391805 -52.0608965,-29.3390121 -52.060985,-29.3388484 -52.061044,-29.3386941 -52.0610654,-29.3385352 -52.061052,-29.3383878 -52.0610037,-29.3382452 -52.0608482,-29.3378757 -52.0605424,-29.3372678 -52.0601642,-29.3365149 -52.0599202,-29.3359888 -52.0596063,-29.3352218 -52.0593032,-29.3343216 -52.0591289,-29.3337581 -52.0591047,-29.3335921 -52.0591021,-29.3333769 -52.0592093,-29.3326544 -52.0593488,-29.331083 -52.0593891,-29.330931 -52.0595071,-29.3307767 -52.0603976,-29.3300308 -52.0607369,-29.329666 -52.0609246,-29.3293585 -52.060997,-29.3290557 -52.0610265,-29.3287446</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">514878089</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.063272,-29.3271622 -52.0628759,-29.3271849 -52.0627365,-29.3272153 -52.0623156,-29.3273693 -52.0622427,-29.327419 -52.0620668,-29.327612 -52.0616911,-29.3278808 -52.0609018,-29.3282986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 20 de Março</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Arroio_do_Meio_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">947061753</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-52.0610265,-29.3287446 -52.0609856,-29.3284944 -52.0609018,-29.3282986 -52.0603144,-29.3277134 -52.0599329,-29.3272779 -52.0596908,-29.3268985 -52.0595889,-29.326626 -52.0594829,-29.3261537 -52.0594253,-29.3259502 -52.0590404,-29.3249096 -52.0590109,-29.3247728 -52.0590028,-29.3246547 -52.0590425,-29.3238089 -52.05909,-29.3233755 -52.0592375,-29.3230657 -52.0594588,-29.3228751 -52.0598,-29.3226773 -52.0605585,-29.3223594 -52.0606913,-29.3222483 -52.0607758,-29.3221057 -52.0608173,-29.3219467 -52.0611006,-29.3198082 -52.0612359,-29.3191571 -52.0612586,-29.3190585 -52.0614035,-29.3186349 -52.0618096,-29.3179809 -52.06196,-29.3176869 -52.0620466,-29.3173761 -52.0620592,-29.3171985 -52.0620398,-29.3169635 -52.0618285,-29.3162942 -52.0614959,-29.3156276 -52.0610024,-29.3148594 -52.0605551,-29.3142969</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

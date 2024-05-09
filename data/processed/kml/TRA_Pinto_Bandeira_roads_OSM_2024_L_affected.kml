@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Pinto_Bandeira_roads_OSM_2024_L_affected" id="TRA_Pinto_Bandeira_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Pinto_Bandeira_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pinto_Bandeira_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">691541600</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">148</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.5221905431557,-29.0278337926797 -51.5217644,-29.0275283 -51.5213513,-29.0270124 -51.5205896,-29.0265011 -51.5198708,-29.0259664 -51.5195704,-29.0258491 -51.5190017,-29.0255207 -51.5184009,-29.0251736 -51.5182185,-29.0251596 -51.5181863,-29.0252299 -51.5183634,-29.0254551 -51.5192056,-29.0263041 -51.5200102,-29.0271625 -51.5204018,-29.0274767 -51.5207934,-29.0278895 -51.5210348,-29.028321 -51.5213084,-29.0289402 -51.5216518,-29.0292544 -51.5220058,-29.0294233 -51.5221185,-29.0296813 -51.5222006359902,-29.0298394425121</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

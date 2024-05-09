@@ -1,0 +1,2701 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Sapiranga_roads_OSM_2024_L_affected" id="TRA_Sapiranga_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Sapiranga_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207259684</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-50.987853,-29.7018004 -50.9880701,-29.7017818 -50.9885053,-29.7019427 -50.9889362,-29.7020475 -50.9892379,-29.702118 -50.9896055,-29.7022845 -50.9899479,-29.7024345 -50.9902306,-29.702852 -50.9906939,-29.7034497 -50.9912568,-29.7041368 -50.9917204,-29.7046193 -50.9922391,-29.7051818 -50.992482,-29.7053991 -50.9928168,-29.7054854 -50.9934386,-29.7055461 -50.9941818,-29.7056164 -50.994719,-29.7056675 -50.9950391,-29.7057283 -50.9953702,-29.705805 -50.9956719,-29.7059328 -50.9959,-29.7060766</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207613156</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-50.9891982,-29.6972655 -50.9894932,-29.6973536 -50.9898056,-29.6974459 -50.9900762,-29.6974459 -50.9904208,-29.6974012 -50.9906334,-29.6973956 -50.9907977,-29.6974739 -50.9910038,-29.6975383 -50.9911358,-29.6976558 -50.9913226,-29.6979495 -50.9915127,-29.6982965</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1198875676</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-50.9899937,-29.6950348 -50.9882192,-29.6951761 -50.9870502,-29.6952354</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente Kennedy</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530724532</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-50.9946812,-29.6690614 -50.993683,-29.6710848 -50.9932462,-29.6719368 -50.9931834,-29.6720578 -50.9928783,-29.6726553 -50.9925806,-29.6738724 -50.9924755,-29.6743896 -50.9925106,-29.6746635 -50.9925631,-29.6749829 -50.9934386,-29.6774627 -50.9935436,-29.6777365 -50.9935086,-29.6781777 -50.9933069,-29.6815066 -50.9931934,-29.6833803 -50.9929483,-29.6847646 -50.99274,-29.6858074 -50.9922129,-29.6884458 -50.9918102,-29.6901799 -50.9903919,-29.6938761 -50.9899937,-29.6950348 -50.9896915,-29.6959143 -50.9894814,-29.6965075 -50.9891982,-29.6972655 -50.9886234,-29.6988042 -50.9884133,-29.6994582 -50.987923,-29.7016484 -50.987853,-29.7018004 -50.985826,-29.702946 -50.9853477,-29.7030419 -50.9850126,-29.7030369 -50.9842437,-29.7029534</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pio XII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207604648</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0048030065098,-29.7063304074111 -51.0052547,-29.7057391 -51.0052801,-29.7055594 -51.0052059,-29.7053931 -51.0049638,-29.7051085 -51.0048858,-29.7049313 -51.0048519,-29.7047327 -51.0047935,-29.7040884 -51.004675,-29.7033294 -51.0045952,-29.7028183 -51.0044523,-29.7011788 -51.0044479,-29.7009092 -51.0044812,-29.7007669 -51.0045881,-29.7006161 -51.0047423,-29.7004841 -51.00573,-29.6997769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pio XII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1207604649</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.00573,-29.6997769 -51.0058483,-29.6996775</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mathias Muller</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920724192</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0495642,-29.7011705 -51.0490465,-29.7017856 -51.0486603,-29.7020395 -51.0481453,-29.7021584 -51.0478422,-29.7020908 -51.0474452,-29.7017669 -51.0469718,-29.7012101 -51.0461484,-29.7004634 -51.0458078,-29.7002176 -51.0448824,-29.6998856 -51.0447764,-29.6998192 -51.0446186,-29.6997028</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada das Tranqueiras</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614416</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0522759,-29.6969986 -51.0522149,-29.6967553 -51.0521215,-29.6965406 -51.0519617,-29.6962599 -51.0516079,-29.6957685 -51.0514374,-29.695441 -51.051186,-29.6950261 -51.0508233,-29.6946112 -51.0507425,-29.6945082 -51.0506832,-29.6943554 -51.0506652,-29.6941996</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614458</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0506652,-29.6941996 -51.0509005,-29.6937816 -51.0509974,-29.6934556 -51.0509867,-29.6932726 -51.0509439,-29.6931526 -51.05086,-29.693049 -51.0506058,-29.6928766 -51.0505646,-29.6927991 -51.0505522,-29.6926867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920720953</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.046031,-29.6918199 -51.0463121,-29.6913625 -51.0464334,-29.6912623 -51.0466253,-29.6912037 -51.0481455,-29.6911112</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Monteiro Lobato</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614454</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0506824,-29.6898883 -51.0506479,-29.6906297 -51.0506136,-29.6913676 -51.0505855,-29.6919707 -51.050565,-29.6924124 -51.0505522,-29.6926867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">921297822</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.04839,-29.6910261 -51.0485153,-29.6911088</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614450</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.048826,-29.690681 -51.0488083,-29.6907959 -51.0486838,-29.6910209 -51.0485153,-29.6911088 -51.0483461,-29.6911246 -51.0481455,-29.6911112</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">137735203</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0481455,-29.6911112 -51.04839,-29.6910261 -51.048613,-29.6908743 -51.0487629,-29.6907187 -51.048826,-29.690681</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920720952</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.048826,-29.690681 -51.0490899,-29.6901366 -51.0494988,-29.6896206</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Minicípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919140679</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0506824,-29.6898883 -51.0498323,-29.6896094 -51.0497663,-29.6895216</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua das Flores</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051549</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.055848965822,-29.6943773728266 -51.0550299,-29.6941178 -51.0541803,-29.6938464 -51.053358,-29.6935722 -51.0532673,-29.6935437 -51.0515582,-29.6930064 -51.0505522,-29.6926867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Avelino Blankheih</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698361057</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.055848551768,-29.693628681431 -51.0553098,-29.693459</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Marechal Floriano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614445</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.05584775976,-29.6921964955888 -51.0558093,-29.6922948 -51.0555396,-29.6929205 -51.0553098,-29.693459 -51.0550299,-29.6941178</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Avelino Blankheih</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614456</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0553098,-29.693459 -51.0535372,-29.6929008 -51.0518297,-29.692363 -51.0505855,-29.6919707</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Correa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614452</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0485153,-29.6911088 -51.0486046,-29.6911703 -51.048788,-29.6912966 -51.0489073,-29.6913694 -51.0506136,-29.6913676 -51.0520582,-29.6918216 -51.0537643,-29.6923602 -51.0555396,-29.6929205 -51.0558482163622,-29.6930221806924</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alberto Fleck</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614436</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0543326,-29.6910476 -51.0540392,-29.6917057 -51.0537643,-29.6923602 -51.0535372,-29.6929008 -51.0532673,-29.6935437</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua José Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614417</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0490899,-29.6901366 -51.0506479,-29.6906297 -51.052335,-29.6911654 -51.0540392,-29.6917057 -51.0558093,-29.6922948 -51.055847820854,-29.6923069754122</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Jorge</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051548</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0528584,-29.6902705 -51.0526158,-29.6905 -51.052335,-29.6911654 -51.0520582,-29.6918216 -51.0518297,-29.692363 -51.0515582,-29.6930064</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Minicípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614455</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558473911805,-29.691529959059 -51.0543326,-29.6910476 -51.0526158,-29.6905 -51.0506824,-29.6898883</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797281</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558471964673,-29.6911778320535 -51.0549018,-29.6908815 -51.0547224,-29.6908243 -51.0545585,-29.690772 -51.0545292,-29.6907626 -51.0532927,-29.6903938 -51.0529599,-29.6902943 -51.0528584,-29.6902705 -51.0526487,-29.6902081 -51.0523757,-29.6901245 -51.0520462,-29.6900235 -51.0503447,-29.6895021 -51.0501913,-29.6894524</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836523</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0497008,-29.6895142 -51.0496488,-29.6895371 -51.0495634,-29.689576 -51.0494988,-29.6896206</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614440</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0499961,-29.6891563 -51.0504549,-29.689297 -51.0512127,-29.6895216 -51.0525635,-29.6899569</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836528</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0494988,-29.6896206 -51.0495308,-29.689545 -51.0495581,-29.6894771 -51.0495682,-29.6894219</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836518</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0501913,-29.6894524 -51.0500681,-29.6894522 -51.0499856,-29.6894619 -51.04991,-29.6894715</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836513</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.04991,-29.6894715 -51.0498672,-29.6894981 -51.0498184,-29.6895151 -51.0497663,-29.6895216 -51.0497008,-29.6895142 -51.0496477,-29.6894941 -51.0496024,-29.6894626 -51.0495682,-29.6894219 -51.0495436,-29.6893579</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836545</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0499758,-29.6892865 -51.0499816,-29.6893267 -51.0499775,-29.6893671 -51.0499638,-29.6894058 -51.0499409,-29.6894411 -51.04991,-29.6894715</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836423</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0499758,-29.6892865 -51.0500446,-29.6893558 -51.0501022,-29.689401 -51.0501913,-29.6894524</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836544</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0495436,-29.6893579 -51.0495416,-29.6893206 -51.049548,-29.6892837 -51.0495625,-29.6892485 -51.0495846,-29.6892165 -51.0496134,-29.6891888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">535858611</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0497927,-29.689141 -51.0498353,-29.6891501 -51.0498749,-29.6891664 -51.0499101,-29.6891892 -51.0499393,-29.6892176 -51.0499615,-29.6892505 -51.0499758,-29.6892865</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204615746</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0496134,-29.6891888 -51.0496668,-29.6891577 -51.0497283,-29.6891413 -51.0497927,-29.689141</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">919140678</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0525635,-29.6899569 -51.0533898,-29.6902277 -51.0547985,-29.6906666 -51.0552344,-29.6908011</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">921242096</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0533898,-29.6902277 -51.0532927,-29.6903938</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051526</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0547224,-29.6908243 -51.0547985,-29.6906666 -51.054735,-29.6904401 -51.0546894,-29.690065 -51.0547055,-29.6898297 -51.0547779,-29.6895501 -51.0552833,-29.6885359</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Gomes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603380</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0505306,-29.6885014 -51.0514385,-29.6887903 -51.0528963,-29.6892531 -51.0537548,-29.6895272 -51.0547055,-29.6898297</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Balduíno Dreger</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051525</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558469752316,-29.690777733007 -51.0558327,-29.6907659 -51.0557188,-29.690641 -51.0555892,-29.6904358 -51.0555319,-29.6902043 -51.0555216,-29.6900568 -51.0555455,-29.68981 -51.055636,-29.6895966 -51.0558460858818,-29.6891692852254</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Gonçalves Dias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603358</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0543714,-29.6882043 -51.0537548,-29.6895272</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Willy Ostermann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603378</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0514247,-29.6875423 -51.0521188,-29.6880887 -51.0521615,-29.6881224 -51.0524776,-29.6883428 -51.0527135,-29.6884937 -51.0531866,-29.6886392</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Visconde de Mauá</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603376</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0514385,-29.6887903 -51.0521188,-29.6880887 -51.0524827,-29.6876969 -51.0528825,-29.6872813 -51.0530559,-29.6871011</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">973420529</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0524827,-29.6876969 -51.0529357,-29.6879922</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836543</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0500363,-29.689025 -51.050017,-29.6890811 -51.0499961,-29.6891563 -51.0499875,-29.689193 -51.0499758,-29.6892865</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">908915703</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0497927,-29.689141 -51.0499961,-29.6891563</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836526</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0497927,-29.689141 -51.0498587,-29.68912 -51.049959,-29.6890745 -51.0500363,-29.689025</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364959</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0480824,-29.688469 -51.0481309,-29.6885143 -51.0483307,-29.6886728 -51.0485587,-29.6888289 -51.0488561,-29.6889894 -51.0490844,-29.6890875 -51.049288,-29.6891595 -51.0493684,-29.6891805 -51.0494813,-29.6891994 -51.0496134,-29.6891888</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797276</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0495436,-29.6893579 -51.0494439,-29.689283 -51.049303,-29.6892214 -51.0491373,-29.6891687 -51.0488906,-29.6890726 -51.0486425,-29.6889529 -51.0482416,-29.6886752 -51.048027,-29.6885015 -51.0477779,-29.6882373</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051532</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0521332,-29.6867604 -51.051901,-29.6870575 -51.0515643,-29.6873994 -51.0515241,-29.6874411 -51.0514247,-29.6875423 -51.0513013,-29.6876679 -51.0512777,-29.6876919 -51.0505306,-29.6885014 -51.0504751,-29.6885615 -51.0503907,-29.6886507 -51.0500363,-29.689025</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Reus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051527</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0551302,-29.6846193 -51.0543119,-29.6862596 -51.0542619,-29.6863655 -51.0538133,-29.6873385 -51.0537925,-29.6873849 -51.0535351,-29.6879023 -51.0531866,-29.6886392 -51.0528963,-29.6892531 -51.0525635,-29.6899569</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Oswaldo Cruz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051529</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0521332,-29.6867604 -51.0530559,-29.6871011 -51.0536693,-29.6873362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530699614</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0522508,-29.686482 -51.0521332,-29.6867604</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Pedro Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051506</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558448604271,-29.68695275538 -51.0546881,-29.6865236 -51.0542619,-29.6863655 -51.0535566,-29.6861266 -51.0525809,-29.6857727</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 25 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603353</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0522508,-29.686482 -51.0513611,-29.6861609</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846812769</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0525809,-29.6857727 -51.0522508,-29.686482</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua A. J. Renner</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603372</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0503907,-29.6886507 -51.0500218,-29.6883674 -51.0496077,-29.6880481 -51.0489783,-29.6875629 -51.0487407,-29.6873638 -51.0482633,-29.686989 -51.048095,-29.686869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364963</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0471838,-29.6866112 -51.0472283,-29.6868693 -51.0472768,-29.6870576 -51.0472736,-29.6870648 -51.0473514,-29.687342 -51.0474147,-29.6875136 -51.0474804,-29.6876568 -51.0475539,-29.687793 -51.0476414,-29.6879435 -51.0479337,-29.6883139 -51.0480824,-29.688469</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">221516864</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0471906,-29.6870739 -51.0471674,-29.6870122 -51.0470888,-29.6866233</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Benno Hoffmeister</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990864</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0471838,-29.6866112 -51.0470888,-29.6866233</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603365</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0492491,-29.6856362 -51.0491494,-29.6858217 -51.0490082,-29.68605 -51.0488854,-29.6862259 -51.0486395,-29.6865195 -51.0484097,-29.686692 -51.048095,-29.686869 -51.0477691,-29.6869628 -51.0474263,-29.6870311 -51.0472768,-29.6870576 -51.0471906,-29.6870739</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Gustavo Stofel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990771</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0457566,-29.686114 -51.0469144,-29.6858971 -51.0469448,-29.6858922 -51.0470463,-29.6858728</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 25 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530699612</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0513611,-29.6861609 -51.0505217,-29.6858655 -51.0500893,-29.6857598 -51.0497318,-29.6856923 -51.0492491,-29.6856362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364961</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0470888,-29.6866233 -51.0469448,-29.6858922 -51.0468249,-29.6851688</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Armindo Jacobus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990847</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0424731,-29.6877183 -51.0425379,-29.6872932 -51.0425402,-29.6866308 -51.0425539,-29.6858681 -51.0425772,-29.6850876</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Cirino Berghann</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255895000</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0439541,-29.6829584 -51.0439575,-29.6830307 -51.0439502,-29.6836946 -51.0439502,-29.6843887 -51.0439503,-29.6850963 -51.0439374,-29.6858781 -51.0439243,-29.6866348 -51.0439129,-29.6873079 -51.0439055,-29.6879817 -51.043898,-29.6886665 -51.0438859,-29.6897665</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Nereu Ramos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990820</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.045758,-29.6851103 -51.0457579,-29.6858858 -51.0457566,-29.686114 -51.0457577,-29.6866449</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Flores da Cunha</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990824</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0414439,-29.6858533 -51.0425539,-29.6858681 -51.0439374,-29.6858781 -51.0457579,-29.6858858</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Leão XIII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255894997</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.040874,-29.6850724 -51.0410365,-29.6850737 -51.0425772,-29.6850876 -51.0439503,-29.6850963 -51.0452821,-29.6851066 -51.045758,-29.6851103 -51.046742,-29.6851204 -51.0467453,-29.6851206</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Montesse</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698418016</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0453049,-29.6843986 -51.0452821,-29.6851066</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Evilacio Schuch</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">658030553</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0425772,-29.6850876 -51.0426039,-29.6843789</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Guilherme Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255894998</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0418542,-29.6843757 -51.0426039,-29.6843789 -51.0439502,-29.6843887 -51.0453049,-29.6843986 -51.0466124,-29.6844138 -51.0466645,-29.6844144 -51.0467469,-29.6844051</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua das Oliveiras</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255894999</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0464387,-29.6837056 -51.0463503,-29.6837026 -51.0439502,-29.6836946 -51.0421841,-29.6836837</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204615781</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0464161,-29.6833109 -51.0463582,-29.6833167 -51.0462999,-29.6833171 -51.0462419,-29.683312 -51.0461849,-29.6833015 -51.0461295,-29.6832857</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364967</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469002,-29.6851709 -51.0470121,-29.6857115 -51.0470463,-29.6858728 -51.0471744,-29.6865568 -51.0471838,-29.6866112</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 25 de Julho</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846812768</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0492491,-29.6856362 -51.0489258,-29.6855944 -51.0487649,-29.6855921 -51.0485356,-29.6856072 -51.0470463,-29.6858728</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Rubem F. Martins</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375358</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0471367,-29.6851209 -51.0475661,-29.685112 -51.0477297,-29.685133 -51.0480551,-29.6852644 -51.0481165,-29.6852978 -51.0482178,-29.6853707 -51.0485356,-29.6856072</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364964</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469002,-29.6851709 -51.0468753,-29.6851778 -51.0468492,-29.6851771 -51.0468249,-29.6851688</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364968</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468249,-29.6851688 -51.0468118,-29.6851602 -51.0468012,-29.6851494</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364976</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469372,-29.6851343 -51.0469285,-29.685149 -51.0469159,-29.6851615 -51.0469002,-29.6851709</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364972</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0471367,-29.6851209 -51.0469285,-29.685149</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364974</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468012,-29.6851494 -51.0467453,-29.6851206</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364966</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469414,-29.6851178 -51.0469372,-29.6851343</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364978</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468012,-29.6851494 -51.0467929,-29.6851357 -51.0467884,-29.6851207 -51.046788,-29.6851051 -51.0467918,-29.68509</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364971</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469376,-29.6850898 -51.0471367,-29.6851209</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364973</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0467453,-29.6851206 -51.0467918,-29.68509</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364977</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469376,-29.6850898 -51.0469414,-29.6851178</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364975</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0467918,-29.68509 -51.0468011,-29.6850737 -51.0468152,-29.6850602</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364970</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.046878,-29.6850456 -51.0469036,-29.6850537 -51.0469244,-29.6850691 -51.0469376,-29.6850898</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364965</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468152,-29.6850602 -51.0468342,-29.68505 -51.0468557,-29.685045 -51.046878,-29.6850456</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Edelvira L. da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204614097</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0498404,-29.6843995 -51.0509896,-29.6848367</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Franklin Felles</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603360</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.047886,-29.6843097 -51.046769,-29.6844852</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945725428</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0482178,-29.6853707 -51.0487417,-29.6841984 -51.0490777,-29.6833306</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bruno Kunz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603368</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0476893,-29.683321 -51.047886,-29.6843097 -51.0480551,-29.6852644</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920724193</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0446584,-29.7013942 -51.0446893,-29.7011437 -51.044704,-29.7010971 -51.0448127,-29.7009678 -51.044808,-29.7009282 -51.0447067,-29.7006906 -51.044692,-29.7006451 -51.0447879,-29.7000417 -51.0448824,-29.6998856</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mathias Muller</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1144555055</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0446186,-29.6997028 -51.0444435,-29.6996556 -51.0441145,-29.6995158 -51.0439272,-29.699366 -51.0438364,-29.699176 -51.043816,-29.698319 -51.043708,-29.6980891 -51.0434341,-29.6978707 -51.0428965,-29.6976073 -51.0426774,-29.697449 -51.0418094,-29.6968219</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mathias Muller</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">137735201</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0418094,-29.6968219 -51.0416812,-29.6966747 -51.0415975,-29.6964887 -51.041535,-29.6962337 -51.0415282,-29.6961562 -51.0415155,-29.6960115 -51.04158,-29.6957889 -51.0416454,-29.6956774 -51.0417442,-29.6955089 -51.0418314,-29.6953996 -51.0419561,-29.6952434 -51.0421479,-29.6950976 -51.0424327,-29.6949128 -51.0428211,-29.6946351 -51.0431206,-29.6943789</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mathias Muller</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">137735196</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0431206,-29.6943789 -51.0431939,-29.6943253 -51.0432403,-29.6942739 -51.0435268,-29.6938484 -51.0442145,-29.6929311 -51.044299,-29.6928294 -51.0444346,-29.6927601 -51.0445216,-29.6927385 -51.0446008,-29.6927403 -51.0451421,-29.6927775 -51.045278,-29.6927758 -51.0453617,-29.6927422 -51.0454738,-29.6926686 -51.0455291,-29.6925986 -51.0456565,-29.6924108</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Travessa Pio XII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">681391862</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0443594,-29.6927342 -51.0445546,-29.6923671 -51.0444437,-29.6922333 -51.0441972,-29.6921316 -51.0438029,-29.6920459 -51.0435872,-29.691987 -51.0431805,-29.6918532 -51.0428785,-29.6917783 -51.0427984,-29.691789 -51.0427245,-29.6918425 -51.0426444,-29.6919389 -51.0426136,-29.6920084 -51.0425951,-29.6921209 -51.0425766,-29.6922119 -51.0426013,-29.6923136 -51.0426752,-29.6924795 -51.0428539,-29.692699 -51.0430819,-29.6930683 -51.0432791,-29.6934163 -51.0435268,-29.6938484</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alzemiro Cardoso da Conceição</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">681391871</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0430521,-29.6923617 -51.0443594,-29.6927342 -51.0444346,-29.6927601</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinoldo Junges</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614421</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0416966,-29.6891989 -51.0429775,-29.6886612</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Deputado Plínio Salgado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990752</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0436004,-29.689807 -51.0429775,-29.6886612 -51.0426187,-29.6879903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pio XII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1144555054</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0394342,-29.6929314 -51.0400794,-29.6935478 -51.0405631,-29.6939175 -51.0407275,-29.6940431 -51.0412297,-29.6943053 -51.041665,-29.6944372 -51.0419797,-29.6944755 -51.0429895,-29.6944048 -51.0431206,-29.6943789</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920711643</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0385805,-29.6943369 -51.0394342,-29.6929314</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Edmundo Strassburger</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990845</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0402188,-29.6880684 -51.0405044,-29.6880768 -51.0407872,-29.6879939 -51.0414882,-29.6877024 -51.042287,-29.6873703</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Emilio Willibaldo Weber</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990841</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0397407,-29.6856853 -51.0396401,-29.6858304 -51.0400615,-29.6866754 -51.0407872,-29.6879939 -51.0409864,-29.6883559</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Roberto Weber</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990817</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0417439,-29.6863863 -51.0408805,-29.6865332 -51.0400615,-29.6866754 -51.0391918,-29.6868248</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Wilibaldo Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990793</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0414882,-29.6877024 -51.0408805,-29.6865332 -51.0402462,-29.6854184</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920720951</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0446517,-29.6890897 -51.04492,-29.6886824</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Presidente João Goulart</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990814</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0466253,-29.6912037 -51.0463025,-29.6911967 -51.0459599,-29.6910965 -51.0456017,-29.6910208 -51.0453587,-29.6909585 -51.045312,-29.6908205 -51.0452995,-29.6906798 -51.045368,-29.6904931 -51.0454864,-29.6901277 -51.0454708,-29.6900249 -51.0454023,-29.6898815 -51.0452995,-29.6898057 -51.0451313,-29.6897299 -51.0449101,-29.6896921 -51.0446858,-29.6896894 -51.0438859,-29.6897665 -51.0436004,-29.689807 -51.043228,-29.6898598 -51.042552,-29.6899086 -51.0422841,-29.689895 -51.0420256,-29.6897949 -51.0418667,-29.6896352 -51.0417546,-29.6894242 -51.0416966,-29.6891989 -51.0416424,-29.6889885 -51.0415801,-29.6887963 -51.0414462,-29.6885609 -51.0413823,-29.6885086 -51.0413371,-29.6884716 -51.0410786,-29.6883715 -51.0409864,-29.6883559 -51.0407577,-29.6883173 -51.0404431,-29.6882118 -51.0402188,-29.6880684 -51.0399572,-29.6878654 -51.0396706,-29.6875217 -51.0391918,-29.6868248 -51.0388358,-29.6862011</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João Pedro Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990802</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.04492,-29.6886824 -51.043898,-29.6886665 -51.0429775,-29.6886612</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Amaro Nardes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375372</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0426187,-29.6879903 -51.0413823,-29.6885086</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Oscar Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990821</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0455212,-29.687978 -51.0439055,-29.6879817 -51.0426187,-29.6879903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990798</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0465535,-29.6866538 -51.0460259,-29.6873305 -51.0455212,-29.687978</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Guilherme Korfer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990818</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0460259,-29.6873305 -51.0450524,-29.6873201 -51.0439129,-29.6873079 -51.0425379,-29.6872932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">920711639</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0450514,-29.6866401 -51.0450524,-29.6873201</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Benno Hoffmeister</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364962</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0470888,-29.6866233 -51.0470661,-29.686625 -51.0465535,-29.6866538 -51.0457577,-29.6866449 -51.0455227,-29.6866423 -51.0450514,-29.6866401 -51.0439243,-29.6866348 -51.0425402,-29.6866308</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Deputado Plínio Salgado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375373</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0426187,-29.6879903 -51.0424731,-29.6877183 -51.042287,-29.6873703 -51.0420806,-29.6869844 -51.0417439,-29.6863863 -51.0414439,-29.6858533 -51.0412964,-29.6855913 -51.0410365,-29.6850737</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alfredo Casemiro de Lima</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255895099</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0422425,-29.6829932 -51.0422297,-29.6830158 -51.0422273,-29.6830318 -51.0422247,-29.6830679 -51.0422163,-29.6834297 -51.0422169,-29.6835596 -51.0421841,-29.6836837 -51.0421076,-29.6839388 -51.0419735,-29.6842033 -51.0418542,-29.6843757 -51.0417536,-29.6844736 -51.0413995,-29.6847194 -51.0410388,-29.6849758 -51.040874,-29.6850724 -51.0402462,-29.6854184 -51.0399002,-29.6856201 -51.0398385,-29.6856515 -51.0397407,-29.6856853</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alfredo Casemiro de Lima</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797295</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0412329,-29.6816681 -51.0404667,-29.681775</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Andradina Paz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990868</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0408973,-29.6796902 -51.0409716,-29.680181 -51.0412329,-29.6816681 -51.0412833,-29.6819906 -51.0413277,-29.6823063</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada do Mônaco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990789</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0248958,-29.6829568 -51.0253719,-29.6826545 -51.0254821,-29.6826036 -51.0262606,-29.6822379 -51.0268378,-29.6819822 -51.02694,-29.6819532 -51.0272281,-29.6818713 -51.0272976,-29.6818516 -51.0276117,-29.681816 -51.0277318,-29.6818359 -51.0280169,-29.6818833 -51.0291732,-29.6820415 -51.0302294,-29.6822511 -51.0304549,-29.682268 -51.0310079,-29.6823816 -51.0311757,-29.6824188 -51.0318137,-29.682789 -51.0329381,-29.6834811 -51.0334428,-29.6837652 -51.0336345,-29.6838689 -51.0339403,-29.6840087 -51.0342435,-29.6841095 -51.0345438,-29.684166 -51.0351393,-29.6842359 -51.0354578,-29.6843012 -51.0355832,-29.6843402 -51.0357924,-29.6844317 -51.035958,-29.6845342 -51.036225,-29.6848377 -51.0364982,-29.685162 -51.0367137,-29.6853661 -51.0368331,-29.6854243 -51.0370611,-29.6855001 -51.037277,-29.685556 -51.0374151,-29.6855606 -51.0379854,-29.6856043 -51.0386744,-29.6856317 -51.0395019,-29.6856853 -51.0397407,-29.6856853</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua da Paz</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990796</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0349944,-29.6829508 -51.0352268,-29.6836023 -51.0354578,-29.6843012</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jacob Junges</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375374</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0418203,-29.6812441 -51.0413654,-29.6806231 -51.0411068,-29.6803119 -51.0409716,-29.680181</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vilma Schuck</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">652996872</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0415177,-29.6796046 -51.0417858,-29.6802349 -51.0418689,-29.6805413</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bruno Schmidt</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990873</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0400781,-29.6791695 -51.0408669,-29.6790561 -51.041623,-29.6789736 -51.042628,-29.6788576 -51.0430692,-29.6788297 -51.0430853,-29.6788495 -51.0431786,-29.6793971</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Cardoso de Andrade</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990829</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0414588,-29.6778767 -51.041623,-29.6789736 -51.0417303,-29.6795767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Pedro Blos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051507</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0526186,-29.6856756 -51.0536125,-29.686013 -51.0543119,-29.6862596 -51.0547464,-29.6864184 -51.055232,-29.6865983 -51.0558447872518,-29.6868203924926</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698278264</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0542452,-29.684704 -51.0536125,-29.686013 -51.0535566,-29.6861266 -51.0530559,-29.6871011</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051531</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0530787,-29.6846265 -51.0526186,-29.6856756 -51.0525809,-29.6857727</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Francisco</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603377</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0551302,-29.6846193 -51.0550096,-29.6846623 -51.0548029,-29.6847433 -51.0545539,-29.6847664 -51.0543506,-29.6847329 -51.0542452,-29.684704</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698278266</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0542452,-29.684704 -51.0532602,-29.6843207</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Reus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698278265</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0555683,-29.683693 -51.0551302,-29.6846193</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Visconde de Mauá</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599763</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0557584,-29.6815051 -51.0557363,-29.6815548 -51.0557102,-29.6816191 -51.0547966,-29.683555 -51.0542452,-29.684704</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 15 de Novembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204614067</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0513611,-29.6861609 -51.0522458,-29.6842942 -51.0529243,-29.6828635 -51.0529663,-29.6827738 -51.0537398,-29.6811253 -51.053776,-29.6810655 -51.0538013,-29.6810213 -51.0542867,-29.6800066</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 7 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666084</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0505217,-29.6858655 -51.0509896,-29.6848367 -51.0513821,-29.6839845 -51.0517217,-29.6832879 -51.0520923,-29.6825587</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">493918542</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0464161,-29.6833109 -51.0464314,-29.6833536 -51.0464478,-29.6834043 -51.0464851,-29.6835345 -51.0465023,-29.6836042 -51.0465256,-29.6836979 -51.0465631,-29.6838354 -51.0466674,-29.6841241 -51.0467469,-29.6844051 -51.046769,-29.6844852 -51.0467882,-29.6845804 -51.0468025,-29.6846346 -51.0468364,-29.6848022 -51.0468575,-29.6849148 -51.046878,-29.6850456</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">865364969</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468152,-29.6850602 -51.0467983,-29.6850042 -51.0466645,-29.6844144 -51.046649,-29.6843477 -51.0465805,-29.6840591 -51.0465575,-29.6839912 -51.0465041,-29.683819 -51.0464387,-29.6837056 -51.0463429,-29.6835532 -51.0462238,-29.6834008 -51.0461295,-29.6832857</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 20 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204614122</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0530787,-29.6846265 -51.052962,-29.68458 -51.0522458,-29.6842942 -51.0513821,-29.6839845 -51.0501323,-29.6835315 -51.0500771,-29.6835134 -51.0500209,-29.6834911</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 20 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356593965</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0500209,-29.6834911 -51.0496561,-29.6833638 -51.0493017,-29.6833256 -51.0490777,-29.6833306 -51.0485718,-29.6833248 -51.0481627,-29.6833213 -51.0476893,-29.683321 -51.0474962,-29.6833178 -51.0466831,-29.6833101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 20 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945009979</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0466831,-29.6833101 -51.0464161,-29.6833109</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836515</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0463882,-29.6832238 -51.0464161,-29.6833109</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836420</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0463882,-29.6832238 -51.0464791,-29.6832697 -51.0465787,-29.6832989 -51.0466831,-29.6833101</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">496810373</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0462855,-29.6830046 -51.0463882,-29.6832238</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846812767</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0509778,-29.6804468 -51.0509703,-29.6805377 -51.0508945,-29.6811034 -51.0507859,-29.6816102 -51.0506552,-29.6820366 -51.0503916,-29.6827931 -51.0501323,-29.6835315 -51.0498404,-29.6843995 -51.0493292,-29.6854566 -51.0492491,-29.6856362</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">493918543</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0461295,-29.6832857 -51.0460874,-29.6832368 -51.0460491,-29.6831652 -51.0460116,-29.683083 -51.045995,-29.6830317 -51.0459754,-29.6829706</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Oscar Cirilo Ritzer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945009978</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.045995,-29.6830317 -51.045903,-29.683026 -51.0456522,-29.6830304 -51.0454644,-29.6830292 -51.0439575,-29.6830307 -51.0436924,-29.6830307 -51.0436128,-29.6830276 -51.0432248,-29.6830172 -51.0428155,-29.6830035 -51.0423584,-29.6829893 -51.0422425,-29.6829932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666092</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0456522,-29.6830304 -51.0456508,-29.682971</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666091</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0454644,-29.6829713 -51.0454644,-29.6830292</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666090</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0432248,-29.6830172 -51.0432249,-29.682952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666093</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0428184,-29.6829461 -51.0428155,-29.6830035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204615780</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0459754,-29.6829706 -51.0460351,-29.6829671 -51.0461055,-29.6829619 -51.0461866,-29.6829613 -51.0462459,-29.6829702</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Oscar Cirilo Ritzer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">255894996</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0422425,-29.6829932 -51.0422662,-29.682966 -51.0423024,-29.6829511 -51.0423692,-29.6829386 -51.0428184,-29.6829461 -51.0432249,-29.682952 -51.0436587,-29.6829584 -51.0439541,-29.6829584 -51.0454644,-29.6829713 -51.0456508,-29.682971 -51.0457501,-29.6829709 -51.0458731,-29.6829707 -51.0459754,-29.6829706</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">493918541</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.045973,-29.6827075 -51.0460854,-29.6828261 -51.0461795,-29.6829126 -51.0462459,-29.6829702 -51.0462855,-29.6830046</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530699616</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0459754,-29.6829706 -51.0459574,-29.6829252 -51.045906,-29.6827762 -51.0458252,-29.6826281 -51.0456807,-29.6824395 -51.0455305,-29.6822508 -51.0454688,-29.682192 -51.0454084,-29.6821339 -51.0453222,-29.6820662</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">497065225</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0455972,-29.6821014 -51.0456992,-29.6823111 -51.0459113,-29.6826162 -51.045973,-29.6827075</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Lauro S S Tessaro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">657693294</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0436528,-29.6816665 -51.0436627,-29.6828582 -51.0436587,-29.6829584</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">221516863</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0455336,-29.6819806 -51.0455972,-29.6821014</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836430</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0455336,-29.6819806 -51.0454965,-29.6820104 -51.0454471,-29.6820427 -51.0453916,-29.6820661 -51.0453222,-29.6820662</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municipios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945762126</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0453222,-29.6820662 -51.0452551,-29.6820951 -51.0451976,-29.6821017 -51.045144,-29.6820909 -51.0450426,-29.6819411 -51.0450091,-29.6818917</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836426</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0453222,-29.6820662 -51.0452716,-29.6820318 -51.0452199,-29.6819744 -51.045187,-29.6819266 -51.0451665,-29.6818712 -51.0451554,-29.681796</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">497065224</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0458525,-29.6818254 -51.0457131,-29.6818697 -51.0455924,-29.6819367 -51.0455336,-29.6819806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">301836438</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0453737,-29.6817139 -51.0454268,-29.6817478 -51.0454814,-29.6818095 -51.0454967,-29.6818398 -51.0455174,-29.6818956 -51.0455336,-29.6819806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municipios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945762125</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0450091,-29.6818917 -51.045085,-29.6818412 -51.0451032,-29.6818301 -51.0451554,-29.681796</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204615824</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0451554,-29.681796 -51.0451946,-29.6817467 -51.0452464,-29.6817185 -51.0452989,-29.6817066 -51.0453737,-29.6817139</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Primeiro de Maio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603373</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0547966,-29.683555 -51.0538875,-29.683228 -51.0529243,-29.6828635 -51.0520923,-29.6825587 -51.0514805,-29.6823402 -51.0506552,-29.6820366</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Vargas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603363</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0554451,-29.6798637 -51.054783,-29.6812724 -51.0547586,-29.6813151 -51.0547272,-29.6813786 -51.0538875,-29.683228 -51.0535505,-29.683815 -51.0533028,-29.6842471 -51.0532602,-29.6843207 -51.0530787,-29.6846265</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 7 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945666083</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0528485,-29.6808802 -51.0520923,-29.6825587</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Independência</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051538</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558419288818,-29.6816493418169 -51.0557102,-29.6816191 -51.0547272,-29.6813786 -51.0537398,-29.6811253 -51.0528485,-29.6808802 -51.0520201,-29.6807024 -51.0517287,-29.6806415 -51.0511554,-29.6804875</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Independência</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051536</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0520285,-29.6805867 -51.0529082,-29.6807807 -51.0538013,-29.6810213 -51.054783,-29.6812724 -51.0557584,-29.6815051 -51.0558418610757,-29.6815266579929</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">659938810</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0520201,-29.6807024 -51.0519794,-29.680663 -51.0519406,-29.680641 -51.051899,-29.68061 -51.0518735,-29.6805389 -51.0518568,-29.6804848 -51.0518113,-29.6803464</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua 7 de Setembro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">204614066</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0528485,-29.6808802 -51.0528742,-29.6808361 -51.0529082,-29.6807807 -51.0530819,-29.6804772 -51.0531329,-29.6803549 -51.0531736,-29.6801161</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Independência</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312616661</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0518898,-29.6803345 -51.051939,-29.6804902 -51.0519554,-29.6805442 -51.0519782,-29.6805675 -51.0520285,-29.6805867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375371</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0518113,-29.6803464 -51.0518045,-29.6803214 -51.0517988,-29.6802981 -51.0517897,-29.6802637</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945762130</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0518671,-29.6802541 -51.0518898,-29.6803345</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Iray dos Reis</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603366</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0503916,-29.6827931 -51.0511327,-29.683062 -51.0517217,-29.6832879</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312603361</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0514805,-29.6823402 -51.0511327,-29.683062</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599779</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0490777,-29.6833306 -51.0495025,-29.6821049 -51.0495937,-29.6818498 -51.0497251,-29.6813394 -51.0497774,-29.6811192 -51.049824,-29.6808005 -51.0498237,-29.680763 -51.0498104,-29.6807136 -51.0497919,-29.6806942 -51.0497686,-29.6806826</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Tancredo Neves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375369</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.047792,-29.6816201 -51.0478119,-29.6815434 -51.0478237,-29.6814497</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Tancredo Neves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945762127</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0478237,-29.6814497 -51.0481721,-29.6815433</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375370</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0509778,-29.6804468 -51.050892,-29.6804528 -51.050301,-29.6805437 -51.0499112,-29.6806354 -51.0497686,-29.6806826 -51.049727,-29.6807014 -51.0494904,-29.6808145 -51.0492274,-29.6810121 -51.0489692,-29.6812597 -51.048579,-29.6815061 -51.0483738,-29.6815912 -51.0478562,-29.6817286 -51.0466419,-29.6817787 -51.0464325,-29.6817873 -51.0459946,-29.6818161 -51.0458525,-29.6818254</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375360</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0453737,-29.6817139 -51.0455588,-29.6817193 -51.0461219,-29.68171 -51.0475954,-29.6816342 -51.047792,-29.6816201 -51.0481721,-29.6815433 -51.0485154,-29.6814187 -51.0487528,-29.6812905 -51.0489526,-29.681125 -51.0492302,-29.6808687 -51.0494468,-29.6807091 -51.0496286,-29.6806001 -51.0497221,-29.6805591 -51.0498525,-29.6805128 -51.0499005,-29.6805002 -51.0500564,-29.6804737 -51.0505613,-29.680406 -51.0509065,-29.6803733 -51.0509895,-29.6803627 -51.0512593,-29.6803269 -51.05174,-29.6802699 -51.0517897,-29.6802637 -51.0518671,-29.6802541 -51.052404,-29.6801876 -51.0530583,-29.6801044 -51.0531736,-29.6801161</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218738</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0479859,-29.6805287 -51.0478181,-29.6807475 -51.047688,-29.6808943 -51.0475807,-29.6809619 -51.0474345,-29.6810237 -51.0471931,-29.6810912 -51.0471242,-29.6811208 -51.047004,-29.6811786</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218734</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0468632,-29.6811553 -51.0469973,-29.6811064 -51.0471489,-29.6810586 -51.0474707,-29.6809468 -51.0475726,-29.6808908 -51.0476679,-29.6808128 -51.0477912,-29.6806753 -51.0479767,-29.6804256</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Independência</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356051535</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0511554,-29.6804875 -51.0509778,-29.6804468</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Evandro M. Dias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990851</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0412833,-29.6819906 -51.0420353,-29.6818899 -51.0421971,-29.6818599 -51.0436528,-29.6816665 -51.0438821,-29.6816346 -51.0447521,-29.6815119</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Celomar B. Orsi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990872</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0422107,-29.6821986 -51.0420353,-29.6818899 -51.0418777,-29.6813971 -51.0418203,-29.6812441</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1059888485</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0450515,-29.6814026 -51.0452674,-29.6816122 -51.0453737,-29.6817139</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797297</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0451554,-29.681796 -51.0451132,-29.681705 -51.0450464,-29.6815383 -51.0449656,-29.6813941 -51.0448894,-29.6812744 -51.0447899,-29.6811204</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Lidia Eva Umann Schneider</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990839</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0446156,-29.6807732 -51.0445594,-29.6808038 -51.0444187,-29.680856 -51.0443208,-29.6808831 -51.0435975,-29.6809872 -51.0431132,-29.6810461 -51.0424823,-29.6811437 -51.0418203,-29.6812441</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Eli Lampert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990854</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0424823,-29.6811437 -51.042158,-29.6807383 -51.0427492,-29.680623 -51.0431132,-29.6810461</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Olinda Forell</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990780</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0435975,-29.6809872 -51.0431909,-29.6804859</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">35721152</SimpleData>
+		<SimpleData name="source">survey; Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0447899,-29.6811204 -51.0446265,-29.6808899 -51.0445594,-29.6808038 -51.0444734,-29.6806776 -51.04435,-29.6805145 -51.0442555,-29.6803683 -51.044117,-29.6801303 -51.0440854,-29.6800733</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municipios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990758</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0450091,-29.6818917 -51.0449175,-29.6817834 -51.0447521,-29.6815119 -51.0445673,-29.6812227 -51.0443208,-29.6808831 -51.0441885,-29.6807092 -51.0437732,-29.6801447 -51.0435805,-29.6797597 -51.0434483,-29.6793668 -51.0434009,-29.6791575</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Presidente Tancredo Neves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375364</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0478237,-29.6814497 -51.047004,-29.6811786 -51.0469254,-29.6811654 -51.0468632,-29.6811553 -51.0465546,-29.6811013 -51.0456729,-29.6806019 -51.0453054,-29.6802892 -51.0449506,-29.6798143 -51.0447183,-29.6793542 -51.0445933,-29.6789544 -51.0444618,-29.678479 -51.0444839,-29.6783468</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Otacilia F da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614434</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.042128,-29.6795371 -51.0423674,-29.6801171 -51.0424267,-29.6801359 -51.0429815,-29.6800735</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Otacilia F da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312614426</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0427489,-29.6794567 -51.0429905,-29.6800235 -51.0429815,-29.6800735</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797298</SimpleData>
+		<SimpleData name="source">survey;Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0440854,-29.6800733 -51.0438208,-29.6795517 -51.043738,-29.6794423 -51.0437069,-29.6794122 -51.0436862,-29.6793918 -51.0436694,-29.6793734 -51.0436596,-29.679349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Erno Emilio Matte</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990887</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0401732,-29.6797743 -51.0407046,-29.6797107 -51.0408973,-29.6796902 -51.0415177,-29.6796046 -51.0417303,-29.6795767 -51.041881,-29.6795607 -51.042128,-29.6795371 -51.0427489,-29.6794567 -51.0431786,-29.6793971 -51.0434483,-29.6793668 -51.0435413,-29.679361 -51.0436596,-29.679349</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ernesto Jacobus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">698418017</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0455214,-29.6792648 -51.0456508,-29.679248 -51.0458104,-29.6792177 -51.0462331,-29.6791561</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Rudolfo H. Feltes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375367</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0464622,-29.6802314 -51.0462331,-29.6791561 -51.0462107,-29.6789958 -51.0459784,-29.6779648 -51.0458883,-29.6777867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ema Witt Negrini</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308990830</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.044117,-29.6801303 -51.0441579,-29.680082 -51.0441924,-29.6800355 -51.0447183,-29.6793542 -51.0452725,-29.678612 -51.0456902,-29.6780349 -51.0458883,-29.6777867 -51.0462286,-29.6773426 -51.0463955,-29.6772139 -51.0466746,-29.6771749 -51.0474458,-29.6770615 -51.0476166,-29.677039 -51.0476991,-29.6770267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797285</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0531736,-29.6801161 -51.053073,-29.6801968 -51.0524113,-29.6802804 -51.0518898,-29.6803345 -51.0518113,-29.6803464 -51.0517467,-29.6803532 -51.0511192,-29.6804322 -51.0509778,-29.6804468</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530699610</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0542867,-29.6800066 -51.0531736,-29.6801161</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Brasil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375361</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558409123161,-29.679809956252 -51.0554451,-29.6798637 -51.0551291,-29.6798992 -51.0542867,-29.6800066</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Tupi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599774</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0550072,-29.6790967 -51.054221,-29.6791777 -51.0530447,-29.6793345 -51.0527038,-29.6793719</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Iguaçu</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599746</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0529331,-29.6786674 -51.0541124,-29.6784976</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Júlio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599767</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0547256,-29.6772467 -51.0548461,-29.6780511 -51.0550072,-29.6790967 -51.0551291,-29.6798992</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Liberato Salzano</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356117912</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0512199,-29.6785233 -51.0515341,-29.6784882 -51.0519715,-29.6784393 -51.0528716,-29.6783191</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua João S. do Amaral</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599776</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0526085,-29.6765557 -51.0527304,-29.6774363 -51.052818,-29.6779829 -51.0528716,-29.6783191 -51.0529331,-29.6786674 -51.0530447,-29.6793345 -51.0531736,-29.6801161</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Emilio Baldo Kaiser</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599777</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0539511,-29.6773592 -51.0539691,-29.6775998 -51.0540042,-29.6778192 -51.0540537,-29.6781429 -51.0541124,-29.6784976 -51.054221,-29.6791777</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Celestino Dalri</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599757</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0540042,-29.6778192 -51.052818,-29.6779829</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">798503156</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0482896,-29.6801682 -51.0479859,-29.6805287</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">798503157</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0479767,-29.6804256 -51.048262,-29.6800613</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Fernando Kozicki</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356375366</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0452725,-29.678612 -51.0454408,-29.6790721 -51.0455214,-29.6792648 -51.0456822,-29.6795848 -51.0460518,-29.6799948 -51.0462342,-29.6801393 -51.0464622,-29.6802314 -51.0466892,-29.6802338 -51.0469692,-29.6802178 -51.0471521,-29.680155 -51.0473375,-29.6799752 -51.0476134,-29.6798133 -51.0478617,-29.6796985</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ernesto Jacobus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">410057697</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0469877,-29.6791292 -51.0466025,-29.6791669 -51.0464108,-29.6791492 -51.0462911,-29.679084 -51.0462107,-29.6789958</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218735</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0501221,-29.6788722 -51.0497485,-29.678899 -51.0495927,-29.6789421 -51.0494716,-29.6789811 -51.0492771,-29.6790946 -51.0490477,-29.6792865</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218736</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0490335,-29.6791573 -51.0491397,-29.6790651 -51.0493025,-29.6789605 -51.0494582,-29.6788833 -51.0497131,-29.6788129 -51.0501355,-29.6787481</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Elpídio de Oliveira Bilhalva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218728</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0474458,-29.6770615 -51.0476751,-29.6785288 -51.0478617,-29.6796985 -51.0479767,-29.6804256 -51.0479859,-29.6805287</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Antônio Germi de Mellos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218727</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0466746,-29.6771749 -51.0469079,-29.6786313 -51.0469877,-29.6791292 -51.0471521,-29.680155</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218730</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0493791,-29.6783496 -51.0476751,-29.6785288 -51.0469079,-29.6786313</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">657586507</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0519922,-29.6761522 -51.051753,-29.6763595 -51.0516429,-29.6765318 -51.0514572,-29.6771389 -51.0513608,-29.6775855 -51.0513115,-29.6778131 -51.0512199,-29.6785233 -51.0510668,-29.6797479 -51.0509895,-29.6803627</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599736</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0443217,-29.6741217 -51.0442028,-29.67426 -51.0441059,-29.6744208 -51.0439962,-29.6747401 -51.0439182,-29.6749801 -51.0437733,-29.6754462 -51.0436835,-29.675861 -51.0436111,-29.6763117 -51.043587,-29.6765715 -51.0435724,-29.6769726 -51.0435814,-29.6772149 -51.0435997,-29.6775585 -51.0436433,-29.6783915 -51.0436909,-29.6787149 -51.0437089,-29.6788641 -51.043779,-29.6791352 -51.0438201,-29.6792718 -51.0438451,-29.679354 -51.0438508,-29.6793801 -51.0439557,-29.6796919 -51.0441579,-29.680082 -51.0441757,-29.6801113 -51.0446156,-29.6807732 -51.0448409,-29.6810854 -51.0449415,-29.6812345 -51.0450515,-29.6814026</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Municípios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">137735185</SimpleData>
+		<SimpleData name="source">survey;Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0436596,-29.679349 -51.0436662,-29.6793171 -51.0436743,-29.6792825 -51.0436795,-29.6792679 -51.0436858,-29.6792114 -51.043675,-29.6790584 -51.0436409,-29.6788287 -51.0435704,-29.6783797 -51.0435521,-29.6778397 -51.0435179,-29.6765337 -51.0436425,-29.6756976 -51.0437602,-29.6752621 -51.0439235,-29.6747424 -51.0440338,-29.6743952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945725431</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0499005,-29.6805002 -51.0500872,-29.6791 -51.0501221,-29.6788722 -51.0501355,-29.6787481 -51.0502294,-29.6780863 -51.0503662,-29.6774431 -51.0505942,-29.6767603 -51.0507578,-29.6763269 -51.0511098,-29.6757151</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Lions Internacional</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">626218729</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0492821,-29.6753537 -51.0493999,-29.676046 -51.0493858,-29.6762115 -51.0492839,-29.6763735 -51.0491779,-29.6765051 -51.0491565,-29.6766152 -51.0491592,-29.6766939 -51.049237,-29.6773149 -51.0493791,-29.6783496 -51.0494582,-29.6788833 -51.0494716,-29.6789811 -51.0496286,-29.6806001</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Andradas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797286</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0519922,-29.6761522 -51.0519419,-29.6761169 -51.0516403,-29.6759336 -51.051391,-29.6758017 -51.0511098,-29.6757151</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846797320</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0511098,-29.6757151 -51.0512033,-29.6755345 -51.0513256,-29.6753843 -51.0516806,-29.6751261 -51.0519318,-29.674986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Paulo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599775</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558400571579,-29.678262490677 -51.0556818,-29.677051 -51.0555667,-29.6761054 -51.0554689,-29.6752542</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua La Salle</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356117910</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0527304,-29.6774363 -51.0513608,-29.6775855</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Andradas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599769</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558394144814,-29.6770994452493 -51.0557672,-29.6770718 -51.0556818,-29.677051 -51.0555091,-29.6770089 -51.0553863,-29.6770144 -51.0547256,-29.6772467 -51.0546223,-29.677283 -51.0542941,-29.6773918 -51.0541336,-29.6774136 -51.0540171,-29.6773918 -51.0539511,-29.6773592 -51.0538786,-29.6773234 -51.0536551,-29.6771812 -51.0529868,-29.6767822 -51.0527744,-29.6766491 -51.0526085,-29.6765557 -51.0519922,-29.6761522</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jorge Kock</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356093914</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0532263,-29.6765952 -51.0529868,-29.6767822</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jorge Kock</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">945762129</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0527744,-29.6766491 -51.0532263,-29.6765952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Jorge Kock</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599770</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0544661,-29.6764404 -51.0536777,-29.6765341 -51.0532263,-29.6765952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Adriano Dias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599792</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558384765276,-29.6754019165651 -51.0557268,-29.6752267 -51.0554876,-29.6748428 -51.05514,-29.674307 -51.0551196,-29.6742755 -51.0548515,-29.6738465 -51.0547162,-29.6736323 -51.054613,-29.673465</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida Adriano Dias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599737</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0547015,-29.67343 -51.0549404,-29.6737966 -51.0552188,-29.6742239 -51.055241,-29.6742581 -51.0554655,-29.6746186 -51.0558383653054,-29.6752006146251</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Willy Ermel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599751</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0555667,-29.6761054 -51.0544171,-29.6762451</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Padre Júlio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599783</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0546223,-29.677283 -51.0544661,-29.6764404 -51.0544171,-29.6762451 -51.0542362,-29.6753631 -51.0540931,-29.674863</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Carlos Laurer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599745</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0534731,-29.6751814 -51.0536777,-29.6765341</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Ernesto Dorneles</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312599773</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558383726506,-29.6752139088293 -51.0557268,-29.6752267 -51.0554689,-29.6752542 -51.0542362,-29.6753631</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">356093912</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0558376853464,-29.6739699065878 -51.0558211,-29.6739772 -51.055241,-29.6742581 -51.05514,-29.674307 -51.0540931,-29.674863 -51.0534731,-29.6751814 -51.0519922,-29.6761522</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pedro F. A. Feltes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312612560</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0516806,-29.6751261 -51.0518562,-29.6749763 -51.0519832,-29.6748365 -51.0521721,-29.674615 -51.052315,-29.6743543 -51.0527242,-29.6735619</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida dos Estados</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">308991725</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0519318,-29.674986 -51.0522204,-29.6748182 -51.0525729,-29.6746228 -51.0533482,-29.6740957 -51.0536313,-29.6739015 -51.0538123,-29.6738142 -51.054613,-29.673465 -51.0547015,-29.67343 -51.0552014,-29.6731878 -51.0554761,-29.6730555 -51.0558370922696,-29.6728963906189</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Avenida João Pedro Dias</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">312612534</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0519318,-29.674986 -51.0518562,-29.6749763 -51.0513354,-29.6749725 -51.0504346,-29.6749542 -51.0502307,-29.6749286 -51.0500819,-29.6748913 -51.0498767,-29.6748296 -51.0496996,-29.6747445 -51.0494582,-29.6745954 -51.0493141,-29.6744873 -51.0490241,-29.6742616 -51.0486703,-29.6739863 -51.0485039,-29.6738569 -51.047992,-29.6734798 -51.0476094,-29.6732011 -51.0475552,-29.6731559 -51.0474489,-29.6730176 -51.0473666,-29.6728629 -51.0472931,-29.6727081 -51.0472553,-29.6725534 -51.0472353,-29.6724026 -51.0472486,-29.672186 -51.0472798,-29.6720371 -51.0473198,-29.6719191 -51.0474489,-29.6716638 -51.0477383,-29.6710276 -51.0479732,-29.6705818 -51.04824,-29.6700334 -51.0483686,-29.6697795 -51.048456,-29.6695876 -51.0486444,-29.6692061 -51.0489361,-29.6686109 -51.049252,-29.6679482 -51.0494605,-29.6674971 -51.0496638,-29.6670642 -51.0498717,-29.6666315</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Pio XII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Sapiranga_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">90421419</SimpleData>
+		<SimpleData name="source">survey</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">116</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.0058483,-29.6996775 -51.0096633,-29.6968972 -51.0100178,-29.6967057 -51.010465,-29.6965787 -51.0111567,-29.6964778 -51.0132793,-29.6963209 -51.0136863,-29.6962519 -51.0141389,-29.6961321 -51.0145467,-29.6959767 -51.0156558,-29.6955046 -51.0169999,-29.694728 -51.0179099,-29.6944667 -51.0217112,-29.6938689 -51.0221622,-29.6937058 -51.0224228,-29.6935693 -51.0277448,-29.6894172 -51.0282523,-29.6890406 -51.0288083,-29.6886982 -51.0292293,-29.6885954 -51.0296282,-29.688614 -51.0299981,-29.6887086 -51.0315683,-29.6892644 -51.0327798,-29.6894862 -51.0332016,-29.6895781 -51.0336113,-29.689712 -51.0339688,-29.6899095 -51.0342655,-29.6901422 -51.0352275,-29.6910658 -51.0355733,-29.691277 -51.03619,-29.6915789 -51.0369984,-29.6918476 -51.0380561,-29.6921592 -51.0383513,-29.6922349 -51.0386447,-29.6923461 -51.0389775,-29.6925405 -51.0394342,-29.6929314</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

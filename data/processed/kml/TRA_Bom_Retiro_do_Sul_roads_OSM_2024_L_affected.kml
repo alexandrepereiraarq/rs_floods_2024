@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected" id="TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">527126469</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9522701236111,-29.7128107431385 -51.9530837,-29.7116662 -51.9532693,-29.7113322 -51.9535081,-29.7104798 -51.9540882,-29.7086583 -51.9543296,-29.7079757 -51.9548526,-29.7068202 -51.9553572,-29.7059564 -51.9612959,-29.6969511 -51.9664551,-29.6891359</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890624</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9402695,-29.7029307 -51.9406772,-29.703039 -51.9411895,-29.7033722 -51.9420814,-29.7038075 -51.9430161,-29.7041794 -51.9431756,-29.7043052</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890625</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9400415,-29.7029016 -51.9402695,-29.7029307</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">36965235</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.929177,-29.7011457 -51.9303616,-29.7008416 -51.9317253,-29.7004491 -51.9349553,-29.6995661 -51.9409819,-29.6978783 -51.9424622,-29.6974637 -51.9429168,-29.6973204 -51.9438033,-29.6969616 -51.9445749,-29.6965083 -51.9452628,-29.696028 -51.9453149,-29.6959916 -51.9459879,-29.6954064 -51.9461207,-29.6952613 -51.9461578,-29.6952105 -51.9466966,-29.6944733 -51.9485135,-29.6917769 -51.9497711,-29.6899106</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada do Faxinal do Silva Jorge</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">359673796</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9476886,-29.6446181 -51.9474298,-29.644843 -51.9471956,-29.6449715 -51.9468382,-29.6450251 -51.9465548,-29.6450144 -51.9458646,-29.6447787 -51.9451498,-29.6446502 -51.944398,-29.6445217 -51.9438928,-29.6443289 -51.9433998,-29.6442003 -51.9429068,-29.6441789 -51.9425001,-29.6440075 -51.9420318,-29.6436541 -51.9416867,-29.6432256 -51.9413293,-29.6428186 -51.9410582,-29.6427329 -51.940405,-29.64269 -51.9398258,-29.6425829 -51.9394004,-29.6426283 -51.9390973,-29.6426912 -51.9386426,-29.6428721 -51.9382283,-29.6430665 -51.9378662,-29.6432227 -51.937429,-29.6434605 -51.9361845,-29.6443953 -51.9354576,-29.6449315 -51.9349577,-29.64525 -51.9346261,-29.64547 -51.9344008,-29.6456471 -51.9342452,-29.6458243 -51.9341111,-29.6460294 -51.9339341,-29.6463849 -51.9337893,-29.6467497 -51.933293,-29.647822 -51.9330113,-29.6486258 -51.9329009,-29.6488414 -51.9327405,-29.6490691 -51.9325454,-29.6492247 -51.9313297,-29.6499992 -51.9300904,-29.6507679 -51.9299993,-29.6509992 -51.9299343,-29.6511931 -51.9299591,-29.6513092 -51.9300034,-29.6514515 -51.9302868,-29.6520941 -51.9304224,-29.652394 -51.9304687,-29.6528244 -51.9304471,-29.6532937 -51.9304499,-29.6537031 -51.9303292,-29.6541576 -51.9301143,-29.6544718 -51.9294012,-29.6552042 -51.9293408,-29.65528 -51.929259,-29.6554303 -51.9290257,-29.6560154 -51.9288915,-29.6565386 -51.928791,-29.6569372 -51.9287722,-29.6571132 -51.9288487,-29.6572158 -51.9290283,-29.6573206 -51.9303936,-29.6580246 -51.9305116,-29.6580572 -51.9319654,-29.657943 -51.9321424,-29.657908 -51.9328773,-29.6576143 -51.9335049,-29.6573813 -51.9347414,-29.6570969 -51.9349922,-29.6570666 -51.9353151,-29.6570743 -51.9356109,-29.65716 -51.9357526,-29.6572297 -51.9358445,-29.6573165 -51.93601,-29.6575729 -51.9362971,-29.6580688 -51.9365106,-29.6583702 -51.936757,-29.6586058 -51.9370282,-29.6589699 -51.9371715,-29.6592506 -51.9373325,-29.6595023 -51.9374666,-29.6595745 -51.9376811,-29.6596095 -51.9379574,-29.6596188 -51.9381891,-29.6596484 -51.9383377,-29.6597222 -51.9387837,-29.660079 -51.9391447,-29.6603927 -51.9395835,-29.6607741 -51.9397039,-29.6609217 -51.9400578,-29.6615491 -51.9403763,-29.6621211 -51.9407869,-29.6628223 -51.9409851,-29.6631175 -51.9416575,-29.6639048 -51.9418345,-29.664157 -51.9419619,-29.6643846 -51.9422379,-29.6647598 -51.9423583,-29.6648397 -51.9427332,-29.6649909 -51.9432431,-29.6651965 -51.9437456,-29.6654117 -51.9438744,-29.6654573 -51.9441372,-29.6655237 -51.9458975,-29.6660575 -51.9462416,-29.6661869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890621</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9303616,-29.7008416 -51.9322389,-29.7018695 -51.9328666,-29.7021397 -51.9338805,-29.7022143 -51.9345,-29.702156 -51.9361737,-29.7018881 -51.9367504,-29.7018438 -51.9375309,-29.7018601 -51.9377401,-29.7019137 -51.9388613,-29.7023517 -51.9396284,-29.7027455 -51.9400415,-29.7029016</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">951036708</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9349553,-29.6995661 -51.9348648,-29.6997726 -51.9348514,-29.6999031 -51.9348836,-29.7000732 -51.9349962,-29.7001664 -51.9359618,-29.7005182 -51.9360504,-29.7005834 -51.936053,-29.7006556 -51.9360423,-29.701061 -51.936104,-29.7011822 -51.9362703,-29.7013546 -51.9367504,-29.7018438</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890619</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9328752,-29.6975699 -51.932129,-29.698638 -51.9320485,-29.6987824 -51.932011,-29.6991878 -51.9319734,-29.6993323 -51.9317427,-29.6997377 -51.9316448,-29.7001815 -51.9316569,-29.7003038 -51.9317253,-29.7004491</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinaldo Noschang</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315897943</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.938434,-29.6101535 -51.938673,-29.6100893 -51.9389166,-29.6100636 -51.9393098,-29.61005 -51.9395167,-29.6100193 -51.9396857,-29.6099592 -51.9398127,-29.609883 -51.9400007,-29.6096966 -51.9401501,-29.6094874 -51.9402948,-29.6092498 -51.9404352,-29.6088555 -51.940676,-29.6082893 -51.9407211,-29.6081838 -51.9407732,-29.6081162 -51.9412481,-29.607814 -51.9419179,-29.6074014 -51.9424278,-29.6070851 -51.9425435,-29.6070328 -51.942603,-29.6070155 -51.9426677,-29.6070103 -51.942831,-29.6069981 -51.9428846,-29.6069911 -51.9429383,-29.6069782 -51.9430137,-29.6069491</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530693134</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9820661,-29.7077913 -51.9824928,-29.7082995 -51.9826242,-29.7084277 -51.982769119378,-29.7085169581398</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957048232</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9766134,-29.7116821 -51.9769648,-29.71096 -51.9770345,-29.710706 -51.9769835,-29.7105569 -51.9767314,-29.7103356 -51.9759026,-29.7099885 -51.9758731,-29.7099373 -51.9758919,-29.7098837 -51.9762245,-29.7095389 -51.9766375,-29.7089029 -51.9768468,-29.7082203 -51.9768629,-29.7080782 -51.9767991,-29.7061592</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957048233</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9683415,-29.7070555 -51.9647741,-29.7057182 -51.9632641,-29.7050915 -51.9630269,-29.7049234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vereador Romualdo Alves da Silva</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530693133</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9641706,-29.7036507 -51.9668754,-29.704304 -51.9692722,-29.7051707 -51.9695404,-29.7052336 -51.9703385,-29.7052747 -51.9718739,-29.7052733 -51.9721368,-29.7052942 -51.9738668,-29.7056064 -51.9740361,-29.7056702 -51.974701,-29.7061422 -51.9749746,-29.7062284 -51.9752562,-29.7062261 -51.9759174,-29.7060921 -51.9761471,-29.7060776 -51.9767991,-29.7061592 -51.979588,-29.706508 -51.9799344,-29.7065929 -51.9800305,-29.706635 -51.9803414,-29.7069045 -51.9806159,-29.7071516 -51.9807065,-29.7072092 -51.9817763,-29.7075696 -51.9820661,-29.7077913</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Sotero dos Santos Braga</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272840912</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9681604,-29.7009624 -51.9674881,-29.7006559 -51.9663424,-29.7001328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vereador de Oliveira Santafé</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1065491355</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9699575,-29.6965799 -51.9693396,-29.6975998 -51.9674881,-29.7006559</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272840914</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9681818,-29.6971038 -51.9693396,-29.6975998</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Augusto Fernando Schneider</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530694589</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.975334,-29.696131 -51.9731734,-29.6963147 -51.971696,-29.6964263 -51.9699949,-29.6965182</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Marinheiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272840913</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9699575,-29.6965799 -51.9687538,-29.696052</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">49015175</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9566070288265,-29.7127794819231 -51.9569138,-29.7124241 -51.958407,-29.710518 -51.9599753,-29.7083724 -51.9615587,-29.7063443 -51.9630022,-29.7049495</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890622</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9433419,-29.7044415 -51.943955,-29.7048972 -51.9472164,-29.7065802 -51.9474793,-29.7066734 -51.9494829,-29.7067445 -51.949672,-29.7067911 -51.9540882,-29.7086583</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530694590</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9485135,-29.6917769 -51.9485575,-29.6918508 -51.948583,-29.6919125 -51.9485749,-29.6922189 -51.948595,-29.6922644 -51.9486339,-29.6922947 -51.9497082,-29.6927036 -51.9498423,-29.6927269 -51.9499549,-29.6927012 -51.9503358,-29.6924822 -51.9506427,-29.6924527 -51.9508401,-29.6925148 -51.9515431,-29.6930144 -51.954045,-29.6940171 -51.9544315,-29.6940503 -51.954595,-29.6940854 -51.9547561,-29.6941668 -51.9549757,-29.6943584 -51.9553383,-29.6945473 -51.9577119,-29.6954809 -51.9606504,-29.6967102 -51.9612959,-29.6969511</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">286833162</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9497711,-29.6899106 -51.9502008,-29.6894562 -51.9506678,-29.6890668 -51.9513109,-29.6886218 -51.9517448,-29.6883215 -51.9525448,-29.6878155 -51.9532138,-29.6874858 -51.9538807,-29.6872249 -51.9546186,-29.6870139 -51.9554385,-29.6868759 -51.9575541,-29.6866744</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957037407</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9513109,-29.6886218 -51.9511566,-29.6885479 -51.9511056,-29.6885351 -51.9510466,-29.6885456 -51.9507489,-29.6887145 -51.9504324,-29.6887949 -51.9503693,-29.6887879 -51.9503237,-29.6887669 -51.9489571,-29.6881646 -51.948638,-29.6880597 -51.9483295,-29.68785 -51.9480103,-29.6877032</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957037406</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9484609,-29.6865009 -51.9484945,-29.6863086 -51.9485293,-29.6862725 -51.9486353,-29.6862539 -51.9492817,-29.6863331 -51.9500327,-29.6863354 -51.9501722,-29.6863611 -51.9520363,-29.6871673 -51.9524727,-29.6874203</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada do Faxinal do Silva Jorge</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">947054521</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9462416,-29.6661869 -51.9476509,-29.6666319 -51.9477287,-29.6666762 -51.9477874,-29.6667341 -51.9479077,-29.6669801 -51.948021,-29.667343 -51.9482263,-29.6679273 -51.9482758,-29.6681057 -51.9482718,-29.6685174 -51.9481688,-29.6688333 -51.9480211,-29.6692865 -51.947962,-29.6694939 -51.9479808,-29.6696524 -51.9482758,-29.6701968 -51.9486793,-29.6709287 -51.9490474,-29.6717405 -51.9490921,-29.6718252 -51.9494367,-29.6724786 -51.9496278,-29.6729275 -51.9496632,-29.6731428 -51.9497198,-29.6736778 -51.9499959,-29.675529 -51.9504347,-29.6777922 -51.9504109,-29.678352 -51.950376,-29.6788064 -51.9503304,-29.679079 -51.9501025,-29.679869 -51.9498755,-29.680578 -51.9498118,-29.6810577 -51.9497198,-29.6818879 -51.9497994,-29.6830615 -51.9498476,-29.6832036 -51.9504299,-29.6841183 -51.9506895,-29.6845261 -51.9508099,-29.6849073 -51.9509266,-29.6852237 -51.9511001,-29.6856945 -51.9512133,-29.6858544 -51.9513903,-29.6859527 -51.951631,-29.6860388 -51.9520061,-29.6861372 -51.9521477,-29.6862233 -51.9523126,-29.6865428 -51.9524727,-29.6874203 -51.9525448,-29.6878155</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957048236</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9475409,-29.672209 -51.9476952,-29.6719188 -51.9477381,-29.671899 -51.9481686,-29.6719072 -51.9482718,-29.6719223 -51.9486031,-29.6720388 -51.9487278,-29.6720621 -51.9488043,-29.6720575 -51.9489893,-29.6719363 -51.9490921,-29.6718252</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vereador Álvaro Ribeiro Caldas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">311447439</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9630022,-29.7049495 -51.9630269,-29.7049234 -51.9639427,-29.7039571 -51.9641706,-29.7036507 -51.9644737,-29.7030646 -51.9653559,-29.7017645 -51.9655074,-29.7015139 -51.9663424,-29.7001328 -51.9680403,-29.6973243 -51.9681818,-29.6971038 -51.9687538,-29.696052 -51.9704986,-29.6929406 -51.9705597,-29.6927595 -51.9705811,-29.6925754 -51.9706213,-29.6923715 -51.9710466,-29.6916617 -51.9719807,-29.6901476 -51.9723108,-29.6896045 -51.9728905,-29.6886508 -51.9729919,-29.6884071 -51.9731516,-29.6876329</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1159761659</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9801249,-29.6955459 -51.9757122,-29.6959259 -51.9756129,-29.6959516 -51.9754386,-29.696096 -51.975334,-29.696131</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Vereador de Oliveira Santafé</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272840911</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9725472,-29.6923844 -51.9699949,-29.6965182 -51.9699575,-29.6965799</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Bepe Guimarães</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272840909</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9826116965132,-29.6923453200508 -51.9802184,-29.6925009 -51.9779764,-29.692509 -51.9725472,-29.6923844 -51.970994,-29.6923507 -51.9707876,-29.6923669 -51.9706213,-29.6923715</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Ernesto Guedes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1159761660</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9723108,-29.6896045 -51.9732583,-29.689537</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315897951</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9659265,-29.6879601 -51.9661833,-29.6882684 -51.9663245,-29.6884814 -51.9663786,-29.6886275 -51.9664257,-29.6888139 -51.9664551,-29.6891359</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">31621652</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9664551,-29.6891359 -51.9670981,-29.6881297 -51.9671836,-29.6879575 -51.9672766,-29.6877813</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">196944624</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9762781,-29.6881564 -51.9759164,-29.688143 -51.9755708,-29.6880683</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268117</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9764122,-29.6879986 -51.9775737,-29.6881583</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268115</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9764122,-29.6879986 -51.9763782,-29.6880758 -51.9762781,-29.6881564</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">196944623</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9755708,-29.6880683 -51.9755256,-29.6879649 -51.9755214,-29.6878761</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268111</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9755214,-29.6878761 -51.9764122,-29.6879986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">196944625</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.976317,-29.6877626 -51.9764,-29.6878613 -51.9764122,-29.6879986</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574293</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9659265,-29.6879601 -51.966217,-29.6880259 -51.9663716,-29.6880415 -51.9665605,-29.6880433 -51.9667613,-29.688012 -51.9669402,-29.6879616 -51.9670782,-29.6878945 -51.9672766,-29.6877813</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268101</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9744072,-29.6877229 -51.9755214,-29.6878761</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268109</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9755214,-29.6878761 -51.9755493,-29.6877764 -51.9756693,-29.6876799</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">196944622</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9756693,-29.6876799 -51.975989,-29.6877033 -51.976317,-29.6877626</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">31621794</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9733909,-29.687586 -51.9744072,-29.6877229</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315897931</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9654152,-29.6873677 -51.965505,-29.6875564 -51.9655903,-29.6876821 -51.9657466,-29.6878389 -51.9659265,-29.6879601</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846600051</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9758499,-29.6869903 -51.9759143,-29.6871644 -51.9760367,-29.6873807 -51.9761736,-29.6875627 -51.976317,-29.6877626</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">846600050</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9756693,-29.6876799 -51.9757463,-29.687505 -51.9758023,-29.6873879 -51.9758562,-29.6871752 -51.9758499,-29.6869903</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574280</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.967461,-29.6867834 -51.9733909,-29.687586</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574294</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9658793,-29.6865626 -51.9656568,-29.6867693 -51.9655764,-29.6868653 -51.9655084,-29.6869722 -51.965459,-29.6870957 -51.9654289,-29.6872359 -51.9654152,-29.6873677</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1159761661</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9731516,-29.6876329 -51.9732018,-29.6874559 -51.9732349,-29.687353 -51.9732825,-29.6872682 -51.9733592,-29.6871866 -51.973553,-29.6869727 -51.9738055,-29.6866651 -51.9743463,-29.6860398</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574295</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9637663,-29.6862892 -51.9640573,-29.6864571 -51.9643639,-29.6866193 -51.9646572,-29.6868101 -51.9652194,-29.6872558 -51.9654152,-29.6873677</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315897939</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9658793,-29.6865626 -51.967461,-29.6867834</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">286833161</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9575541,-29.6866744 -51.9591093,-29.6865263</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574272</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9758499,-29.6869903 -51.9758073,-29.6866813 -51.9757422,-29.686396 -51.9757243,-29.6863051 -51.9757135,-29.6862189 -51.9754534,-29.6860444 -51.9752929,-29.6859388 -51.9750875,-29.6858812 -51.974867,-29.685867 -51.9746146,-29.6859082 -51.9743463,-29.6860398</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574279</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9591093,-29.6865263 -51.9616457,-29.6862976 -51.9629092,-29.6862537 -51.9633866,-29.6862627 -51.9637663,-29.6862892 -51.9642793,-29.686345 -51.9658793,-29.6865626</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957048240</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9676157,-29.6869105 -51.9688591,-29.6870205 -51.9689503,-29.6870158 -51.9690308,-29.6869692 -51.9697067,-29.6848884</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">531268104</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9775737,-29.6881583 -51.9816653,-29.6886862 -51.9825773389558,-29.6888140996237</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">186574292</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9755579,-29.6842647 -51.975528,-29.684667 -51.9755459,-29.6850678 -51.9756666,-29.6857506 -51.9757175,-29.6860908 -51.9757135,-29.6862189</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272841552</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9825443896064,-29.685427020374 -51.97936,-29.6856806 -51.9757175,-29.6860908</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1159758447</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9743463,-29.6860398 -51.9750568,-29.6850417 -51.9753347,-29.6846434 -51.9755579,-29.6842647 -51.978269,-29.6763478 -51.978731,-29.6750941 -51.9810779,-29.6694415 -51.9823573147597,-29.6661853668279</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530693131</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9823881214017,-29.669355283678 -51.9812368,-29.6694553 -51.9810779,-29.6694415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">620143570</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9477874,-29.6667341 -51.9483769,-29.6668347 -51.9506682,-29.6667953 -51.9517911,-29.6669037 -51.9543886,-29.6676232 -51.9564416,-29.6683328 -51.9587328,-29.6692987 -51.9619201,-29.6702349 -51.9720578,-29.6735286</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">957048239</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9630146,-29.6651741 -51.963889,-29.6659491 -51.9640929,-29.6660889 -51.9644013,-29.6661611 -51.965273,-29.666322 -51.9655198,-29.6664455 -51.9657022,-29.6666133 -51.9658336,-29.6668627 -51.9660991,-29.6678135 -51.9664559,-29.6687668 -51.9665819,-29.6690185 -51.9671452,-29.6697642 -51.9672444,-29.6698528 -51.9674805,-29.670002 -51.9682637,-29.6703515 -51.9688779,-29.6706708 -51.9701788,-29.6710763 -51.9709915,-29.6712138 -51.9712892,-29.6712907 -51.9728306,-29.6718595</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">947053862</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9672766,-29.6877813 -51.9674915,-29.687257 -51.9676157,-29.6869105 -51.9676803,-29.6866704 -51.9677287,-29.6863176 -51.9677823,-29.6855183 -51.9678295,-29.6848335 -51.968401,-29.6826394 -51.9690388,-29.680452 -51.9693044,-29.6795731 -51.9694251,-29.6792888 -51.9704792,-29.6769887 -51.9720578,-29.6735286 -51.9728306,-29.6718595 -51.9767743,-29.663341 -51.9793242,-29.6575051 -51.9791436,-29.6560013 -51.9778141,-29.6510574 -51.9729038,-29.6434939 -51.9666231,-29.6394199 -51.9539702,-29.6313214 -51.9538218,-29.6312294</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1238337533</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9821935767874,-29.6493286551303 -51.9804531,-29.6446514 -51.9790472,-29.6429255 -51.9748047,-29.6375576 -51.9724788,-29.6335783 -51.9715392,-29.6319707</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">620144091</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9666231,-29.6394199 -51.966375,-29.6394247 -51.9644964,-29.6389794 -51.9638784,-29.6388875 -51.9635043,-29.6392338 -51.9630895,-29.6397993 -51.9621949,-29.6403153 -51.9618534,-29.6405132 -51.9608205,-29.6408171 -51.960235,-29.6412129 -51.9590965,-29.6416582 -51.9577465,-29.6421742 -51.9572091,-29.6422148</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890623</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9431756,-29.7043052 -51.9433419,-29.7044415</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">286832419</SimpleData>
+		<SimpleData name="source">Survey;GPS Track Log</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9485135,-29.6917769 -51.9484086,-29.6917133 -51.9483188,-29.6916888 -51.9482372,-29.6916934 -51.9481321,-29.6917247 -51.9479669,-29.6917743 -51.9478198,-29.6917873 -51.9476576,-29.6917743 -51.9473002,-29.6916986 -51.9464144,-29.6915456 -51.9462132,-29.6915106 -51.9456444,-29.6913972 -51.9454835,-29.6913786 -51.9444857,-29.691332 -51.9442926,-29.6913133 -51.943724,-29.6911829 -51.9434973,-29.6911509 -51.943374,-29.6910997 -51.9432077,-29.6909692 -51.9430789,-29.6909086 -51.9427249,-29.6908667 -51.9421992,-29.6908107 -51.941947,-29.6907874 -51.9417217,-29.6907362 -51.9414696,-29.6906476 -51.9411316,-29.6904612 -51.9408849,-29.6902981 -51.9407347,-29.6900698 -51.9406757,-29.6897762 -51.9406864,-29.6896038 -51.9408098,-29.6893661 -51.9409117,-29.6892263 -51.9409922,-29.6890166 -51.9409922,-29.6888768 -51.940858,-29.6886344 -51.9405791,-29.6881172 -51.9404235,-29.6879074 -51.940327,-29.6876884 -51.9403109,-29.6874321 -51.9403162,-29.6871199 -51.9402358,-29.6868915 -51.9401339,-29.6867657 -51.9400106,-29.6866911 -51.9398355,-29.6866383 -51.9396907,-29.6866241 -51.9396253,-29.6866079 -51.9395786,-29.6865694 -51.9395249,-29.6864943</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315897930</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9538218,-29.6312294 -51.9537395,-29.6311442 -51.9534579,-29.6308481 -51.9533131,-29.6306103 -51.9531521,-29.6303515 -51.9525775,-29.6291222 -51.952375,-29.6287863 -51.9519261,-29.628382 -51.950653,-29.6274309 -51.9502404,-29.6271796 -51.9495588,-29.6268794 -51.9480728,-29.6263465 -51.9478259,-29.6262967 -51.9474044,-29.6262206 -51.9467945,-29.626217 -51.9456828,-29.6262967 -51.9433794,-29.6265707 -51.9418877,-29.6268128 -51.9416072,-29.6268158 -51.9411983,-29.6267835 -51.9404947,-29.6265866 -51.937311,-29.6258413 -51.9368659,-29.6257318 -51.9363962,-29.6255409 -51.935562,-29.6251755 -51.9353423,-29.6250042 -51.9351384,-29.624771 -51.9350361,-29.6245395 -51.9352426,-29.6220681 -51.9352914,-29.6210941 -51.9354145,-29.6203387 -51.9355499,-29.6200775 -51.935841,-29.6198379 -51.9365827,-29.6194007 -51.9368978,-29.6191461 -51.937162,-29.618731 -51.937266,-29.6183108 -51.9375307,-29.6170528 -51.9376804,-29.6160662 -51.9379862,-29.6150981 -51.9379969,-29.6148372 -51.9379723,-29.6143308 -51.9379607,-29.6141968 -51.9379139,-29.6139655 -51.9377819,-29.613686 -51.9376024,-29.6134667 -51.9369166,-29.612465</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua São Manoel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127946</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9404866,-29.6093671 -51.9405522,-29.6094952 -51.9408743,-29.6101874 -51.9416451,-29.611124</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127953</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9416451,-29.611124 -51.9431963,-29.6103642 -51.9435709,-29.6099849 -51.9439233,-29.6096282 -51.9441673,-29.60939 -51.9444591,-29.6092053 -51.9448131,-29.6090234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">735355964</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9420811,-29.6095471 -51.9424861,-29.6101934</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada do Faxinal do Silva Jorge</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">359673914</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9462416,-29.6661869 -51.9465056,-29.6659887 -51.9469817,-29.6657032 -51.9471399,-29.6655458 -51.9475713,-29.6647707 -51.9479287,-29.6643424 -51.9482738,-29.6640104 -51.9488037,-29.6636998 -51.9497751,-29.6631133 -51.9501432,-29.6627996 -51.9504759,-29.6624613 -51.9504695,-29.6624111 -51.9504617,-29.6623506 -51.9503414,-29.6622399 -51.9489045,-29.6611081 -51.9483524,-29.6605607 -51.9483524,-29.6604746 -51.9484939,-29.660327 -51.9487629,-29.6600871 -51.9491168,-29.6597303 -51.9493504,-29.6593305 -51.9496902,-29.6589799 -51.9498954,-29.6586662 -51.9499662,-29.6584632 -51.9497822,-29.6577005 -51.9494495,-29.6569808 -51.9494141,-29.6568701 -51.9493363,-29.6566486 -51.9492938,-29.6561381 -51.9492938,-29.6559351 -51.9493504,-29.6557198 -51.9495203,-29.6555599 -51.9498671,-29.6553384 -51.950306,-29.6551047 -51.9508086,-29.6549447 -51.9509926,-29.6547664 -51.9512474,-29.6543727 -51.9517925,-29.6535976 -51.9519907,-29.6533454 -51.9519907,-29.6532101 -51.9519057,-29.6531239 -51.950759,-29.6525642 -51.9502069,-29.6522443 -51.9492513,-29.651703 -51.9489186,-29.6514262 -51.9488266,-29.6512847 -51.9487417,-29.6509648 -51.9487558,-29.6507433 -51.9488408,-29.6504727 -51.9487558,-29.6497529 -51.9486559,-29.6492955 -51.9484896,-29.6490951 -51.9482697,-29.6489179 -51.9482429,-29.6485776 -51.948259,-29.6481487 -51.9481517,-29.64751 -51.9480551,-29.6469598 -51.9479532,-29.645729 -51.9478566,-29.6450343 -51.9476886,-29.6446181</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">620144092</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9577465,-29.6421742 -51.958315,-29.6441932 -51.9585766,-29.6451747 -51.9592928,-29.6479217 -51.9594512,-29.6481372 -51.9601467,-29.6481132 -51.96025,-29.648185 -51.9612553,-29.650148 -51.961214,-29.6507284 -51.9610006,-29.6521228 -51.9616134,-29.6528649 -51.9617787,-29.6535471 -51.9621161,-29.653972 -51.9630141,-29.6546647 -51.9635135,-29.6556621 -51.9634559,-29.6561545 -51.963552,-29.6567179 -51.9636448,-29.6573123 -51.9643131,-29.6585554 -51.9648157,-29.6594289 -51.9651747,-29.6613295 -51.965114,-29.6628029 -51.9649297,-29.6634995 -51.9648095,-29.6636744 -51.9637254,-29.6645413 -51.9630535,-29.6651461 -51.9630146,-29.6651741 -51.9629529,-29.6651671 -51.9626203,-29.6650424 -51.9618371,-29.6649818 -51.9605711,-29.6646089 -51.9599032,-29.6645273 -51.9596636,-29.6645379 -51.9582135,-29.6649678 -51.9576421,-29.6650005 -51.9574034,-29.6649585 -51.9572398,-29.6648793 -51.9567594,-29.664471 -51.9565156,-29.6642104 -51.9563252,-29.6640799 -51.956065,-29.663982 -51.9547722,-29.6640006 -51.9544852,-29.6640309 -51.9540077,-29.6639354 -51.9538522,-29.66394 -51.9533426,-29.6640938 -51.9529939,-29.6641148 -51.9527659,-29.6640705 -51.9524608,-29.6638953 -51.9511744,-29.6628443 -51.9506967,-29.6625097 -51.9504695,-29.6624111</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Barra do Faxinal do Silva Jorge</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">359673218</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9538218,-29.6312294 -51.9539085,-29.63137 -51.9543787,-29.6321322 -51.955194,-29.6347527 -51.9553173,-29.6352454 -51.9555145,-29.6369272 -51.9556131,-29.6382662 -51.9570796,-29.640205 -51.9573631,-29.6418653 -51.9572091,-29.6422148 -51.9566976,-29.6433756 -51.9564265,-29.6435898 -51.9559951,-29.6437505 -51.9556131,-29.6437933 -51.9554036,-29.6437933 -51.9544053,-29.6435684 -51.9531236,-29.6431721 -51.9520514,-29.64299 -51.9513735,-29.6429043 -51.9499439,-29.6426258 -51.9495619,-29.6428614 -51.9491305,-29.6433541 -51.9481693,-29.6439218 -51.9476886,-29.6446181</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257129146</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9450999,-29.6088925 -51.9451199,-29.6089528 -51.9450983,-29.6090304 -51.9450452,-29.6090746 -51.9449792,-29.609112 -51.9449177,-29.6091471</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alberto Pasqualine</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257129205</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9444028,-29.6083961 -51.9451292,-29.6080198</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Israel Ribeiro</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257309688</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9447421,-29.6074854 -51.9451292,-29.6080198 -51.9455405,-29.6086587</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257309687</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9448131,-29.6090234 -51.9450999,-29.6088925 -51.9455405,-29.6086587 -51.9460425,-29.6084096 -51.9462418,-29.6082485 -51.9468513,-29.6075983 -51.9470341,-29.6074326 -51.9471542,-29.6073483 -51.9473866,-29.6071797 -51.9475318,-29.6070775 -51.948178,-29.6067579 -51.9486291,-29.6065796</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231364021</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9471542,-29.6073483 -51.947657,-29.6075351 -51.9481215,-29.6077135 -51.9485967,-29.6078701 -51.9488739,-29.6079327 -51.9492015,-29.6079608</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952605196</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9489203,-29.6064968 -51.9486291,-29.6065796</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">678890815</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9820720304332,-29.6368062399509 -51.97882,-29.6372245 -51.9771751,-29.63746 -51.9762685,-29.6373869 -51.9748047,-29.6375576</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1238337532</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9715392,-29.6319707 -51.9713909,-29.631717</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">620169780</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9820215457281,-29.6316026781599 -51.9817854,-29.6316254 -51.9795295,-29.6318971 -51.9782991,-29.6319948 -51.9760631,-29.6331774 -51.9738271,-29.6335013 -51.9724788,-29.6335783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">259756430</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.9799381,-29.6117755 -51.9812899,-29.613156 -51.9813757,-29.6161594 -51.9818790646036,-29.6169094639847</coordinates></LineString><LineString><coordinates>-51.9818920673207,-29.6182508083589 -51.9818263,-29.6191813 -51.9803243,-29.6193119 -51.9780283,-29.6204684 -51.9767623,-29.6219234 -51.9727283,-29.6221846 -51.9710117,-29.623341 -51.9691234,-29.6237701 -51.9630311,-29.6268862</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">259756429</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9818228497211,-29.6111093576837 -51.9814401,-29.6111972 -51.9799381,-29.6117755 -51.9778673,-29.6084042 -51.977752,-29.608234 -51.9776125,-29.6080848 -51.9745883,-29.6054741</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952582206</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9812904,-29.5996429 -51.9817176988897,-29.6002555943751</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1093810358</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9607402,-29.6043014 -51.9604987,-29.6038323 -51.958884,-29.6013439 -51.9587043,-29.6011271 -51.9586238,-29.6010909 -51.9585045,-29.6010944 -51.9583167,-29.6011434 -51.9578715,-29.6012693 -51.9576985,-29.6013066 -51.9575281,-29.6014081</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952582207</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9631836,-29.603753 -51.9620061,-29.6018663 -51.961365,-29.6008752 -51.9612202,-29.6007423 -51.96096,-29.6005883 -51.9607388,-29.6005137 -51.9606422,-29.600502 -51.9605108,-29.6005125 -51.9604035,-29.6004939 -51.9603297,-29.6004589 -51.9599797,-29.6002164 -51.959918,-29.6002035 -51.9598657,-29.6002024</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272842175</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9559176,-29.6057651 -51.9563413,-29.6052758 -51.9565558,-29.6051173 -51.9567771,-29.6050345 -51.9580203,-29.6048141 -51.9601285,-29.6044386 -51.9607402,-29.6043014 -51.9631836,-29.603753 -51.9662252,-29.603093 -51.9693473,-29.6023561 -51.9702254,-29.6021211 -51.9711584,-29.6018715 -51.9724935,-29.6015142 -51.973494,-29.6011387 -51.9736638,-29.6010417 -51.9739603,-29.6008723 -51.9740492,-29.6008215 -51.9743925,-29.600516 -51.9749601,-29.5999181 -51.9751918,-29.5996741 -51.9758168,-29.5990071 -51.9765222,-29.5983075 -51.9765995,-29.5982362 -51.9770265,-29.5978421 -51.9773537,-29.5975402 -51.9775305,-29.5973882 -51.9782922,-29.5967332 -51.979342,-29.5959876 -51.980398,-29.5952802 -51.9807782,-29.5950132 -51.9810323,-29.5948347 -51.9816345,-29.5944592 -51.9816614126419,-29.5944432266873</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Borges de Medeiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257128583</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9448131,-29.6090234 -51.9449177,-29.6091471 -51.9449432,-29.6092367 -51.9449193,-29.6092968 -51.9440973,-29.6099989 -51.9437482,-29.6101784 -51.9435709,-29.6099849</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alberto Pasqualine</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127948</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9408743,-29.6101874 -51.9420811,-29.6095471 -51.9423038,-29.6094315 -51.9427836,-29.6092148 -51.9430446,-29.6091053 -51.9436941,-29.6088126</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Trajano R de Moraes</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127920</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9447421,-29.6074854 -51.9446817,-29.6074621 -51.9446281,-29.6074621 -51.9440138,-29.6078084 -51.9432907,-29.6081849 -51.9426406,-29.6084956 -51.9419281,-29.6088406 -51.9405522,-29.6094952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Santo Antônio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127928</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9423038,-29.6094315 -51.9419281,-29.6088406 -51.9415234,-29.6082111 -51.9412481,-29.607814 -51.9409378,-29.60736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alberto Gregorius</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127933</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9428863,-29.6075495 -51.9432907,-29.6081849 -51.9436941,-29.6088126</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231372529</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9435351,-29.6070808 -51.9435887,-29.6071648 -51.9440138,-29.6078084 -51.9444028,-29.6083961 -51.9448131,-29.6090234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Bento Gonçalves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127930</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.942248,-29.6078751 -51.9415234,-29.6082111</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952561092</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9426365,-29.6077035 -51.942248,-29.6078751</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Oliverio Arnt</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127923</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9412922,-29.6064223 -51.9419179,-29.6074014 -51.942248,-29.6078751 -51.9426406,-29.6084956 -51.9430446,-29.6091053</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua General Bento Gonçalves</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127941</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9435887,-29.6071648 -51.943278,-29.6073412 -51.9428863,-29.6075495</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">530694596</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8920623,-29.7054338 -51.8921453,-29.7063938 -51.8920755,-29.7067153 -51.8919843,-29.7068505 -51.891802,-29.7068831 -51.8906647,-29.7069017 -51.8895811,-29.7069856 -51.8884371,-29.7069961 -51.886915,-29.7069809 -51.8867487,-29.7070415 -51.8856329,-29.7077637 -51.8853486,-29.7078942 -51.8839699,-29.7083554 -51.8827039,-29.7087934 -51.8804553,-29.7094372 -51.877855,-29.7100521 -51.8756801,-29.7105372 -51.8735111,-29.7110017 -51.8711305,-29.7112825 -51.8707411749143,-29.71127693832</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">454013954</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.8706899033579,-29.7053343812034 -51.8726416,-29.7057183 -51.8739749,-29.7059449 -51.8751949,-29.70602 -51.8766299,-29.7059983 -51.8819864,-29.7058024 -51.8869418,-29.7055878 -51.8888243,-29.7055312 -51.8920623,-29.7054338 -51.8959262,-29.7052925 -51.8967371,-29.7052628</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">512958502</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">trunk</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9012706,-29.7050998 -51.9024621,-29.7050622 -51.903488,-29.7049918 -51.9058653,-29.7046497 -51.914877,-29.7033186 -51.9199329,-29.7026492 -51.9243655,-29.7019949 -51.9273733,-29.7015599 -51.9281647,-29.7014035 -51.928875,-29.7012283 -51.929177,-29.7011457</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">620144097</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.914877,-29.7033186 -51.9144425,-29.703265 -51.9141367,-29.7032767 -51.913214,-29.7029878 -51.9130585,-29.7029249 -51.9129673,-29.7028387 -51.9122243,-29.7015433 -51.9120231,-29.7011752 -51.9118273,-29.7009329 -51.9111756,-29.7003388 -51.9108403,-29.699938 -51.9105452,-29.6996561 -51.910454,-29.6995862 -51.9104037,-29.6995588 -51.9102609,-29.6995117 -51.909754,-29.6994441 -51.9092631,-29.6994767 -51.90896,-29.6995256 -51.9088206,-29.6995023 -51.9086945,-29.6994557 -51.9085765,-29.6993183 -51.9084987,-29.6988896</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">257127943</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430137,-29.6069491 -51.9430724,-29.6069913 -51.9430952,-29.6070218 -51.943278,-29.6073412</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231372429</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9435351,-29.6070808 -51.9434305,-29.6070167 -51.9433567,-29.6069963 -51.9431471,-29.6069354</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinaldo Noschang</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952963035</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9431471,-29.6069354 -51.9430137,-29.6069491</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315878566</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9432474,-29.6067611 -51.9433898,-29.6068661 -51.9434626,-29.6069589 -51.9435351,-29.6070808</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315878568</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9431471,-29.6069354 -51.9430875,-29.6068971</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Reinaldo Noschang</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952963034</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430137,-29.6069491 -51.9430093,-29.6068316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231372430</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430875,-29.6068971 -51.9430093,-29.6068316</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183615566</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9431464,-29.6066838 -51.9432474,-29.6067611</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315878565</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9430093,-29.6068316 -51.942851,-29.6066036 -51.9427535,-29.6064267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">183615556</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9427535,-29.6064267 -51.9429031,-29.6065232 -51.9431464,-29.6066838</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952605195</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9486291,-29.6065796 -51.948868,-29.6063758</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231363666</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9491586,-29.6063475 -51.94917,-29.6063964 -51.9491686,-29.6064226 -51.9491505,-29.6064653 -51.9491328,-29.6064864 -51.9490918,-29.6065146 -51.9490604,-29.6065255 -51.9490084,-29.6065297 -51.9489622,-29.6065199 -51.9489203,-29.6064968 -51.9488853,-29.6064548</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952600639</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9488853,-29.6064548 -51.948874,-29.6064287 -51.948868,-29.6063758 -51.9489005,-29.6063207 -51.9489458,-29.606286 -51.9489949,-29.6062706 -51.9490461,-29.6062706 -51.9490953,-29.6062859 -51.9491241,-29.6063046 -51.9491586,-29.6063475</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952605197</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9494527,-29.6062194 -51.94917,-29.6063964</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952605194</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9490953,-29.6062859 -51.9494527,-29.6062194</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Maria Estefania Ribeiro Kohler</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">399341948</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9478162,-29.6051045 -51.946983,-29.6053568 -51.9469133,-29.6054132 -51.9468721,-29.605517 -51.946756,-29.6061137 -51.9468081,-29.6061808 -51.9469192,-29.6063084 -51.9473866,-29.6071797</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">272842178</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9557135,-29.6059737 -51.9559176,-29.6057651</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Alvaro Haubert</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">893157637</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9494527,-29.6062194 -51.9499857,-29.606003 -51.9513175,-29.6054624 -51.9513919,-29.6054363 -51.9520155,-29.6052176 -51.9525808,-29.6050193 -51.9529295,-29.604933 -51.9534767,-29.6048724 -51.9538683,-29.6048491 -51.9541539,-29.6048596 -51.9543307,-29.6048945 -51.9545175,-29.6050215 -51.9546825,-29.6052315 -51.9550895,-29.6059752 -51.9552343,-29.6061113 -51.9553952,-29.6062146 -51.9555009,-29.6061476 -51.9555745,-29.6061009 -51.9557135,-29.6059737</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Senador Pinheiro Machado</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">616268469</SimpleData>
+		<SimpleData name="source">bin</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9427535,-29.6064267 -51.9426419,-29.6063173 -51.9420728,-29.6058347 -51.941573,-29.6053505 -51.9410017,-29.6048328 -51.9408327,-29.6046742 -51.9406021,-29.6045039 -51.9401447,-29.6042008</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua Mathias Vicente Diedrich</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">735355968</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9471542,-29.6073483 -51.946658,-29.6071559 -51.9464949,-29.6070319 -51.9455593,-29.6056492 -51.9450921,-29.6049587 -51.9449714,-29.6047978 -51.9448239,-29.6045786 -51.9444457,-29.6039764 -51.9440469,-29.6033726 -51.9436222,-29.6027362 -51.9432444,-29.6021331</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952608829</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9562018,-29.6041098 -51.9561535,-29.60435 -51.9561616,-29.6045809 -51.9562206,-29.6047255 -51.9565558,-29.6051173</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952608830</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9562407,-29.6040084 -51.9562018,-29.6041098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">952587480</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9543307,-29.6048945 -51.9544226,-29.6048052 -51.9545791,-29.6046532 -51.9545938,-29.6046112 -51.9545817,-29.6045378 -51.9543859,-29.6041425 -51.9541258,-29.6035664 -51.9538146,-29.6029927 -51.9535008,-29.6024634 -51.953474,-29.6023234 -51.9534794,-29.6022371</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1093810357</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9552912,-29.601969 -51.955251,-29.6020226 -51.9552496,-29.6020879 -51.9553623,-29.6023304 -51.9557405,-29.603198 -51.9558156,-29.6033496 -51.9559041,-29.6034638 -51.9561803,-29.6037822 -51.9562259,-29.6038591 -51.9562514,-29.6039466 -51.9562407,-29.6040084</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231503659</SimpleData>
+		<SimpleData name="source">IBGE</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9713909,-29.631717 -51.9710285,-29.6310969 -51.97054,-29.63046 -51.9698174,-29.6299116 -51.9655125,-29.6274877 -51.9630311,-29.6268862 -51.9623475,-29.6266738 -51.9617776,-29.6263199 -51.9603833,-29.6254795 -51.9587143,-29.6245771 -51.9570147,-29.6237455 -51.9564041,-29.6233386 -51.9558778,-29.6228242 -51.9552978,-29.6219374 -51.9547478,-29.6207725 -51.9546078,-29.6198684 -51.9545778,-29.6187644 -51.9546378,-29.6175646 -51.9551578,-29.6165388 -51.9553946,-29.6163711 -51.9574878,-29.615539 -51.9591379,-29.6148522 -51.9604879,-29.6138872 -51.964468,-29.6103747 -51.9655895,-29.6096087 -51.9658631,-29.6094548 -51.9693419,-29.6082002 -51.9707608,-29.6076242 -51.9711739,-29.6074003 -51.9723085,-29.6065445 -51.9728395,-29.606169 -51.9731694,-29.6059918 -51.9737005,-29.6057772 -51.9745883,-29.6054741 -51.975385,-29.6052665 -51.9758007,-29.6051476 -51.9761977,-29.6049494 -51.9764739,-29.6047138 -51.9771498,-29.6039372 -51.9778821,-29.6030907 -51.9790784,-29.6016378 -51.9794539,-29.601253 -51.9802317,-29.6005394 -51.9812904,-29.5996429 -51.9817083366031,-29.5992889216528</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">231232947</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9497296,-29.5805555 -51.950232,-29.580749 -51.9504726,-29.5807969 -51.950686,-29.580815 -51.9508226,-29.5807992 -51.951302,-29.5806553 -51.9515803,-29.5805718 -51.951807,-29.5805275 -51.9519854,-29.580517 -51.952731,-29.5805321 -51.952904,-29.5805193 -51.952986,-29.580511 -51.9532017,-29.580489 -51.9534203,-29.5804762 -51.9536537,-29.580496 -51.9537717,-29.58058 -51.9540091,-29.5807502 -51.9541181,-29.5808649 -51.9548754,-29.5816623 -51.9551828,-29.5819925 -51.9556949,-29.5825428 -51.9558442,-29.5827044 -51.9563716,-29.5832751 -51.9566198,-29.5835438 -51.9576153,-29.5846211 -51.9577595,-29.5847631 -51.9579375,-29.5849385 -51.9580903,-29.5850891 -51.9584535,-29.5854469 -51.9585997,-29.5856082 -51.9586837,-29.585701 -51.9592822,-29.5863613 -51.9596007,-29.5867128 -51.9598694,-29.5869911 -51.9605904,-29.5877377 -51.9608501,-29.5880067 -51.9610472,-29.588261 -51.9611438,-29.5883438 -51.9612739,-29.5884126 -51.961581,-29.5885339 -51.96204,-29.58869 -51.9626069,-29.5888184 -51.9626947,-29.5888263 -51.9628403,-29.5888394 -51.9631085,-29.5888184 -51.963408,-29.588772 -51.9644,-29.588503 -51.9650169,-29.5883333 -51.965261,-29.5882645 -51.9654246,-29.5881793 -51.965625,-29.588005 -51.9658135,-29.5878225 -51.9659503,-29.5877129 -51.9661018,-29.587658 -51.9668475,-29.5875111 -51.9699387,-29.5869816 -51.9711779,-29.5867169 -51.9713147,-29.5867134 -51.9714032,-29.5867694 -51.9714354,-29.5868545 -51.9716688,-29.5878855 -51.9717479,-29.5881735 -51.9717646,-29.5882126 -51.9718042,-29.5882382 -51.9718485,-29.5882412 -51.9722883,-29.5879916 -51.972456,-29.5879648 -51.9725847,-29.5880184 -51.9727376,-29.5881222 -51.973279,-29.5887383 -51.974297,-29.590344 -51.9756145,-29.5925097 -51.9782922,-29.5967332</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Bom_Retiro_do_Sul_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">189870087</SimpleData>
+		<SimpleData name="source">bing</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+		<SimpleData name="index_right">3</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.9813429113918,-29.5615211228269 -51.9805578640327,-29.5594946668219</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

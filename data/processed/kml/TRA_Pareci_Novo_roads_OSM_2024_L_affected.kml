@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRA_Pareci_Novo_roads_OSM_2024_L_affected" id="TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+	<SimpleField name="osmid" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="index_right" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>TRA_Pareci_Novo_roads_OSM_2024_L_affected</name>
+  <Placemark>
+	<name>Estrada da Baragem</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">164216381</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4084116,-29.6597377 -51.4068934,-29.6613471 -51.4063789438542,-29.661930865003</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada da Baragem</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">164216365</SimpleData>
+		<SimpleData name="source">Bing</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-51.3820682,-29.650744 -51.3836467,-29.6516332 -51.3842073,-29.6518314 -51.3854793,-29.6522917 -51.3856557,-29.6523232 -51.3860983,-29.6523582 -51.386172,-29.6523861 -51.3863745,-29.6525237 -51.386455,-29.6525458 -51.386793,-29.652491 -51.3869378,-29.6525237 -51.3878793,-29.6530027 -51.3879906,-29.6530947 -51.3884,-29.6536448 -51.3886625,-29.6542765 -51.3887563,-29.6544467 -51.389577,-29.655276 -51.3904971,-29.6564139 -51.3914278,-29.6572181 -51.3922566,-29.6577216 -51.3924283,-29.6578008 -51.3937265,-29.6580269 -51.394448,-29.658204 -51.3949415,-29.6585164 -51.3950944,-29.6585653 -51.3965482,-29.6585979 -51.3968432,-29.6585222 -51.3971865,-29.6583882 -51.3979536,-29.6583241 -51.3987394,-29.6581849 -51.3998567,-29.6580339 -51.4005393,-29.6578975 -51.4011888,-29.6578591 -51.403306,-29.6576341 -51.4034642,-29.6576423 -51.4042971,-29.6578206 -51.4050561,-29.658112 -51.4055483,-29.6582611 -51.4067741,-29.6585502 -51.4068975,-29.6586003 -51.4074138,-29.6589429 -51.4077236,-29.6591061 -51.4084116,-29.6597377 -51.4090875,-29.660029 -51.4103454,-29.660642 -51.4106018,-29.6607844 -51.4121227239567,-29.6619131321824</coordinates></LineString><LineString><coordinates>-51.4185372183185,-29.6618930344899 -51.4186012,-29.661868</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">949909497</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.423617,-29.6574955 -51.4229573,-29.6580619 -51.421136,-29.6596258 -51.4207685,-29.6600034 -51.4200711,-29.6605348 -51.4192772,-29.6615557 -51.419068,-29.6616839 -51.4186012,-29.661868</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Júlio José Colling</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">315780793</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4042555,-29.6423952 -51.4058261,-29.6438301 -51.4062497,-29.644217 -51.4074998,-29.645337 -51.4075935,-29.645421 -51.4078805,-29.6456961 -51.4080979,-29.64594 -51.4084498,-29.6464094 -51.4087931,-29.6468053 -51.4090687,-29.6470446 -51.4095233,-29.6473045 -51.4108477,-29.6477766 -51.4114787,-29.6479502 -51.4121184,-29.6480784 -51.4121998,-29.6480893 -51.4129736,-29.6481928 -51.4133213,-29.6482393 -51.4137357,-29.6483302 -51.4137695,-29.6483414 -51.4139356,-29.6483966 -51.4158493,-29.6492906 -51.4165615,-29.6496274 -51.4173111,-29.649892 -51.4180434,-29.6500843 -51.4189768,-29.6502649 -51.4211729,-29.6504613 -51.4242519,-29.650711 -51.4243535,-29.6507316 -51.4244912,-29.650761 -51.4247717,-29.6508209 -51.425264,-29.6509303 -51.426609,-29.6514526 -51.4272554,-29.6516717</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935340</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4265252,-29.6521973 -51.4264682,-29.6522772</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935341</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4265902,-29.6521018 -51.4266466,-29.6521973 -51.4267163,-29.6523034</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">38252097</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4279327,-29.652244 -51.4281151,-29.6522195 -51.4284758,-29.6521402</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">549183644</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4265902,-29.6521018 -51.4265661,-29.6521326 -51.4265252,-29.6521973</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Júlio José Colling</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935343</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4272554,-29.6516717 -51.4280386,-29.6519666</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Viveiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">949918171</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.426609,-29.6514526 -51.4265943,-29.6518454 -51.4265902,-29.6521018</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935332</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4243535,-29.6507316 -51.4244016,-29.6508267 -51.4249137,-29.651291 -51.4251083,-29.6516134 -51.4254946,-29.6518442 -51.4260063,-29.652115 -51.4264682,-29.6522772 -51.4265103,-29.6522888 -51.4267163,-29.6523034 -51.4270596,-29.6523255 -51.4277422,-29.6522684</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rua dos Viveiros</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">164179870</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4274374,-29.6436115 -51.42756,-29.6436647 -51.4276981,-29.643737 -51.4278369,-29.6438798 -51.4280121,-29.644121 -51.4281365,-29.6443475 -51.428225,-29.6446494 -51.4281875,-29.6453779 -51.4279863,-29.6463803 -51.4277369,-29.6474211 -51.4276602,-29.647829 -51.4276685,-29.6481192 -51.4276122,-29.6484025 -51.4273453,-29.6487102 -51.4271937,-29.6489118 -51.4270234,-29.6492719 -51.4266859,-29.6504172 -51.4266251,-29.6511635 -51.426609,-29.6514526</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">1206260487</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4244912,-29.650761 -51.4246244,-29.6503407 -51.4247504,-29.6501534 -51.4252017,-29.6492843 -51.4253175,-29.6490016 -51.4253866,-29.648938 -51.4257912,-29.648136 -51.426527,-29.647523 -51.4265717,-29.6474382 -51.4266124,-29.6468322 -51.4267648,-29.6465301 -51.4271084,-29.6462263 -51.4274275,-29.6459171 -51.4275678,-29.6457175 -51.4276023,-29.6456097 -51.4275434,-29.6454931 -51.4275413,-29.6453765 -51.4276023,-29.645274 -51.4275983,-29.6451398 -51.4274926,-29.6448995 -51.4273116,-29.6446433 -51.4268685,-29.6441893 -51.4267567,-29.6441434 -51.4266307,-29.6441275 -51.4264518,-29.6441646 -51.4258786,-29.6443024 -51.4257729,-29.6443748</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">949909496</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4405694,-29.6442201 -51.4380956,-29.6422879</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Rodovia Júlio José Colling</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935342</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4280386,-29.6519666 -51.4284758,-29.6521402 -51.4317613,-29.653344 -51.4321142,-29.6535027 -51.4322638,-29.6535703 -51.4323986,-29.6536396 -51.4325273,-29.6537171 -51.4326788,-29.6538243 -51.4327221,-29.6538621 -51.432816,-29.6539754 -51.4329208,-29.6541279 -51.4330083,-29.6543207 -51.4330631,-29.654526 -51.4330973,-29.6547864 -51.4332922,-29.656971 -51.4335444,-29.6586927 -51.4335828,-29.6591129</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">38252100</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4277422,-29.6522684 -51.4279327,-29.652244</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Estrada Antônio V. da Silveira</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">37935303</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">121</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.4335444,-29.6586927 -51.4333446,-29.6584866 -51.4324965,-29.6578393 -51.432133,-29.6575269 -51.4319815,-29.6572484 -51.4319641,-29.656933 -51.4319859,-29.6560584 -51.4320515,-29.6557523 -51.432467,-29.6547902 -51.4326788,-29.6538243 -51.432931,-29.6533803 -51.4332354,-29.6529735 -51.4340615,-29.6517311 -51.4344424,-29.6513349 -51.434665,-29.6511251 -51.4350754,-29.6508803 -51.435703,-29.6506309 -51.4360732,-29.6505074 -51.4362851,-29.6503932 -51.4368255,-29.649913 -51.4372171,-29.6495853 -51.4373029,-29.6494212 -51.437363,-29.6492795 -51.4374009,-29.6490924 -51.4373365,-29.6488477 -51.4372641,-29.6487148 -51.4371595,-29.6485447 -51.4371112,-29.6483279 -51.4371608,-29.648195 -51.4375055,-29.6478407 -51.43805,-29.6473395 -51.438286,-29.647167 -51.4385703,-29.6470668 -51.4389029,-29.6470388 -51.4392248,-29.6470225 -51.4394447,-29.6469409 -51.439721,-29.6467824 -51.4401475,-29.646477 -51.4405444,-29.646118 -51.4408448,-29.6458686 -51.4409494,-29.6458266 -51.4413062,-29.6457077 -51.4420585,-29.6455236 -51.4423469,-29.6455585 -51.4426553,-29.6456891 -51.4436169,-29.6461728 -51.4442083,-29.6466577 -51.4442968,-29.6468127 -51.4443143,-29.6471437 -51.4443558,-29.647364 -51.4444953,-29.6474933 -51.4453483,-29.647822 -51.4455655,-29.6479852 -51.4457318,-29.6483722 -51.4458586,-29.6485604 -51.4461261,-29.6486006 -51.4469013,-29.6485143 -51.4471856,-29.6485213 -51.4478025,-29.6487614 -51.4482746,-29.6489829 -51.4492133,-29.6496286 -51.4495513,-29.6499409 -51.449731,-29.6502113 -51.4498624,-29.6504747 -51.4499858,-29.6506263 -51.4501508,-29.6507859 -51.4504002,-29.6509957 -51.4506255,-29.6511309 -51.4508387,-29.6512137</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRA_Pareci_Novo_roads_OSM_2024_L_affected">
+		<SimpleData name="osmid">286353639</SimpleData>
+		<SimpleData name="highway">unclassified</SimpleData>
+		<SimpleData name="index_right">127</SimpleData>
+		<SimpleData name="Id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-51.3813228,-29.5733322 -51.3813871,-29.5732926 -51.3815467,-29.5731841 -51.3817412,-29.5730838 -51.3818605,-29.5730197 -51.3819531,-29.5729625 -51.3820282,-29.5728762 -51.3820845,-29.572798 -51.3821328,-29.5726861 -51.3821717,-29.5725741 -51.3822025,-29.572454 -51.3822173,-29.5723058 -51.382224,-29.5721659 -51.382228,-29.5719757 -51.3822307,-29.5718439 -51.38222,-29.5717448 -51.3821972,-29.5716643 -51.3821482,-29.571557 -51.3820268,-29.5713494 -51.3819075,-29.5711732 -51.3817787,-29.5710123 -51.3817103,-29.570905 -51.3816701,-29.5708373 -51.381648,-29.5707382 -51.3816554,-29.5706635 -51.3816882,-29.5706169 -51.381768,-29.5705714 -51.3818679,-29.5705469 -51.3820584,-29.5705165 -51.3826243,-29.5704676 -51.3838072,-29.5703812 -51.3848774,-29.5703089 -51.3851778,-29.5702763 -51.3854674,-29.5702459 -51.3855828,-29.5702156 -51.3856814,-29.5701585 -51.3857437,-29.570099 -51.3858,-29.5699567 -51.3858134,-29.569721 -51.3859127,-29.5691145 -51.3859891,-29.5689115 -51.386079,-29.5688019 -51.3862185,-29.5686642 -51.3863767,-29.5685476 -51.3865296,-29.5683983 -51.3866557,-29.5681813 -51.386771,-29.5678524 -51.3868354,-29.5677731 -51.3870681,-29.5677206 -51.3877339,-29.5676564 -51.3881711,-29.5676214 -51.3885064,-29.5675911 -51.3887129,-29.5675678 -51.3888765,-29.5675328 -51.3890556,-29.5674593 -51.3891528,-29.5673788 -51.3892252,-29.5672108 -51.3893164,-29.5669636 -51.3895437,-29.5663395 -51.3897027,-29.565993 -51.3899736,-29.5654915 -51.3901023,-29.5651648 -51.3902498,-29.5645886 -51.3903357,-29.5640427 -51.3903886,-29.5636402 -51.3904456,-29.5631771 -51.3904703354528,-29.5630137625176</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
