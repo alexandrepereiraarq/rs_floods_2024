@@ -19,7 +19,17 @@ Reach out to our team:
 - c.mirbach(at)lmu.de
 
 ## Roadmap
-1. 
+1. Download Sentinel 2a data from https://browser.dataspace.copernicus.eu <br>
+In ArcGIS Pro (done!) <br>
+2. With de NDWI from Copernicus, explore bands and values to determine flood extent threshold (used 2 Natural Breaks, threshold = 0.662131) <br>
+3. Reclassify the raster, to binary values (0, if < 0.55, 1, if >= 0.55) <br>
+4. Run Majority Filter (8 neighbours, half rule) <br>
+5. Polygonize the raster
+6. Remove cloudcover false positives, remove value = 0, remove area < 30 hectares <br>
+In Python:
+7. Generate individual polygons for each affected municipality <br>
+8. Download OSM roads and buildings for each affected municipality <br>
+9. Identify OSM road tracts and buildings intersecting with flooded area (outer join) <br>
 
 ## Authors and acknowledgment
 Dr. Alexandre Pereira Santos
