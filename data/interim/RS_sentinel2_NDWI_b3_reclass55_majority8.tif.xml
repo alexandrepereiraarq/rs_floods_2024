@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240509</CreaDate><CreaTime>01034400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\MajorityFilter" Date="20240509" Time="010344">MajorityFilter RS_sentinel2_NDWI_reclass_55.tif D:\GIT\rs_floods_2024\data\processed\RS_sentinel2_NDWI_b3_reclass55_majority8.tif Eight Half</Process></lineage></DataProperties></Esri></metadata>
