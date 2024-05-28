@@ -92,3 +92,4 @@ Thumbs.db
 
 # Temporary JSON files from OSMnX
 .JSON
+/notebooks/cache
